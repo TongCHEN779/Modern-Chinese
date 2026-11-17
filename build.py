@@ -461,7 +461,7 @@ def _scan_spec(slug, title, author):
 
 
 POETRY = {
-    "wangguodiwang": _scan_spec("wangguodiwang", "历代亡国帝王传", "李祖德 主编"),
+    "wangguodiwang": _scan_spec("wangguodiwang", "中国历代亡国帝王传", "李祖德 主编"),
     "kaiguodiwang": _scan_spec("kaiguodiwang", "中国历代开国帝王传", "李祖德 主编"),
     "songtaizu": _scan_spec("songtaizu", "宋太祖赵匡胤传", "范鑫 编著"),
     "lihongzhang": _scan_spec("lihongzhang", "李鸿章传（全译本）", "梁启超 著"),

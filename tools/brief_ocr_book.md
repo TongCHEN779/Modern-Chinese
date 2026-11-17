@@ -1,7 +1,7 @@
 # 把 OCR 整理出的整本书按章节放进现代文库
 
 工作目录 /Users/tchen/Documents/Github/Modern-Chinese。输入：OCR 整理稿 `/Users/tchen/Documents/Python/OCR/cluster/<书名>/full.txt`（简体；`[p0123]` 是 PDF 页码标记，原始逐页识别在同目录 `json/`，带坐标，可对照）。同目录 `pages.tsv` 记着各页页眉。
-**范例**：已做好的《历代亡国帝王传》（`src/wangguodiwang/`、`sources/wangguodiwang/`）。先看 `sources/wangguodiwang/README.md`、`pages.json`、`chapters.json` 和 `src/wangguodiwang/p03/01.txt` 的格式。
+**范例**：已做好的《中国历代亡国帝王传》（`src/wangguodiwang/`、`sources/wangguodiwang/`）。先看 `sources/wangguodiwang/README.md`、`pages.json`、`chapters.json` 和 `src/wangguodiwang/p03/01.txt` 的格式。
 
 ## 要生成的文件（<slug> 见任务说明）
 
