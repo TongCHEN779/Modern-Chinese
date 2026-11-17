@@ -454,13 +454,32 @@ def _orig_spec(slug, title, author):
 
 
 
+def _scan_spec(slug, title, author):
+    """据书籍扫描件识别整理的书：同 _orig_spec，页首与篇名同名的一节不在子目录里重复，页脚注明识别整理。"""
+    return {**_orig_spec(slug, title, author), "skip_lead_toc": True,
+            "original_footer": "文字据书籍扫描件识别整理，尚未逐字校对。"}
+
+
 POETRY = {
-    "wangguodiwang": {**_orig_spec("wangguodiwang", "历代亡国帝王传", "李祖德 主编"), "skip_lead_toc": True,
-                      "original_footer": "文字据书籍扫描件识别整理，尚未逐字校对。"},
+    "wangguodiwang": _scan_spec("wangguodiwang", "历代亡国帝王传", "李祖德 主编"),
+    "kaiguodiwang": _scan_spec("kaiguodiwang", "中国历代开国帝王传", "李祖德 主编"),
+    "songtaizu": _scan_spec("songtaizu", "宋太祖赵匡胤传", "范鑫 编著"),
+    "lihongzhang": _scan_spec("lihongzhang", "李鸿章传（全译本）", "梁启超 著"),
+    "zhangjuzheng": _scan_spec("zhangjuzheng", "张居正大传", "朱东润 著"),
+    "hongloumengyan": _scan_spec("hongloumengyan", "红楼梦魇", "张爱玲 著"),
+    "lidaidiwangzhuanji": _scan_spec("lidaidiwangzhuanji", "历代帝王传记", "中华书局 编"),
+    "pusonglingchuanqi": _scan_spec("pusonglingchuanqi", "蒲松龄传奇", "熊文祥 著"),
 }
 # 首页卡片上的书籍简介：只写书本身。
 BOOK_INTRO = {
     "wangguodiwang": "李祖德主编，黄山书社1993年出版。选编夏桀至清宣统帝溥仪共二十一位亡国之君，各立一传，写其即位、失政与覆亡的经过，是《中国历代开国帝王传》的姊妹篇。",
+    "kaiguodiwang": "李祖德主编，黄山书社1987年出版。选编从大禹、夏启到皇太极共二十八位开国帝王，分章述其出身、创业、建制与得失，并附前言。",
+    "songtaizu": "范鑫编著，河北人民出版社2016年出版，“中国历代帝王传记”丛书之一。以通俗传记笔法讲述赵匡胤由行伍出身到陈桥兵变、杯酒释兵权、以仁治国、先南后北统一中原的一生。",
+    "lihongzhang": "梁启超著，中国城市出版社2010年出版的现代汉语全译本（“20世纪四大传记”之一）。评述李鸿章平定太平天国与捻军、办洋务、甲午战败、外交与晚年，兼论其人其时。",
+    "zhangjuzheng": "朱东润著，1943年写成，百花文艺出版社2000年版（“二十世纪四大传记丛书”）。以张居正出身、入仕、内阁斗争、推行新政到身后被清算为线索，写明代中后期政局。",
+    "hongloumengyan": "张爱玲著，哈尔滨出版社2003年版（“张爱玲典藏全集”）。考据《红楼梦》版本与八十回后情节的论集，含自序、《红楼梦》未完、插曲及“初详”至“五详”。",
+    "lidaidiwangzhuanji": "中华书局“中国历史小丛书”合订本，1990年出版。收秦始皇至康熙帝共十三位古代帝王的传记，每篇另有作者，通俗叙述其生平、业绩与历史作用。",
+    "pusonglingchuanqi": "熊文祥著，“中国名人轶事丛书”之五（吴洪激主编），武汉大学出版社、台湾汉欣文化事业有限公司1994年联合出版。以民间传说与志怪式笔法，写蒲松龄从乡居少年、屡试不第、南行做幕、坐馆教书到写成《聊斋志异》的一生。",
 }
 
 WIKI_INTRO = json.loads((ROOT / "sources/wiki_intros.json").read_text(encoding="utf8"))
@@ -1123,7 +1142,7 @@ def build_poetry(bslug, spec):
 
 
 # 书名首字的拼音首字母，供首页字母索引使用；新增书目若首字不在表内，build 会报错提醒补充。
-INITIAL = {"历": "L"}
+INITIAL = {"历": "L", "中": "Z", "宋": "S", "李": "L", "张": "Z", "红": "H", "蒲": "P"}
 
 
 def build_collection(slug):
