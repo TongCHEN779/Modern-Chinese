@@ -530,7 +530,14 @@ for _k, _v in POETRY.items():
 
 TIJIE_LINKS = {}
 
-COLLECTIONS = {}
+COLLECTIONS = {
+    "mingrenyishi": {
+        "title": "中国名人轶事丛书", "author": "吴洪激 主编", "children": ["pusonglingchuanqi"],
+        "labels": {"pusonglingchuanqi": "之五"},      # 各册在丛书中的序号，显示在目录卡片书名前；后续册数在这里补
+        "home_intro": "吴洪激主编的传记丛书，搜集中国名人未经正史记载的稗类野史与佚事珍闻，为历史人物立传；目前收第五册《蒲松龄传奇》。",
+        "intro": "《中国名人轶事丛书》由吴洪激主编。据丛书出版缘由，所谓“轶事”，指未经史书记载而散失之事；丛书倡导广泛搜集中国名人的稗类野史、佚事珍闻，正史、野史兼容，用浅显的口语写成通俗易读的名人传奇，塑造有别于正史的人物形象。目前收入第五册《蒲松龄传奇》（熊文祥著），其余各册陆续补入。",
+    },
+}
 COLLECTION_OF = {}
 for _k, _c in COLLECTIONS.items():
     for _child in _c["children"]:
@@ -1192,7 +1199,9 @@ def build_collection(slug):
             title, author, intro = COLLECTIONS[k]["title"], COLLECTIONS[k]["author"], COLLECTIONS[k]["card_intro"]
         else:
             title, author, intro = POETRY[k]["title"], POETRY[k]["author"], BOOK_INTRO[k]
-        cards.append(f'<li><a href="../{k}/index.html"><strong>{esc(title)}</strong><span>{esc(author)}</span><p>{esc(intro)}</p></a></li>')
+        vol = c.get("labels", {}).get(k)
+        tag = f'<span class="vol">{esc(vol)}</span>' if vol else ""
+        cards.append(f'<li><a href="../{k}/index.html">{tag}<strong>{esc(title)}</strong><span>{esc(author)}</span><p>{esc(intro)}</p></a></li>')
     body = f"""<header class="top">
 {crumbs([("现代文库", "../../index.html")] + PARENT_CRUMBS.get(slug, []) + [(c["title"], None)])}
 <h1>{esc(c["title"])}<small>{esc(c["author"])}</small></h1>
