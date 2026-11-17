@@ -469,6 +469,25 @@ POETRY = {
     "hongloumengyan": _scan_spec("hongloumengyan", "红楼梦魇", "张爱玲 著"),
     "lidaidiwangzhuanji": _scan_spec("lidaidiwangzhuanji", "历代帝王传记", "中华书局 编"),
     "pusonglingchuanqi": _scan_spec("pusonglingchuanqi", "蒲松龄传奇", "熊文祥 著"),
+    "erqiannianjian": _scan_spec("erqiannianjian", "二千年间", "胡绳 著"),
+    "fojiaoshijieguan": _scan_spec("fojiaoshijieguan", "佛教世界观", "明贤法师 著"),
+    "gebenhagen": _scan_spec("gebenhagen", "哥本哈根三部曲", "［丹麦］托芙·迪特莱弗森 著 刘奕奕 译"),
+    "huashu_lingmu": _scan_spec("huashu_lingmu", "献给爱与子宫的花束", "［日］铃木凉美 著　蕾克 译"),
+    "jiushixin": _scan_spec("jiushixin", "九诗心：暗夜里的文学启明", "黄晓丹 著"),
+    "lingtingsahala": _scan_spec("lingtingsahala", "聆听撒哈拉的歌声：三毛传", "田梦 著"),
+    "lwgrkfzzl": _scan_spec("lwgrkfzzl", "论我国人口发展战略", "梁中堂 著"),
+    "makewaerduo": _scan_spec("makewaerduo", "马可瓦尔多", "［意］伊塔洛·卡尔维诺 著　马小漠 译"),
+    "mayinchukao": _scan_spec("mayinchukao", "马寅初考", "梁中堂 著"),
+    "mingrenzhuan": _scan_spec("mingrenzhuan", "名人传", "［法］罗曼·罗兰 著　陈筱卿 译"),
+    "muriyaoguang": _scan_spec("muriyaoguang", "暮日耀光：张居正与明代中后期政局", "韦庆远 著"),
+    "renkousuzhi": _scan_spec("renkousuzhi", "人口素质论", "梁中堂 等著"),
+    "renkouxue": _scan_spec("renkouxue", "人口学", "梁中堂 著"),
+    "sanmaozhuan_lxg": _scan_spec("sanmaozhuan_lxg", "三毛传：带着丰满的自己去流浪", "林小光 著"),
+    "xiaobang": _scan_spec("xiaobang", "肖邦：生平与时代", "［英］艾伦·沃克 著　胡韵迪 译"),
+    "yujianmozhate": _scan_spec("yujianmozhate", "遇见莫扎特：从神童到大师的音乐人生", "［英］保罗·约翰逊 著 成铨 译"),
+    "zgrkwt": _scan_spec("zgrkwt", "中国人口问题的“热点”——人口理论、发展战略和生育政策", "梁中堂 著"),
+    "zgshenhua": _scan_spec("zgshenhua", "中国神话世界（上编）", "王孝廉 著"),
+    "zuochongyoutu": _scan_spec("zuochongyoutu", "左冲右突：现代政治激流中的中国知识分子", "许纪霖 著"),
 }
 # 首页卡片上的书籍简介：只写书本身。
 BOOK_INTRO = {
@@ -480,6 +499,25 @@ BOOK_INTRO = {
     "hongloumengyan": "张爱玲著，哈尔滨出版社2003年版（“张爱玲典藏全集”）。考据《红楼梦》版本与八十回后情节的论集，含自序、《红楼梦》未完、插曲及“初详”至“五详”。",
     "lidaidiwangzhuanji": "中华书局“中国历史小丛书”合订本，1990年出版。收秦始皇至康熙帝共十三位古代帝王的传记，每篇另有作者，通俗叙述其生平、业绩与历史作用。",
     "pusonglingchuanqi": "熊文祥著，“中国名人轶事丛书”之五（吴洪激主编），武汉大学出版社、台湾汉欣文化事业有限公司1994年联合出版。以民间传说与志怪式笔法，写蒲松龄从乡居少年、屡试不第、南行做幕、坐馆教书到写成《聊斋志异》的一生。",
+    "erqiannianjian": "中国封建专制主义时代两千余年历史的专题通论，分皇帝、官僚、军队、农民、民族关系等问题，写于1944至1945年。",
+    "fojiaoshijieguan": "以“一人一世界”为主线，从空性、缘起、二谛与三重境界出发，讨论佛教世界观及其与科学、传统文化的关系，并阐述人文佛教。",
+    "gebenhagen": "丹麦女作家托芙·迪特莱弗森的自传体三部曲，写她在哥本哈根工人家庭的成长与写作之路；本站所收为试读节选（《清晨》第 1—6 节）。",
+    "huashu_lingmu": "日本作家铃木凉美的随笔集，以夜场、写作与自身经历为线索，写女儿与母亲之间的爱、控制与和解，并记述母亲病重离世的最后时光。",
+    "jiushixin": "细读屈原、李陵、曹丕、陶渊明、杜甫、欧阳修、李清照、文天祥、吴梅村九位诗人的生命与诗作，讲述文学如何转化时代与生命中的痛苦。",
+    "lingtingsahala": "以三毛的出生、少女时代、留学西班牙、撒哈拉岁月、荷西之死、万水千山的漫游直至离世为线索，叙写其一生的传记。",
+    "lwgrkfzzl": "梁中堂1979至1984年间所撰人口学论文集，围绕本世纪末人口增长为零的方案提出批评，主张二胎间隔八至十年的人口发展战略，并论及老龄化与农村人口。",
+    "makewaerduo": "二十则短篇，按春夏秋冬四季循环排列，写城市小工马可瓦尔多一家在工业都市里捕捉自然与梦想的遭遇。",
+    "mayinchukao": "考证“马寅初事件”：上篇梳理马寅初与新人口论受批判的经过，下篇考辨“康生、陈伯达批判马寅初”之说，附《光明日报》大事记及批判文章目录。",
+    "mingrenzhuan": "罗曼·罗兰合集传记，收《贝多芬传》《米开朗琪罗传》《托尔斯泰传》，并附托尔斯泰遗作简析、亚洲反响及致甘地信等。",
+    "muriyaoguang": "明清史学者韦庆远的张居正传记与政局研究，自早年生平写到隆万改革及身后清算，另附大事记与引用文献。",
+    "renkousuzhi": "从人口学角度系统论述人口素质的专著，依次讲人口素质思想史、人口素质的构成与发展、制约与作用人口素质的社会因素，以及提高人口素质的社会途径。",
+    "renkouxue": "分五篇论述人口学说史、现代人口论争、理论人口学与经济人口学、人口社会学与人口经济学及世界人口现状，以马克思主义观点立论。",
+    "sanmaozhuan_lxg": "三毛的传记，依其诗文与书信，从重庆出生、少年休学写起，历撒哈拉岁月、荷西之死，直至晚年与离世。",
+    "xiaobang": "英国音乐学者艾伦·沃克所撰肖邦传记，依据波兰学界新近研究，自家世、华沙少年时代写到巴黎岁月、与乔治·桑的交往及晚年病逝，并附作品目录与参考书目。",
+    "yujianmozhate": "英国历史学家保罗·约翰逊为莫扎特所作的简明传记，依神童、乐器、婚姻、歌剧与晚年五章写其生平与创作，另附丹尼尔·约翰逊《莫扎特在伦敦》。",
+    "zgrkwt": "梁中堂人口学文集。收作者1980年代论人口理论、人口发展战略、生育政策及晚婚晚育加间隔试点的文章、报告与书信，附翼城县试行规定和报道。",
+    "zgshenhua": "考察东北、西南各族群的创世神话与始祖传说，涉及满、蒙、朱蒙、氐羌、藏、百越、台湾高山族、苗蛮诸系，附蚩尤、昆仑与摩梭普米三篇专论。",
+    "zuochongyoutu": "论文集：从自由主义、社会民主主义、公共领域，到知识分子的社会角色与人格困境，再到政治正当性的演变，考察1840至1949年现代中国的思想与政治。",
 }
 
 WIKI_INTRO = json.loads((ROOT / "sources/wiki_intros.json").read_text(encoding="utf8"))
@@ -1142,7 +1180,7 @@ def build_poetry(bslug, spec):
 
 
 # 书名首字的拼音首字母，供首页字母索引使用；新增书目若首字不在表内，build 会报错提醒补充。
-INITIAL = {"历": "L", "中": "Z", "宋": "S", "李": "L", "张": "Z", "红": "H", "蒲": "P"}
+INITIAL = {"历": "L", "中": "Z", "宋": "S", "李": "L", "张": "Z", "红": "H", "蒲": "P", "二": "E", "佛": "F", "哥": "G", "献": "X", "九": "J", "聆": "L", "论": "L", "马": "M", "名": "M", "暮": "M", "人": "R", "三": "S", "肖": "X", "遇": "Y", "左": "Z"}
 
 
 def build_collection(slug):

@@ -1,0 +1,7 @@
+(function(){var D=[["l","p01.html","中文版序"],["l","p02.html","致谢"],["l","p03.html","序言"],["l","p04.html","肖邦的家世"],["l","p05.html","华沙：童年与少年时期，1810～1824"],["l","p06.html","游历波兰：萨伐尼亚的假期，1824～1825"],["l","p07.html","十二月党人起义，1825～1826"],["l","p08.html","华沙音乐高中，1826～1828"],["l","p09.html","第一次海外之旅：柏林和维也纳，1828～1829"],["l","p10.html","康斯坦奇娅·格瓦德科夫斯卡：遥不可及的爱人，1829～1830"],["l","p11.html","华沙起义，1830～1831"],["l","p12.html","流亡巴黎，1831～1833"],["l","p13.html","肖邦与键盘：钢琴界的拉斐尔"],["l","p14.html","玛丽亚·沃津斯卡：“我的不幸”，1834～1837"],["l","p15.html","英国插曲，1837年7月"],["l","p16.html","诋毁与赞美，1833～1838"],["l","p17.html","乔治·桑登场，1836～1838"],["l","p18.html","马略卡岛上的冬天，1838～1839"],["l","p19.html","在诺昂，1839"],["l","p20.html","声名鹊起，1839～1843"],["l","p21.html","米柯瓦伊·肖邦之死，1844"],["l","p22.html","悲伤的结局，1845～1847"],["l","p23.html","阴霾渐深，1847～1848"],["l","p24.html","英国：日暮穷途，1848"],["l","p25.html","肖邦之死，1849"],["l","p26.html","尾声"],["l","p27.html","附录"],["l","p28.html","肖邦作品总目录"],["l","p29.html","参考书目"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();

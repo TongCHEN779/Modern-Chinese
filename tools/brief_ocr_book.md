@@ -1,6 +1,6 @@
 # 把 OCR 整理出的整本书按章节放进现代文库
 
-工作目录 /Users/tchen/Documents/Github/Modern-Chinese。输入：OCR 整理稿 `/Users/tchen/Documents/Python/OCR/cluster/<书名>/full.txt`（简体；`[p0123]` 是 PDF 页码标记，原始逐页识别在同目录 `json/`，带坐标，可对照）。同目录 `pages.tsv` 记着各页页眉。
+工作目录 /Users/tchen/Documents/Github/Modern-Chinese。输入：OCR 整理稿 `/Users/tchen/Documents/Python/OCR/cluster/<书名文件夹>/full.txt`（简体；`[p0123]` 是 PDF 页码标记，原始逐页识别在同目录 `json/`，带坐标，可对照）。同目录 `pages.tsv` 记着各页页眉。
 **范例**：已做好的《中国历代亡国帝王传》（`src/wangguodiwang/`、`sources/wangguodiwang/`）。先看 `sources/wangguodiwang/README.md`、`pages.json`、`chapters.json` 和 `src/wangguodiwang/p03/01.txt` 的格式。
 
 ## 要生成的文件（<slug> 见任务说明）
@@ -8,6 +8,7 @@
 - `src/<slug>/<页号>/01.txt`：一页一个文件，页号 `p01`、`p02`…（前言/序等也各占一页）。格式：`# 节名` 开始一节，其后每个自然段一行 `原：段落文字`，节与节之间空一行。每页第一节的节名取页标题；页内如有小标题（书里的“一、二、三”“节标题”），每个小标题另起一节（`# 小标题`），不要自拟节名。
 - `sources/<slug>/chapters.json`：`[{"slug":"p01","title":"页标题","head":"","url":"","revision":"","heads":[],"sections":[{"title":节名,"level":3,"path":[],"author":"","paragraphs":[段落…]}]}]`，与 src 完全对应。
 - `sources/<slug>/pages.json`：`[["p01","页标题",null],…]`；若书分编/部（如“上编、下编”），第三项填该编的名称（同组连续的页同名），否则 null。
+- `sources/<slug>/meta.json`：`{"title":"书名","author":"作者（如“梁中堂 著”“李祖德 主编”“［美］艾伦·沃克 著”，译本可加“某某 译”）","intro":"一句话简介（≤80 字，写书本身，不评价）","initial":"书名首字拼音首字母大写（如 L）"}`。
 - `sources/<slug>/README.md`：底本（书名、作者、出版社、年份）、整理说明（去掉了哪些内容）、OCR 已知问题（系统性错字、缺页、存疑处）。
 
 ## 整理规则
@@ -16,6 +17,7 @@
 2. **去掉非正文**：封面、版权页（CIP 数据、定价、ISBN、印刷信息）、出版社广告、丛书介绍、“Digitized by the Internet Archive”之类水印、目录页本身、页眉页脚、孤立的页码、空白页、图版说明页。**保留**前言/序/后记/跋/附录（各占一页）。
 3. **段落**：同一自然段因换行/换页被断开的要接上；明显的 OCR 噪点（孤立的单个字母/符号、乱码行、与上下文无关的碎片）删掉。**不要改写、不要补写、不要润色**；只在把握极大的单字 OCR 错误上更正（如“己/已/巳”、明显的形近字），不确定一律保留原样。
 4. **引文、诗词、对话**：保持为自然段，不加格式；诗词每行是否分行以书为准，如分行就每行一个 `原：` 行。
+4a. **脚注与表格**：页脚脚注（每页底部的注）去掉；章末/书末集中的“注释/参考文献”保留为该页最后一节（节名“注释”或原名）。表格每行一段，各栏用全角空格隔开；公式、数字、外文原样保留。
 5. 不要在 `build.py` 里登记，不要运行 build，不要动其他书的文件。验证格式：在项目根运行
    `python3 -c "import build; from pathlib import Path; s=build.parse_poems(sorted(Path('src/<slug>/p01').glob('*.txt'))); print(len(s))"` 对每页检查能解析即可。临时脚本放在你自己新建的、名字独一无二的 scratchpad 子目录。
 6. 完成后回复（≤8 行）：slug、页数（章数）、总字数、书名全称/作者/出版社/年份、一句话简介（≤80 字，写书本身）、已知问题。

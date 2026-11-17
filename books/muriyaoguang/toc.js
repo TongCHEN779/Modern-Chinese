@@ -1,0 +1,7 @@
+(function(){var D=[["g","上册"],["l","p01.html","绪论 有关张居正研究的若干问题"],["l","p02.html","第一章 早岁峥嵘"],["l","p03.html","第二章 生于忧患"],["l","p04.html","第三章 科举道路和翰苑生涯"],["l","p05.html","第四章 政治上的失落和彷徨"],["l","p06.html","第五章 山居未敢忘忧国"],["l","p07.html","第六章 重新投入政治的漩涡"],["l","p08.html","第七章 嘉隆交替与张居正入阁"],["l","p09.html","第八章 隆庆内阁的矛盾斗争与张居正地位的上升"],["l","p10.html","第九章 隆庆内阁的成就和张居正的作用"],["l","p11.html","第十章 隆万交替与张居正独揽朝纲"],["g","下册"],["l","p12.html","第十一章 幼年万历与张居正特殊形式的君臣关系"],["l","p13.html","第十二章 “江陵柄政”首重整饬吏治"],["l","p14.html","第十三章 为天下理财"],["l","p15.html","第十四章 申严军政，发挥卓越的军事指挥才能"],["l","p16.html","第十五章 厉行法治，刑期无刑"],["l","p17.html","第十六章 对驿递制度的整顿和改革"],["l","p18.html","第十七章 整治漕运和高拱、张居正的分歧"],["l","p19.html","第十八章 敦本务实的学术思想和执行文化专制政策"],["l","p20.html","第十九章 以夺情事件为中心的反张高潮"],["l","p21.html","第二十章 屹立在权势的巅峰上"],["l","p22.html","第二十一章 张居正去世与政局大变"],["l","p23.html","第二十二章 功罪凭公论，青史有是非"],["l","p24.html","张居正和明代中后期政局大事记"],["l","p25.html","引用文献和参考资料"],["l","p26.html","后记"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();
