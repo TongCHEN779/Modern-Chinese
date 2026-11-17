@@ -1161,11 +1161,12 @@ def build_home():
 <main>
 <div class="book-search" role="search" aria-label="搜索书籍">
 <label for="book-search">搜索书名、作者或简介</label>
-<div class="search-row"><input type="search" id="book-search" placeholder="例如：聊斋、王夫之、诗经" autocomplete="off" aria-controls="book-list"><button type="button" id="search-clear">清空</button></div>
+<div class="search-row"><input type="search" id="book-search" placeholder="例如：亡国、帝王、李祖德" autocomplete="off" aria-controls="book-list"><button type="button" id="search-clear">清空</button></div>
 <div class="letters" id="letter-bar" role="group" aria-label="按书名首字拼音首字母浏览">{letters}</div>
 <p class="search-status" id="search-status" role="status" aria-live="polite"></p>
 </div>
 <ul class="books" id="book-list">{cards}</ul>
+<nav class="pager" id="pager" aria-label="分页"></nav>
 <p class="search-empty" id="search-empty" hidden>没有找到匹配的书籍，请换个关键词。</p>
 <script src="assets/search.js" defer></script>
 </main>"""
