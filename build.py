@@ -1,0 +1,1183 @@
+#!/usr/bin/env python3
+"""把 src/ 下的标注文本生成静态网页。用法：python3 build.py"""
+import collections
+import hashlib
+import html
+import json
+import re
+from pathlib import Path
+from urllib.parse import urlparse
+
+ROOT = Path(__file__).parent
+SRC = ROOT / "src"
+BOOKS_OUT = ROOT / "books"  # 生成的各书页面统一放在 books/<slug>/ 下
+
+NUM = "零一二三四五六七八九十"
+
+
+def cn(n):
+    if n >= 100:
+        h, r = divmod(n, 100)
+        if r == 0:
+            return NUM[h] + "百"
+        if r < 10:
+            return NUM[h] + "百零" + NUM[r]
+        t, u = divmod(r, 10)
+        return NUM[h] + "百" + NUM[t] + "十" + (NUM[u] if u else "")
+    if n <= 10:
+        return NUM[n]
+    if n < 20:
+        return "十" + NUM[n - 10]
+    t, u = divmod(n, 10)
+    return NUM[t] + "十" + (NUM[u] if u else "")
+
+
+BOOKS = []
+
+CSS_LINK = '<link rel="stylesheet" href="{r}assets/style.css">'
+
+
+def esc(s):
+    return html.escape(s, quote=True)
+
+
+GLOSS = re.compile(r"(（[^（）]*）|\([^()]*\))")
+
+SENT = re.compile(r"[^。！？；\u2063]*[。！？；\u2063]+(?:[”’」』）]*[。！？；]+)*[”’」』）]*|[^。！？；\u2063]+$")      # \u2063（不可见分隔符，不显示）可加在逗号后，让该处也断成一个悬浮句
+
+
+def split_sents(s):
+    parts = [x for x in SENT.findall(s) if x.strip()]
+    # A trailing editorial bracket closes the preceding sentence.
+    if len(parts) > 1 and parts[-1].strip() == "〉":
+        closing = parts.pop()
+        parts[-1] += closing
+    return parts
+
+
+NOTE_HEAD = re.compile(r'[^。！？；：:\n]{1,64}：')
+NOTE_QUOTED_HEAD = re.compile(r'“[^”\n]{1,32}”(?:即|指|为|是|同|通|见|出自)')
+NOTE_CONTINUATION = re.compile(
+    r'(?:的意思是|的看法是|的观点|的立意|'
+    r'来对比|借此议论|用几个例子说明|指出.*|最意外的是.*|典出.*|见《.*)$'
+)
+
+
+def split_notes(text):
+    """拆开合写的独立词条；引文、括注和同一词条的后续解释保持完整。"""
+    stack = []
+    opening = {'“': '”', '‘': '’', '「': '」', '『': '』',
+               '（': '）', '(': ')', '《': '》', '〈': '〉'}
+    starts = [0]
+    for i, char in enumerate(text):
+        if not stack and i:
+            # 允许句末引号后的新词条，但不在尚未结束的引用中拆分。
+            before = text[:i].rstrip('”’」』）)》〉 ')
+            if before and before[-1] in '。！？；':
+                head = NOTE_HEAD.match(text, i)
+                quoted = NOTE_QUOTED_HEAD.match(text, i)
+                citation = (head and head[0][:-1].endswith(('曰', '云', '载', '爻辞', '象辞'))
+                            and text[head.end():].startswith(('“', '‘', '「', '『')))
+                if ((head and all(head[0].count(a) == head[0].count(b)
+                                  for a, b in opening.items())
+                     and not citation
+                     and not NOTE_CONTINUATION.search(head[0][:-1])) or quoted):
+                    starts.append(i)
+        if char in opening:
+            stack.append(opening[char])
+        elif stack and char == stack[-1]:
+            stack.pop()
+    starts.append(len(text))
+    return [text[a:b].strip() for a, b in zip(starts, starts[1:]) if text[a:b].strip()]
+
+
+# ---- 注释位置：正文中以上标标出，注释按上标序号排列 ----
+ANCHOR_STATS = collections.Counter()
+NOTE_MARK = "\x02"                      # 渲染前临时插在正文里的注释位置记号，输出时换成 <sup class="n">
+_PAREN = re.compile(r"（[^（）]*）|\([^()]*\)")
+_QUOTES = str.maketrans("", "", "“”‘’「」『』")
+
+
+def _note_terms(note):
+    """从注释“词语：解释”里取出可在正文定位的词语候选（由长到短）。取不到词语返回空。"""
+    m = re.match(r"([^：:\n]{1,40})[：:]", note)
+    if not m:
+        m = re.match(r"([^，。；：\n]{1,8})[，,]", note)      # “绠，汲水的井绳；㳅，流传。”一类
+    head = m.group(1).strip() if m else ""
+    cands = []
+    # “某某”即……、校：“某某”他本作……：词语在引号里
+    quoted = [q for q in re.findall(r"[“「‘『]([^”」’』]{1,10})[”」’』]", note[:80]) if q][:3]
+    if not head or head in ("校", "按", "校勘", "案", "注") or note[:1] in "“「‘『":
+        cands.extend(quoted)
+    if not head:
+        return cands
+    for c in (head, _PAREN.sub("", head)):
+        for d in (c, c.translate(_QUOTES)):
+            d = d.strip()
+            if d and d not in cands:
+                cands.append(d)
+    for piece in re.split(r"[、，,/／或]", _PAREN.sub("", head)):
+        for d in (piece.strip(), piece.translate(_QUOTES).strip()):
+            if d and d not in cands:
+                cands.append(d)
+    for q in quoted:
+        if q not in cands:
+            cands.append(q)
+    return cands
+
+
+_ZGC_NOTE = re.compile(r"底本原注\d+（主文第(\d+)字后）：〈(.*)〉")
+
+
+def _locate_zgc(texts, note):
+    """《战国策》“底本原注NNN（主文第N字后）”自带位置：N 与本站正文有几字的偏差，故在 N 附近找注中引用的字词来校准。"""
+    m = _ZGC_NOTE.match(note)
+    if not m:
+        return None
+    n = int(m.group(1))
+    text = texts[0]
+    best = None
+    for tok in re.findall(r"[‘“]([^’”]{1,8})[’”]", m.group(2)):
+        for k in range(max(0, n - 24), min(len(text), n + 8)):
+            if text.startswith(tok, k):
+                end = k + len(tok)
+                if best is None or abs(end - n) < abs(best - n):
+                    best = end
+        if best is not None:
+            break
+    return 0, (best if best is not None else min(n, len(text)))
+
+
+def _locate_note(texts, note, p0, pos0):
+    """在 texts（正文各段）里找注释词语：先从上一条注释之后找，找不到再从头找。返回 (段号, 词语末尾位置) 或 None。"""
+    zgc = _locate_zgc(texts, note)
+    if zgc:
+        return zgc
+    for cand in _note_terms(note):
+        for start_p, start_pos in ((p0, pos0), (0, 0)):
+            for p in range(start_p, len(texts)):
+                k = texts[p].find(cand, start_pos if p == start_p else 0)
+                if k >= 0:
+                    return p, k + len(cand)
+    return None
+
+
+def anchor_notes(texts, notes):
+    """返回 (锚点列表, 按正文位置排序后的注释)。锚点 = (段号, 词语末尾位置)；找不到词语的注释锚点为 None，排在最后。"""
+    if not notes or not texts:
+        return [], list(notes)
+    found, cur = [], (0, 0)
+    ANCHOR_STATS["notes"] += len(notes)
+    for i, note in enumerate(notes):
+        hit = _locate_note(texts, note, *cur)
+        if hit:
+            cur = hit
+        found.append((hit, i))
+        ANCHOR_STATS["unplaced"] += hit is None
+    order = sorted(found, key=lambda a: (a[0] is None, a[0] or (0, 0), a[1]))
+    return [a[0] for a in order], [notes[a[1]] for a in order]
+
+
+def mark_text(text, positions):
+    """在 text 的各位置（可重复）插入注释记号。"""
+    for q in sorted(positions, reverse=True):
+        text = text[:q] + NOTE_MARK + text[q:]
+    return text
+
+
+def marked_pairs(o, t, positions):
+    """split_pairs 的结果里，把注释记号插进各句相应位置；对不齐时返回 None。"""
+    pairs = split_pairs(o, t)
+    if not positions:
+        return pairs
+    if "".join(x for x, _ in pairs) != o:
+        return None
+    ends, pos = [], 0
+    for x, _ in pairs:
+        pos += len(x)
+        ends.append(pos)
+    ins = [[] for _ in pairs]
+    for q in positions:
+        k = next(k for k, e in enumerate(ends) if q <= e)
+        ins[k].append(max(q - (ends[k] - len(pairs[k][0])), 0))
+    return [(mark_text(x, ins[k]), y) for k, (x, y) in enumerate(pairs)]
+
+
+_MARKS = re.compile(NOTE_MARK + "+")
+
+
+def number_marks(html_str, start=1):
+    """把输出里的记号换成上标序号（同一处多条注释合并成“1,2”）；返回 (html, 下一个序号)。"""
+    n = [start]
+
+    def sub(m):
+        k = len(m.group(0))
+        nums = list(range(n[0], n[0] + k))
+        n[0] += k
+        label = f"{nums[0]}" if k == 1 else f"{nums[0]}–{nums[-1]}" if k > 2 else f"{nums[0]},{nums[1]}"
+        return f'<sup class="n" data-n="{label}"></sup>'
+    return _MARKS.sub(sub, html_str), n[0]
+
+
+def _frag_groups(raw):
+    """把只剩标点、或以逗号等起首的碎句并回上一句（如夹注括号后单独的“。”）。"""
+    groups = []
+    for k, x in enumerate(raw):
+        if groups and (not re.search(r"[\u4e00-\u9fff]", x) or x.lstrip()[:1] in "，；：、）〉"):
+            groups[-1].append(k)
+        else:
+            groups.append([k])
+    return groups
+
+
+def split_pairs(o, t):
+    """按句号/叹号/问号/分号把一段原文拆成句，并与译文逐句对应。
+    译文里可用「¦」显式分句；句数对不上时整段不拆；碎句并回上一句。"""
+    raw = split_sents(o)
+    if len(raw) > 1:
+        st = t.split("¦") if "¦" in t else split_sents(t)
+        if "¦" in t:         # 白话按 sent_units 的句数给（碎句已并入上一句）：原文按同一规则并句
+            units = sent_units(o)
+            if len(st) == len(units) != len(raw):
+                return list(zip(units, st))
+        groups = _frag_groups(raw)
+        if len(st) == len(raw):
+            if "¦" in t:
+                # 显式配译保留有正文的句子，即使底本在句首多了逗号。
+                # 只有纯标点碎片仍需并回上一句。
+                groups = []
+                for k, x in enumerate(raw):
+                    # 扩展区汉字也有正文意义，不能把单字句当作纯标点。
+                    if groups and not any(char.isalnum() for char in x) and _ORPHAN.fullmatch(x):
+                        groups[-1].append(k)
+                    else:
+                        groups.append([k])
+            return [("".join(raw[k] for k in g), "".join(st[k] for k in g)) for g in groups]
+        if len(st) == len(groups):
+            return [("".join(raw[k] for k in g), x) for g, x in zip(groups, st)]
+    return [(o, t.replace("¦", ""))]
+
+
+def has_sentence_pairs(chunk):
+    """Recognize explicit, nonempty glosses aligned with each original sentence."""
+    original = split_sents(chunk["o"])
+    modern = chunk["t"].split("¦")
+    return (len(original) == len(modern) and all(t.strip() for t in modern)
+            and [o for o, _ in split_pairs(chunk["o"], chunk["t"])] == original)
+
+
+def orig_html(text):
+    """原文中编者加的括注（年份、人名、注音）用淡色显示。"""
+    parts = GLOSS.split(esc(text))
+    return "".join(
+        f'<span class="gl">{p}</span>' if i % 2 else p for i, p in enumerate(parts)
+    )
+
+
+def parse_juan(path):
+    lines = path.read_text(encoding="utf8").splitlines()
+    heading = lines[0].strip()
+    entries = []
+    cur = None
+    for ln in lines[1:]:
+        ln = ln.rstrip()
+        if ln.startswith("# "):
+            cur = {"title": ln[2:].strip(), "paras": [[]], "notes": []}
+            entries.append(cur)
+        elif not ln.strip():
+            if cur and cur["paras"][-1]:
+                cur["paras"].append([])
+        elif ln.startswith("注："):
+            cur["notes"].extend(split_notes(ln[2:].strip()))
+        elif "||" in ln:
+            o, t = (x.strip() for x in ln.split("||", 1))
+            cur["paras"][-1].append((o, t))
+        else:
+            raise ValueError(f"{path}: 无法解析：{ln}")
+    for e in entries:
+        e["paras"] = [p for p in e["paras"] if p]
+    return heading, entries
+
+
+def is_wiki_source(url):
+    host = (urlparse(url).hostname or "").lower().rstrip(".")
+    return any(host == domain or host.endswith("." + domain)
+               for domain in ("wikisource.org", "wikipedia.org"))
+
+
+def page(title, body, r, extra_js=False):
+    js = f'<script src="{r}assets/reader.js" defer></script>' if extra_js else ""
+    return f"""<!doctype html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{esc(title)}</title>
+{CSS_LINK.format(r=r)}
+<script src="{r}assets/theme.js"></script>
+{js}
+</head>
+<body>
+{body}
+</body>
+</html>
+"""
+
+
+def crumbs(items):
+    return '<nav class="crumbs">' + " › ".join(
+        f'<a href="{h}">{esc(t)}</a>' if h else f"<span>{esc(t)}</span>" for t, h in items
+    ) + "</nav>"
+
+
+def render_entry(i, e):
+    out = [f'<section class="entry" id="e{i}">', f'<h3><span class="no">{cn(i)}</span>{esc(e["title"])}</h3>']
+    flat = [o for para in e["paras"] for o, _t in para]
+    anchors, notes = anchor_notes(flat, e["notes"])
+    where = [[] for _ in flat]
+    tail = 0
+    for a in anchors:
+        if a is None:
+            tail += 1
+        else:
+            where[a[0]].append(a[1])
+    num, fi = 1, 0
+    for pi, para in enumerate(e["paras"]):
+        spans = ""
+        for o, t in para:
+            pairs = marked_pairs(o, t, where[fi])
+            if pairs is None:        # 极少数对不齐：该处注释记到全篇末尾
+                tail += len(where[fi])
+                pairs = split_pairs(o, t)
+            fi += 1
+            spans += "".join(f'<span class="s" tabindex="0" data-t="{esc(t2)}">{orig_html(o2)}</span>' for o2, t2 in pairs)
+        if pi == len(e["paras"]) - 1:
+            spans += NOTE_MARK * tail
+        spans, num = number_marks(spans, num)
+        out.append(f"<p>{spans}</p>")
+    if notes:
+        items = "".join(f"<li>{esc(n)}</li>" for n in notes)
+        out.append(
+            f'<button class="note-btn" type="button" aria-expanded="false" aria-controls="n{i}">'
+            f'<span class="caret">▸</span> 注释（{len(notes)}）</button>'
+            f'<ol class="notes" id="n{i}" hidden>{items}</ol>'
+        )
+    out.append("</section>")
+    return "\n".join(out)
+
+
+def build_juan(book, part, vol, src_path, avail):
+    pslug, ptitle, pord, nvol = part[:4]
+    is_xu = len(part) > 4
+    heading, entries = parse_juan(src_path)
+    r = "../../../"
+    toc = "".join(f'<li><a href="#e{i}">{esc(e["title"])}</a></li>' for i, e in enumerate(entries, 1))
+    prev_html = (f'<a href="juan{vol-1:02d}.html">← 卷{cn(vol-1)}</a>' if (vol - 1) in avail
+                 else '<span class="off">&nbsp;</span>')
+    next_html = (f'<a href="juan{vol+1:02d}.html">卷{cn(vol+1)} →</a>' if (vol + 1) in avail
+                 else '<span class="off">下一卷：待整理</span>')
+    if is_xu:
+        prev_html = next_html = '<span class="off">&nbsp;</span>'
+    body = f"""<header class="top">
+{crumbs([("现代文库", r + "index.html"), (book["title"], "../index.html"), (ptitle, None)])}
+<h1>{esc(ptitle)}<small>{esc(pord)}</small></h1>
+<h2>{esc(heading)}</h2>
+</header>
+<main class="reading-layout">
+<details class="toc" open><summary>本卷目录</summary><ol>{toc}</ol></details>
+<div class="reading-content">
+{chr(10).join(render_entry(i, e) for i, e in enumerate(entries, 1))}
+<nav class="pager">{prev_html}<a href="../index.html">目录</a>{next_html}</nav>
+</div>
+</main>
+<div id="tip" role="tooltip" hidden></div>
+<footer>白话译文为辅助阅读的意译，如有出入，以原文为准。</footer>"""
+    out = BOOKS_OUT / book["slug"] / pslug / f"juan{vol:02d}.html"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(page(f"{ptitle}·{heading.split('（')[0]}", body, r, True), encoding="utf8")
+    return len(entries)
+
+
+def build_book(book):
+    done = {}
+    for part in book["parts"]:
+        d = SRC / book["slug"] / part[0]
+        files = sorted(d.glob("juan*.txt")) if d.exists() else []
+        avail = {int(f.stem[4:]) for f in files}
+        for f in files:
+            vol = int(f.stem[4:])
+            done[(part[0], vol)] = build_juan(book, part, vol, f, avail)
+    sections = []
+    for part in book["parts"]:
+        pslug, ptitle, pord, nvol = part[:4]
+        cells = []
+        for v in range(1, nvol + 1):
+            label = part[4] if len(part) > 4 else f"卷{cn(v)}"
+            if (pslug, v) in done:
+                count = "" if len(part) > 4 else f"<small>{done[(pslug, v)]}则</small>"
+                cells.append(f'<li class="ok"><a href="{pslug}/juan{v:02d}.html">{label}{count}</a></li>')
+            else:
+                cells.append(f'<li class="todo"><span>{label}<small>待整理</small></span></li>')
+        sections.append(f'<section class="part"><h2>{esc(ptitle)}<small>{esc(pord)}{'' if len(part) > 4 else f' · 共{nvol}卷'}</small></h2><ul class="vols">{"".join(cells)}</ul></section>')
+    body = f"""<header class="top">
+{crumbs([("现代文库", "../../index.html"), (book["title"], None)])}
+<h1>{esc(book["title"])}<small>{esc(book["author"])}</small></h1>
+{intro_html(book["slug"])}
+</header>
+<main>{"".join(sections)}</main>
+<footer>已整理 {sum(n for (p, _), n in done.items() if p != "xu")} 则。</footer>"""
+    out = BOOKS_OUT / book["slug"] / "index.html"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(page(book["title"], body, "../../"), encoding="utf8")
+
+
+# ---------- 楚辞：按篇目成页，原文分节、逐节译文与注释 ----------
+def _orig_spec(slug, title, author):
+    """tools/prepare_orig.py 生成的只录原文的大书：页表与分组读自 sources/<slug>/pages.json，节名作页内小目录。"""
+    pages_ = json.loads((ROOT / f"sources/{slug}/pages.json").read_text(encoding="utf8"))
+    catalog = json.loads((ROOT / f"sources/{slug}/chapters.json").read_text(encoding="utf8"))
+    pages, last = [], None
+    for sl, tt, grp in pages_:
+        if grp and grp != last:
+            pages.append((None, grp))
+        last = grp
+        pages.append((sl, tt))
+    return {
+        "title": title, "author": author, "prose": True, "home_intro_own": True,
+        "no_tip": True, "original_only": True, "ed_notes": True, "side_toc": True,
+        "side_toc_always": True, "no_count": True, "wide_index": True,
+        "omit_source_credit": True, "reading_hint": "", "original_footer": "未据影印本逐字校勘。",
+        "sub_labels": {ch["slug"]: [sec["title"] for sec in ch["sections"]] for ch in catalog},
+        "pages": pages, "index_footer": "", "single_page": sum(1 for p in pages if p[0]) == 1,
+    }
+
+
+
+
+POETRY = {
+    "wangguodiwang": {**_orig_spec("wangguodiwang", "历代亡国帝王传", "李祖德 主编"), "skip_lead_toc": True,
+                      "original_footer": "文字据书籍扫描件识别整理，尚未逐字校对。"},
+}
+# 首页卡片上的书籍简介：只写书本身。
+BOOK_INTRO = {
+    "wangguodiwang": "李祖德主编，黄山书社1993年出版。选编夏桀至清宣统帝溥仪共二十一位亡国之君，各立一传，写其即位、失政与覆亡的经过，是《中国历代开国帝王传》的姊妹篇。",
+}
+
+WIKI_INTRO = json.loads((ROOT / "sources/wiki_intros.json").read_text(encoding="utf8"))
+assert set(BOOK_INTRO) == set(POETRY) | {b["slug"] for b in BOOKS}, set(BOOK_INTRO) ^ (set(POETRY) | {b["slug"] for b in BOOKS})
+for _b in BOOKS:
+    _b["intro"] = BOOK_INTRO[_b["slug"]]
+for _k, _v in POETRY.items():
+    _v["intro"] = WIKI_INTRO[_k]["text"] if WIKI_INTRO.get(_k, {}).get("verbatim") and not _v.get("home_intro_own") else BOOK_INTRO[_k]
+
+
+TIJIE_LINKS = {}
+
+COLLECTIONS = {}
+COLLECTION_OF = {}
+for _k, _c in COLLECTIONS.items():
+    for _child in _c["children"]:
+        COLLECTION_OF[_child] = _k
+PARENT_CRUMBS = {}      # 书 slug → 它上面各层目录的面包屑（从外到内）；href 相对于 books/<书>/
+for _child, _k in COLLECTION_OF.items():
+    _chain, _cur = [], _k
+    while _cur:
+        _chain.append((COLLECTIONS[_cur]["title"], f"../{_cur}/index.html"))
+        _cur = COLLECTIONS[_cur].get("parent")
+    PARENT_CRUMBS[_child] = _chain[::-1]
+
+
+def top_crumbs(slug, r):
+    return [("现代文库", r + "index.html")] + PARENT_CRUMBS.get(slug, [])
+
+
+INTRO_ED_CASE = {"mutianzi"}
+
+
+def intro_html(slug):
+    """目录页简介：维基文库标题下有介绍则用之，否则同首页简介；按换行分段。"""
+    text = WIKI_INTRO.get(slug, {}).get("text") or BOOK_INTRO[slug]
+    fmt = ed_plain if POETRY.get(slug, {}).get("original_only") else (lambda h: ed_html(h, [False]))  # 仅“只整理原文”的书去尖括号
+    if slug in INTRO_ED_CASE:      # 简介里编者的“案：……”按语显示为小字灰体
+        base = fmt
+        fmt = lambda h: re.sub(r"( 案：.*)$", r'<span class="ed">\1</span>', base(h))
+    out = "".join(f'<p class="intro">{fmt(esc(x))}</p>' for x in text.split("\n") if x.strip())
+    # 全书题解（src/<slug>/tijie）不另立页面，接在简介之后，每段以“主题。”领起
+    path = ROOT / "src" / slug / "tijie" / "01.txt"
+    if path.exists():
+        for para in parse_poems([path])[0]["intro"][:2]:       # 只留前两段，去掉“主题。”标题，并入简介
+            head, sep, rest = para.partition("。")
+            out += f'<p class="intro tijie">{esc(rest if sep else para)}</p>'
+    for label, url, *shown in TIJIE_LINKS.get(slug, []):
+        out += f'<p class="intro tijie"><strong>{esc(label)}：</strong><a href="{esc(url)}">{esc(shown[0] if shown else url)}</a></p>'
+    return out
+
+
+CIRC = re.compile(r"([\u2460-\u2473\u3251-\u325f]+)")
+CIRC1 = re.compile(r"[\u2460-\u2473\u3251-\u325f]")
+CIRC_LEAD = re.compile(r"^([\u2460-\u2473\u3251-\u325f])\s*")
+
+
+def circ_num(c):
+    """①→1 … ⑳→20，㉑→21 …"""
+    return ord(c) - 0x2460 + 1 if c <= "\u2473" else ord(c) - 0x3251 + 21
+
+
+def ed_html(h, state):
+    """〈…〉是编者夹注：包进 .ed（小字灰色）；夹注跨句时在每句内各自闭合、续开。state 是长度 1 的列表，记录是否仍在夹注内。"""
+    if "〈" not in h and "〉" not in h and not state[0]:
+        return h
+    out = ['<span class="ed">'] if state[0] else []
+    prev = ""
+    for c in h:       # state[0] 是夹注嵌套深度（〈…〈…〉…〉 里层不另开 span）
+        pc, prev = prev, c
+        if c == "〈" and pc == "■":     # “■〈…〉”是原站对缺字的造字描述，不是夹注，照字面显示
+            out.append(c)
+        elif c == "〈":
+            if not state[0]:
+                out.append('<span class="ed">')
+            out.append('<i class="br">〈</i>'); state[0] = int(state[0]) + 1       # 尖括号留在文本里（保持原文），但不显示
+        elif c == "〉" and state[0]:
+            out.append('<i class="br">〉</i>'); state[0] = int(state[0]) - 1
+            if not state[0]:
+                out.append("</span>")
+        else:
+            out.append(c)
+    if state[0]:
+        out.append("</span>")
+    return "".join(out)
+
+
+def ed_plain(h):
+    """标题、目录、简介里的〈…〉小注：去掉尖括号，只留小字灰体。"""
+    return ed_html(h, [False]).replace("〈", "").replace("〉", "")
+
+
+def title_h(t):
+    """标题（目录条目、页标题）：转义后，〈…〉小注去掉尖括号、显示为小字灰体。"""
+    return ed_plain(esc(t))
+
+
+def poem_orig(text):
+    out = []
+    for i, part in enumerate(CIRC.split(esc(text))):
+        out.append(f"<sup>{part}</sup>" if i % 2 else part.replace("/", "<br>"))
+    return "".join(out)
+
+
+def parse_poems(paths):
+    sections = []
+    cur = None
+    for path in paths:
+        for ln in path.read_text(encoding="utf8").splitlines():
+            ln = ln.rstrip()
+            if not ln.strip():
+                continue
+            if ln.startswith("# "):
+                cur = {"title": ln[2:].strip(), "intro": [], "chunks": []}
+                sections.append(cur)
+            elif ln.startswith("题解："):
+                cur["intro"].append(ln[3:].strip())
+            elif ln.startswith("原："):
+                if "||" in ln:
+                    o, t = (x.strip() for x in ln[2:].split("||", 1))
+                else:
+                    o, t = ln[2:].strip(), None
+                cur["chunks"].append({"o": o, "t": t, "notes": []})
+            elif ln.startswith("诗："):
+                if "||" in ln:      # 带白话的诗行：居中显示，逐句悬浮白话
+                    o, t = (x.strip() for x in ln[2:].split("||", 1))
+                    cur["chunks"].append({"o": o, "t": t, "verse": True, "notes": []})
+                else:
+                    cur["chunks"].append({"o": ln[2:].strip(), "t": None, "verse": True, "notes": []})
+            elif ln.startswith("图题："):
+                cur["chunks"].append({"o": ln[3:], "t": None, "diagram": True, "notes": []})
+            elif ln.startswith("图行："):
+                last = cur["chunks"][-1]
+                assert last.get("diagram"), (path, "图行没有图题")
+                last["o"] += "\n" + ln[3:]
+            elif ln.startswith("表题："):
+                cur["chunks"].append({"tbl": {"cap": ln[3:].strip(), "head": None, "rows": []}, "notes": []})
+            elif ln.startswith("表头："):
+                last = cur["chunks"][-1] if cur["chunks"] else None
+                if last and "tbl" in last and last["tbl"]["head"] is None and not last["tbl"]["rows"]:
+                    last["tbl"]["head"] = ln[3:].split("｜")
+                else:
+                    cur["chunks"].append({"tbl": {"cap": "", "head": ln[3:].split("｜"), "rows": []}, "notes": []})
+            elif ln.startswith("表行："):
+                if not cur["chunks"] or "tbl" not in cur["chunks"][-1]:      # 无题无头的表：由首行表行开表
+                    cur["chunks"].append({"tbl": {"cap": "", "head": None, "rows": []}, "notes": []})
+                cur["chunks"][-1]["tbl"]["rows"].append(ln[3:].split("｜"))
+            elif ln.startswith("注原："):      # 照录原站注释：一行一条，不再拆分
+                cur["chunks"][-1]["notes"].append(ln[3:].strip())
+            elif ln.startswith("注："):
+                cur["chunks"][-1]["notes"].extend(split_notes(ln[2:].strip()))
+            else:
+                raise ValueError(f"{path}: 无法解析：{ln}")
+    return sections
+
+
+YEAR_LEAD = re.compile(r"^((?:宋|金)?(?:徽宗|钦宗|高宗|孝宗|光宗|宁宗)?(?:宣和|靖康|建炎|绍兴|隆兴|乾道|淳熙|绍熙|庆元|嘉泰|开禧|嘉定)?(?:[一二三四五六七八九十]+|元)年(?:[甲乙丙丁戊己庚辛壬癸][子丑寅卯辰巳午未申酉戌亥]?)?)")      # 瓯北诗话·陆放翁年谱的纪年
+DRAMA = re.compile(r"(〔[^〕]*〕|【[^】]*】)")
+# 只有题解与注释、不设白话的书（原文本身是白话或半白话）
+NOTES_ONLY = set()
+STAGE_BOOKS = set()
+# 科白、脚色用圆括号标注的剧本（桃花扇，以及维基文库上一批元杂剧、六十种曲）：括号内同样显示为小字灰体
+PAREN_STAGE_BOOKS = set()
+# 姑妄言：行内批语【…】
+GUJIN_COMMENT = re.compile(r"(〔[^〕]*〕)")      # 古今笑（原名古今谭概）：各部小序“〔子犹曰：……〕”
+GUWANG_BATCH = re.compile(r"(【[^】]*】)")
+# 花月痕：〔曲牌〕、（科白）以及“《金缕曲》一阕云”式的词牌
+HUAYUE_DRAMA = re.compile(r"(〔[^〕]*〕|\([^()]*\)|（[^（）]*）|《[^》]{2,6}》(?=词?一?[阕首]|词云|词曰))")
+PEACH_DRAMA = re.compile(r"(〔[^〕]*〕|【[^】]*】|\([^()]*\)|（[^（）]*）)")
+ERKE_STAGE = re.compile(r"(〈（[^〉]*）〉|〔[^〕]*〕|【[^】]*】)")
+PEACH_TUNES = {"鹧鸪天", "皂罗袍"}
+WESTERN_STAGE = re.compile(r"扮|科|(?:云|唱|下|上|上开|上去|念|念曰|白|了|坐|叫|起发)$")
+WESTERN_STAGE_EXTRA = {"洁叫了，住", "红见仆人", "见夫人", "歌曰"}
+
+
+def _verse_like(o):
+    return len(o) >= 8 and "“" not in o and "”" not in o and all(len(x) <= 9 for x in re.split(r"[，。！？；、]", o))
+
+
+def _lyric_like(o):
+    """曲词：分句平均不超过 9 字。"""
+    parts = [x for x in re.split(r"[，。！？；、]", o) if x]
+    return len(o) >= 8 and len(parts) >= 3 and sum(map(len, parts)) / len(parts) <= 9
+
+
+def hyh_verse(o, prev_poem=False):
+    """花月痕：书中的诗多以“…”引出，首行带引号，通用的 is_poem 认不全。整段是五言或七言诗句（至少两句，或紧接在诗行之后）才居中。"""
+    t = o.strip().lstrip("“‘").rstrip("”’")
+    if not 5 <= len(t) <= 64 or re.search(r"[“”：（）〔〕]", t):
+        return False
+    clauses = [x for x in re.split(r"[，。！？；、]", t) if x]
+    return (len(clauses) >= 2 or prev_poem) and all(len(x) in (5, 7) for x in clauses)
+
+
+def is_poem(o, prev, prev_poem=False, nxt=""):
+    """红楼梦等：诗词曲联在原文里没有单独标记。以“/”分行的短行段落，紧接在“念道：”“联云：”“正是：”等引语之后的无引号短段，
+    紧接在诗行之后的无引号短段，以及曲牌名（短标题，后面紧跟曲词），视为诗歌（含对联、曲），页面居中。“下回分解”之类的回末套语不算。"""
+    segs = o.split("/")
+    if len(segs) > 1:
+        if "下回" in o or re.search(r"[道曰笑说][：:]“", o):
+            return False
+        return max(len(re.sub(r"\s*[—―]+.*$", "", x)) for x in segs) <= 40
+    if len(o) <= 10 and not re.search(r"[，。！？；：“”、]", o) and nxt and "/" not in nxt and _lyric_like(nxt):
+        return True    # 曲牌名
+    if prev_poem and len(o) <= 200 and not re.search(r"却说|且说|话说|看官|只见|当下", o) and _lyric_like(o) and len(prev) <= 10 and not re.search(r"[，。！？；：“”、]", prev):
+        return True    # 曲牌名之后的曲词
+    if len(o) >= 60 or "“" in o or "”" in o or "下回" in o or "且听" in o:
+        return False
+    if prev and re.search(r"(诗|词|曰|云|歌|赞|联|道|是|如|念|唱)[：:—]+$", prev):
+        return True
+    return prev_poem and bool(re.search(r"[，。！？；]$", o)) and all(len(x) in (5, 7) or "兮" in x for x in re.split(r"[，。！？；]", o) if x)
+
+
+def _verse_seg(x):
+    return (len(x) <= 40 and re.search(r"[，。！？；]$", x) and not re.search(r"[“”‘’「」『』：]", x)
+            and "下回" not in x and all(4 <= len(y) <= 9 for y in re.split(r"[，。！？；]", x) if y))
+
+
+def split_poem_runs(o):
+    """正文里夹着的整行诗（连续两行以上，如回首诗、回末对联）：返回 [(是否诗, 文本), ...]；没有则 None。"""
+    segs = o.split("/")
+    flags = [bool(_verse_seg(x)) for x in segs]
+    out, i = [], 0
+    while i < len(segs):
+        j = i
+        while j < len(segs) and flags[j] == flags[i]:
+            j += 1
+        out.append([flags[i] and j - i >= 2, "/".join(segs[i:j])])
+        i = j
+    merged = []
+    for isp, t in out:
+        if merged and merged[-1][0] == isp:
+            merged[-1][1] += "/" + t
+        else:
+            merged.append([isp, t])
+    return merged if any(m[0] for m in merged) and len(merged) > 1 else None
+
+
+_ORPHAN = re.compile(r"[\s…⋯□.。)）」』’”〉：；，、！？\]〕]*")
+
+
+def sent_units(text):
+    """切句；只剩标点、省略号或缺字符的残片，并入上一句（与 split_pairs 的配对一致）。"""
+    sents = []
+    for s in split_sents(text):
+        if sents and _ORPHAN.fullmatch(s):
+            sents[-1] += s
+        else:
+            sents.append(s)
+    return sents
+
+
+def drama_html(text, stage_book=None):
+    out = []
+    pattern = GUJIN_COMMENT if stage_book == "gujintangai" else GUWANG_BATCH if stage_book == "guwangyan" else HUAYUE_DRAMA if stage_book == "huayuehen" else PEACH_DRAMA if stage_book in PAREN_STAGE_BOOKS else {"erke": ERKE_STAGE}.get(stage_book, DRAMA)
+    for i, part in enumerate(pattern.split(text)):
+        if i % 2:
+            label = part[1:-1].strip()
+            tune = part.startswith("【") or (stage_book == "erke" and part.startswith("〔"))
+            if stage_book == "xixiangji" and tune:
+                tune = not (WESTERN_STAGE.search(label) or label in WESTERN_STAGE_EXTRA)
+            elif stage_book in ("guwangyan", "gujintangai"):      # 行内批语、小序整体为小字灰体
+                tune = False
+            elif stage_book == "huayuehen":      # 书中穿插的曲：〔曲牌〕为曲牌，（…）为科白
+                tune = part.startswith(("〔", "《"))
+            elif stage_book == "taohuashan":
+                tune = tune or label in PEACH_TUNES or bool(re.fullmatch(r"鼓词[一二三四五六七八九十]+", label))
+            cls = "cp" if tune else "sd"
+            label_html = esc(part).replace("/", "<br>") if stage_book else esc(part)
+            if stage_book == "gujintangai":      # 〔〕留在文本里（保持原文），但不显示
+                label_html = f'<i class="br">〔</i>{esc(part[1:-1])}<i class="br">〕</i>'
+            out.append(f'<span class="{cls}">{label_html}</span>')
+        else:
+            out.append(esc(part).replace("/", "<br>"))
+    return "".join(out)
+
+
+def circ_sup(h, on):
+    """原站正文里的圆圈数字注号（①②…）显示为上标。"""
+    return CIRC1.sub(lambda m: f'<sup class="n" data-n="{circ_num(m.group())}"></sup>', h) if on else h
+
+
+def table_html(t):
+    def cell(tag, c):
+        return f"<{tag}>" + "<br>".join(esc(x) for x in c.split("／")) + f"</{tag}>"
+    head = ""
+    if t["head"]:
+        head = "<thead><tr>" + "".join(cell("th", c) for c in t["head"]) + "</tr></thead>"
+    body = "".join("<tr>" + "".join(cell("td", c) for c in r) + "</tr>" for r in t["rows"])
+    cap = f"<h4 class=\"tcap\">{esc(t['cap'])}</h4>" if t["cap"] else ""
+    return f'{cap}<div class="biao-wrap"><table class="biao{" biao-n" if len(t["rows"][0] if t["rows"] else []) >= 10 else ""}">{head}<tbody>{body}</tbody></table></div>'
+
+
+toc_written = set()
+TOC_JS = """(function(){var D=__DATA__;var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();
+"""
+
+
+def overlay_notes(bslug, slug, secs):
+    """白话小说（只有原文的几十部）的自撰题解与注释：sources/<书>/notes/<页>.json = {"题解": "…", "注": ["词语：解释", ...]}。
+    每条注挂到原文里含该词语的段（从上一条所在段起往后找，找不到再从头找），所以注的顺序最好随原文顺序。"""
+    f = ROOT / "sources" / bslug / "notes" / f"{slug}.json"
+    if not f.exists():
+        return
+    d = json.loads(f.read_text(encoding="utf8"))
+    guide = [g.strip() for g in d.get("题解", "").split("\n") if g.strip()]
+    assert guide, (bslug, slug, "缺题解")
+    secs[0]["intro"].extend(guide)
+    chunks = [c for s_ in secs for c in s_["chunks"] if "tbl" not in c]
+    i = 0
+    for note in d.get("注", []):
+        word = note.split("：", 1)[0].strip() if "：" in note else ""
+        assert word, (bslug, slug, "注格式应为“词语：解释”", note[:20])
+        for k in list(range(i, len(chunks))) + list(range(0, i)):
+            if word in chunks[k]["o"].replace("/", ""):
+                chunks[k]["notes"].extend(split_notes(note.strip()))
+                i = k
+                break
+        else:
+            raise AssertionError((bslug, slug, "注的词语不在本回原文里", word))
+
+
+def overlay_gloss(bslug, slug, secs):
+    """给只有原文页的书叠加逐句白话：sources/<书>/gloss/<页>__<起始段号>.json = {"start": 起始段号, "白话": ["句白话¦句白话", ...]}，
+    每个元素对应该页第 start+k 个原文段（段序同 tools/gloss_book.py show 所列），段内每个以。！？；结束的原文句对应一句，¦ 分隔。"""
+    d = ROOT / "sources" / bslug / "gloss"
+    files = sorted(d.glob(f"{slug}__*.json")) + ([d / f"{slug}.json"] if (d / f"{slug}.json").exists() else [])
+    if not files:
+        return
+    chunks = [c for s_ in secs for c in s_["chunks"] if "tbl" not in c]
+    for f in files:
+        data = json.loads(f.read_text(encoding="utf8"))
+        start = data.get("start", 0)
+        for k, tr in enumerate(data["白话"]):
+            c = chunks[start + k]
+            sents, parts = split_sents(c["o"]), tr.split("¦")
+            assert len(parts) == len(sents) and all(x.strip() for x in parts), (bslug, slug, start + k, "句数", len(sents), len(parts))
+            assert [o for o, _t in split_pairs(c["o"], tr)] == sents, (bslug, slug, start + k, "会退回整段悬浮")
+            c["t"] = tr
+
+
+def build_poetry(bslug, spec):
+    r = "../../"
+    base = SRC / bslug
+    btitle = spec["title"]
+    pages = []
+    for slug, title in spec["pages"]:
+        if slug is None:
+            pages.append((None, title, []))
+            continue
+        files = sorted((base / slug).glob("*.txt")) if (base / slug).exists() else []
+        pages.append((slug, title, files))
+    avail = [i for i, (_, _, f) in enumerate(pages) if f]
+    cells, total = [], 0
+    for i, (slug, title, files) in enumerate(pages):
+        if slug is None:
+            wide = ' style="grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr))"' if spec.get("wide_index") else ""
+            cells.append(f'</ul><h3 class="grp">{esc(title)}</h3><ul class="vols"{wide}>')
+            continue
+        if not files:
+            status = "阙" if slug in spec.get("missing_slugs", ()) else "亡" if slug in spec.get("lost_slugs", ()) else "待整理"
+            cells.append(f'<li class="todo"><span>{esc(title)}<small>{status}</small></span></li>')
+            continue
+        secs = parse_poems(files)
+        overlay_notes(bslug, slug, secs)
+        overlay_gloss(bslug, slug, secs)
+        stage_book = bslug if bslug in STAGE_BOOKS and (bslug != "taohuashan" or slug.startswith("p")) else None
+        if (bslug, slug) == ("erke", "040"):
+            stage_book = bslug
+        paragraph_style = "dr" if stage_book or not spec.get("prose") else ({"huayuehen": "nv sdi", "guwangyan": "nv gwy", "gujintangai": "nv sdi"}.get(bslug, "nv"))
+        dstyle = stage_book or (bslug if bslug in ("huayuehen", "guwangyan", "gujintangai") else None)      # 花月痕：正文里穿插的曲牌、科白也显示为小字灰体
+        nchunk = sum(1 for s in secs for c in s["chunks"] if "tbl" not in c)
+        total += len(secs) if spec.get("count_entries") else nchunk
+        cnt = (spec["count"](secs) if "count" in spec else
+               (None if spec.get("no_count") else (len(secs), spec.get("unit2", spec.get("unit", "节")))))
+        small = f"<small>{cnt[0]}{cnt[1]}</small>" if cnt and cnt[0] > 1 else ""
+        index_label = spec.get("page_options", {}).get(slug, {}).get("index_label")
+        if index_label:
+            small = f"<small>{esc(index_label)}</small>"
+        cells.append(f'<li class="ok"><a href="{slug}.html">{title_h(title)}{small}</a></li>')
+        uid = 0
+        body_secs = []
+        for si, sec in enumerate(secs, 1):
+            parts = [f'<section class="entry" id="e{si}">']
+            multi = len(secs) > 1 or bool(spec.get("sub_single"))      # 选本：卷内只有一篇也列子目录条目、正文加子标题
+            parts.append(f'<h3>{ed_plain(esc(sec["title"]))}</h3>' if multi and sec["title"] != title and not (bslug == "gujintangai" and sec["title"] == "正文") else "")
+            entry_source = spec.get("section_sources", {}).get(slug, {}).get(sec["title"])
+            if entry_source:
+                label = esc(entry_source.get("label", "维基文库"))
+                revision = entry_source.get("revision")
+                version = f"（修订版本 {esc(revision)}）" if revision else ""
+                credit = f'；原文据<a href="{esc(entry_source["url"])}">{label}</a>{version}'
+                if is_wiki_source(entry_source["url"]):
+                    credit = f'<span hidden>{credit}</span>'
+                parts.append(f'<p class="hint source-note">原署／材料归属：{esc(entry_source["author"])}{credit}。</p>')
+            if sec["intro"]:
+                uid += 1
+                items = "".join(f"<p>{esc(x)}</p>" for x in sec["intro"])
+                parts.append(
+                    f'<button class="note-btn" type="button" aria-expanded="false" aria-controls="n{uid}">'
+                    f'<span class="caret">▸</span> 题解</button><div class="notes intro-box" id="n{uid}" hidden>{items}</div>')
+            prev_o, prev_poem = "", False
+            ed_state = [False]
+            held_cn = []          # 花月痕：曲牌段的注释，并入随后的曲词段
+            held_cn_open = False   # 正处在“科白/曲牌 → 曲词”的连排中
+            chunks_ = sec["chunks"]
+            for ci, ch in enumerate(chunks_):
+                if "tbl" in ch:
+                    parts.append(table_html(ch["tbl"]))
+                    continue
+                if ch.get("diagram"):
+                    parts.append(f'<pre class="source-diagram" style="max-width:100%;overflow-x:auto">{esc(ch["o"])}</pre>')
+                    continue
+                chunk_start = len(parts)
+                _tune = lambda c: "o" in c and bool(re.fullmatch(r"〔[^〕]*〕", c["o"].strip()))
+                _stage = lambda c: "o" in c and bool(re.fullmatch(r"（[^）]*）", c["o"].strip()))
+                # 花月痕：（科白）+〔曲牌〕+曲词 视作同一行：前两者靠左、曲词接其后，注号连续、注释合成一组
+                lead_tune = bslug == "huayuehen" and (_tune(ch) or (_stage(ch) and ci + 1 < len(chunks_) and _tune(chunks_[ci + 1])))
+                follow_tune = bslug == "huayuehen" and not lead_tune and bool(held_cn_open)
+                pg = spec.get("ping_paras", {}).get(slug, 0)
+                pg = pg if isinstance(pg, list) else [0, pg]
+                pstyle = paragraph_style + (" ping" if pg[0] <= ci < pg[0] + pg[1] else "") + (" tl" if lead_tune else " tn" if follow_tune else "")      # 花月痕：曲牌靠左，曲词接在其后      # 姑妄言：回前卷评，小字灰体
+                src_marks = bool(spec.get("source_markers"))
+                if src_marks:
+                    anchors, chunk_notes = [], ch["notes"]
+                else:
+                    anchors, chunk_notes = anchor_notes([ch["o"]], ch["notes"])
+                at = [a[1] for a in anchors if a is not None]
+                tail = sum(1 for a in anchors if a is None)
+                is_p = ch.get("verse") or bool(bslug in ("huayuehen", "chanzhenyishi") and hyh_verse(ch["o"], prev_poem)) or bool(bslug != "huayuehen" and spec.get("center_poems") and ch["t"] is None and is_poem(ch["o"], prev_o, prev_poem, chunks_[ci + 1]["o"] if ci + 1 < len(chunks_) and "o" in chunks_[ci + 1] else ""))
+                poem = (" poem cen" if bslug in ("taohuashan", "classic_list", "yinshuici", "taoyuanmingji") else " poem") if is_p else ""
+                prev_o, prev_poem = ch["o"], is_p
+                if ch["t"] is None:
+                    runs = split_poem_runs(ch["o"]) if spec.get("center_poems") and not poem else None
+                    if runs:
+                        pos = 0
+                        for ri, (isp, txt) in enumerate(runs):
+                            end = pos + len(txt)
+                            ins = [max(q - pos, 0) for q in at if q <= end]
+                            at = [q for q in at if q > end]
+                            body = drama_html(mark_text(txt, ins), dstyle)
+                            if ri == len(runs) - 1:
+                                body += NOTE_MARK * tail
+                            parts.append(f'<p class="v {pstyle}{" poem" if isp else ""}">{circ_sup(body, src_marks)}</p>')
+                            pos = end + 1
+                    else:
+                        body = drama_html(mark_text(ch["o"], at), dstyle)
+                        if spec.get("ed_notes"):
+                            body = ed_html(body, ed_state)
+                        body += NOTE_MARK * tail
+                        parts.append(f'<p class="v {pstyle}{poem}">{circ_sup(body, src_marks)}</p>')
+                else:
+                  spans = ""
+                  pairs = marked_pairs(ch["o"], ch["t"], at)
+                  if pairs is None:        # 极少数对不齐：该段注释记到段末
+                      tail += len(at)
+                      pairs = split_pairs(ch["o"], ch["t"])
+                  if spec.get("unaligned_translation_details") and not has_sentence_pairs(ch):
+                      parts.append(f'<p class="v nv">{drama_html(ch["o"])}</p>'
+                                   f'<details class="translation-draft"><summary>段落白话</summary>'
+                                   f'<p>{esc(ch["t"])}</p></details>')
+                      pairs = []
+                  if spec.get("strict_pairs"):
+                      original_sents = sent_units(ch["o"])
+                      if (len(original_sents) != len(ch["t"].split("¦"))
+                              or [o.replace(NOTE_MARK, "") for o, _t in pairs] != original_sents):
+                          raise ValueError(f"{bslug}/{slug}: 原文与白话必须逐句对应，不能整段回退")
+                  year_bold = bslug == "oubeishihua" and sec["title"] == "陆放翁年谱"      # 年谱：每条开头的年份加粗
+                  for pi_, (o2, t2) in enumerate(pairs):
+                      if o2.startswith("/"):
+                          spans += "<br>"
+                          o2 = o2[1:]
+                      shown = drama_html(o2, dstyle) if dstyle else poem_orig(o2)      # 戏曲：科白、曲牌在悬浮句内也显示为小字灰体
+                      if year_bold and pi_ == 0:
+                          shown = YEAR_LEAD.sub(lambda m_: f'<b class="yr">{m_.group(1)}</b>', shown, count=1)
+                      spans += f'<span class="s" tabindex="0" data-t="{esc(t2)}">{ed_html(shown, ed_state)}</span>'
+                  if pairs:
+                      spans += NOTE_MARK * tail
+                      label = ch["o"].strip() if bslug == "hanfeizi" else ""
+                      if bslug == "guanzi" and re.fullmatch(r"右[^，。；：！？]{1,12}", ch["o"].strip()):
+                          parts.append(f'<p class="v end-marker">{spans}</p>')
+                      elif label == "右经":
+                          parts.append(f'<p class="hf-end-marker">{spans}</p>')
+                      elif re.fullmatch(r"说[一二三四五六七八九十]+", label):
+                          parts.append(f'<h3 class="hf-example-heading">{spans}</h3>')
+                      elif bslug in ("wulinjiushi", "changwuzhi", "yuanye"):      # 地名/条目名单列一行加粗，其后的解释缩进，分清层次
+                          is_name = len(ch["o"]) <= (12 if bslug == "wulinjiushi" else 14) and not re.search(r"[。，；：！？“”]" if bslug != "wulinjiushi" else r"[。，；：！？、（“]", ch["o"])
+                          parts.append(f'<p class="v {"wl-n" if is_name else "wl-d"}">{spans}</p>')
+                      elif ch.get("verse"):
+                          parts.append(f'<p class="v {pstyle}{poem}">{spans}</p>')
+                      else:
+                          parts.append(f'<p class="v">{spans}</p>')
+                if lead_tune and not held_cn_open:          # 连排的科白/曲牌/曲词放进同一个块，与上下段分开
+                    parts.insert(chunk_start, '<div class="tchain">')
+                num = 1 + (len(held_cn) if (lead_tune or follow_tune) and held_cn_open else 0)      # 连排各段视作一段，注号接着排
+                for k in range(chunk_start, len(parts)):
+                    parts[k], num = number_marks(parts[k], num)
+                if lead_tune:
+                    held_cn = held_cn + list(chunk_notes)
+                    held_cn_open = True
+                    chunk_notes = []
+                elif follow_tune:
+                    chunk_notes = held_cn + list(chunk_notes)
+                    held_cn, held_cn_open = [], False
+                    parts.append("</div>")
+                if chunk_notes:
+                    uid += 1
+                    if src_marks:     # 原站注释前的圆圈数字改为纯数字序号（无序号的补充说明不编号）
+                        li = ""
+                        for n in chunk_notes:
+                            m = CIRC_LEAD.match(n)
+                            li += f'<li data-n="{circ_num(m.group(1))}">{esc(n[m.end():])}</li>' if m else f"<li>{esc(n)}</li>"
+                    else:
+                        li = "".join(f"<li>{esc(n)}</li>" for n in chunk_notes)
+                    note_html = (
+                        f'<button class="note-btn" type="button" aria-expanded="false" aria-controls="n{uid}">'
+                        f'<span class="caret">▸</span> 注释（{len(chunk_notes)}）</button><ul class="notes plain{" src" if src_marks else ""}" id="n{uid}" hidden>{li}</ul>')
+                    parts.append(note_html)
+            if held_cn_open:
+                parts.append("</div>")
+            if si == len(secs) and spec.get("page_tails", {}).get(slug):      # 页末另起一行的附注/链接
+                parts.append(spec["page_tails"][slug])
+            parts.append("</section>")
+            body_secs.append("\n".join(x for x in parts if x))
+        single = bool(spec.get("single_page")) and len(pages) == 1     # 只有一个目录条目：书的首页直接就是阅读页
+        toc = ""
+        if spec.get("side_toc", True):
+            # 全书总目录每本书只存一份 toc.js，页面里只留空位、本页的小目录和当前页文件名，由 toc.js 在页面里填入（省下每页重复的整份目录）
+            data, sub = [], ""
+            for sl, tt, page_files in pages:
+                if sl is None:
+                    data.append(["g", tt])
+                elif sl == slug:
+                    if spec.get("sub_toc", True):
+                        labels = spec.get("sub_labels", {}).get(slug)
+                        subs = [(k, s_) for k, s_ in enumerate(secs, 1) if not (s_["title"] == title and (not s_["chunks"] or spec.get("skip_lead_toc"))) and not (bslug == "gujintangai" and s_["title"] == "正文") and not (spec.get("sub_single") and s_["title"] == title)]
+                        numeric = sum(1 for _k, s_ in subs if s_["title"].isdigit()) * 2 > len(subs)
+                        if len(subs) >= (1 if spec.get("sub_single") else 2):
+                            sub = (f'<ul class="sub{" num" if numeric else ""}">' + "".join(
+                                f'<li><a href="#e{k}">{ed_plain(esc(labels[k - 1] if labels and k - 1 < len(labels) else s_["title"]))}</a></li>'
+                                for k, s_ in subs) + "</ul>")
+                    data.append(["l", ("index" if single else sl) + ".html", title_h(tt)])
+                elif page_files:
+                    data.append(["l", f"{sl}.html", title_h(tt)])
+                else:
+                    status = "阙" if sl in spec.get("missing_slugs", ()) else "亡" if sl in spec.get("lost_slugs", ()) else "待整理"
+                    data.append(["x", f"{tt}（{status}）"])
+            toc_ver = hashlib.md5(json.dumps(data, ensure_ascii=False).encode("utf8")).hexdigest()[:8]      # 目录内容变了就换一个版本号，避免浏览器沿用旧 toc.js
+            if bslug not in toc_written:
+                toc_written.add(bslug)
+                (BOOKS_OUT / bslug).mkdir(parents=True, exist_ok=True)
+                (BOOKS_OUT / bslug / "toc.js").write_text(TOC_JS.replace("__DATA__", json.dumps(data, ensure_ascii=False, separators=(",", ":"))), encoding="utf8")
+            toc = (f'<details class="toc side" open data-cur="{"index" if single else slug}.html"><summary>总目录</summary><ul></ul>'
+                   f'<template>{sub}</template><noscript><p><a href="index.html">全书目录</a></p></noscript></details>'
+                   f'<script src="toc.js?v={toc_ver}"></script>')
+            if single and not sub:      # 全书只有一页、页内又无小目录：左侧不放只有一条的总目录
+                toc = ""
+        elif secs:
+            tocs = [(k, s) for k, s in enumerate(secs, 1) if not (s["title"] == title and not s["chunks"])]
+            numeric = sum(1 for _k, s in tocs if s["title"].isdigit()) * 2 > len(tocs)
+            if numeric:
+                toc = ('<details class="toc" open><summary>本页目录</summary><ul class="num">'
+                       + "".join(f'<li><a href="#e{k}">{esc(s["title"])}</a></li>' for k, s in tocs)
+                       + "</ul></details>")
+            else:
+                toc = ('<details class="toc" open><summary>本页目录</summary><ol>'
+                       + "".join(f'<li><a href="#e{k}">{esc(s["title"])}</a></li>' for k, s in tocs)
+                       + "</ol></details>")
+        prev_i = max([j for j in avail if j < i], default=None)
+        next_i = min([j for j in avail if j > i], default=None)
+        prev_h = (f'<a href="{pages[prev_i][0]}.html">← {esc(pages[prev_i][1])}</a>' if prev_i is not None
+                  else '<span class="off">&nbsp;</span>')
+        next_h = (f'<a href="{pages[next_i][0]}.html">{esc(pages[next_i][1])} →</a>' if next_i is not None
+                  else '<span class="off">&nbsp;</span>')
+        source = spec.get("page_sources", {}).get(slug)
+        page_options = spec.get("page_options", {}).get(slug, {})
+        revision_note = f'（修订版本 {esc(source["revision"])}）' if source and source.get("revision") else ""
+        source_note = (f'{esc(source.get("prefix", "原文据"))}<a href="{esc(source["url"])}">{esc(source.get("label", "维基文库"))}</a>整理{revision_note}；{esc(source.get("after", ""))}'
+                       if source else ("本页题解为编者自撰；" if slug == "tijie" and bslug in ("xixiangji", "xiyouji", "shuihuzhuan", "sanguoyanyi", "roupotuan", "zuozhuan") else "原文依所标明底本整理；"))
+        if spec.get("omit_source_credit"):
+            source_note = ""
+        elif source and is_wiki_source(source["url"]):
+            source_note = f'<span hidden>{source_note}</span>'
+        if page_options.get("no_tip", spec.get("no_tip")):
+            hint = ""
+            foot_text = "注释为编者自撰，仅供辅助阅读，以原文为准。"
+            if spec.get("original_only"):
+                hint = "原文阅读版；白话与注释待整理。条目编号为整理者所加。"
+                foot_text = spec.get("original_footer", "保留原站校勘记及缺文标记；尚未据影印本逐字校勘。")
+        else:
+            hint = ""
+            foot_text = "白话译文、注释、题解为编者自撰，仅供辅助阅读，以原文为准。"
+        if bslug in NOTES_ONLY:
+            hint, foot_text = "", "注释、题解为编者自撰，仅供辅助阅读，以原文为准。"
+        hint = page_options.get("reading_hint", spec.get("reading_hint", hint))
+        foot_text = page_options.get("footer", foot_text)
+        if single:
+            head = f"""{crumbs(top_crumbs(bslug, r) + [(btitle, None)])}
+<h1>{esc(btitle)}<small>{esc(spec["author"])}</small></h1>
+{intro_html(bslug)}"""
+            pager = ""
+        else:
+            head = f"""{crumbs(top_crumbs(bslug, r) + [(btitle, "index.html"), (title.replace("〈", "").replace("〉", ""), None)])}
+<h1>{title_h(title)}<small>{esc(btitle)}</small></h1>"""
+            pager = f'<nav class="pager">{prev_h}<a href="index.html">目录</a>{next_h}</nav>'
+        body = f"""<header class="top">
+{head}
+{f'<p class="hint">{hint}</p>' if hint else ""}
+</header>
+<main class="reading-layout{"" if toc else " solo"}">
+{toc}
+<div class="reading-content">
+{chr(10).join(body_secs)}
+{pager}
+</div>
+</main>
+<div id="tip" role="tooltip" hidden></div>
+<footer>{source_note}{foot_text}</footer>"""
+        out = BOOKS_OUT / bslug / ("index.html" if single else f"{slug}.html")
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(page(btitle if single else f'{title.replace("〈", "").replace("〉", "")}·{btitle}', body, r, True), encoding="utf8")
+        if single and (BOOKS_OUT / bslug / f"{slug}.html").exists():
+            (BOOKS_OUT / bslug / f"{slug}.html").unlink()
+    if spec.get("single_page") and len(pages) == 1:
+        return total
+    intro_credit = ""
+    if WIKI_INTRO.get(bslug, {}).get("verbatim") and not spec.get("omit_source_credit"):
+        url = esc(WIKI_INTRO[bslug]["url"])
+        visibility = "" if spec.get("visible_intro_credit") else " hidden"
+        label = "简介据维基文库" if spec.get("visible_intro_credit") else "维基文库"
+        intro_credit = (f'<span{visibility}> · <a href="{url}">{label}</a> · '
+                        '<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></span>')
+    entry_search = entry_empty = entry_script = ""
+    if spec.get("entry_search"):       # 目录页内的篇目搜索框（只过滤本页的篇目，不跳转）
+        entry_search = (f'<div class="book-search" role="search" aria-label="搜索篇目">\n<label for="entry-search">搜索篇名或作者</label>\n'
+                        '<div class="search-row"><input type="search" id="entry-search" placeholder="例如：赤壁、苏轼、赋" autocomplete="off" '
+                        'aria-controls="entry-list"><button type="button" id="entry-clear">清空</button></div>\n'
+                        '<p class="search-status" id="entry-status" role="status" aria-live="polite"></p>\n</div>\n')
+        entry_empty = '<p class="search-empty" id="entry-empty" hidden>没有找到匹配的篇目，请换个关键词。</p>'
+        entry_script = '<script src="../../assets/entry-search.js" defer></script>'
+    body = f"""<header class="top">
+{crumbs(top_crumbs(bslug, "../../") + [(btitle, None)])}
+<h1>{esc(btitle)}<small>{esc(spec["author"])}</small></h1>
+{intro_html(bslug)}
+</header>
+<main>{entry_search}<section class="part"><ul class="vols"{' id="entry-list"' if spec.get('entry_search') else ''}{' style="grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr))"' if spec.get('wide_index') else ''}>{"".join(cells)}</ul>{entry_empty}</section>{entry_script}</main>
+<footer>{esc(spec.get("index_footer", f'已整理 {total} {spec.get("summary_unit", "节")}。'))}{intro_credit}</footer>"""
+    (BOOKS_OUT / bslug).mkdir(parents=True, exist_ok=True)
+    (BOOKS_OUT / bslug / "index.html").write_text(page(btitle, body, "../../"), encoding="utf8")
+    for old_slug, target in spec.get("page_redirects", {}).items():
+        redirect = f'<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="refresh" content="0; url={esc(target)}"><link rel="canonical" href="{esc(target)}"><title>{esc(btitle)}·合并阅读</title></head><body><h1>合并阅读</h1><p>本篇已合入统一阅读页：<a href="{esc(target)}">打开本篇</a></p></body></html>'
+        (BOOKS_OUT / bslug / (old_slug + ".html")).write_text(redirect, encoding="utf8")
+    return total
+
+
+# 书名首字的拼音首字母，供首页字母索引使用；新增书目若首字不在表内，build 会报错提醒补充。
+INITIAL = {"历": "L"}
+
+
+def build_collection(slug):
+    """多级目录页（三言二拍 → 三言/二拍 → 各书）：简介 + 下一级条目的卡片。"""
+    c = COLLECTIONS[slug]
+    cards = []
+    for k in c["children"]:
+        if k in COLLECTIONS:
+            title, author, intro = COLLECTIONS[k]["title"], COLLECTIONS[k]["author"], COLLECTIONS[k]["card_intro"]
+        else:
+            title, author, intro = POETRY[k]["title"], POETRY[k]["author"], BOOK_INTRO[k]
+        cards.append(f'<li><a href="../{k}/index.html"><strong>{esc(title)}</strong><span>{esc(author)}</span><p>{esc(intro)}</p></a></li>')
+    body = f"""<header class="top">
+{crumbs([("现代文库", "../../index.html")] + PARENT_CRUMBS.get(slug, []) + [(c["title"], None)])}
+<h1>{esc(c["title"])}<small>{esc(c["author"])}</small></h1>
+<p class="intro">{esc(c["intro"])}</p>
+</header>
+<main><ul class="books">{"".join(cards)}</ul></main>
+<footer>本页简介为编者自撰。</footer>"""
+    (BOOKS_OUT / slug).mkdir(parents=True, exist_ok=True)
+    (BOOKS_OUT / slug / "index.html").write_text(page(c["title"], body, "../../"), encoding="utf8")
+
+
+def build_home():
+    def card(href, b):
+        first = b["title"][0]
+        assert first in INITIAL, f"首页字母索引缺少“{first}”的拼音首字母（build.py INITIAL）"
+        return (f'<li data-letter="{INITIAL[first]}"><a href="books/{href}/index.html"><strong>{esc(b["title"])}</strong>'
+                f'<span>{esc(b["author"])}</span><p>{esc(b["intro"])}</p></a></li>')
+    cards = ("".join(card(b["slug"], b) for b in BOOKS) + "".join(card(k, v) for k, v in POETRY.items() if k not in COLLECTION_OF)
+             + "".join(card(k, dict(c, intro=c["home_intro"])) for k, c in COLLECTIONS.items() if "parent" not in c))
+    letters = "".join(f'<button type="button" class="letter" data-letter="{c}" aria-pressed="false">{c}</button>'
+                      for c in "ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+    body = f"""<header class="top"><h1>现代文库<small>现代著作的整理本</small></h1></header>
+<main>
+<div class="book-search" role="search" aria-label="搜索书籍">
+<label for="book-search">搜索书名、作者或简介</label>
+<div class="search-row"><input type="search" id="book-search" placeholder="例如：聊斋、王夫之、诗经" autocomplete="off" aria-controls="book-list"><button type="button" id="search-clear">清空</button></div>
+<div class="letters" id="letter-bar" role="group" aria-label="按书名首字拼音首字母浏览">{letters}</div>
+<p class="search-status" id="search-status" role="status" aria-live="polite"></p>
+</div>
+<ul class="books" id="book-list">{cards}</ul>
+<p class="search-empty" id="search-empty" hidden>没有找到匹配的书籍，请换个关键词。</p>
+<script src="assets/search.js" defer></script>
+</main>"""
+    (ROOT / "index.html").write_text(page("现代文库", body, ""), encoding="utf8")
+
+
+if __name__ == "__main__":
+    for b in BOOKS:
+        build_book(b)
+    for _k, _v in POETRY.items():
+        build_poetry(_k, _v)
+    for _k in COLLECTIONS:
+        build_collection(_k)
+    build_home()
+    print("done", dict(ANCHOR_STATS))

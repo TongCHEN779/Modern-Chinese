@@ -1,0 +1,8 @@
+# GitHub Pages（分支发布）只需要生成好的页面，不要把源数据和工具一并打包发布。
+exclude:
+  - src
+  - sources
+  - build.py
+  - __pycache__
+  - README.md
+  - LICENSE
