@@ -1,0 +1,7 @@
+(function(){var D=[["l","p01.html","前言"],["g","上册"],["l","p02.html","感天动地窦娥冤"],["l","p03.html","赵盼儿风月救风尘"],["l","p04.html","关大王独赴单刀会"],["l","p05.html","裴少俊墙头马上"],["l","p06.html","唐明皇秋夜梧桐雨"],["l","p07.html","临江驿潇湘秋夜雨"],["l","p08.html","四丞相高会丽春堂"],["l","p09.html","破幽梦孤雁汉宫秋"],["l","p10.html","西华山陈抟高卧"],["l","p11.html","便宜行事虎头牌"],["l","p12.html","看钱奴买冤家债主"],["l","p13.html","赵氏孤儿大报仇"],["l","p14.html","梁山泊李逵负荆"],["l","p15.html","鲁大夫秋胡戏妻"],["l","p16.html","张孔目智勘魔合罗"],["g","下册"],["l","p17.html","洞庭湖柳毅传书"],["l","p18.html","迷青琐倩女离魂"],["l","p19.html","醉思乡王粲登楼"],["l","p20.html","东堂老劝破家子弟"],["l","p21.html","风雨像生货郎旦"],["l","p22.html","朱太守风雪渔樵记"],["l","p23.html","包待制陈州粜米"],["l","p24.html","清河县继母大贤"],["l","p25.html","中山狼"],["l","p26.html","僧尼共犯"],["l","p27.html","狂鼓史渔阳三弄"],["l","p28.html","雌木兰替父从军"],["l","p29.html","真傀儡"],["l","p30.html","桃花人面"],["l","p31.html","通天台"],["l","p32.html","汲长孺矫诏发仓"],["l","p33.html","寇莱公思亲罢宴"],["l","p34.html","面缸笑"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();

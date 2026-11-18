@@ -460,6 +460,12 @@ def _scan_spec(slug, title, author):
             "original_footer": "文字据书籍扫描件识别整理，尚未逐字校对。"}
 
 
+def _annotated_scan_spec(slug, title, author):
+    """原书带注释、题解的选注本（据扫描件识别整理）：注释与题解是原书的，不是编者自撰。"""
+    return {**_scan_spec(slug, title, author),
+            "original_footer": "注释与题解均为原书所有；文字据书籍扫描件识别整理，尚未逐字校对。"}
+
+
 POETRY = {
     "wangguodiwang": _scan_spec("wangguodiwang", "中国历代亡国帝王传", "李祖德 主编"),
     "kaiguodiwang": _scan_spec("kaiguodiwang", "中国历代开国帝王传", "李祖德 主编"),
@@ -469,6 +475,28 @@ POETRY = {
     "hongloumengyan": _scan_spec("hongloumengyan", "红楼梦魇", "张爱玲 著"),
     "lidaidiwangzhuanji": _scan_spec("lidaidiwangzhuanji", "历代帝王传记", "中华书局 编"),
     "pusonglingchuanqi": _scan_spec("pusonglingchuanqi", "蒲松龄传奇", "熊文祥 著"),
+    "libaishixuan": _annotated_scan_spec("libaishixuan", "李白诗选", "薛天纬 选注"),
+    "songcisanbaishoujianzhu": _annotated_scan_spec("songcisanbaishoujianzhu", "宋词三百首笺注", "唐圭璋 笺注"),
+    "sushishicixuan": _annotated_scan_spec("sushishicixuan", "苏轼诗词选", "陈迩冬 选注"),
+    "tangsongcijianshi": _annotated_scan_spec("tangsongcijianshi", "唐宋词简释", "唐圭璋 选释"),
+    "jinyuanmingqingcixuan": _annotated_scan_spec("jinyuanmingqingcixuan", "金元明清词选", "夏承焘、张璋 编选"),
+    "songshixuanzhu": _annotated_scan_spec("songshixuanzhu", "宋诗选注", "钱锺书 选注"),
+    "yuanzhenshiwenxuan": _annotated_scan_spec("yuanzhenshiwenxuan", "元稹诗文选", "杨军、文笙、吕燕芳 选注"),
+    "xinqijicixuan": _annotated_scan_spec("xinqijicixuan", "辛弃疾词选", "朱德才 选注"),
+    "wangweishixuan": _annotated_scan_spec("wangweishixuan", "王维诗选", "陈铁民 选注"),
+    "yuefushixuan": _annotated_scan_spec("yuefushixuan", "乐府诗选", "曹道衡 选注"),
+    "yuanrenzajuxuan": _annotated_scan_spec("yuanrenzajuxuan", "元人杂剧选", "顾学颉 选注"),
+    "hanyushixuan": _annotated_scan_spec("hanyushixuan", "韩愈诗选", "陈迩冬 选注"),
+    "dufushixuanzhu": _annotated_scan_spec("dufushixuanzhu", "杜甫诗选注（增补本）", "萧涤非 选注，萧光干、萧海川 辑补"),
+    "shijixuan": _annotated_scan_spec("shijixuan", "史记选", "王伯祥 选注"),
+    "liuyongcixuanzhu": _annotated_scan_spec("liuyongcixuanzhu", "柳永词选注", "张惠民、张进 选注"),
+    "zgguxijuxuan": _annotated_scan_spec("zgguxijuxuan", "中国古代戏剧选", "宁希元、宁恢 选注"),
+    "gongzizhenxuanji": _annotated_scan_spec("gongzizhenxuanji", "龚自珍选集", "孙钦善 选注"),
+    "qiujinxuanji": _annotated_scan_spec("qiujinxuanji", "秋瑾选集（增订本）", "［清］秋瑾 著；郭延礼、郭蓁 选注"),
+    "chutangsijieshixuan": _annotated_scan_spec("chutangsijieshixuan", "初唐四杰诗选", "倪木兴 选注"),
+    "guanhanqingxuanji": _annotated_scan_spec("guanhanqingxuanji", "关汉卿选集（修订版）", "康保成、李树玲 选注"),
+    "dufushixuan": _annotated_scan_spec("dufushixuan", "杜甫诗选", "山东大学中文系古典文学教研室 选注，袁世硕等 修订"),
+    "tangwenxuan": _annotated_scan_spec("tangwenxuan", "唐文选", "李浩 选，阎琦、李浩、李芳民 注释"),
     "erqiannianjian": _scan_spec("erqiannianjian", "二千年间", "胡绳 著"),
     "fojiaoshijieguan": _scan_spec("fojiaoshijieguan", "佛教世界观", "明贤法师 著"),
     "gebenhagen": _scan_spec("gebenhagen", "哥本哈根三部曲", "［丹麦］托芙·迪特莱弗森 著 刘奕奕 译"),
@@ -499,6 +527,28 @@ BOOK_INTRO = {
     "hongloumengyan": "张爱玲著，哈尔滨出版社2003年版（“张爱玲典藏全集”）。考据《红楼梦》版本与八十回后情节的论集，含自序、《红楼梦》未完、插曲及“初详”至“五详”。",
     "lidaidiwangzhuanji": "中华书局“中国历史小丛书”合订本，1990年出版。收秦始皇至康熙帝共十三位古代帝王的传记，每篇另有作者，通俗叙述其生平、业绩与历史作用。",
     "pusonglingchuanqi": "熊文祥著，“中国名人轶事丛书”之五（吴洪激主编），武汉大学出版社、台湾汉欣文化事业有限公司1994年联合出版。以民间传说与志怪式笔法，写蒲松龄从乡居少年、屡试不第、南行做幕、坐馆教书到写成《聊斋志异》的一生。",
+    "libaishixuan": "李白诗歌的选注本，选289题343首，按生平分蜀中、安陆至初入长安、东鲁与翰林、去朝十年、从璘与流夜郎、晚年、未编年七期编年排列，附前言与逐篇题解、注释。",
+    "songcisanbaishoujianzhu": "朱祖谋所编《宋词三百首》的笺注本：每首词后附评笺（本事与历代评语），作者小传、词语注释与校记并录，书前有三篇序。",
+    "sushishicixuan": "陈迩冬选注的苏轼诗词选本：诗选二百四十九题，词选八十五首，各篇有题解、编年和详注，诗、词两部之前各有前言。",
+    "tangsongcijianshi": "唐圭璋选释唐五代两宋词二百三十二首，每首附简释，析其章法、层次与情致，不作词语注释。",
+    "jinyuanmingqingcixuan": "选录金、元、明、清四代词人二百二十余家的词作，每位词人有小传，每首词附题解、注释和前人评语，书前有前言。",
+    "songshixuanzhu": "钱锺书选注的宋诗选本，收柳开至萧立之八十家近三百首，每家附小传，诗后有详注，卷首有长序。",
+    "yuanzhenshiwenxuan": "人民文学出版社“中国古典文学读本丛书典藏”之一，选元稹诗、文及传奇《莺莺传》，有前言、校记注释与元稹谱略。",
+    "xinqijicixuan": "朱德才选注辛弃疾词一百六十八首，按编年与未编年编次，各篇附注释与简评，书前有前言，书后附词评辑要与行年事略。",
+    "wangweishixuan": "陈铁民选注，收王维诗二〇五首，分编年诗、未编年诗两部分，每首有题解式评析、详注，难句另有串讲，前有前言。",
+    "yuefushixuan": "曹道衡选注汉魏至隋乐府诗：郊庙乐曲、汉魏民歌、南北朝民歌与文人拟作，逐首题解并加词语注释，书前有前言。",
+    "yuanrenzajuxuan": "选录关汉卿、白朴、马致远等元代杂剧十六种，以《元曲选》为底本并据他本校补，逐剧注释，书前有长篇前言。",
+    "hanyushixuan": "陈迩冬选注韩愈诗九十首，每首有题解与词语注释，卷首有舒芜序，附《新唐书·韩愈列传》。",
+    "dufushixuanzhu": "萧涤非选注杜甫诗二百余题，按生平分四期编年，诗后有题解与详注，书末附萧涤非晚年批注辑补。",
+    "shijixuan": "选录《史记》本纪、世家、列传二十篇，逐篇校勘、注释，书前有序例概述司马迁与《史记》，书末附出版社后记。",
+    "liuyongcixuanzhu": "选注柳永《乐章集》词一百五十三首，每首有题解与词语注释，前有前言论柳永生平与词作，书末辑录历代柳词评语。",
+    "zgguxijuxuan": "选录元、明、清杂剧三十三种，上册元杂剧十五种，下册元后期至清杂剧十八种；每剧有作者简介、剧本说明与注释。",
+    "gongzizhenxuanji": "孙钦善选注龚自珍诗一百三十四首（含《己亥杂诗》六十三首）、文二十六篇、词十六首，每篇有题解与词语注释，卷首有长篇前言。",
+    "qiujinxuanji": "秋瑾文章、书信、诗、词、歌词及弹词《精卫石》前六回选注本，附年谱简编，各篇有题解和注释。",
+    "chutangsijieshixuan": "选录王勃、杨炯、卢照邻、骆宾王四家诗二百六十五首，按《全唐诗》次序编排，每首有题解与逐句注释，前有总论四杰生平与诗风的前言。",
+    "guanhanqingxuanji": "选录关汉卿《窦娥冤》《救风尘》《单刀会》等杂剧十二部及小令、套数二十余首，每剧每曲附题解与详注，前有前言，后有修订后记。",
+    "dufushixuan": "选杜诗一百九十余题（含《雕赋》），按创作时序编排，卷首有前言，每首有题解与逐句词语注释。",
+    "tangwenxuan": "按作者时序选录唐代六十三位作家的文章一百四十余篇，骈散兼收；每位作家有小传，每篇有题解与注释。",
     "erqiannianjian": "中国封建专制主义时代两千余年历史的专题通论，分皇帝、官僚、军队、农民、民族关系等问题，写于1944至1945年。",
     "fojiaoshijieguan": "以“一人一世界”为主线，从空性、缘起、二谛与三重境界出发，讨论佛教世界观及其与科学、传统文化的关系，并阐述人文佛教。",
     "gebenhagen": "丹麦女作家托芙·迪特莱弗森的自传体三部曲，写她在哥本哈根工人家庭的成长与写作之路；本站所收为试读节选（《清晨》第 1—6 节）。",
@@ -531,6 +581,11 @@ for _k, _v in POETRY.items():
 TIJIE_LINKS = {}
 
 COLLECTIONS = {
+    "gudianwenxuedudu": {
+        "title": "中国古典文学读本丛书典藏", "author": "人民文学出版社 编", "children": ["libaishixuan", "songcisanbaishoujianzhu", "sushishicixuan", "tangsongcijianshi", "jinyuanmingqingcixuan", "songshixuanzhu", "yuanzhenshiwenxuan", "xinqijicixuan", "wangweishixuan", "yuefushixuan", "yuanrenzajuxuan", "hanyushixuan", "dufushixuanzhu", "shijixuan", "liuyongcixuanzhu", "zgguxijuxuan", "gongzizhenxuanji", "qiujinxuanji", "chutangsijieshixuan", "guanhanqingxuanji", "dufushixuan", "tangwenxuan"],
+        "home_intro": "人民文学出版社“中国古典文学读本丛书典藏”：李白、杜甫、苏轼、辛弃疾等诗词选注，宋词、元杂剧、史记、唐文选等二十二种，原书的题解与注释一并收入。",
+        "intro": "“中国古典文学读本丛书”是人民文学出版社的古典文学选注本丛书，这里收其典藏本中的二十二种：李白、王维、杜甫、韩愈、元稹、龚自珍、秋瑾等诗文选，宋词三百首笺注、唐宋词简释、柳永、苏轼、辛弃疾和金元明清词选，乐府诗选、宋诗选注、史记选、唐文选，以及元人杂剧选、关汉卿选集和中国古代戏剧选。各册的题解与注释都是原书的，已按本站的格式放在所注段落之后；文字据书籍扫描件识别整理，尚未逐字校对。",
+    },
     "mingrenyishi": {
         "title": "中国名人轶事丛书", "author": "吴洪激 主编", "children": ["pusonglingchuanqi"],
         "labels": {"pusonglingchuanqi": "之五"},      # 各册在丛书中的序号，显示在目录卡片书名前；后续册数在这里补
