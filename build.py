@@ -519,8 +519,8 @@ POETRY = {
     "xiaobang": _scan_spec("xiaobang", "肖邦：生平与时代", "［英］艾伦·沃克 著　胡韵迪 译"),
     "yujianmozhate": _scan_spec("yujianmozhate", "遇见莫扎特：从神童到大师的音乐人生", "［英］保罗·约翰逊 著 成铨 译"),
     "zgrkwt": _scan_spec("zgrkwt", "中国人口问题的“热点”——人口理论、发展战略和生育政策", "梁中堂 著"),
-    "zgshenhua_shang": _scan_spec("zgshenhua_shang", "上编：东北、西南族群创世神话及其文化", "王孝廉 著"),
-    "zgshenhua_xia": _scan_spec("zgshenhua_xia", "下编：中原民族的神话与信仰", "王孝廉 著"),
+    "zgshenhua_shang": _scan_spec("zgshenhua_shang", "东北、西南族群创世神话及其文化", "王孝廉 著"),
+    "zgshenhua_xia": _scan_spec("zgshenhua_xia", "中原民族的神话与信仰", "王孝廉 著"),
     "zuochongyoutu": _scan_spec("zuochongyoutu", "左冲右突：现代政治激流中的中国知识分子", "许纪霖 著"),
 }
 # 首页卡片上的书籍简介：只写书本身。
@@ -607,6 +607,7 @@ COLLECTIONS = {
     },
     "zgshenhua": {
         "title": "中国神话世界", "author": "王孝廉 著", "children": ["zgshenhua_shang", "zgshenhua_xia"],
+        "labels": {"zgshenhua_shang": "上编", "zgshenhua_xia": "下编"},
         "home_intro": "王孝廉的中国神话研究，分上、下编：上编考察东北、西南族群的创世神话，下编论中原民族的神话与信仰。",
         "intro": "《中国神话世界》是台湾学者王孝廉的中国神话研究，分上、下两编：上编《东北、西南族群创世神话及其文化》以各民族的创世神话为研究主轴，下编《中原民族的神话与信仰》以主题学的方式对中国神话作宏观论述。洪叶文化事业有限公司2006年增订版。下面分上、下编两项。",
     },
