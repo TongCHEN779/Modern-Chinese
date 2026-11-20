@@ -499,7 +499,9 @@ POETRY = {
     "tangwenxuan": _annotated_scan_spec("tangwenxuan", "唐文选", "李浩 选，阎琦、李浩、李芳民 注释"),
     "erqiannianjian": _scan_spec("erqiannianjian", "二千年间", "胡绳 著"),
     "fojiaoshijieguan": _scan_spec("fojiaoshijieguan", "佛教世界观", "明贤法师 著"),
-    "gebenhagen": _scan_spec("gebenhagen", "哥本哈根三部曲", "［丹麦］托芙·迪特莱弗森 著 刘奕奕 译"),
+    "gebenhagen_qingchen": _scan_spec("gebenhagen_qingchen", "清晨", "［丹麦］托芙·迪特莱弗森 著 刘奕奕 译"),
+    "gebenhagen_mingliang": _scan_spec("gebenhagen_mingliang", "所有明亮的梦", "［丹麦］托芙·迪特莱弗森 著 刘奕奕 译"),
+    "gebenhagen_baizhou": _scan_spec("gebenhagen_baizhou", "白昼坠落", "［丹麦］托芙·迪特莱弗森 著 刘奕奕 译"),
     "huashu_lingmu": _scan_spec("huashu_lingmu", "献给爱与子宫的花束", "［日］铃木凉美 著　蕾克 译"),
     "jiushixin": _scan_spec("jiushixin", "九诗心：暗夜里的文学启明", "黄晓丹 著"),
     "lingtingsahala": _scan_spec("lingtingsahala", "聆听撒哈拉的歌声：三毛传", "田梦 著"),
@@ -514,7 +516,8 @@ POETRY = {
     "xiaobang": _scan_spec("xiaobang", "肖邦：生平与时代", "［英］艾伦·沃克 著　胡韵迪 译"),
     "yujianmozhate": _scan_spec("yujianmozhate", "遇见莫扎特：从神童到大师的音乐人生", "［英］保罗·约翰逊 著 成铨 译"),
     "zgrkwt": _scan_spec("zgrkwt", "中国人口问题的“热点”——人口理论、发展战略和生育政策", "梁中堂 著"),
-    "zgshenhua": _scan_spec("zgshenhua", "中国神话世界", "王孝廉 著"),
+    "zgshenhua_shang": _scan_spec("zgshenhua_shang", "上编：东北、西南族群创世神话及其文化", "王孝廉 著"),
+    "zgshenhua_xia": _scan_spec("zgshenhua_xia", "下编：中原民族的神话与信仰", "王孝廉 著"),
     "zuochongyoutu": _scan_spec("zuochongyoutu", "左冲右突：现代政治激流中的中国知识分子", "许纪霖 著"),
 }
 # 首页卡片上的书籍简介：只写书本身。
@@ -551,7 +554,9 @@ BOOK_INTRO = {
     "tangwenxuan": "按作者时序选录唐代六十三位作家的文章一百四十余篇，骈散兼收；每位作家有小传，每篇有题解与注释。",
     "erqiannianjian": "中国封建专制主义时代两千余年历史的专题通论，分皇帝、官僚、军队、农民、民族关系等问题，写于1944至1945年。",
     "fojiaoshijieguan": "以“一人一世界”为主线，从空性、缘起、二谛与三重境界出发，讨论佛教世界观及其与科学、传统文化的关系，并阐述人文佛教。",
-    "gebenhagen": "丹麦女作家托芙·迪特莱弗森的自传体三部曲《清晨》《所有明亮的梦》《白昼坠落》，写她在哥本哈根工人家庭的成长、写作与成瘾之路。",
+    "gebenhagen_qingchen": "托芙·迪特莱弗森自传体《哥本哈根三部曲》的第一部。",
+    "gebenhagen_mingliang": "托芙·迪特莱弗森自传体《哥本哈根三部曲》的第二部。",
+    "gebenhagen_baizhou": "托芙·迪特莱弗森自传体《哥本哈根三部曲》的第三部，分两个部分。",
     "huashu_lingmu": "日本作家铃木凉美的随笔集，以夜场、写作与自身经历为线索，写女儿与母亲之间的爱、控制与和解，并记述母亲病重离世的最后时光。",
     "jiushixin": "细读屈原、李陵、曹丕、陶渊明、杜甫、欧阳修、李清照、文天祥、吴梅村九位诗人的生命与诗作，讲述文学如何转化时代与生命中的痛苦。",
     "lingtingsahala": "以三毛的出生、少女时代、留学西班牙、撒哈拉岁月、荷西之死、万水千山的漫游直至离世为线索，叙写其一生的传记。",
@@ -566,7 +571,8 @@ BOOK_INTRO = {
     "xiaobang": "英国音乐学者艾伦·沃克所撰肖邦传记，依据波兰学界新近研究，自家世、华沙少年时代写到巴黎岁月、与乔治·桑的交往及晚年病逝，并附作品目录与参考书目。",
     "yujianmozhate": "英国历史学家保罗·约翰逊为莫扎特所作的简明传记，依神童、乐器、婚姻、歌剧与晚年五章写其生平与创作，另附丹尼尔·约翰逊《莫扎特在伦敦》。",
     "zgrkwt": "梁中堂人口学文集。收作者1980年代论人口理论、人口发展战略、生育政策及晚婚晚育加间隔试点的文章、报告与书信，附翼城县试行规定和报道。",
-    "zgshenhua": "王孝廉所著的中国神话研究，分上、下编：上编《东北、西南族群创世神话及其文化》考察满、蒙、朱蒙、氐羌、藏、百越、台湾高山族、苗蛮诸族群的创世神话与始祖传说，附蚩尤、昆仑与摩梭普米三篇专论；下编《中原民族的神话与信仰》论族神、仙乡、死与再生、牵牛织女、夸父、西王母、黄河水神等主题，附神话与诗、神话研究开拓者等篇。",
+    "zgshenhua_shang": "考察东北、西南各族群的创世神话与始祖传说，涉及满、蒙、朱蒙、氐羌、藏、百越、台湾高山族、苗蛮诸系，附蚩尤、昆仑与摩梭普米三篇专论。",
+    "zgshenhua_xia": "论中原民族的神话与信仰：族神与姓氏、古代神话、仙乡与归墟、死与再生、牵牛织女、石头、夸父、西王母、王权与神话、黄河水神，附神话与诗、神话研究开拓者等篇。",
     "zuochongyoutu": "论文集：从自由主义、社会民主主义、公共领域，到知识分子的社会角色与人格困境，再到政治正当性的演变，考察1840至1949年现代中国的思想与政治。",
 }
 
@@ -581,6 +587,17 @@ for _k, _v in POETRY.items():
 TIJIE_LINKS = {}
 
 COLLECTIONS = {
+    "gebenhagen": {
+        "title": "哥本哈根三部曲", "author": "［丹麦］托芙·迪特莱弗森 著", "children": ["gebenhagen_qingchen", "gebenhagen_mingliang", "gebenhagen_baizhou"],
+        "labels": {"gebenhagen_qingchen": "第一部", "gebenhagen_mingliang": "第二部", "gebenhagen_baizhou": "第三部"},
+        "home_intro": "丹麦女作家托芙·迪特莱弗森的自传体三部曲《清晨》《所有明亮的梦》《白昼坠落》，写她在哥本哈根工人家庭的成长、写作与成瘾之路。",
+        "intro": "《哥本哈根三部曲》是丹麦女作家托芙·迪特莱弗森（Tove Ditlevsen）的自传体作品，由《清晨》《所有明亮的梦》《白昼坠落》三部组成，写她在哥本哈根工人家庭的成长、写作与成瘾之路。中译本为刘奕奕译，南海出版公司2024年版。下面分三部。",
+    },
+    "zgshenhua": {
+        "title": "中国神话世界", "author": "王孝廉 著", "children": ["zgshenhua_shang", "zgshenhua_xia"],
+        "home_intro": "王孝廉的中国神话研究，分上、下编：上编考察东北、西南族群的创世神话，下编论中原民族的神话与信仰。",
+        "intro": "《中国神话世界》是台湾学者王孝廉的中国神话研究，分上、下两编：上编《东北、西南族群创世神话及其文化》以各民族的创世神话为研究主轴，下编《中原民族的神话与信仰》以主题学的方式对中国神话作宏观论述。洪叶文化事业有限公司2006年增订版。下面分上、下编两项。",
+    },
     "gudianwenxuedudu": {
         "title": "中国古典文学读本丛书典藏", "author": "人民文学出版社 编", "children": ["libaishixuan", "songcisanbaishoujianzhu", "sushishicixuan", "tangsongcijianshi", "jinyuanmingqingcixuan", "songshixuanzhu", "yuanzhenshiwenxuan", "xinqijicixuan", "wangweishixuan", "yuefushixuan", "yuanrenzajuxuan", "hanyushixuan", "dufushixuanzhu", "shijixuan", "liuyongcixuanzhu", "zgguxijuxuan", "gongzizhenxuanji", "qiujinxuanji", "chutangsijieshixuan", "guanhanqingxuanji", "dufushixuan", "tangwenxuan"],
         "home_intro": "人民文学出版社“中国古典文学读本丛书典藏”：李白、杜甫、苏轼、辛弃疾等诗词选注，宋词、元杂剧、史记、唐文选等二十二种，原书的题解与注释一并收入。",
