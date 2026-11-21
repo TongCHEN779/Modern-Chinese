@@ -477,6 +477,7 @@ POETRY = {
     "datangli_shaonianyou": _scan_spec("datangli_shaonianyou", "少年游", "张大春 著"),
     "datangli_fenghuangtai": _scan_spec("datangli_fenghuangtai", "凤凰台", "张大春 著"),
     "datangli_jiangjinjiu": _scan_spec("datangli_jiangjinjiu", "将进酒", "张大春 著"),
+    "ltlq_v1": _scan_spec("ltlq_v1", "从开端到柏拉图", "［英］C.C.W.泰勒 主编，韩东晖等 译"),
     "pusonglingchuanqi": _scan_spec("pusonglingchuanqi", "蒲松龄传奇", "熊文祥 著"),
     "libaishixuan": _annotated_scan_spec("libaishixuan", "李白诗选", "薛天纬 选注"),
     "songcisanbaishoujianzhu": _annotated_scan_spec("songcisanbaishoujianzhu", "宋词三百首笺注", "唐圭璋 笺注"),
@@ -535,6 +536,7 @@ BOOK_INTRO = {
     "datangli_shaonianyou": "张大春长篇小说《大唐李白》第一卷：写李白少年时在蜀中昌明、大匡山从赵蕤受业，结交僧道、游历成都的经历。",
     "datangli_fenghuangtai": "长篇小说《大唐李白》第二卷：李白出蜀后漫游荆楚、江南，与孟浩然、崔宗之、司马承祯等人在金陵凤凰台一带交游唱和，附黄念欣评论。",
     "datangli_jiangjinjiu": "张大春长篇小说《大唐李白》第三卷：李白沿江漫游广陵、安州，与高适、段七娘、月娘等人纠葛于诗酒、江湖与家国之间，附廖伟棠《李白的天下意、无情游》。",
+    "ltlq_v1": "《劳特利奇哲学史》十卷本第一卷，十二章分论古希腊城邦文化、前苏格拉底诸派、智者、希腊数学、苏格拉底与柏拉图，附年表与名词解释。",
     "pusonglingchuanqi": "熊文祥著，“中国名人轶事丛书”之五（吴洪激主编），武汉大学出版社、台湾汉欣文化事业有限公司1994年联合出版。以民间传说与志怪式笔法，写蒲松龄从乡居少年、屡试不第、南行做幕、坐馆教书到写成《聊斋志异》的一生。",
     "libaishixuan": "李白诗歌的选注本，选289题343首，按生平分蜀中、安陆至初入长安、东鲁与翰林、去朝十年、从璘与流夜郎、晚年、未编年七期编年排列，附前言与逐篇题解、注释。",
     "songcisanbaishoujianzhu": "朱祖谋所编《宋词三百首》的笺注本：每首词后附评笺（本事与历代评语），作者小传、词语注释与校记并录，书前有三篇序。",
@@ -593,6 +595,67 @@ for _k, _v in POETRY.items():
 TIJIE_LINKS = {}
 
 COLLECTIONS = {
+    "ltlq": {
+        "title": "劳特利奇哲学史", "author": "［英］帕金森、［加］杉克尔 总主编", "children": ["ltlq_v1"] + [
+{
+"label": "第二卷",
+"title": "从亚里士多德到奥古斯丁",
+"author": "［美］大卫·福莱 主编，冯俊等 译",
+"intro": "整理中，暂未收入。"
+},
+{
+"label": "第三卷",
+"title": "中世纪哲学",
+"author": "［英］约翰·马仁邦 主编，孙毅、查常平、戴远方、杜丽燕、冯俊等 译",
+"intro": "整理中，暂未收入。"
+},
+{
+"label": "第四卷",
+"title": "文艺复兴和17世纪理性主义",
+"author": "［英］G.H.R.帕金森 主编，田平、陈喜贵、韩东晖、冯俊、楚艳红等 译",
+"intro": "整理中，暂未收入。"
+},
+{
+"label": "第五卷",
+"title": "英国哲学和启蒙时代",
+"author": "［英］斯图亚特·布朗 主编，高新民、曾晓平、殷筱、冯俊、程鑫等 译",
+"intro": "整理中，暂未收入。"
+},
+{
+"label": "第六卷",
+"title": "德国唯心主义时代",
+"author": "［美］凯特林·M·希金斯 主编，李静韬、刘娟、李婉莉、鲍建竹 译",
+"intro": "整理中，暂未收入。"
+},
+{
+"label": "第七卷",
+"title": "19世纪哲学",
+"author": "［新加坡］C.L.腾 主编，许涤非、殷筱、李静韬、张志伟 译",
+"intro": "整理中，暂未收入。"
+},
+{
+"label": "第八卷",
+"title": "20世纪大陆哲学",
+"author": "［爱尔兰］理查德·柯尔内 主编，谢仁生、魏开琼、胡成恩 译",
+"intro": "整理中，暂未收入。"
+},
+{
+"label": "第九卷",
+"title": "20世纪科学、逻辑和数学哲学",
+"author": "［加］斯图亚特·G·杉克尔 主编，费多益、鲍建竹 译",
+"intro": "整理中，暂未收入。"
+},
+{
+"label": "第十卷",
+"title": "20世纪意义、知识和价值哲学",
+"author": "［加］约翰·V·康菲尔德 主编，江怡、曾自卫、郭立东、鲍建竹、魏开琼、罗俊丽 译",
+"intro": "整理中，暂未收入。"
+}
+],
+        "labels": {"ltlq_v1": "第一卷"},
+        "home_intro": "《劳特利奇哲学史》十卷本，从公元前6世纪的古希腊到20世纪的西方哲学史，中国人民大学出版社中文版；目前收第一卷，其余各卷陆续整理。",
+        "intro": "《劳特利奇哲学史》（Routledge History of Philosophy，十卷本）由英国的帕金森（G.H.R. Parkinson）和加拿大的杉克尔（S.G. Shanker）总主编，对从公元前6世纪开始直到当代的西方哲学史做编年式考察：深入讨论所有重要的哲学发展，为公认的伟大哲学家提供很大篇幅，同时不忽略较小的人物；各分卷由不同学者主编，全书130多位专家撰稿，每章后附参考书目，书中有哲学大事年表、名词解释与索引。中文版由冯俊担任翻译总主编，中国人民大学出版社出版。目前收入第一卷，其余各卷陆续整理，下面先列出十卷的目录。",
+    },
     "datangli": {
         "title": "大唐李白", "author": "张大春 著", "children": ["datangli_shaonianyou", "datangli_fenghuangtai", "datangli_jiangjinjiu"],
         "labels": {"datangli_shaonianyou": "第一卷", "datangli_fenghuangtai": "第二卷", "datangli_jiangjinjiu": "第三卷"},
@@ -626,7 +689,8 @@ COLLECTIONS = {
 COLLECTION_OF = {}
 for _k, _c in COLLECTIONS.items():
     for _child in _c["children"]:
-        COLLECTION_OF[_child] = _k
+        if isinstance(_child, str):          # 条目也可以是 dict：尚未收入、只在目录里占位的卷册（见 build_collection）
+            COLLECTION_OF[_child] = _k
 PARENT_CRUMBS = {}      # 书 slug → 它上面各层目录的面包屑（从外到内）；href 相对于 books/<书>/
 for _child, _k in COLLECTION_OF.items():
     _chain, _cur = [], _k
@@ -1272,7 +1336,7 @@ def build_poetry(bslug, spec):
 
 
 # 书名首字的拼音首字母，供首页字母索引使用；新增书目若首字不在表内，build 会报错提醒补充。
-INITIAL = {"历": "L", "中": "Z", "宋": "S", "李": "L", "张": "Z", "红": "H", "蒲": "P", "二": "E", "佛": "F", "哥": "G", "献": "X", "九": "J", "聆": "L", "论": "L", "马": "M", "名": "M", "暮": "M", "人": "R", "三": "S", "肖": "X", "遇": "Y", "左": "Z", "大": "D"}
+INITIAL = {"历": "L", "中": "Z", "宋": "S", "李": "L", "张": "Z", "红": "H", "蒲": "P", "二": "E", "佛": "F", "哥": "G", "献": "X", "九": "J", "聆": "L", "论": "L", "马": "M", "名": "M", "暮": "M", "人": "R", "三": "S", "肖": "X", "遇": "Y", "左": "Z", "大": "D", "劳": "L"}
 
 
 def build_collection(slug):
@@ -1280,6 +1344,10 @@ def build_collection(slug):
     c = COLLECTIONS[slug]
     cards = []
     for k in c["children"]:
+        if isinstance(k, dict):              # 占位条目：目录里列出，但还没有内容，不带链接
+            tag = f'<span class="vol">{esc(k["label"])}</span>' if k.get("label") else ""
+            cards.append(f'<li class="pending"><div>{tag}<strong>{esc(k["title"])}</strong><span>{esc(k["author"])}</span><p>{esc(k["intro"])}</p></div></li>')
+            continue
         if k in COLLECTIONS:
             title, author, intro = COLLECTIONS[k]["title"], COLLECTIONS[k]["author"], COLLECTIONS[k]["card_intro"]
         else:
