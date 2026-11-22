@@ -1,0 +1,7 @@
+(function(){var D=[["l","p01.html","前言"],["l","p02.html","第一章李渊称帝建唐"],["l","p03.html","第二章玄武门之变"],["l","p04.html","第三章贞观明君唐太宗"],["l","p05.html","第四章贤德皇后长孙氏"],["l","p06.html","第五章渭水之盟稳大局"],["l","p07.html","第六章文成公主联姻西藏"],["l","p08.html","第七章太平宰相房玄龄"],["l","p09.html","第八章玄奘取经，弘扬佛法"],["l","p10.html","第九章女皇帝武则天"],["l","p11.html","第十章韦后篡权乱政"],["l","p12.html","第十一章鉴真东渡传佛法"],["l","p13.html","第十二章继往开来的“开元盛世”"],["l","p14.html","第十三章杨贵妃受宠，唐王朝衰落"],["l","p15.html","第十四章安史之乱，撼动唐朝根基"],["l","p16.html","第十五章马嵬驿之变"],["l","p17.html","第十六章唐王朝平定叛乱"],["l","p18.html","第十七章郭子仪威名退强敌"],["l","p19.html","第十八章永贞革新"],["l","p20.html","第十九章平定藩镇割据"],["l","p21.html","第二十章唐朝末年的政治斗争"],["l","p22.html","第二十一章黄巢起义，挖空唐朝基石"],["l","p23.html","第二十二章朱全忠灭唐建大梁"],["l","p24.html","附录一瑰丽多姿的诗文化"],["l","p25.html","附录二鼎盛一时的佛教文化"],["l","p26.html","附录三光耀千古的艺术成就"],["l","p27.html","附录四 唐朝历代皇帝年表"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();

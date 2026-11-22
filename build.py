@@ -620,6 +620,17 @@ POETRY = {
     "qsyy_ming_gw": _scan_spec("qsyy_ming_gw", "明代宫闱史", "许啸天 著"),
     "qsyy_qing_gy": _scan_spec("qsyy_qing_gy", "清代宫廷艳史", "许啸天 著"),
     "qsyy_qing_ms": _scan_spec("qsyy_qing_ms", "清朝秘史", "陆士谔 著"),
+    "sxs_zhou": _scan_spec("sxs_zhou", "3小时读懂周朝", "姜若木 编著"),
+    "sxs_qin": _scan_spec("sxs_qin", "3小时读懂秦朝", "姜若木 编著"),
+    "sxs_han": _scan_spec("sxs_han", "3小时读懂汉朝", "姜若木 编著"),
+    "sxs_sanguo": _scan_spec("sxs_sanguo", "3小时读懂三国", "姜若木 编著"),
+    "sxs_jin": _scan_spec("sxs_jin", "3小时读懂晋朝", "姜若木 编著"),
+    "sxs_nanbeichao": _scan_spec("sxs_nanbeichao", "3小时读懂南北朝", "姜若木 编著"),
+    "sxs_tang": _scan_spec("sxs_tang", "3小时读懂唐朝", "姜若木 编著"),
+    "sxs_song": _scan_spec("sxs_song", "3小时读懂宋朝", "姜若木 编著"),
+    "sxs_yuan": _scan_spec("sxs_yuan", "3小时读懂元朝", "姜若木 编著"),
+    "sxs_ming": _scan_spec("sxs_ming", "3小时读懂明朝", "姜若木 编著"),
+    "sxs_qing": _scan_spec("sxs_qing", "3小时读懂清朝", "姜若木 编著"),
     "ltlq_v2": _scan_spec("ltlq_v2", "从亚里士多德到奥古斯丁", "［美］大卫·福莱 主编，冯俊等 译"),
     "ltlq_v3": _scan_spec("ltlq_v3", "中世纪哲学", "［英］约翰·马仁邦 主编，孙毅等 译"),
     "ltlq_v4": _scan_spec("ltlq_v4", "文艺复兴和17世纪理性主义", "［英］G.H.R.帕金森 主编，田平等 译"),
@@ -830,6 +841,17 @@ BOOK_INTRO = {
     "qsyy_ming_gw": "章回体历史演义，以宫闱后妃、帝王私事为线索，叙元代蒙古兴起、朱元璋建明及历朝宫廷内外故事，至明亡、清初，共一百二十回。",
     "qsyy_qing_gy": "章回体历史演义，写清朝从努尔哈赤起兵到光绪、宣统两朝的宫廷后妃、宗室与朝臣旧事，终于溥仪逊位，共一百回。",
     "qsyy_qing_ms": "章回体历史演义（即《清史演义》），从清太祖努尔哈赤兴起写起，经顺康雍乾，历鸦片战争、太平天国、甲午、戊戌、庚子，至宣统逊位，共一百四十回。",
+    "sxs_zhou": "姜若木编著的通俗周朝史读物，按章叙述从周人兴起、武王灭商，经西周、春秋、战国，至东周灭亡的历史，附春秋战国文化思想、生产力革新与周朝帝王时间表。",
+    "sxs_qin": "通俗历史读物，分十三章叙述秦国从先祖兴起、秦穆公称霸、商鞅变法、纵横捭阖、吕不韦与嬴政，到统一六国、建立大一统帝国及其崩溃的历程。",
+    "sxs_han": "通俗历史读物，分楚汉争霸、汉朝建立、吕后专权、文景之治、西汉盛衰、东汉兴亡六章叙述两汉史事，附汉代文化成就与历代皇帝年表。",
+    "sxs_sanguo": "通俗历史读物。依次讲述东汉末年外戚宦官之争、黄巾起义、群雄割据，曹魏、蜀汉、东吴三国的兴衰，至西晋统一，附三国经济、文学、音乐与帝王年表。",
+    "sxs_jin": "通俗历史读物，按章节叙述西晋、东晋历史：从司马氏代魏建晋、统一全国、八王之乱，到晋室南迁、北伐、淝水之战、门阀政治及刘裕灭晋；附晋代文学艺术人物与帝王年表。",
+    "sxs_nanbeichao": "通俗历史读物，按朝代分南朝（宋、齐、梁、陈）、北朝（北魏、东魏、北齐、西魏、北周）叙述南北朝史事，并有思想宗教、文学艺术、科技成就等附录及帝王年表。",
+    "sxs_tang": "通俗历史读物，按事件与人物分二十二章，讲述唐朝从李渊称帝建唐到朱全忠灭唐建梁的历史，另有诗文、佛教、艺术三篇附录及唐朝皇帝年表。",
+    "sxs_song": "通俗历史读物，按章叙述北宋、南宋的建国、变法、战和与灭亡，附词文化、科技建筑专题及帝王年号年表。",
+    "sxs_yuan": "通俗历史读物，按时序讲述元朝兴亡：成吉思汗统一蒙古、蒙古帝国扩张，忽必烈建元灭宋，中后期诸帝，至元顺帝北逃、北元灭亡；附元代中外关系、文化、科技与帝王年表。",
+    "sxs_ming": "通俗历史读物，分六章讲述明朝自红巾军起义、朱元璋立国，至靖难之役、土木堡之变、万历中兴、魏忠贤专权，直到崇祯帝煤山自缢的历史，附文学、科技、思想艺术成就及帝王年表。",
+    "sxs_qing": "通俗历史读物，以人物和事件为线索，从努尔哈赤奠基大清写到宣统帝退位，共二十二章，多数章末附点评。",
     "ltlq_v2": "《劳特利奇哲学史》十卷本第二卷，十二章依次论亚里士多德各领域、漫步学派、伊壁鸠鲁派、斯多亚派、怀疑派、希腊化科学、新柏拉图主义与奥古斯丁，附年表与名词解释。",
     "ltlq_v3": "《劳特利奇哲学史》十卷本第三卷，十九章依次论波爱修、阿拉伯与犹太哲学、中世纪早期、12世纪、13至14世纪经院哲学直到苏阿雷斯，附年表与名词解释。",
     "ltlq_v4": "《劳特利奇哲学史》十卷本第四卷，十一章分论意大利及其他地区的文艺复兴哲学、科学与数学、培根、笛卡尔、伽森狄与霍布斯、斯宾诺莎、偶因论和莱布尼兹，附年表与名词解释。",
@@ -925,6 +947,11 @@ COLLECTIONS = {
         "title": "中国古典文学读本丛书典藏", "author": "人民文学出版社 编", "children": ["libaishixuan", "songcisanbaishoujianzhu", "sushishicixuan", "tangsongcijianshi", "jinyuanmingqingcixuan", "songshixuanzhu", "yuanzhenshiwenxuan", "xinqijicixuan", "wangweishixuan", "yuefushixuan", "yuanrenzajuxuan", "hanyushixuan", "dufushixuanzhu", "shijixuan", "liuyongcixuanzhu", "zgguxijuxuan", "gongzizhenxuanji", "qiujinxuanji", "chutangsijieshixuan", "guanhanqingxuanji", "dufushixuan", "tangwenxuan"],
         "home_intro": "人民文学出版社“中国古典文学读本丛书典藏”：李白、杜甫、苏轼、辛弃疾等诗词选注，宋词、元杂剧、史记、唐文选等二十二种，原书的题解与注释一并收入。",
         "intro": "“中国古典文学读本丛书”是人民文学出版社的古典文学选注本丛书，这里收其典藏本中的二十二种：李白、王维、杜甫、韩愈、元稹、龚自珍、秋瑾等诗文选，宋词三百首笺注、唐宋词简释、柳永、苏轼、辛弃疾和金元明清词选，乐府诗选、宋诗选注、史记选、唐文选，以及元人杂剧选、关汉卿选集和中国古代戏剧选。各册的题解与注释都是原书的，已按本站的格式放在所注段落之后；文字据书籍扫描件识别整理，尚未逐字校对。",
+    },
+    "sanxiaoshi": {
+        "title": "3小时读懂系列", "author": "姜若木 编著", "children": ["sxs_zhou", "sxs_qin", "sxs_han", "sxs_sanguo", "sxs_jin", "sxs_nanbeichao", "sxs_tang", "sxs_song", "sxs_yuan", "sxs_ming", "sxs_qing"],
+        "home_intro": "姜若木编著、京华出版社2011年出版的通俗历史读物，依朝代分册，从周朝、秦朝到清朝共十一册。",
+        "intro": "“3小时读懂”系列是姜若木编著的“一目了然速读史”通俗历史读物，京华出版社2011年出版，这里收周朝、秦朝、汉朝、三国、晋朝、南北朝、唐朝、宋朝、元朝、明朝、清朝十一册。各册按章叙述一个朝代的兴亡，章内分小节，并有“点评”“相关链接”“人物小传”等栏目，书末多附文化成就和帝王年表。",
     },
     "zhongguoquanshi": {
         "title": "中国全史演义系列", "author": "大众文艺出版社 编", "children": ["qsyy_qianhan", "qsyy_houhan", "qsyy_liangjin", "qsyy_nanbeichao", "qsyy_tang", "qsyy_wudai", "qsyy_song", "qsyy_yuan", "qsyy_ming", "qsyy_qing", "qsyy_minguo", "qsyy_han_gy", "qsyy_sui_gw", "qsyy_tang_gy", "qsyy_ming_gw", "qsyy_qing_gy", "qsyy_qing_ms"],
@@ -1594,7 +1621,7 @@ def build_poetry(bslug, spec):
 
 
 # 书名首字的拼音首字母，供首页字母索引使用；新增书目若首字不在表内，build 会报错提醒补充。
-INITIAL = {"历": "L", "中": "Z", "宋": "S", "李": "L", "张": "Z", "红": "H", "蒲": "P", "二": "E", "佛": "F", "哥": "G", "献": "X", "九": "J", "聆": "L", "论": "L", "马": "M", "名": "M", "暮": "M", "人": "R", "三": "S", "肖": "X", "遇": "Y", "左": "Z", "大": "D", "劳": "L", "百": "B"}
+INITIAL = {"历": "L", "中": "Z", "宋": "S", "李": "L", "张": "Z", "红": "H", "蒲": "P", "二": "E", "佛": "F", "哥": "G", "献": "X", "九": "J", "聆": "L", "论": "L", "马": "M", "名": "M", "暮": "M", "人": "R", "三": "S", "肖": "X", "遇": "Y", "左": "Z", "大": "D", "劳": "L", "百": "B", "3": "S"}
 
 
 def build_collection(slug):
