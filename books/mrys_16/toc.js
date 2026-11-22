@@ -1,0 +1,7 @@
+(function(){var D=[["l","p01.html","《中国名人轶事丛书》出版缘由"],["l","p02.html","主编絮语"],["l","p03.html","闹曲会 乞儿吟诗惊四座"],["l","p04.html","举神童 金家小子得案首"],["l","p05.html","祝大寿 墨憨斋主降阶迎"],["l","p06.html","赴乡试 同船相识马秀才"],["l","p07.html","拜生祠 诸生弄文讽奸孽"],["l","p08.html","清忠谱 长街窄巷起惊雷"],["l","p09.html","甚荒唐 西子来矣黜功名"],["l","p10.html","批《水浒》 事孝反殒亲父命"],["l","p11.html","上红祭 孝子唱戏娱吊客"],["l","p12.html","闹春宵 丽娘抚琴谢知音"],["l","p13.html","聚与散 春暄恼人昼梦短"],["l","p14.html","选宫妃 刘忠大义献侄女"],["l","p15.html","闯禅堂 壁上题诗惊法座"],["l","p16.html","劝功名 贤妻反被丈夫恶"],["l","p17.html","谒手书 怀才不遇困场屋"],["l","p18.html","闹元宵 妹选俊才成佳偶"],["l","p19.html","夜归舟 略施小计解民危"],["l","p20.html","辞虎丘 预言党争必误国"],["l","p21.html","苦无状 报国无门走无途"],["l","p22.html","遭丧乱 铁蹄之下家离散"],["l","p23.html","奔穷途 夜宿草庵旧梦残"],["l","p24.html","不辱志 家贫无米妻儿哀"],["l","p25.html","拒祝寿 紧闭书斋独自哀"],["l","p26.html","求写序 毛氏父子设醉局"],["l","p27.html","遮浮云 击鼓吹笛哭文庙"],["l","p28.html","誓已决 大雪狱中咏佳句"],["l","p29.html","具酷刑 笑以微语戏贪官"],["l","p30.html","秋风起 三山遗恨泪长流"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();
