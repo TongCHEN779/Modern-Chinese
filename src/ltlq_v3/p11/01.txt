@@ -1,0 +1,171 @@
+# 第五章 中世纪早期的西方哲学及其背景
+原：罗萨蒙德·麦基特利克（Rosamond McKitterick）
+原：约翰·马仁邦(John Marenbon)
+原：(“图书馆、学校和文本的传播”由麦基特利克撰写；“导言”、“哲学主题”由马仁邦撰写。)
+
+# 导言
+原：与中世纪其他时期相比，公元800—1100年这一时期，经常被中世纪西方哲学史家所忽略。不过，并不是在整体上被忽略。爱留根纳（John Scottus Eriugena，创作时间为公元850—870年）和坎特伯雷的安瑟尔谟（Anselm，他的作品撰写于1060—1100年）二人，常常被遴选出来加以专门探讨。虽然把安瑟尔谟当作12世纪理智觉醒的先驱者似乎更妥当一些，但是，人们更愿意把爱留根纳视为孤独的天才，大有晚期希腊的遗风或者19世纪的思想时尚，而不是被视为他那个时代的人。因此，这两位思想家得到的关注，还不足以激起对他们的同代人的兴趣。事实上，爱留根纳和安瑟尔谟是当时两位杰出的哲学家，我们在后一章将详尽讨论他们的思想。但是，他们探讨的问题，他们使用的方法，是他们的同代人共通的东西。本章拟补充那些常常被人遗忘的背景。
+原：在中世纪早期探讨哲学问题的，除了爱留根纳和安瑟尔谟以外，还有一些知名学人：如阿尔昆（Alcuin，英国人，公元8世纪90年代查理曼大帝的主要顾问之一）、阿尔昆的学生坎迪多·威佐（CandidusWizo）和图尔的费雷德吉苏斯(Fredegisus of Tours)；科比的拉特拉姆努斯(Ratramnus of Corbie）和奥尔拜斯的戈特沙尔克（Gottschalk of Orbias，9世纪中期）；欧克塞尔的莱米吉乌斯（Remigius of Auxerre） 和科维的博沃（Bovo of Corvey，9世纪后期到10世纪前期）；弗勒里的埃博（Abbo of Fleury），圣高尔的诺特克(Notker of St Gall） 和欧里亚克的吉尔伯特（Gerbert of Aurillac，10世纪末）；贝朗伽（Berengar）、兰弗朗克（Lanfranc）和彼得·达米安（PeterDamian，11世纪）。这一时期哲学史的材料，很多都是匿名的，它的重要部分不是由独立的著作或者自成体系的评论组成，而是由一些注释组成，它们大多写在古典手抄本或后古典文本空白处和行与行之间。实际上，几个世纪以来，大量的哲学活动并不是原创性的思索，而是吸收古典文献的理念，对于哲学活动的最好证明，常常不是特定的作品，而是一些资料，中心内容就是研习当时拥有的一些哲学和神学著作的手抄本。因此，研究这些手抄本及其传播，是研究早期中世纪哲学史的根本所在。其次是描述专家们对这一领域知识状况的概括。再次，简要地综述这一时期一些杰出的哲学主题。
+
+# 图书馆、学校和文本的传播
+原：公元814年以前，里昂的莱德拉德大主教（BishopLeidrad）把他广泛搜集的哲学论文赠送给他的主教图书馆。现在，我们看到的罗马Casa dei padri maristi A.Ⅱ.1的手抄本，大致的时间约为公元8世纪后期或9世纪早期。其中包括波菲利的《绪论》（Isagoge）、《十范畴》（TenCategories对亚里士多德《范畴篇》一些意译文献的评论，这些文献被错误地归人奥古斯丁名下）、伪阿普里乌斯（pseudo-Apuleius）的《论解释》（Perihermenias)和波爱修对亚里士多德《解释篇》(OnInterpretation5.1783，[5.20417，5.7552-53)的第一个评论。它是为莱德拉德写的，也是关于辩证法的最古老的幸存文献集。它不仅仅包含着古典文本，而且包括阿尔昆的诗句，为把《十范畴》献给查理曼而作。最后，比肖夫（Bischoff）把这一汇编变成宫廷藏书的一部分（5.31157)。同样，在公元8世纪后期，法兰克人的宫廷和里昂（Lyons）大教堂图书馆，对柏拉图的《蒂迈欧篇》（由卡尔西底乌斯Calcidius]翻译）的传播产生影响。例如，公元800年在法国东北部编写的巴黎国家文献目录2164，就与查理曼皇家图书馆的一组古典手稿相关（5.32158，5.55]89)。里昂文本两卷本324含有卡尔西底乌斯为《蒂迈欧篇》撰写的书评，里昂大教堂图书馆也用同样的途径获得了莱德拉德主教的哲学和对话集。
+原：以参与古书贸易著称的里昂，在公元7世纪是著名的研究中心，它的图书馆拥有5—7世纪希腊文和拉丁文经典文献，在古典哲学文献的传播方面发挥了重要作用，毫无疑问，它是值得信赖的。此外，查理曼著名的古典文献珍本，柏林圣迪茨德国国立图书馆（Deutsche Staatsbibliothek Diez B.Sant.）66，通常被视为8世纪后期语法集中的零散的活页，它来自宫闱之内。现在普遍认为，这些文本与780年左右那些著名的或珍本作品的抄本有关（5.32162-166，154-156）。与莱德拉德相关的书，以及其他古典文本，都与宫廷相关，尚存的手稿是抄写本，抄自送给加洛林王朝的书，或者，更间接一点，是宫廷誉写本的抄本。
+注原：它是值得信赖的：参见Cavallo[5.35]44.Lowe[5.19]，也参见Eddius Stephanus，《威尔夫里德主教生平》(LifeofBishopWilfrid，Cambridge，1985，ch.6)。
+原：尽管并不是所有幸存的哲学和对话著作都与宫廷有关，但是，它肯定出自加洛林王朝时期，绝大多数重要著作最早的抄本，就是这一时期保存下来的。事实上，就古典文本而言，古代晚期与加洛林王朝之间，我们几乎是个空白。显然，古典哲学的知识是通过早期教父和基督教作者，如奥古斯丁、忏悔者马克西穆斯（Maximus）和马留斯·维克托里努（Marius Victorinus）等人为中介传播的，从5世纪到8世纪，他们著作的抄写本一直保存下来，为数颇丰。古典文献和学问最重要的证明，都是从加洛林抄本沿袭下来的（5.22，5.31)。然而，我们要是假定公元5—8世纪后期之间，在意大利或高卢这些文本没有任何研究或者没有表现出任何旨趣，那是极不明智的。在8—9世纪，我们看到了古典文本，包括那些涉及逻辑学和哲学的文本在内，读者人数是最多的，它们的某一种或某几种抄本，也引起了人们极大的关注。我们必须正视这一宽泛的理智氛围。其实我们可以推测，包含哲学文献在内的加洛林手稿，并不是偶然幸存下来的，而是精心保存的。他们是8—9世纪审慎选择的结果，与不同的理智嗜好相关，尽管在5世纪以后，古典文献最初的幸存有一些偶然因素。因此，正像马仁邦已经证明的，人们完全能够说明《十范畴》和亚里士多德的《范畴篇》之间存在的明显的差异，因为《十范畴》更适合公元9—10世纪思想者的口味（5.75]，也参见[pp.108-109)。
+原：即便如此，我们也不能假定，理智的嗜好以及这类理智活动对各知识门类明显的促进作用，是日耳曼人在旧罗马帝国废墟上建立帝国的自然结果。在中世纪早期，哲学和逻辑学为什么成为学界关注的焦点，尤其成为基督教神学和《圣经》诠释的流行时尚？在试图回答这一问题之前，我们先根据现存的手稿分布来考察这一证据：第一，在公元8一10世纪，哲学文本为人们广泛地拥有和使用；第二，在早期中世纪的一些学校中学生们要学习哲学。
+原：在确定早期中世纪哲学研究的理智氛围时，首要考虑的是，人们知道并且得到什么样的文本，我们能够用文献证明，特定的文本是否介绍给更多的读者或者区域，这些观念是如何传播的。一些特定的中心因哲学研究而著名，它们何以能够处于这样的地位？这里所说的基本文本是：柏拉图的《蒂迈欧篇》；波爱修的《哲学的慰藉》，逻辑学著作以及关于亚里士多德《范畴篇》的拉丁文译本；《范畴篇》的合成译本外带波爱修的辅助定理（lemmata)；被早期中世纪视为《十范畴》的《范畴篇》片断；伪阿普里乌斯的《论解释》；马克罗比乌斯（Macrobius）对西塞罗的《西庇奥之梦》（Dreamof Scipio）的评论；西塞罗的《论题篇》（Topic)。
+原：如果里昂哲学汇编和里昂的《蒂迈欧篇》突出了加洛林宫廷在哲学文本传播中所发挥的显著作用，也就应该承认其他中心的作用，他们显然不依赖宫廷。例如，对拉丁文版《蒂迈欧篇》文本传统的分析表明，西塞罗的翻译对于费里埃（Ferrières）和科比（Corbie）的特殊作用，卡尔西底乌斯版对兰斯（Rheims）和圣阿曼德（St Amand）有特殊影响（参见5.56)。根据抄写文本的类型对书进行专门化的生产，是加洛林王朝时期突出的现象，古典文本集中在卢瓦尔（Loire）、皮卡迪（Picardy）和康斯坦茨（Constance）湖区，大批的书目尤其与圣阿曼德相关，《圣经》和《福音书》的不同设计版本与图尔（Tours）相关，加洛林王朝时期的里昂更偏爱奥古斯丁神学。
+原：波爱修翻译的亚里士多德的《范畴篇》最早的手稿，不论是足本，还是残篇，都产生于10世纪后期到11世纪。在那些世纪产生的这些文本，出自科比、弗罗里（Fleury）、圣高尔（St Gall）、埃希特纳赫（Echternach）和圣瓦斯特（StVaast）等地，它们大概依据更早的一些范本，或者也有可能出自同样的范本。无论是公元6世纪，还是9世纪，日期是推测出来的。三个9世纪合成翻译的手稿目前尚存，它们显然不是来自康斯坦茨湖区，也不是来自皮卡迪和南意大利。这一分布或者表明最初文本传播甚广，或者表明在公元9世纪，这些区域个人之间有特定的接触。在公元9—10世纪保存下来的《十范畴》手稿，不会少于19个，其中许多手稿拥有大量的注解(5.75]116-138，173-206)。欧克塞尔是这些作品的重要中心，弗罗里也是，它们的东西可能来自圣高尔和科比，最远到东部的弗莱辛（Freising），西部的威尔士（Wales），公元11—12世纪，还有一些法国和意大利的样本。对其他关键文本手稿传播的考察，也显示出相似的模式。
+注原：纪后期到11世纪：参见帕里罗(Minio-Paluello）为他编的《拉丁文版亚里士多德《范畴篇>》撰写的导论(Categories in Aristoteles Latinus, 1, 1-5， Bruges and Paris, 1961,pp. xiv, xxiii, xxxii, xxxv).
+原：例如，由维克托里努翻译的波菲利的《绪论》尚存残篇，现存于慕尼黑拜恩国家文献馆，文献Clm6403是在弗莱辛撰写的。另一方面，波爱修的译本也发现了许多9—10世纪的抄写本（包括Clm6403），通常与《十范畴》相符。不过，我们在这些对话集中也发现了像里昂全集这样的东西，它们属于莱德拉德（[5.75]173）。马仁邦已经断定，科比的拉特拉姆努斯、爱留根纳、欧克塞尔的海里克（Heiric）、欧克塞尔的莱米吉乌斯等，都知道《十范畴》。因此，欧克塞尔的形象非常突出，实际上，加洛林王朝所有学派，都与它有关，不过，《绪论》和《十范畴》的一些样本，是在法兰克人的王国其他文化中心（南部和东部）发现的，其中一些与欧克塞尔颇有些渊源(参见5.24])。若是考察《绪论》、逻辑学著作集以及波爱修对《绪论》的两个评论的手稿传统，也能发现类似的模式。第一评论（对话体）的9世纪抄本保留下来，在BN拉丁文12958，是公元9世纪后期到10世纪早期科比使用的版本，尽管不是在那里撰写的，而是为了汇编BN拉丁文文献13955。评论保存在10世纪的五个手稿中，其渊源表明，这一文本后来传播非常广泛，尽管不一定是来自科比本地（拉丁文本的亚里士多德，1，6-7，p. xxi)。伪阿普里乌斯的《论解释》，在中世纪早期，在法兰克人中流传甚广([5.66])，而欧克塞尔在马克罗比乌斯对西塞罗的《西庇奥之梦》的评论（5.2222-32）的传播，起到了至关重要的作用。此外，尽管从图尔斯开始，BN拉丁文献6370已经有校正，出自欧克塞尔的海里克和费里埃的卢普斯（Lupus of Ferriéres）之手。马克罗比乌斯9 世纪的其他手稿，也101从图尔斯、弗勒里和科比保留下来，后传播到德国北部和南意大利。同样，西塞罗哲学著作的“莱顿全集”证明，在科比、弗里埃、大概还有9世纪的兰斯，以及11世纪的蒙特卡西诺都对西塞罗《论题篇》的传播产生了影响(参见5.25]，5.27]和5.22]124-130)。
+原：加洛林王朝诸多哲学著作的抄本，也就是中世纪早期研究的那些本子，与稍晚些来自其他地方的派生物之间的文本关联常常是十分密切的，它们在文本方面的关联使人看到，个人之间的接触在10世纪后期和11世纪早期(如果不是更早的话）某些阶段，起着至关重要的作用。同样，在文本的传统方面，有许多不同的传播途径，这也是十分显著的。尽管有证据证明，中世纪早期的若干个中心，当时的兴奋点都在这些哲学著作的文本方面，来自其他地方的文本保留下来的为数甚多，这也表明，哲学研究的中心并不限于在欧克塞尔、弗勒里和科比这几个中心，而且研究兴趣也向其他地方扩散，尤其是南部德国。此外，尽管后来的一些中心，大约在10一11世纪左右，也对文本有兴趣，而且显然与加洛林王朝时期的中心有着某种联系（也有一些没有联系），有一些现存的证据表明，西欧中世纪早期对于哲学文本和文本的研究有更广泛的兴趣，我们可以得到的证据，远不只是现在允许我们重新构造的那些。
+原：不过，我们必须正视大量留存的后古典范本。我们常常能够追溯到它们存在的足迹，例如西马库斯（Symmachus）拥有的马克罗比乌斯抄本，他的书中的签名在后来的抄本中不少于十个。另外一些例子是6世纪从拉维那(Ravana）到高尔（Gaul）的地理杂记，为抄本提供了一些范本（梵蒂冈拉丁文文献4929，fos79v-159r），它们是费里埃的卢普斯（Lupus）和欧克塞尔的海里克圈内的杰作。波爱修对西塞罗《论题篇》的评论古代莎草纸抄本，是费里埃的卢普斯从图尔借来的，通常认为，特伦斯（Terence）古代后期的文本，兰斯的阿拉提（Aratea）和11世纪罗塞林吉亚（Lotharingia）的抄本，如 BN拉丁文献 7899、莱顿 Voss. 拉丁文献 Q79和著名的维吉尔(Virgil）文本，是加洛林王朝时圣丹尼斯（St Denis）和洛尔什（Lorsch)所拥有。无疑，如果一个人把本章所限定的那些核心文本的范围扩大到与文本相关的兴趣和内容，以及9—11世纪图书馆文献编目提供的证据，那么拥有这些文本的中心会大大增加。加洛林王朝宫廷的形象尤为突出（参见[5.15]1005,[5.18]，[5.53])。
+注原：所拥有：参见Reynolds[5.22]225，Bischoff[5.33]，关于卢普斯借书，参见 Levillain的书信汇编，Paris，1964，pp.214-215。
+原：修道院和大教堂的缮写室对于提供文本起着积极的作用。对哲学文本的注释和评论约从9世纪起，显而易见，提供的这些注释和评论与图书馆和学校相关联，而且满足了他们的需要（参见5.30]，5.38]，[5.78])。这些专著有助于个人的研究和理智活动的进行，我们从个人藏书得到的一些偶然迹象，显然证明了这一点，如洛尔什的吉沃德（Gerward of Lorsch）的藏书，或者阿波特·伊斯卡（AbbotIskar）为穆尔巴赫（Murbach）图书馆补充的书（参见[5.16]，5.21]，[5.29])。同样，个人或者社会机构的需要刺激了抄写工作，因此，诸中心之间的关系网确立了特定的图书馆必须拥有文本准则，这些图书馆拥有所需文本的样本，而且提供信息，告诉人们到那里能够得到它们（参见5.53)。科比的哈多阿尔都（Hadoardus），费里埃的卢普斯，欧克塞尔的穆里塔赫（Murethach）、海默（Haymo）、海里克和莱米吉乌斯的个人兴趣，在很大程度上表明了学校以及与之相关的学者群体的研究方向。
+注原：者群体的研究方向：参见Bischoff[5.27](哈德尔多)，比森(Beeson)[5.52]，加里皮(Gariépy)
+原：加洛林王朝其他地区的另外一些教师也很活跃。大量证据表明，拉昂(Laon）的马丁（Martin）注释了许多学校的文本，他教授手稿、希腊语、法律、历史、语法和计算。他著名的教学汇编之一是拉昂市立文献468，也有他的后继者，拉昂学校的校长贝尔纳德（Bernard）和阿德莱尔姆（Adelelm)使用的文本，所含文本有维吉尔生平以及对维吉尔的评论，“论文科七艺”，以及“论哲学家，诗，女预言家和魔术师”。马丁其他两个讲稿不太受重视，即拉昂市立文献444和464，是关于语法方面的（参见[5.36]，5.38]，可进一步参考5.44])。在赖谢瑙(Reichenau）的诸多教师中，有一个人名叫瓦尔弗雷德·斯特拉伯（Walafrid Strabo）的个人的文本汇编，向我们展示了他的兴趣。（圣高尔修道院文献878）（也参见5.28]）它包含丰富的语法文本杂记、度量和计算方面的短文，比德（Bede）的《论事物的本质》(On the Nature of Things）和关于时间方面的著作，基督教会史摘抄和塞涅卡书信摘录。如果我们把这一选集与赖谢瑙图书馆目录末尾821列举的学校课本相比，可以看到，它们同样强调语法和计算（参见5.18）。加洛林的一些中心，公元9世纪和10世纪著名的欧克塞尔、10世纪著名的兰斯，在任何意义上把哲学作为全部课程的正式内容是不太多见的。例如，据说兰斯的吉伯特已经教授过波菲利的《绪论》马留斯·维克托里努（Marius Victorinus）译本，波爱修的亚里士多德《十范畴》以及《解释篇》，西塞罗的《论题篇》，也提供了度量技巧、修辞学、算术、几何学和天文学等知识。
+注原：学和天文学等知识：参见 Marenbon [5.75]，Richer，《法国史》(History ofFrance)，ed. R. Latouche, Paris, 1967, Ⅱ, p. 46.
+原：在10世纪的圣高尔，诺特克三世拉贝(NotkerⅢLabeo，950-1022)
+原：是率先把哲学文本从拉丁文译成德文的人，他的目的是教授圣高尔学校说德语的学生。在给锡腾（Sitten）主教于格（Hugh）的一封信中，诺特克（Notker) 说他翻译了波爱修的作品《哲学的慰藉》(On the Consolation of Philosophy)、《范畴篇》、《关于翻译亚里士多德》(On Interpretation of Aristotle，译自波爱修的拉丁文本），马蒂亚努·卡佩拉（MartianusCapella）的《论墨丘利和费勒劳吉的婚姻》(On the Marriage of Mercury and Philology）的前两部、《所有的面孔》（Quicumque vult)、《诗篇》和《约伯记》。诺特克三世撰写了一篇论文《论音乐》（OnMusic），是用德语写的，他还用拉丁文撰写了许多别的论文，如《论修辞的艺术》(On theArtof Rhetoric)、《论逻辑学的组成部分》(On the Parts of Logic)、《论辩论与计算》(On Disputation and Computus)，它们很快就被译成德文。并不是所有的文章都被保存下来，被保存下来的只是那些作品，或是提供了文字翻译，或对理解文本有所帮助，或对于早期中世纪学校的教育方法有不可估量的指导作用，或者指导修辞学的格和辩证法技巧，拥有大量的关于词源学、历史、动物学和天文学方面的材料。关于文本从以上提到的欧克塞尔传播出来的情况，还有一些颇有魅力的证据：对于这些翻译来说，最著名的波爱修的《哲学的慰藉》和卡佩拉的著作，都有一些附加的评论，其中一些如果不是真实的翻译，至少是欧克塞尔的莱米吉乌斯撰写的。
+注原：天文学方面的材料：参见皮帕，《诺特克书信集》(P.Piper，Die Scgiften Notker's Letter)；参见博斯托克，《老高地德语手册》(J. Knight Bostock，A Handbook on Old High German.2d rev. edn. Oxford，1976）；也参见第6 章以下p. 132，for Notker。
+原：诺特克文本的组合，例如，有一些斯特拉伯、拉昂的马丁、兰斯的吉伯特和其他加洛林王朝的教师的论题，在中世纪早期学校的全部课程中，实际上是非常典型的有所偏好。要是认为在加洛林王朝时期学校全部课程中，哲学是在单独运作，并不切合实际。毋宁说，哲学要素和逻辑学训练的发展，与强调语言和语法结构大有关系，而且哲学与德行教育结合在一起，是更深人理解手稿和教父们的教诲的基础（参见5.41，5.46）。因此，诺特克翻译文本与三学科（语法、辩证法、修辞学），四技艺（算术、几何学、天文学、音乐）以及《圣经》和礼拜仪式密切相关。
+原：在法国、德国和意大利的另外一些学校中，我们也同样可以看到学校课程大量的混合。德国的主教学校，如特里尔（Trier）、奥格斯堡（Augsburg）、埃赫施塔特（Eichstätt）、乌特勒支（Utrecht）、符兹堡（Würzburg）、雷根斯堡（Regensburg）、科隆（Cologne）和列日（Liège），以及更多的一些学校，加洛林王朝时期教授的学校课程，只是偶尔提及哲学教育（参见5.39]，[5.60])。例如，马格德堡的欧特里希(Ohtrich of Magdeburg）是当时著名的哲学家之一。科隆的布鲁诺（Bruno of Cologne），在巴德里希（Balderich）主教治下的乌特勒支执教，与“历史、修辞学、诗学和哲学”方面最新的发展比肩。在欧克塞尔，哲学是重要学者理智活动的首要部分，它也是产生《欧克塞尔主教非凡事迹》的中心，是布道、永远十分重要的《圣经》解释中心，以及圣徒生活的中心，记住这一点十分重要。
+注原：著名的哲学家之一：《圣伯恩沃德生平》收于《10—12世纪一些主教的生平描述》(LifeofSt Bernward ch. 1 in H. Kallfelz (ed. ) Lebensbeschreibungen einiger Bischöfe des 10 –12. Jahrunderts, Darmstadt, 1973)。
+注原：面最新的发展比肩：参见布鲁诺，《10—12世纪一些主教的生平描述》(RoutgerBruno，ch.5in H. Kallfelz (ed.) Lebensbeschreibungen einiger Bischöfe des 10 –12. Jahrunderts, Darmstadt, 1973)。
+原：事实上，依然十分明显的是，在10世纪，哲学在学校正规课程中有了更为重要的地位，在11—12世纪，重要性愈益增长，至少在法国是这样。此外，9世纪后期到10世纪，在西部和东部法兰克王国，大教堂学校（例如，前面提到的兰斯、列日以及德国主教管辖的学校）的重要性日益明显。9—10世纪，东西法兰克王国的大教堂学校和修道院学校，与12世纪巴黎的学校在制度方面的连续性是十分清楚的5.60]。我们在11—12世纪，拉昂、查特尔（Chartres）和巴黎的学校教育中发现这样一脉相承的混合的课程设置，教学结构和方法设置，它们类似于加洛林王朝早期，这也没有什么可惊讶的。例如，在查特尔，可能会研究医学、几何学、算学、音乐和逻辑；来自查特尔的富尔伯特（Fulbert）的一个抄本，查特尔市镇藏书100，是人们熟悉的文本的汇编，即《绪论》、《范畴篇》和西塞罗的《论题篇》以及其他相关文本，包括富尔伯特的一首诗，以修辞学和辩证法的差异为依据[5.60]。我们清楚地看到，在拉昂的安瑟尔谟、彼得·隆巴德（PeterLombard)、圣维克托的于格（Hugh of StVictor）运用的评注法中，适应这些新发展的文本和评注不同布局，在诸如梯耶里（Thierry）这类作者的哲学讨论中，我们都目睹了这些老课程和学究方法，与对研究和思想趋势新影响的反响同样混合在一起，这种奇特的阐释早已由萨瑟恩（Southern）作出了(5.63]，5.64])。毫无疑问，在某种程度上，这既是由于人们可以得到更多种类古典文本，尤其柏拉图、亚里士多德的作品，也由于这些文本被附加到当时作者的著作中，本卷的许多章都讨论过这些著作。现存的12世纪图书目录，再现了12世纪的图书馆，像茨维法尔滕（Zwiefalten）的那些图书馆，他们比任何其他来源都更清楚地证明了加洛林王朝创立的那些学校的课程设置，11—12世纪理智的重点和创新的范围（参见5.17，5.23]）。例如，科尔比的图书馆尽管有大批哲学著作，有许多波爱修的作品，附有爱留根纳撰写的卡佩拉评论，《蒂迈欧篇》，孔什的威廉（William of Conches）的哲学著作，克律尼的藏书，有《绪论》的抄写本，卡佩拉的作品，亚里士多德的《范畴篇》，波爱修对西塞罗《范畴篇》的评论，卡尔西底乌斯以及更多的哲学著作，还有占绝对优势的早期教父的文本和《圣经》注释。理智尝试的主要焦点还是《圣经》，不过，在欧洲主流学者的许多理智活动中，哲学的地位固若金汤。
+原：包括哲学在内的学问，在中世纪早期西欧的修道院生活和主教讲坛上享有如此崇高的地位，是我们司空见惯的现象，尽管在修道院氛围内，专注于学问也许是反常现象（参见5.44]，[5.52]19)。承认理智的努力是社会活动的精华和文化的聚焦点，依然是早期中世纪文化的显著特征，也是一些讨论的价值所在。
+原：我们来看看，本章开始强调的皇家宫廷的任用，以便探讨如下问题：第一，教育和学术振兴的政治层面；第二，牧师推荐权的内涵——皇家的、贵族的、主教的、修士的—不仅在促进教育和哲学研究方面，而且在促进形成社会认同的特定的文化指令方面。
+原：费里尔的卢普斯提供了德意志王国的一个线索，因此，在给爱因哈德(Einhard)的一封信中，他痛惜查理曼大帝时代已经逝去：
+原：你还记得吗，由于杰出的查理曼大帝的努力，学问一直在复兴，这些话也算是对他这份永久的恩典的感谢吧。在某种程度上，学问确实提升到极点……在那个时代[c.836]，人们追寻一种教育，它被视为社会责任……后来，人们不再做这样的努力了，一些人因为没有从知识中得到应有的报偿，另一些人是因为怕人说不值钱。卢普斯在许多信中都称赞查理曼大帝的孙子秃头查理(Charles the Bald)的活动和他对学问的支持。此外，像圣高尔的巴尔布鲁斯(NotkerBalbulus of St Gall) 证实了加洛林王朝的统治者在什么范围内促进学问的发展。我们需要补充的是，他们也重视基督教礼拜仪式、信经律法和《圣经》的正确文本，加洛林王朝立法中的教育和研究，国王给他的修道院院长和主教的指令，如《一般劝诫》（AdmonitioGenealis）789和公元800年《教育通谕》(Delitteris colendis)。尽管这一研究的主要目的是更充分地理解基督教信仰，更充分地理解受过良好教育的教士管理阶层和世俗权贵的条例，但是对于那些肩负统治者希望的人，还是有充分自由的，这些人负责劝诫，也负责规定适合一切基督徒学习的正确文本。无疑，我们也有详细的文献资料（参见5.54]）表明随之而来的一切文本的形成和传播（显然是对统治者动议权的一种反响）。
+注原：因为怕人说不值钱：参见雷根诺斯(G.W.Regenos)，《费里尔的卢普斯书信集》（TheLetters of Lupus of Ferrieres, The Huge, 1966).
+注原：内促进学问的发展：参见诺特克（Notker），《加洛林王朝的丰功伟绩》(GestaKaroli，ed. H. Haefele, Berlin, 1959, 1. 1).
+注原：colendis：参见《日耳曼历史年代记》（Monumenta Germaniae Historica)，Capitularia, ed. A. Boretius, Hanover, 1830, I, nos 22, 29, 30, 53, 79-81.
+原：我们应该重视的问题是，一定要考虑统治者个人以赞助者的身份对于更高学问的兴趣，他们促进学术、人文科学和哲学的积极程度。从与加洛林王朝统治者相关的一些作品来看，他们聚集的书吏和匠人不仅编撰出很多书来(它体现了个人的虔敬和国王的私人兴趣)，而且也表现了皇室的虔敬和开明的策略，这是非常明显的（参见5.31，5.32]，[5.43]，5.53]，[5.55])。正像我们上述援引卢普斯给爱因哈德书信的要点所说的，国王的恩典还承诺有物质酬劳。与宫廷相关的学术活动，许多著作给国王的献辞，种种现存证据都清楚地表明，许多人都追求这种恩典。换句话说，对研究基本的物质支持，既是由世俗统治者提供的，也是由教会提供的，既满足了特殊目的，也满足了一般目的。
+原：国王在创立社会规则方面的作用是，在特定的活动范围内实施世俗的恩典，应该承认，这种作用是非常重要的。我们并不仅仅看到了个人理智和审美嗜好的结果。当然，早期加洛林王朝手稿的出现与宫廷的联系，例如里昂对话集或柏拉图的《蒂迈欧篇》等，似乎证明了他们正在收集古典文献的珍本善本，同时也表明，王室对于这一工作的赞助是有更深的动机，这一点是明显不过的。首先，显而易见的是，在与基督教信仰和研究相关的特殊文本的传播背后，是地道的组织和决定过程，这一活动显然与统治者行使的基督教王权相关。因此，秃头查理享受斯特拉伯的课程，也从一些学者，如圣乌恩的马诺（Mannoof St Ouen）、卢普斯或者他的王国中的爱留根纳，甚至他的宫廷中的一些人那里获得愉快和刺激，不是一件简单的事情。享受皇家赞助的学者也不是追求他们的理智活动；许多人更注重对下一代学生和学者施加影响。其中，图尔的阿尔昆、富尔达和美因茨的拉巴努·莫鲁斯(Hrabanus Maurus of Fulda and Mainz)、爱留根纳或者卢普斯等，都是动态的理智背景的组成部分，他们的兴奋点是9世纪中期的欧克塞尔和弗勒107里。理智活动被视为所有基督徒精神文化目标的根本，这是最本质的东西；因此，国王作为基督徒统治者，有责任扶植它，同时他要扩大这一领域，促进正义的施政，运用统一的重量标准，统一的度量衡，确保货币的稳定和价值。
+原：统治者给予理智活动和文化优先权，为后代树立了榜样，我们绝不能低估这一点。当然，加洛林王朝的统治者并不是第一个以这种方式实施赞助的人。不过，是不是他们首先对王国的教堂、小教堂、修道院使用的基督教文本的正确性产生积极的影响，他们的赞助是否大于对施舍的偶然兴趣，倒是很有些可疑的。实际上，为了创造一些人工制品，或者出于他们特定的文化目标，长期以来，加洛林王朝的统治者一直在支持一批艺术家、雕塑家、匠人（参见[5.55])。这肯定是其他统治者、世俗权贵和牧师上层效仿的榜样，尽管没有什么人真的效仿。例如，在盎格鲁-撒克逊的英格兰，阿塞尔的《阿尔弗雷德国王生平》(Asser's Life of KingAlfred） 详细叙述了对研究有浓郁兴趣的国王，他如何从事翻译，也委托他人翻译许多重要文本，范围并不仅仅限于波爱修的《哲学的慰藉》，参见5.34，5.49]。业已证明，克努特（Cnut）是热情的赞助者（参见5.43，5.51）。如果在10一11世纪加洛林王朝时期的欧洲大陆，西部和东部法兰克王国的卡佩腾(Capetian）和撒克逊（Saxon）国王，并不热衷于促进研究，做研究的赞助者，主教首先要挨权杖的。列日的主教特里尔和希尔德斯海姆(Hildesheim）就是一个例子。列日受到赞美的一个原因，就是在它那里，能够在主教爱布里恰（Ebrachar）和诺特克（Notker）管治下进行研究，但是，他们处于哈特加（Hartgar）主教时代业已确立的传统中，哈特加扮演着恩主的角色，并为爱尔兰学者斯科图斯（Sedulius Scotus）提供庇护（参见[5.42]，5.50])。刻在厚光纸和一些非常好的金属制品上的许多手稿，与公元977—993年的主教特里尔和希尔德海姆的伯恩瓦德（Bernward）有关，它们出自主教管区和别的管区的工作室（参见5.43）。迈尔-哈廷（Mayr Harting）凸显这些主教承认他们对君主统治，君主统治可见的操纵或控制方式进行的反省，例如，用委托书封面和圣物盒的精神力量，那是金制的，并且镶有宝石，上面绘有精美图案的手稿，装饰着姓名词首字母和美丽的手迹（参见5.5957-97）。
+原：展示财富是文化和研究赞助的显著成果之一，也是权力和势力的证明。看看如此有效运作的赞助，文化、政治、军事方面的建树，对于我们理解中世纪早期理智文化是十分重要的。实际上，我们看到的各种举措是盘根错节的，是一个社会的多个侧面。因此，来自权力之巅的社会和政治命令，展示财富与权力，宣扬权势，把未来文化维度并入引导政治社会的理想之中，是对特殊的文化偏好和早期中世纪社会理智抱负的反响。在西欧把这种偏好植人理智的层面和教育传统之中，赞助起到了至关重要的作用。因此，我们看到了政治权力、经济资源和理智的努力之间基本的相互作用。
+
+# 哲学主题
+原：在中世纪早期，哲学活动有三个主要领域：逻辑研究，古代和古代后期哲学文本的导读和研讨，分析讨论基督教教义问题。我们在上一节，已经探讨过前两个背景下的手稿，如下内容将为每个领域中的主题画出一幅速写。
+原：逻辑
+原：我们在《加洛林王朝书》（LibriCarolini）中，能够找到中世纪对逻辑技巧的兴趣及其应用的最早证据，西方教会对偶像崇拜所持的立场，大约在公元790年查理曼王朝时期，已经由奥尔良的提奥多尔夫(Theodulfof Orleans）初步表述出来。其中最长的逻辑学的段落，取自波爱修和阿普里乌斯，涉及论述语义学和不同限量的语句的真值关系的素材（参见5.10]28，pp.216-221)。显然，正是阿尔昆本人，使他成为公元8世纪90年代知识分子的领军人物，也是他在形而上学和神学的氛围内，把逻辑学曲解了。他的《论逻辑》（De Dialectica 英文 On Logic），是中世纪第一部逻辑学文献，阿尔昆给予十范畴以骄人地位，《十范畴》对此做了详尽的阐述，当时认为，这是奥古斯丁所为。亚里士多德对范畴的讨论，在逻辑中较少，而在形而上学的运用方面，对不同实体的分析（普遍和特殊的实体、普遍和特殊的偶性）比较多。奥古斯丁在《论三位一体》（On theTrinity）已经把这一学说用于神学，阿尔昆在《论对神圣的三位一体的信仰》（On Faithofthe HolyTrinity）中借用并且强调这一主题。在公元9—10世纪，《十范畴》成为人们最热切研究的逻辑文本，阿尔昆提出的问题：它们是否适合上帝，被他的学生们承袭下来，并由爱留根纳进行了深入的探讨（参见5.6]；5.7550-53，72-86)。《十范畴》的评注，随着手稿的不同而改变，展示了一定的发展模式。9世纪后期的评注者，常常把文本作为爱留根纳神授的形而上学和神学评论的跳板，它们与逻辑主题的联系是松散的。10—11世纪的评注者对沉思的兴趣愈来愈少，他们更关注如何理解亚里士多德的基本观念，如实体与偶性，单义词和歧义词，或者空间和时间之间的差异。亚里士多德文本的翻译，逐渐取代了伪奥古斯丁的解释，这就为学者们提供了使用波爱修评论的机会，通过这种使用，学者们有机会掌握文本的论点，思考与亚里士多德讨论相关的难题，如涉及什么样的词，什么样的事物，或者涉及什么问题等，这些都是12世纪的逻辑学家们关注的问题。
+注原：并且强调这一主题：出版的《论三位一体》(OntheTrinity）是[5.2]101，cols.951-976，《论圣洁的三一论信仰》(On Faith of the Holy Trinity) 在 cols.13-54；尤其可以参见col.22；Marenbon [5.75]31对这一见解的补充和修订在马仁邦的“阿尔昆，法兰克福会议和中世纪榮端”(Alcuin，the Council of Frankfort and the beginnings of medieval philosophy)，参见伯恩特编辑的《794年法兰克福宗教会议》（Das Frankfuter Konzil von 794, ed. R. Berndt, Mainz, 1997, Ⅱ, 603-615)。
+注原：和时间之间的差异：[5.75]116-138；关于一些补充和修订，可参见马仁邦的[5.78]100。
+注原：学家们关注的问题：米诺-帕里罗的“中世纪亚里士多德拉丁文献注解”(Minio-Paluello，“Note sull's Aristotle Latino medioevale: xv-Dalle Categoriae Decem pseudo-Agostiniane (Trmistiane) al testo vulgato aristotelico Boeziano"), 载 Rivista di Filosofia Neoscolastica 54 (1962)137-147，printed in Minio-Paluello [5.83]448-458；对《范畴篇》的评注和评论，可参见Marenbon[5.78]8-3，100-101，109-110，26-27。11世纪早期，对《绪论》和《范畴篇》的短评/评论，在德·奥诺弗里奥(G.d'Onofrio)编辑的《<绪论〉和〈范畴篇〉》摘录（Excerpta Isagogarum et Categoriarum，Turnhout 1995，CC c. m. 120)中，也参见Marenbon [7.76]。
+原：从阿尔昆时代起，人们就知道波菲利的《绪论》，认为它是对种、属、不同属性（种差）、不同特征（独有的）以及偶性等概念的简单说明，长期以来一直被视为亚里士多德《范畴篇》的导论。对《绪论》的评注，至少我们研究的这些评注，在很大程度上来自波爱修的评论。普遍性的情形是有争议的，从12世纪起，它一直是中世纪争论的焦点，波菲利很引人注目地提到过这一情形，这似乎并没有引起任何争议。中世纪早期少数几个讨论普遍性的作者之一，科比的拉特拉姆努斯，不完全的概念论的倡导者，不仅触动了《绪论》，而且也是第一个触动波爱修对《绪论》评论的人，也是触动波爱修《神学论》的人。人们虽然都知道亚里士多德的《分析篇》，但是，在11世纪以前，它是被禁止的，绝大多数逻辑学家很难找到它：评注非常罕见而且是缺乏独创性的模仿之作（参见5.78101）。但是，大约在1000年左右，弗勒里的埃博、圣高尔的诺特克、欧里亚克的吉尔伯特都讲授《分析篇》，埃博还给三段论推理编制了他自己的悖论，这些三段论推理来自波爱修的文本。
+注原：来自波爱修的评论：邦克和沃尔特豪森（Baeumker and B. vonWalterhausen）编辑了一个手稿对《绪论》的评注：《早期中世纪对波菲利〈绪论〉的评注》（FrühmittelalterlichenGlossen des angeblichen lepa zur Isagoge des Porphyrius (BGPMA 24, 1), Mü nster, 1924; 被评注的手稿以及它们之间的关系，可参见Marenbon[5.78]99。
+注原：的人：参见拉特拉姆努斯[5.12]对文本所说的话，也参见Marenbon[5.79]。
+注原：来自波爱修的文本：关于埃博、诺特克和吉尔伯特的文献和进一步的讨论，可参见第六章。
+原：除了安瑟尔谟的《论语法》（Degrammatico）以外，11世纪绝大多数逻辑学研究，都缺乏直接的证据，这着实令人沮丧。出自1100年或者比这更早的一些材料，在涉及《绪论》、《范畴篇》以及《解释篇》时，表现得非常复杂，在处理三段论和不可能当即获得的论题推理时则表现得非常简便；这是一个推测，它受到了教义争论中充满信心的使用和来自《范畴篇》（兰弗朗克和贝朗伽之间的争论）、《解释篇》安瑟尔谟的《上帝为什么与人同形》（CurDeusHomo）、彼得·达米安的《关于上帝全能的书信》(Peter Damian's Letter on God's Omnipotence) 的一些讨论的较有力的支持。
+注原：这着实令人沮丧：关于安瑟尔谟的《语法学》，可参见第六章。
+注原：论的较有力的支持：圣彼得·达米安的《书信》将在112~113页讨论；在这里只是为了对亚里士多德的运用，关于安瑟尔谟的运用，可参见Marenbon[5.79]。
+
+# 古代哲学导读
+原：尽管中世纪早期一些作者批评逻辑不过是为宗教虔诚解闷的东西，但是，却没有任何人能说，古代逻辑学文献本身是对这一信仰的挑战；实际上，在《神学论》（几百年来被大量阅读和评注）中，波爱修已经表明，人们为什么能够用逻辑技巧反对异端邪说，维护正统教义。相反，古代哲学的拉丁文本提出，什么可以被视为对基督教信仰的直接挑战，至少在某些方面提出一些与他不相容的观点。事实上，在9—11世纪所使用的三个主要的异教哲学著作的任何一个，都不是争论的主要焦点。已经发现的柏拉图的《蒂迈欧篇》（卡尔西底乌斯进行了不完全翻译），很难用来支撑这一讨论；卡佩拉放在信徒手册前面的两个导论式的书，显然是象征性的，因而不能引发问题；人们倾向于认为，马克罗比乌斯对西塞罗《西庇奥之梦》的评论，是自然科学，特别是天文学资料的来源，评注者也进一步补充了自然方面的资料。不过，奇怪的是，当涉及基督教作者的工作时，9—11世纪的学者都要仔细思考如何对古典哲学进行反驳。在撰写了逻辑学译本、评论，以及他的《神学论》以后，波爱修正在监狱里等待执行死刑，这期间，他写了最后的著作：《哲学的慰藉》。《哲学的慰藉》避开了任何明确提及基督教启示的地方。不过一些段落也表达了古代柏拉图的理念，就字面意思而言，与基督教是不相容的。特别是卷Ⅲ第9诗律（metrum，或诗文的一段），一个祈祷者在论辩的氛围内发出咒语，它几乎是柏拉图《蒂迈欧篇》的一个缩影，它既涉及再生观念，也涉及世界灵魂的观念。
+原：基督教读者应该思索这些吗？最直接的反馈是科维的一个修士博沃(Bovo，d. 916)，他清楚地认识到，尽管波爱修已经在别的地方论述过基督教教义，但是，他目前在这里陈述的是柏拉图学说，而不是基督教的教义(5.5])。马克罗比乌斯似乎并不知道《蒂迈欧篇》，那修士在运用马克罗比乌斯的同时，对于波爱修诗句那些浓缩在段落背后的观念，做了清晰的解释。尽管这一探讨有它的追随者，但是，并不是很普遍。欧克塞尔的莱米吉乌斯像博沃一样，也撰写了他的评论（[5.14])，不只是对这段诗律的评论，也对整个《哲学的慰藉》加以评论，他汲取了早期评注的内容（就像他对卡佩拉进行广泛的评论时所做的），也以自己的方式发展了它们。他的努力是力求在波爱修那些公开的柏拉图段落中，找到潜在的基督教意义。大约100年以后，乌特勒支的阿达尔波尔德（Adalbold of Utrecht）对卷Ⅲ第9诗律的评论，沿袭类似的基督教式的途径，尽管他使用的比喻比莱米吉乌斯要逊色一些，并且以基督教正统教义和柏拉图学说无意的、奇怪的混合而告终。12世纪的学者，特别是孔什的威廉，追随并且篡改莱米吉乌斯和阿达尔波尔德开拓的探讨，他把它用于真正的异教文本，也用于《哲学的慰藉》。
+注原：者应该思索这些吗：对《哲学的慰藉》一书影响的鸟瞰，可参见Courcelle[5.68]278-290，Marenbon[5.7678-79.
+注原：潜在的基督教意义：菜米吉乌斯出版了运作精粹[5.14]；参见Courcelle [5.68]278-290, marenbon [5.76]78-79。
+注原：奇怪的混合而告终：参见格里高利，《中世纪的柏拉图主义：研究与探索》（T.Gregory，Platonismo medievale : studi e ricerche, Istittuo storico Italiano per 51 medioevo, studi storici 26-27, Rome, 1958, pp.1-15)。
+注原：哲学的慰藉：参见第七章，172~173页。
+
+# 基督教教义提出的问题
+原：从12世纪开始，最优秀的哲学见解，多数都出在系统研究基督教教义的神学讨论中，在大学中，对隆巴德人彼得（Peter the Lombard）一些话的评论是这方面的典型代表。从9—11世纪，在这一意义上谈论“神学”是非常困难的事情。但是，在涉及基督教教义的种种作品中，哲学讨论还是崛起了：《圣经》的注释渐渐成为不可争论的东西（尽管爱留根纳是个例外），但是，与教义相关的其他著作，受到争论的刺激，或者出于对特殊问题的反响，常常包含了哲学史中一些有价值的材料。
+原：9世纪最激烈的争论，最初是在富尔达（Fulda）尔后是在赖谢瑙和奥尔拜斯（Orbais）由一个修士戈特沙尔克（Gottschalk）发起的。从9世纪30年代以来的作品中，戈特沙尔克坚持这样一种观点，上帝的预定是二重的：为善者祈福，诅咒为恶者，并坚持说（带着某种正义感），这是奥古斯丁的思想。他找到许多有教养的支持者，但是教会中的另一些人担心，他的教诲使人们打消采取行动的念头，不再关心他们做的事情，转而去思考来世，是下地狱，还是上天堂。两个重要的教士，多产的《圣经》注释者，百科全书编撰者，美因茨大主教赫拉巴鲁斯·莫鲁斯（HrabanusMaurus）和兰斯大主教的辛克马尔（Hincmar）撰文反对戈特沙尔克；他们也受命从学者的立场抨击秃头查理皇帝的宫廷；爱留根纳的第一篇论文《预定论》（On Predestination)就是这种性质的东西。尽管赫拉布鲁斯和辛克马尔的文章（不过不是约翰的文章），引用了许多基督教早期教父著作的内容，不过，三人的文章包含的论点和分析，以及他们提供的中世纪早期教父的引言，都试图探讨自由意志、邪恶以及惩戒等概念。
+注原：发起的：关于戈特沙尔克，参见Jolivet[5.74]；对于这场预定论的争论，参见Ganz [5.70]和Schrimpf[5.81]。关于戈特沙尔克的神学著作，参见[5.8]。
+注原：tination：也可参见下一章，第六章120页，《预定论》的背景和反馈。赫拉布鲁斯在给维罗纳主教诺丁（BishopNoting of Verona）的信（MPL112，cols.1530—1553）和给弗留里爱伯哈德伯爵的信（《德国历史文献》Monumenta Germaniae Historica，Epistolae Karolini AeviⅢ，pp.481-487)中提出他的观点。在爱留根纳之前，辛克马尔给他的教区居民的信介入了相关的争论，参见冈德拉赫（W.Gundlach）的“兰斯的辛克马尔的两封信” (Zwei Schriften des Erzbischofs Hinkmar von Reim, Zeitschrift für Kirchengeschichte 10[1889]：258-309)。关于辛克马尔在争论和他的与争论相关的全部作品的说明，可参见德维斯的《兰斯的辛克马尔档案》(J.Devisse，Hincmar，Archeveque de Reims, 845-882, Gèneva, 1975—1976, pp.115-179)。
+原：三人都向戈特沙尔克二元论的预定论公式提出挑战，他们说，上帝只在一个方面是预定的，即拯救良善，但是，他既预见到对良善的拯救，也预见到邪恶的惩处。只有这些命定获救的人才能被拯救，因为拯救是需要上帝的恩典的。我们也不能说上帝“预定”了邪恶；毋宁说，他不能预定邪恶。爱留根纳也对这一论点进行了补充（6.462：27-65：123），他的依据是柏拉图的观点，即，邪恶不是一件事，而是一种欠缺，上帝不能把任何东西预定给邪恶的生命，也不能预定永恒的惩戒，因为邪恶或者欠缺之类的东西是没有原因的。(后一个论点尤其显得无知：我的玻璃杯是空的，显然是因为我把杯中的酒饮完了，而它是满的，因为我把酒从酒瓶中倒进杯子里！）三人与戈特沙尔克的实际距离，远远超过说出来的距离，因为在他们看来，如果上帝没有给人们什么预定，无论人们做什么，都会受到诅咒。赫拉布鲁斯和辛克马尔都意识到这一问题，试图避开它，强调上帝高深莫测，或者像辛克马尔提出的那样，上帝预见到一些人未来会滥用他们的意志，所以他扣住了给那些人恩典。爱留根纳没有解决这一关键问题：一个人如何能够对邪恶的行为负责，没有恩典的帮助，他也只能这么做了？毋宁说，他注重在上帝帮助下对那些胆大妄为，却又不对自己的邪恶负责的人实施惩处（6.463:42-66：155）。罪人受到惩罚（通过无知，通过他们缺乏至福知识，或者他们完全成为虚无的渴望落空），但不是上帝的惩罚，而是由正义法则的实施机构进行惩罚。
+原：在随后的两个世纪，出现了许多教义方面的争论，它刺激了哲学的讨论，11世纪中期，兰弗朗克和贝朗伽就圣餐问题展开过激烈的争论。同期（公元1067年）撰写的一本书，对哲学表现出更浓厚的兴趣，它不属于公共争论，而是私下争论的一部分。彼得·达米安不愿意接受杰罗姆(Je rome）的这一陈述（由一个朋友给他的），“虽然上帝无所不能，却也不能在一个处女失去童贞之后再让她恢复处女之身”，他在《关于上帝万能的书简》(LetteronDivineOmnipotence5.11])解释了为什么不能。达米安是公认的禁欲主义者，蔑视异教哲学，历史学家通常这样解释他对杰罗姆立场所持的反对态度：他反哲学的立场是非常鲜明的，他站在这一立场上主张，上帝能恢复过去的一切，使已经发生的不再发生，这便侵害了无矛盾律这一基本的逻辑法则。不过，若是仔细阅读，也可以从信中看到完全不同的东西。达米安坚持认为，就自然而言，使失贞处女恢复童贞是不可能的。他据此表明，没有任何途径修复已经破裂的处女膜。于是，非处女成为处女的唯一途径本质上就是，如果过去被改变了，那么她的童贞也许就从来没有失去过。但是，达米安继续说，改变过去是绝对不可能的，即便是上帝无法改变过去，而且就自然而言，是肯定不可能的。凭借修复处女膜（不是改变过去），而使非处女变成处女，是可能的，不过，这仅限于上帝，尽管就本质而言这是不可能的。在这里，达米安似乎区分了两种身体上的不可能性，对于上帝的可能性和逻辑上的不可能性，后者甚至对于上帝也是不可能的。但是，在某一点上（5.11610A-620C）他问道，上帝能否使罗马从来没有存在过，回答是能。他进一步解释道，由于上帝存在于无时间的永恒中，也就是说，上帝能够使罗马从来没有存在过，就相当于说，上帝从一开始形成神意时，可以不包括罗马帝国的存在。达米安的立场是明确的，尽管在他说明自己的立场时，没有最初看上去那样大胆。他提出颇有争议的两点主张：（1）上帝可以选择一种神意，不等于他事实上已经选择的神意一例如，选择罗马从来没有存在过的神意；（2）上帝选择的神意在任何时候都不会发生在时间里，而是发生在无时间的永恒之中。绝大多数基督教思想家也许能够接受（1）；（2）的意义会引起质疑，不过，从波爱修到现代，这一立场也有许多追随者。总之，（1）和（2）导致一个结论，即上帝能够使罗马(在时间上）从来没有存在过。由于上帝不在时间内存在，任何用于他的动词都是无时间的：“上帝能够（is able to）使罗马从来没有存在过”，与坦率地说“上帝能够（was able to）使罗马从来没有存在过”，在意义上没有什么差别，这是一个明显的悖论。
+注原：展开过激烈的争论：Holopainen（[5.73]44-118)对此进行了充分讨论，也可参见Gibson [5.72]。
+注原：到完全不同的东西：参见 Holopainen [5.73]44-118；也参见Knuuttila [1.21]63-67。
+
+# 参考书目
+原：原文版
+原：5.1 Adalbold of Utrecht, Commentar on Book Ⅲ, metrum 9 of Boethius, On the Consolation of Philosophy, in Huygens [5. 9].
+原：5.2 Alcuin, Works in MPL 100-101.
+原：5.3 Anonymous glosses to Ten Categories, in Marenbon [5. 75]185-206.
+原：5.4 Anonymous glosses to Boethius, Theological Treatises, in E. K. Rand, Johannes Scottus, Munich, 1906.
+原：5.5 Bovo of Corvey, Commentary on Book Ⅲ, metrum 9 of Boethius, On the Consolation of Philosophy, in Huygens [5. 9].
+原：5.6 Candidus Wizo, Theological and philosophical passages, in Marenbon [5. 75] 152-170.
+原：5.7 Fredegisus of Tours, On the Substance of Nothing and on Shadows , in Monumenta Germaniae Historica, Epistolae, V, pp. 552-555.
+原：5.8 Gottschalk of Orbais, Oeuvres théologiques et grammaticales de Godescalc d'Orbais, ed. D. C. Lambot, Louvain, 1945.
+原：5.9 Huygens, R. B.C. (ed.) “Mittelalterliche Kommentare zum O qui perpetua...”, Sacris Erudiri 6 (1954): 373-427.
+原：5.10 Libri Carolini, ed. H. Bastgen, Monumenta Germaniae Historica, ConciliaⅡ, Supplementum, Hanover and Leipzig, 1924.
+原：5.11 Peter Damian, Letter on God's Omnipotence, ed., with French translation, by A. Cantin (Sources chrétiennes 191), Paris, 1972.
+原：5.12 Ratramnus of Corbie, Liber de anima, ed. D.C. Lambor, Namur and Lille, 1952.
+原：5.13 Remigius of Auxerre, Commentary on Martianus Capella, ed. C. Lutz, Leiden,1962—1965.
+原：5.14 Remigius of Auxerre, Commentary on Boethius, On the Consolation of Philosophy (extracts) in Appendix to E. T. Silk (ed. ) Saeculi noni auctoris in Boetii consolationem philosophiae commentarius, Rome. 1935.
+原：文献、书目和手册
+原：A bibliography of the philosophical material is given in Marenbon [5. 76] 164–191.
+原：Bibliographies for the various areas of cultural history, from c. 780 to c. 900 are found in McKitterick [5. 57].
+原：5.15 Becker, G. Catalogi bibliothecarum antiqui, Bonn, 1885.
+原：5.16 Berschin, W. and Geith, K. E. “Die Bibliothekskataloge des Klosters Murbach aus dem X. Jahrhundert”, Zeitschrift für Kirchengeschichte 83 (1972): 61-87.
+原：5.17 Delisle, L. Le Cabinet des manuscrits de la Bibliothèque Impériale/Nationale, Paris, 1868—1881.
+原：5.18 Lehmann, P. Mittelalterliche Bibliothekskataloge Deuuchlands und der Schweiz, I , Die Diôzesen Konstanz und Chur, Munich, 1918.
+原：5.19 Lowe, E. A. Codices Lugdunenses antiquiores, Lyons, 1924.
+原：5.20 Codices Latini antiquiores, N, Oxford, 1957.
+原：5.21 Milde, W. Der Bibliothekskataloge des Klosters Murbach aus dem 9. Jahrhundetr. Ausgabe und Beziehungen zu Cassiodors “ Institutiones", Beiheft to Euphorio, Zeitschrift für Literaturgeschichte 4, Heidelberg, 1968.
+原：5.22 Reynolds, L.D. (ed.) Texts and Transmissions: a Survey of the Latin Classics, Oxford, 1983.
+原：5.23 von Borries-Schulten, S. Katalog der Illuminierten Handschriften der Württemburgischen Landesbibliothek Stuttgart, 2, Die Romanischen Handschriften, Part I , Provenienz Zwiefalten, Stuttgart, 1987.
+原：研究著作
+原：手稿传播、学派和文化背景
+原：5.24 [Auxerre Intellectuels et artistes dans l’Europe Carolingienne ix-xi siècles, Auxerre 1990.
+原：5.25 Beeson, C. H. Lupus of Ferrières as Scribe and Text Critic, Cambridge, Mass., 1930.
+原：5.26 “The Cotlectaneum of Hadoard", Classical Philology 40 (1945): 201-222
+原：5.27 Bischoff, B. “Hadoardus and the manuscripts of classical authors from Corbie", in S. Prete (ed.) Didascaliae: Studies in Honor of Anselm A. Albareda. New York, 1961; repr. in German in Bischoff, Mittelalterliche Studien 1, Stuttgar, 1965, pp. 49-63.
+原：5.28 “Eine Sammelhandschrift Walahfrid Strabos (Cod. Sangall. 878)” . Mittelalterliche Studien 2, Stuttgart, 1967, pp. 34–51.
+原：5.29 Lorsch im Spiegel seiner Handschriften, Munich, 1974.
+原：5.30 “Die Bibliothek·im Dienst der Schule”, in Mittelalterliche Studien 3, Stuttgart, 1981, pp.213-233.
+原：5.31 “Panorama der Handschriftenüberlieferung aus der Zeit Karls des Grossen", Mittelalterliche Studien 3, Stuttgart, 1981, pp. 5-38.
+原：5.32 “Die Hofbibliothek Karls des Grossen”, Mittelalterliche Studien 3, Stuttgart, 1981, pp.49-70.
+原：5.33 “Palaographie und fruhmittelalterliche Klassikeruberlieferung”, in Mittelalterliche Studien 3, Stuttgart, 1981, pp. 55–72.
+原：5.34 Bullough, D. “The educational tradition in England from Alfred to Aelfric: teaching utriusque linguae", in his Carolingian Renewal : Sources and Heritage, Manchester, 1991.
+原：5.35 Cavallo, G. Libri, editori e pubblico nel monde antico : Guida storica e critica, Rome, 1977.
+原：5.36 Contreni, J. J. The Cathedral School of Laon from 850-930 : its Manuscripts and Masters, Münchener Beiträge zur Mediavistik und Renaissance-Forschung, Munich, 1976.
+原：5.37 Codex Laudunensis 468: a Ninth-century Guide to Virgil, Sedulius and Liberal Arts, Armarium Codicum Insignium Ⅲ, Turnhout, 1984.
+原：5.38 Carolingian Learning, Masters and Manuscripts, Aldershot, 1992.
+原：. 5. 39 Fleckenstein, F. “Konigshof und Bischofsschule unter Otto dem Grossen", Archiv für Kulturgeschichte 38 (1956): 38–62; repr. in J. Fleckenstein, Ordnungen und Formende Kraft des Mintelalters. Ausgewahlte Beitrage, Göttingen, 1986, pp. 168-192.
+原：5.40 Gariépy, R. J. "Lupus of Ferrieres: Carolingian scribe and text critic", Medieval Studies 30 (1976): 90-105.
+原：5.41 Glauche, G. Schullektüre im Mittelalter: Entstehung und Wandlungen des Lektiirekanons bis 1200 nach den Quellen dargestellt , Münchener Beitrâge zur Mediavistik und Renaissance-Forschung, Munich, 1970.
+原：5.42 Hellmann, S. Sedulius Scottus, Munich, 1906.
+原：5.43 Heslop, T. A. "The production of de luxe manuscripts and the patronage of King Cnut and Queen Emma", Anglo-Saxon England 19 (1990): 151-195.
+原：5.44 Hildebrandt, M. M. The External School in Carolingian Society, Leiden, New York and Cologne, 1992.
+原：5.45 Hoffmann, H. Buchkunst und Konigtum im ottonischen und fruhsalischen Reich (Monumenta Germaniae Historica Schriften 30), Stuttgart, 1986.
+原：5.46 Illmer, D. Formen der Erziehungs und Wissensvermittlung im fruhen Mirttelalter. Quellenstudien zur Frage der Kontinuitat des abendlandischen Erziehungswesens , Münchener Beitrage zur Mediavistik und Renaissance-Forschung, Munich, 1971.
+原：5.47 Iogna-Prat, D. , Jeudy, C. and Lobrichon, G. L'Ecole Carolingienne d'Auxerre de Murethach à Remi 830-908, Paris, 1991.
+原：5.48 Keynes, S. and Lapidge, M. Alfred the Great, Harmondsworth, 1983.
+原：5.49 Kleberg, T. Buchhandel und Verlagswesen in der Antike, Darmstadt, 1969.
+原：5.50 Kurth, G. Notger de Liège et la civilisation au Xe siècle, Paris, 1905.
+原：5.51 Lapidge, M. “Artistic and literary patronage in Anglo-Saxon England”, Committenti e produzione artistico-letteratia nell-alto medioevo occidentale (Settimane di Studio del Centro Italiano di studi sull 'alto medioevo 39), Spoleto, 1992 pp. 137–191.
+原：5.52 Leclercq, I. The Love of Learning and the Desire for God, London, 1978.
+原：5.53 McKitterick, R. The Carolingians and the Written Word, Cambridge, 1989.
+原：5.54 “Carolingian book production: some problems", The Library, 6th series 12 (1990): 1-33.
+原：5.55 “Royal patronage of culture in the Frankish kingdoms under the Carolingians: motives and consequences", Committenti e produzione artisticoletteraria nell’alto medioevo occidentale (Settimane di Studio del Centro Italiano di Studi sull’alto medioevo 39), Spoleto, 1992, pp. 131-191.
+原：5.56 “Knowledge of Plato's Timaeus in the ninth century: the implicatiaons of Valenciennes Bibliothèque Municipale MS 293", in H. J. Westra (ed. ) From Athens to Chartres, Neplatonism and Medieval Thought: Studies in Honour of Edouard Jeauneau, Leiden, New York and Cologne, 1992.
+原：5.57 (ed. )Carolingian Culture: Emulation and Innovation, Cambridge, 1993.
+原：5.58 (ed. )The New Cambridge Medieval History, vol. I, Cambridge, 1995.
+原：5.59 Mayr-Harting, H. Ottonian Book Illumination: an Historical Study, 2 vols, London, 1992.
+原：5.60 Richè, P. Les Ecoles et l’enseignement dans l’occident chrétien de la fin du v siècle au milieu du xi siècle, Paris, 1979.
+原：5.61 La Scuola nell’Occidente Latino nell'alto medioevo, Settimane di Studio del Centro Italiano di studi sull'alto medioevo, Spoleto, 1972.
+原：5.62 Sot, M. Haut Moyen-Age: Culture, éducation et société, Paris, 1990.
+原：5.63 Southern, R. The Making of the Middle Ages, London, 1953.
+原：5.64——Medieval Humanism and Other Studies , Oxford, 1970.
+原：5.65 Sullivan, R. E. (ed.) "The Gentle Voices of Teachers": Aspects of Learning in the Carolingian Age, Columbia, Oh, 1955.
+原：5.66 Thomas, P. (1980) Apulei Opera quae supersunt Ⅲ, Leipzig, 1980.
+原：哲学研究和有关特殊文本和作者的专论
+原：5.67 Bouhot, J. P. Ratramne de Corbie, Paris, 1976.
+原：5.68 Corrcelle, P. La Consolation de philosophie dans la tradition littéraire, Paris, 1967.
+原：5.69 Delehaye, P.Une controverse sur l'âme universelle au IXe siècle, Louvain, 1950.
+原：5.70 Ganz, D. “The debate on predestination", in M. Gibson and J. Nelson (eds) Charles the Bald. Court and Kingdom, 2 nd edn, London, 1990, pp. 283-302.
+原：5.71 Gibson, M. (ed.) Boethius: His Life, Thought and Influence, Oxford, 1981.
+原：5.72 2Lanfranc of Bec , Oxford, 1978.
+原：5.73 Holopainen, T. Dialectic and Theology in the Eleventh Century (Studien und Texte zur Geistesgeschichte des Mittelalters 54 ), Leiden, New York and Cologne, 1996.
+原：5.74 Jolivet, J. Godescalc d'Orbais et la trinité, Paris, 1958.
+原：5.75 Marenbon, J. From the Circle of Alcuin to the School of Auxerre (Cambridge Studies in Medieval Life and Tought, 3 rd series 15) Cambridge, 1981.
+原：5.76 6Early Medieval Philosophy (480 -1150): an Introduction, 2 nd edn, London, 1988.
+原：5.77 John Scottus and Carolingian theology: from the De praedestinatione, its background and its critics, to the Periphyseon, in M . Gibson and J. Nelson (eds) Charles the Bald: Court and Kingdom, 2nd edn, London, 1990, pp. 303-325.
+原：5.78 “Medieval Latin commentaries and glosses on Aristotelian logical texts, before ca. 1150 AD”, in C. Burnett (ed.) Commentaries and Glosses on Aristotelian Logical Texts: the Syriac, Arabic and Medieval Latin Traditions (Warburg Institute Surveys and Texts 23), London, 1993, pp. 77-127.
+原：5.79 “Anselm and the early medieval Aristotle", in J. Marenbon (ed. ) Aristotle in Britain during the Middle Ages, Turnhout, 1996, pp. 1-99.
+原：5.80 Minio-Paluello, L. Opuscula: the Latin Aristotle, Amsterdam, 1972.
+原：5.81 Schrimpf, G. “Der Beitrag des Johannes Scottus Eriugena zum Pradestinationsstreit" in H. Lôwe (ed.) Die Iren und Europa im früberen Mittelaler, Stuttgart, 1982.
+原：5.82 Troncarelli, F. Boetbiana aetas, Alessandria, 1987.
+原：5.83 Troncarelli, F. Tradizioni perduti, Padua, 1981.

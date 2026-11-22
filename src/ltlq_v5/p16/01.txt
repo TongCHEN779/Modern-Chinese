@@ -1,0 +1,193 @@
+# 第十二章 德国启蒙运动与英国哲学
+原：曼弗雷德·库恩(Manfred Kuehn)
+
+# 导言
+原：德国启蒙运动不是一个孤立的现象。它与欧洲其他国家以及北美的发展紧密联系在一起。同其他国家的思想家一样，德国的思想家也倡导一种新的知识理想。他们从理性的观点出发对先前接受的学说和制度进行批判考察。虽然德国启蒙运动有其自身独特的声音，然而如果没有来自外国的影响，它就会是迥异的。在德国启蒙运动的形成中，有两个国家尤其重要，这就是英国和法国。如果没有来自英国的影响，德国启蒙运动就是不可能的，这种说法或许不太夸张。本章将探讨英国哲学家对德国启蒙运动的影响。
+注原：是一个孤立的现象：本章应当与LewisWhite Beck在[12.17]中对启蒙运动的更充分的探讨相比较。
+原：德国启蒙运动实际开始的时间很容易引起争论。一些学者曾论证说，表征我们今天称为“启蒙运动”的那族（the familyof）观念和态度产生于17世纪后半叶，另一些学者则主张，“启蒙运动”基本上是一个18世纪的现象。甚至有充分的理由主张：“启蒙运动”正如我们今天理解的那样实际上只是在18世纪中叶才开始勃兴的。然而，夸大这样的分期的重要性是很容易的。在启蒙运动与它前面时期之间并没有“实在的鸿沟”。正如恩斯特·卡西尔（ErnstCassirer）曾经指出的，合理性（rationality）这个新的理想“从17世纪逻辑学和知识论确立起来的前提中坚定地和一贯地发展起来”。有侧重点的变化，但没有彻底的决裂。17世纪的哲学家如笛卡尔、斯宾诺莎和莱布尼茨都相当乐观地相信，一切知识都能现实地被还原于理性的原则，因此都能被提升为严格的科学，反之，18世纪的启蒙思想家则更多地怀疑这怎样能够完成。有一个从原则到现象、从一般到具体的转变，但并没有放弃合理性的解释（rationalexplanation）这个目标。因为这个理由，我们应当预料，在确定谁“属于”或“不属于”启蒙运动时将会遇到困难，但也正因为这同一个理由，我们必须说那并不依赖于这样的分类。
+注原：个18世纪的现象：Hazard在[12.27]中建议这样一个早期开端。亦见[12.28]，XVi。Beck在[12.16]，243中建议以“1687—1688年牛顿《自然哲学的数学原理》的出版和光荣革命”作为它的开端的合适日期，而以“1790—1793年康德《判断力批判》的出版和恐怖统治”作为它的终结的日期。我将遵从Beck的建议。
+注原：中叶才开始勃兴的：这是卡西尔在[12.19]中建议的。
+注原：依赖于这样的分类：亦见[12.21]。
+原：无论怎样，确定德国启蒙运动的开端（和终结），较之于确定大多数其他国家启蒙运动的开端（和终结），要容易得多。很显然，它是以18世纪早期哈勒（Halle）大学的克里斯蒂安·托马修斯（Christian Thomasius，1655—1728）的追随者和克里斯蒂安·沃尔夫（Christian Wolff，1679—1754）之间的争论为开端。深受虔敬主义影响的托马修斯派基于宗教的立场，强烈反对沃尔夫的理性主义哲学，他们最终成功地把沃尔夫不仅赶出哈勒大学，而且甚至（在1724年）赶出普鲁士。沃尔夫1721年对哈勒大学的正式演讲“论中国人的实践哲学”可以看作是这场争论的顶点，它也可以看作是关于德国启蒙运动的历史的讨论的起点。沃尔夫在这篇演讲中论证，伦理学并不依赖于启示，中国伦理学与基督教伦理学并非根本不同，幸福不必有宗教的基础，理性是充足的。
+注原：理性是充足的：我同意Beck的观点，托马修斯和沃尔夫两人对德国启蒙运动都是重要的。然而，我不能肯定的是，把他们两人看作“德国启蒙运动的两个奠基人”是完全正确的，而且除了沃尔夫的理性主义的启蒙运动之外，是否还有另一种虔敬主义的启蒙运动（参见[12.16]，243以下）。我不能肯定，托马修斯及其追随者实际应当被看作属于“启蒙运动”本身。在许多方面，他们最好被看作是启蒙运动的敌人。沃尔夫因为托马修斯派的压力而不得不离开哈勒时作出这个演讲，并不是毫无意义的。
+原：沃尔夫的哲学在1720年之后变成德国大学中占统治地位的力量。它的影响直到18世纪中叶以后才开始衰退。然而，当沃尔夫1754年去世之后，它就不再是哲学讨论的中心。大约从1755年开始，德国人更乐于接受外部的影响，德国启蒙运动开始更紧密地相似于法国和英国的启蒙运动。这一直持续到18世纪90年代早期。由于康德哲学的首先成功和转化，德国人又转向内部。这个变化亦标志着德国启蒙运动的终结。因此，把德国启蒙运动划分为两个不同阶段将是便利的，即，早期启蒙运动阶段和晚期启蒙运动阶段，前者是从大约1720年至1754年的“沃尔夫阶段”，后者是从大约1755年至1795年的“通俗哲学”阶段。
+
+# 早期启蒙运动
+原：1720年至1754年之间的这个阶段主要是由沃尔夫派和托马修斯派之间的宗教争论来表征的。托马修斯派深受虔敬主义的影响，倡导一种近乎神秘主义的自然观，反之，沃尔夫派则大体不倾向于宗教，而深受科学关怀的激励。虽然两派都熟悉英国哲学家的主要著作，尤其是约翰·洛克的著作，但是没有一派深切酷爱它们，在沃尔夫阶段，英国哲学对德国思想的影响是相当边缘的。
+
+# 托马修斯派
+原：托马修斯及其追随者并没有多少可以作为对哲学问题的原创思想提供出来的东西。他们把大多数关于知觉和知识的经典问题都看作怀疑主义的毫无意义的吹毛求疵，相信这些问题最终全部都能被解释为怀疑主义对人的知识能力的攻击的结果。因此，他们也相信，如果这种邪恶意志的影响能够被消除，那么一切事物就会找到它们自己恰当的位置和视角。因此，托马修斯派的认识论是相当贫乏的。其最显著的特征是：（1）极端的感觉主义，(2）符合论的真理理论，（3）知识能力从属于意志能力以及因此（4）哲学从属于神学。他们的心理学的许多观点都显示出与洛克理论的巨大相似性。洛克一定影响到他们的理论，然而这种影响却不是十分令人感兴趣的。事实上，凡是使洛克在哲学上令人感兴趣和重要的地方，亦即他对具体认识论问题以及它们对形而上学的意义的细致研究，在托马修斯和托马修斯派的著作中都几乎完全缺乏。当他们不从事批判沃尔夫的具体学说时，他们大多数人都擅长对平常问题的一般讨论。
+注原：想提供出来的东西：这个学派的最重要的成员是托马修斯、布德(Johann Franciscus Budde，1667—1729）、朗格（Joachim Lange，1670—1744）、鲁迪格（Andreas Rüdiger，1673—1731）、霍夫曼（A.F.Hoffmann，1703—1741）和克鲁修斯。布鲁克尔（Johann Jakob Brucker，1696—1770）也应该提到。他的富有影响的《批判性的哲学史》（Historia critica Philosophiae）据说曾经是狄德罗《百科全书》中关于哲学史的词条的源泉。参见[12.26]，1:346-348。
+注原：中都几乎完全缺乏：详细材料（和一种更积极的说明），参见12.45]，33-72。
+原：克鲁修斯（Crusius），这种思想方式的最坚定的坚持者之一，通常被视为整个托马修斯派中最重要的人物。克鲁修斯追随早期托马修斯派，从虔敬主义的观点批判理性主义，极力反对对理性全能的乐观主义信仰。他论证说，理性是有限的，能够被证明是比沃尔夫派所希望承认的更依赖于感官知觉。当他不再接受托马修斯对知识起源的笨拙的感觉主义说明，转向理性主义对天赋观念和天赋原则的信念及托马修斯派感觉主义之间的某种妥协时，他在细节上是完全模糊的。因此，他不希望完全摒弃天赋观念学说，他把这个问题悬而不决。下面这段话或许具有典型性：
+原：在外在感觉的场合，就会出现一定对象的观念。于是我们说，我们感觉到这些对象。对此有两种可能的解释。或者观念本身已经寓于灵魂中，由于这些条件的出现而变得活泼起来……或者我们只有直接的原因和在条件出现的时刻与出现的条件相一致而形成它们的能力。我们不能确定地认识到这两种可能性中何者为真。但是如果我们假定后者，则我们就假定得较少。
+原：([12.5]，153)按照克鲁修斯的观点，理性主义不是必然地错误的，尽管它可能是有前提的。
+原：克鲁修斯批判沃尔夫时最强，试图提出自己的理论时最弱。实际上，一切托马修斯派可以说都是如此。尽管他们在批判沃尔夫时把洛克引为受欢迎的同盟者，然而他们几乎从不曾超越他。而且，他们的强烈的神学信念通常养成他们的哲学论证的习惯，使他们很难领悟洛克更加精微的哲学分析。因此，这些德国的感觉主义者与英国哲学家之间的相似性大多都是偶然发生和留下的，没有重要的哲学意义。
+
+# 沃尔夫派
+原：沃尔夫派在哲学上更令人感兴趣。然而，由于他们的哲学计划基本上是他们以一种更加清楚和更加系统的方式发展莱布尼茨的观念的尝试所规定的，因此他们几乎用不着霍布斯和洛克这样的哲学家。他们相信，莱布尼茨的矛盾原则、充足理由原则、不可分辨的东西的同一性原则以及前定和谐原则基本上都是正确的，他们也认为，哲学行进在一条通过遵循“数学模式”而变成精确科学的道路上。在这种语境中，这些强调感觉在全部知识中的作用的英国哲学家就似乎毫无用处。
+注原：学上更令人感兴趣：沃尔夫派的人物有一个军团。他们的人数多得无法提及，因为他们在德国几乎每一个高等学术机构都占有位置。最重要的人物中有蒂米希（LudwigWilhelm Thümmig，1697—1728）、比尔芬格（Bernhard Bilfinger，1693—1750）、鲍迈斯特(Friedrich Christian Baumeister，1709—1785)、哥特谢特(Gottsched，1700—1766)、迈耶尔(GeorgFriedrich Meier，1718—1777)，特别是鲍姆伽登。
+原：然而，这些英国哲学家也没有被不屑一顾。沃尔夫显然不是一个完全不重视经验观察意义上的“理性主义者”。事实上，对他来说，经验观察构成哲学的起点甚至“基础”，因为他认为，“借助于感官我们才认识物质世界中存在和发生的事物”。然而，哲学并不只是确立和描述事物，而是涉及了事物之实存，或我们通过感官熟悉事物等方面。对沃尔夫来说，“存在或发生的事物都有它们为什么存在或发生由以得到理解的理由”，哲学就是一项寻找这些理由，并通过演证（demonstrate）它们怎样联系着而将它们置人系统性秩序之中的事业。换言之，凡实存或发生的东西都是凭那个事实本身而可能的。哲学的任务就是表明它们是怎样可能的。因此，“哲学就是关于就其是可能的而论的可能的东西的科学”。它必须从“确定的和可靠的原则”出发，以“完全的确定性”演证“那些能够发生的事物”为什么“现实地发生”。一旦这得到完成，我们也就演证这些对象的概念的“实在性”，我们就从单纯感性的和“历史的”知识前进到真正的哲学的理解。在演证那些能够发生的事物为什么发生时，沃尔夫基本上遵循莱布尼茨的路线，诉诸矛盾原则和充足理由原则。显然，诸如洛克这样的哲学家不能有助于这项事业。不过，在确定什么事物实存或发生时他们能够发挥重要的作用。因此，我们可以发现，在沃尔夫关于“经验心理学”的讨论中有许多参考洛克的地方。在他的道德哲学中他也似乎利用了洛克。他对洛克的评论有些是否定性的，但是其中有许多比人们可能期望的更具有肯定性得多。
+注原：更具有肯定性得多：沃尔夫显然也了解贝克莱和科利尔，而且他发现有必要沿着莱布尼茨的路线对观念主义给予反驳。至于他对贝克莱了解到何种程度，尚不清楚。
+原：然而很容易夸大洛克对沃尔夫的重要性。虽然沃尔夫能够利用这位英国哲学家的某些观念去达到他自己的目的，然而他最终更感兴趣的是提出他自己的形而上学，即，演证事物的可能性和概念的实在性。这是他认为他最重要的工作的一部分。事实上，他认为，唯有这部分才是真正的哲学。洛克其实只进人他体系的前哲学的或“历史的”部分。甚至后来当沃尔夫派如鲍姆加登试图基于沃尔夫的原则提出一种美学理论时，这也没有改变。美学仍然试图表明美怎样看起来只是感性的，其实亦是理性的或概念的。因此，英国哲学对他们来说最多具有边缘的重要性。只是随着沃尔夫的去世和沃尔夫派与托马修斯派之间的冲突的终结，德国人才开始乐于接受英国哲学家。11]
+注原：具有边缘的重要性：民族主义哲学史家力图表明，德国人从来没有认真对待英国哲学，单凭德国的资源就能解释整个18世纪。例如，德索尔在12.22]，53中试图表明，“通过把康德与后期托马修斯派，尤其是克鲁修斯联系起来，甚至无须参考英国的发展，就能理解[18世纪德国思想的这种发展的基本方向”。冯特则论证康德批判哲学的问题起源于“托马修斯的主观的和心理学的方法与沃尔夫的客观的和本体论的原则之间的联系”，主张康德的“先验逻辑必定导源于德国哲学内部的这种紧张，而非导源于外国的影响”([12.43]，250和254)。
+
+# 后期启蒙运动和通俗哲学
+原：第二阶段最著名和最重要的哲学天才之一摩西·门德尔松（Moses Mendelssohn，1729—1786）把18世纪50年代的哲学境况描述为一种“全面的无政府状态”，在这种状态中，哲学“这位可怜的贵妇人”（按照莎夫茨伯里的话）已经
+原：被流放出上流社会，贬入学校和大学中……甚至不得不离开这个布满灰尘的角落。笛卡尔放逐经院哲学，沃尔夫放逐笛卡尔，对整个哲学的轻蔑最后又放逐沃尔夫；看来，克鲁修斯不久将是风行的哲学家。
+注原：将是风行的哲学家：Mendelssohn, Briefe, die neueste Literatur betreffend I (1 March 1759): 129-134.
+原：这种危机不是德国特有的现象，而是欧洲思想普遍共有的现象。事实上，显而易见，它主要是舶来的。在英国，当经验主义和对雄心勃勃的包罗万象的思辨体系的拒斥已经能够形成悠久而卓越的传统时，在德国，早期启蒙运动时期大多数哲学家还依然沉醉于尝试提出和发展这样的体系。在法国，由于受英国的影响，风气也已经改变。因此，孔狄亚克在《论自然的体系》（1749）中要求综合实证的或经验主义的方法与体系性的或理性主义的方法，区分“ésprit systématique”（“体系性的精神”）和“ésprit de système”（“体系精神”，或译作“体系癖”），拒斥后者，倡导前者。伏尔泰先前已经发表《哲学通信》（1743）和《牛顿哲学原理》（1738），在这两部书中他抨击笛卡尔主义，论证牛顿的方法。狄德罗在《对自然的解释》（On the Interpretation of Nature，1754)中倡导实验方法，表示相信数学已经走完它的历程，无法进一步发展。卢梭在1750年发表《论艺术和科学》(Discourse on the Arts and Sciences)，毕丰在 1749 年发表《自然史》第一卷，并开始发挥重要的影响。给定最有教养的德国人能够说法语、能够关注法国文献和文化模式这个事实，不可避免的就是，这些发展亦会对这些德国人具有深远的影响。此外，既然法国的这种经验主义转向是与对英国自然科学和英国哲学的新的欣赏（其实是与对凡是英国的东西的狂热）联系在一起的，那么同样的事情亦会出现在德国。
+原：当弗里德里克大帝1740年掌权之后，他几乎立即就开始着手重建柏林科学院。他的意图是提升它的地位，使它成为法兰西科学院至少值得认真对待的对手。为了达到这个目标，他为柏林科学院指派了两位当时杰出的牛顿派，即，法国自然哲学家莫泊都依和瑞士天才数学家欧勒（Leonhard Euler，1707—1783）。科学院的常任秘书梅里安（J.B. Merian）也是牛顿派，因此也是反沃尔夫派。这位国王还邀请一些很有前途的沃尔夫派，因为他希望科学院中沃尔夫派和牛顿派能够保持平衡。然而，在1744年至1759年之间显然是牛顿派占上风。普通有奖征文的问题都被设计来贬低莱布尼茨一沃尔夫派的哲学，提高牛顿在德国的地位。这还包括对英国哲学的密切关注。科学院中的反沃尔夫派不仅了解和欣赏洛克，而且了解和欣赏贝克莱和休谟这样的哲学家。休谟在科学院内沃尔夫派和牛顿派之间的争论中似乎起着尤其重要的作用。虽然牛顿派显然并不总是正确理解休谟，但是他们援引他来反对莱布尼茨和沃尔夫。实际上，休谟《论文集》的德文翻译和法文翻译明显地就是科学院中牛顿派成员的兴趣引起的。
+注原：顿派能够保持平衡：参见[12.51]。亦见[12.49]。
+注原：莱布尼茨和沃尔夫：例如，参见[12.8]。亦见[12.9]。[12.53]，70以下有关于两者的讨论。梅里安对休谟的兴趣不减。因此，1763年12月16日，梅里安先生读了“休谟论雄辩的一段译文”（[12.52]，282)。对于18世纪90年代的情况，参见[12.10]。
+注原：成员的兴趣引起的：因此以《人类知性研究》作为第1卷的[12.15的译者是柏林科学院的常任秘书梅里安。其序言的作者是这个机构的另一位杰出成员伏尔迈(J.H.S. Formey)，整个规划据说出自柏林科学院院长莫泊都依的建议。科学院中著名的沃尔夫派苏尔策，完全因为莫泊都依、梅里安和伏尔迈相信休谟重要的同样的理由，认为休谟是重要的。他也相信，休谟的怀疑主义构成对莱布尼茨哲学的极其重要的反驳，正因为这个理由，他认为反驳休谟是极其重要的。因此，他成为《人类知性研究》德文译本的编辑，利用这个机会来为这部危险的著作提供旨在反驳休谟理论的一篇导言和一个长篇注释。
+原：这显然具有重要的意义。正如这个阶段早期历史学家之一指出的：大约本世纪中期……德国学者愈来愈熟悉其他语言，尤其熟悉法国和英国的美学的和哲学的文献。这……不仅使他们意识到德国的语言和德国在科学和艺术上的民族趣味的缺点和瑕疵；不仅使他们激起最充沛的激情来推行教育，精炼科学和艺术，与外国人在各种美的表现方式上一争高低，而且使学校的莱布尼茨一沃尔夫派的方法从此以后受到更有才能的人的厌恶。沃尔夫派接受的严格的体系性的形式，似乎为哲学天才的自由翱翔套上沉重的锁链。而且，在外国人的许多哲学著作中，他们也看到透彻性的特征和体系性的精神，但并非卖弄和强制……甚至外国哲学家的教科书也比德国人的教科书更有可读性得多。
+注原：书更有可读性得多：参见[12.4]，4：503以下，亦见[12.4]，5：1-×和[12.6]，1：289。
+原：在英国模式的影响下，乍看仿佛是哲学无政府主义的东西却产生出一种新的哲学思想方式。下面我将具体说明这些结果。
+
+# 哲学风格和哲学方法
+原：休谟的《人类理智研究》在德国于1755年作为《著作选编》（VermischteSchriften）第二卷出版。《人类理智研究》的德文译本的编辑苏尔策(Johann GeorgSulzer，1720—1779) 对休谟作为哲学作家给予了高度称赞。他发现，休谟能够就最深刻和最困难的形而上学问题进行清晰而优雅的写作。实际上，他主张，在休谟那里“透彻性和愉悦性似乎为优先地位而争斗着”，他把休谟的著作赞美为真正通俗的哲学的典范，希望德国人在这方面能模仿休谟。对苏尔策（以及他同时代的大多数人）来说，与通俗的哲学风格问题紧密联系在一起的是常识（common sense）问题。事实上，他们把通俗的表达看作不过是常识原则的外在表达。因此，休谟的哲学亦能成为那些希望把哲学推理与常识结合起来的哲学家的典范。然而，苏尔策出版这个译本的最重要的理由之一却是他的这个信念：未经批判而被接受的哲学家已经开始松懈和肤浅，德国哲学家就处于这种境况中。在沃尔夫阶段“漫长的和平时期”，他们已经让他们的武器变钝和生锈。休谟能够作为德国哲学家的批判者而有用。苏尔策希望“这部著作的出版将打断他们悠闲的睡眠，给予他们一个新的职业”。
+注原：这方面能模仿休谟：[12.14]，序言。苏尔策不是译者，根据下面这段话，这一点是显而易见的：“我有两个纯粹偶然获得的理由来参加这项翻译的发布。”
+注原：的武器变钝和生锈：显然苏尔策认为托马修斯派提出的批评不是对沃尔夫的认真的反驳。
+注原：他们一个新的职业：康德后来在《未来形而上学导论》中说休谟把他从“独断主义的睡眠”中唤醒，这为他的研究提供一个“新方向”时，似乎提到这个段落。亦见[12.72]和[12.74]。
+
+# 门德尔松
+原：对休谟的风格留下最深刻的印象的哲学家之一是门德尔松。事实上，门德尔松在他自己的著作中公开地与休谟的风格一比高低。因此，他在未署名的“一个B地青年学者的信”中说：
+原：像莱布尼茨、莎夫茨伯里、休谟或《论感觉书简》(Letters on Sensation）的作者这样一些高雅的哲学作家，他们注意到体系性的表述方式并非总是最好的，他们经常偏离主题，又总是回到主题。
+注原：又总是回到主题：[12.2]，524以下。既然门德尔松自己是《论感觉书简》的作者，他就在写作风格上把自己明确地等同于休谟派。他接着问莎夫茨伯里和休谟是否遵循“一条单一的推论路线”，但是他拒绝回答这个问题，因为这个解经式的问题只有通过对实际文本的更深入的研究才能回答。莎夫茨伯里也是重要的。例如《哲学谈话录》就是仿照莎夫茨伯里的一篇对话（参见[12.53]，1以下和[12.54]，37以下）。他的《论感觉书简》更是归功于莎夫茨伯里的风格（[12.53]，86-90)。门德尔松也开始翻译莎夫茨伯里论共通感的论文，因为他非常喜爱这部著作。他似乎最欣赏的是莎夫茨伯里的这个建议：荒诞能够充当真理的试金石（[12.54]，109-112)。休读的《人类知性研究》和《道德原则研究》也起到很大的（尽管主要是消极的）作用。事实上，他的论文《论真现象》至少部分地是试图回答休谟对经验判断以及它们在类比和归纳中的基础的怀疑（见[12.16]，321注和[12.53]，233)。
+原：在这个时期大多数的德国人看来，门德尔松令人钦敬地获得了成功。他们赞美他的作品的优雅和透彻直言不讳地把他的作品与休谟的作品相提并论。这表明休谟为这些德国人提供了一个新的哲学写作典范。
+原：伽尔伏(Garve，1742—1798)
+原：然而，如果以为这不过是一种“崇尚风格”的作风，那就是一种误解。在另一位觉得休谟对其写作风格非常重要的哲学家伽尔伏那里，我们可以清楚地看到这一点。伽尔伏在区分许多思想方法之后，呼吁特别关注他所称谓的观察法。
+注原：他所称谓的观察法：实际上，他区分出六种方法。“第一种是教育的方法或体系性的方法，第二种是发明的方法或苏格拉底式的方法，第三种是历史的方法，第四种是反驳的方法，第五种是注释的方法，第六种是观察的方法。”作为体系性的方法的最佳事例，他提到笛卡尔。它是那些已经知道他们想要什么、想尽可能有效地达到他们目标的人的方法。第二种方法在他看来是观念的发明者的方法。作为事例，他提到富兰克林和柏拉图。第三、四、五、六种方法其实不过是第二种方法的进一步划分。第三种方法其实是遗传学解释的方法。它或者是种属中的个体的方法，或者是真的或虚构的。反驳的方法可以被认为是他归之于休谟，而他自己没有的方法。在他看来它其实是一种德国的方法。莱布尼茨和康德就是由它来表征的。正如他描述的：其名字给德国带来荣耀的莱布尼茨，通过反驳和矫正洛克与笛卡尔的概念，找到通往其大部分真理的道路。甚至我们的时代将由之留名后世，其本身亦开始将其形式（虽然并非总是其精神）传达给一切不同种类的德国作品的这种哲学，其实是从对休谟怀疑主义主张和莱布尼茨独断主义断言的考察和反驳的萌芽中生长出来的果实。
+原：它既不是从最一般的原则，也不是从普通的经验开始；它既不是体系式的从理性概念出发对现象进行的演绎，也不是苏格拉底式的从事实出发向理性的观念和原则的上升。哲学家……把他的读者直接引向……材料，在一定的时刻让必要的和预备性的观念流淌进来。
+原：遵循这种方法的哲学家并不把自己表现为学生中的老师。毋宁说，他预设他的读者知道任何一个受过良好教育的人对这个主题所知道的一切，而“他的唯一目标就是为已有的共通的知识添加某些来自他的经验的新发现，填补或者甚至揭示某些豁缺”。在伽尔伏看来，自然地，“所有这样的新观念……都只是片段”。他认为，休谟的那些论文就充满这样片段性的观念。此外，伽尔伏论证说，这些片段的价值由于休谟的怀疑主义方法而得到提升。作为一个怀疑主义者，休谟对所考虑的任何观点都既评估赞成的理由，亦评估反对的理由。既然休谟在其《英国史》和哲学著作中得心应手地做到了这一点，因此他就能充当一种新的哲学思想方式的典范。他的哲学“自从它的目标被等同于经验性的以来”对某些人来说可能具有一个不好的名称，然而它并不必定与体系性的哲学相矛盾。实际上，这样一种观察哲学（philosophyof observation）本身能够是体系性的，“一种完全由观察所构成的研究能够具有真正的哲学的透彻性，正如休谟和孟德斯鸠按照这种精神而写成的著作所证明的那样”。休谟的谨慎的和方法论的怀疑主义变成独断主义之外另一种可供选择的从事哲学的方式，许多德国人追随休谟，而从不公开提及休谟。
+原：费德尔(Johann Georg Heinrich Feder，1740—1821) 和迈纳斯 (Christian Meiners, 1747—1810)
+原：类似的方法论考虑也激励着哥廷根的哲学家费德尔和迈纳斯。虽然他们两人都反对彻底的怀疑主义，但是他们也将他们自已看作温和的怀疑主义者。事实上，费德尔将他自己描述为人生早期“在沃尔夫独断主义和怀疑主义之间摇摆”，他将他早期的怀疑主义进一步表征为“未精炼的”、“未检验的”和“无体系的”。他后期的思想则完全是由精炼的或检验的怀疑主义，或有体系的怀疑主义构成的。迈纳斯可以说也是如此。他1772年的《哲学再考察》（Revision der Philosophie）大部分就依赖于“智慧的洛克”及“勇敢的和性情温和的休谟”。他也发现，对严格的或“玄奥的”哲学来说，“最令人称许的方法莫过于怀疑主义的方法”。这样一种对一切哲学理论的怀疑主义使费德尔和迈纳斯接近于托马斯·里德这样的共通感（common sense）哲学家。像里德一样，他们感到，哲学家在他们的哲学观上目标太高，企图获得人类无法企及的知识，相信“凡是人可以尝试的一切，他只用他自己的知性就能思想到”，而不需要借助于某种保证绝对确定的知识的超人思想能力。我们的知性是十分有限的，而不是我们能够想象的最好的，但是它是我们所拥有的一切：“因此而鄙视它或对它感到不满意……都既不会是哲学，也不会是智慧。”在这两位哥廷根人看来，哲学必须变得更加谦虚。它必须向共通感学习，共通感强于哲学思辨。实际上，尽管有无数人为的错误，人类幸福所主要依赖的共通感和道德原则却一直得到保存，这种情形表明大自然的有利的构造，而这种构造不允许我们在夸张的思辨过程中偏离这些有益的真理太远。模糊的感受将它们指示给我们，本能引导我们总是回到它们。因此，对这两位哥廷根人来说，哲学的真正任务只能是把共通感和道德的这些原则更加清楚地确立起来，保护它们免受某些哲学家的夸张的思辨的危害。
+原：然而，他们的著作中有一种变成康德称为不过是“对书本和体系的批判”的趋向。他们不是集中于分析哲学问题并独立解决它们，而是收集他人对哲学问题所提出的各种不同的理论。因此，他们的哲学方法通常被表征为“兼容并蓄”或“融合汇通”；其实，称为“不分主次”或“秩序条理上的怀疑主义”或许更佳，因为这两位哥廷根人并不只是提出收集不同的哲学意见，而是力图提出一种一贯的哲学体系。他们对不同哲学理论的研究本身不是自在目的，而是一种方法论工具。例如，正如费德尔所说：“为了使我自己免于片面的表现的错觉和达到富有稳固基础的洞见，对不同的表现方式加以比较和对一些体系加以研究是必要的。”
+原：这种哲学方法在18世纪后半期变得非常富有影响力。实际上，大多数通俗哲学家都遵循这种方法。至少部分地作为这种兼容并蓄的趋向的结果，大多数人都没有对哲学问题的讨论作出令人感兴趣的贡献，他们的著作都蜕化为不同哲学意见的纯粹罗列。
+注原：家都遵循这种方法：在这群哲学家当中，最重要的哲学家是梯德曼（DietrichTiedemann，1748—1803）、洛修斯（Christian Lossius，1743—1813）和普拉特纳（Ernst Platner，1744—1818)。他们的理论在许多方面都不过是对费德尔和迈纳斯的原则的更严格的应用。事实上，他们中的某些人如梯德曼就曾经在哥廷根学习。其他人如洛修斯和普拉特纳则更独立些。但是大体上可以说，当那些哥廷根人满足于仔细考虑各种不同的理论和经常悬置最终判断时，这些感觉主义者对自然学解释抱有强烈的偏好。他们深信，感觉及其在人类自然学中的基础是理解人类本性的钥匙，因此是将哲学建立在科学的基础之上的钥匙。他们全都把沃尔夫派的理性主义作为根本错误的和导向一种唯心主义的而加以拒绝。但是他们绝不是彻底的唯物主义者。因为他们既不否认灵魂的实存和不死，亦不否认上帝的实存。虽然他们比那些柏林人和哥廷根人都更倾向于经验主义和感觉主义，但是仍然可以认为，他们的总体目标是试图达到对英国思想和德国思想的综合。不管他们在经验主义的方向上走得多远，他们依然深受沃尔夫主义的影响。
+
+# 形而上学和伦理学中的新问题
+原：对英国哲学家提出的观察和问题的日益关注，也对这些德国人视为必须解决的哲学问题产生明确的影响。早期沃尔夫派主要沉迷于人的理性方面，或者说沉迷于逻辑学和形而上学，他们几乎完全忽略我们的感性方面（或者像鲍姆伽登Baumgarten那样，仅仅“以与理性类比的方式”对待感性）。英国哲学家的著作使他们最彻底地了解到人的感性本性的重要性。因此，年轻一代德国哲学家力图基于英国的观察来补充沃尔夫的理论，或者他们干脆完全抛弃沃尔夫主义。以更具经验性的方法为基础的心理学、人类学、美学和教育理论，开始取代逻辑学和理性主义形而上学，成为理解世界和人在世界中的地位的关键学科。形而上学学科本身由此受到转化。虽然沃尔夫派已经在形而上学内部区分“经验性的”学科和“理性的”或“纯粹的”学科，但是他们也明显地强调纯粹的形而上学作为最独特和最根本的哲学职业的工作。在德国启蒙运动的第二阶段，经验性的部分变得愈来愈具有决定性。然而，只有极少数人乐于完全放弃纯粹的形而上学。在他们内心深处，他们大多数人依然保持作为沃尔夫派的一员。
+
+# 门德尔松
+原：最反抗这个方向的运动，同时又非常关心把英国的观察纳入美学和伦理学之中的哲学家之一是门德尔松。门德尔松受沃尔夫派逻辑学、本体论、理性神学和普遍实践哲学的教育而成长起来，他早就发现这种哲学思想方式既没有穷尽世界，甚至也没有穷尽哲学讨论。他发现英国哲学家也有某种东西提供出来。洛克、莎夫茨伯里、哈奇森、休谟以及几乎每一位其他著名的英国哲学家的著作，都充满传统德国哲学若要获得成功则必须解决的问题和必须解释的观察，而且这些问题大多数似乎都与在理论的、道德的和审美的语境中对感觉的分析有关。门德尔松为他自己（也为其他德国人）提出一个新的问题或任务。他把这个任务构想为（至少首先）把英国的“观察”纳人一种综合性的理论。正如他在评论柏克（Edmund Burke）的《对我们关于崇高和美的观念的起源的哲学研究》(A Philosophical Enquiry into the Origin of our Ideas of the Sublime and Beautiful) 时指出的:
+注原：家之一是门德尔松：门德尔松有时与其他思想家一道被划归于“柏林启蒙运动派”。这个群体包括莱辛和门德尔松这样一些人物。但是也有一些不太著名的人物如苏尔策、埃伯哈特(Jo hann August Eberhard， 1739—1809)、朗伯特(Johann Heinrich Lambert, 1728—1777）、阿布特（Thomas Abbt，1738—1809）、利斯维兹（Freidrich Gabriel Resewitz），另外，还有许多更微不足道的思想家。因为他们全都在很大程度上仍属于沃尔夫派，因此，某些历史学家亦将他们称为“新沃尔夫派”。
+原：最近一些时期，关于人的感觉和激情的理论取得了最大的进步，因为哲学的其他部分似乎不再有这样的进步。我们的邻居，尤其英国人以对自然的哲学观察领先于我们，而我们则以我们的理性推论追赶他们；如果这样持续下去，亦即我们的邻居观察而我们解释，我们就可以希望，我们迟早将会获得一种完整的感觉理论。
+注原：种完整的感觉理论：Bibliothek der schønen Wissenschaften und der freyen KünsteⅡ, 2 (1759),我援引自1762年第2版290页以下。
+原：他认为，必需的是一种关于思想和感觉的普遍理论，这样一种理论将会在理论的、道德的和审美的语境中解释感觉和思想的关系。它将会利用英国的“观察”和德国的（即沃尔夫派的）“解释”。
+注原：感觉和思想的关系：这是埃伯哈特的一部著作（柏林，1776）的标题。这部著作是对普鲁士科学院提出的征求一种更精确的关于思想和感觉的理论的问题的回答。埃伯哈特说，这个问题具体要求：“（1）人们精确地提出灵魂的双重能力的原始条件以及它的一般法则；(2)透彻地研究灵魂的这两种能力是怎样相互依赖、相互影响的；（3)揭示我们能够据以判断人的理智能力（天才）和道德性格在多大程度上依赖于这两种心理能力的力度和活泼度及依赖于这两种能力的增加的原则。”(14页以下)
+原：门德尔松对必须遵循的一般方法也有明确的观念。这种一般方法必须表明，英国哲学家观察到的，而且他们追溯至一种特殊的感官的现象，其实是理性的。因此，他论证说，追随某些英国哲学家谈论一种特殊的“道德的感官（道德感）”或“共通的感官（常识）”是错误的。虽然它们看起来可以是心灵的独立的能力，然而它们必须被还原于理性。虽然他承认这种向理性的还原在道德判断的情形中是困难的，因为我们的道德判断“正如它们自身显现于灵魂中那样完全不同于理性的明晰的原则的结果”，然而，他认为，这并不意味着它们不能被分析成理性的和明晰的原则。我们的道德情感是“以颜色和光的折射角相关联的同一种方式而与理性的原则相关联的现象。表面上，它们具有完全不同的性质，基本上，它们是一个而且是同一个现象”。道德现象是莱布尼茨派的意义上的现象，但是它们也是“具有稳固基础的现象”，因为它们最终基于某种理性的东西。在这方面，门德尔松也为他自己和他人提出一个非常重要的任务，即，解释理性的原则怎样与看起来完全不同的道德情感相关联，因为这个颜色类比虽然非常富有启发性，但并没有就理性的原则和道德判断之间的现实关系作出任何解释。正是这个任务，规定了18世纪后半期德国形而上学家和道德哲学家的中心关怀之一，即，表明“感官”怎样能够被还原于“理性的原则”，或者英国的观察怎样能够被纳人一个或多或少保留着沃尔夫派的框架中。在1755—1790年间，大多数德国哲学家都以或此或彼的方式研究这个问题。下面，我将简要概述最重要和最有影响的尝试中的两种，这就是特腾斯（Johann Nicolaus Tetens）和康德的尝试。
+注原：性的和明晰的原则：[12.7]，2:183.
+注原：而且是同一个现象：[12.7]，2：183.
+
+# 特腾斯
+原：特腾斯可能是这个阶段从英国思想家那里学到最多东西的德国哲学家。他有时被称作“德国的洛克”，但是他也可以被称作“德国的里德”，因为他总是在里德停止之点开始他自己对哲学问题的讨论，他的认识论理论深受这位苏格兰人对知觉问题的分析的影响。特腾斯对德国思辨哲学的状况（正如他发现的那样）感到不满，转向以观察心理学作为他的方法，以常识作为他的哲学的主题。因此，他宣称，他使用的方法“是观察法，亦即洛克和我们的心理学家在他们的经验心理学中使用的方法”，“常识的知识是哲学必须研究的领域”。然而，甚至特腾斯也不相信洛克的方法能够穷尽全部哲学。毋宁说，他相信，即使我们在“依照洛克、休谟、孔狄亚克以及其他人（包括某些德国哲学家）使用的分析法”来规定和描述人类心灵的全部原则时取得成功，我们还会有许多其他工作要做；我们还会不得不继续发展一门关于事物的“普遍理由”的基本科学。虽然特腾斯把他的大部分努力耗费在沿着洛克、休谟、里德和孔狄亚克的路线向前推进，然而，他也论证，思辨哲学不仅是可能的，而且甚至是可欲的。最终，他的工作就是想要表明，一旦人类心灵得到正确描述以及人类心灵的基本概念和原则得到描述，形而上学就会摆脱构成其相当大一部分内容的矛盾。那时，形而上学就会有能力进步，而没有更多的困难。事实上，特腾斯相信，甚至不需要完全描绘人类心灵的基本特征，形而上学就是可能的。形而上学是可能的由这个事实得到表明：“现在已经实存着我们的形而上学家从一般概念发展出来的许多特定思辨理论，它们保证知性认识到怎样如实地将它们用于重大的、广泛的和丰富的场景。”我们只需要进一步发展已经实存的这些形而上学片段，以达到那些规定形而上学这门根本科学的真理。
+原：在特腾斯看来，这些真理将是客观真理而非单纯主观的信念。既然洛克的分析法最多只能产生“迫使我们依照知性的普遍法则而思想的主观必然性”，因此，他必须表明客观真理怎样产生，或者必须表明我们怎样能够合法地将“我们依照其他方式就不能思想的东西”归与客体本身的属性。特腾斯力图通过首先表明这一点来达到这个目标：这个问题只能是指“这些思想法则是否只是我们自己思想能力的主观法则，或者说，它们是否是无论什么思想能力的主观法则”。经过这番重新表述之后，特腾斯对这个关于知识的客观性的问题的回答就变得惊人的简单。既然我们不能思想我们自己思想能力之外的任何其他思想能力（因为如果有这样一种依照其他法则的思想能力，它就不能被称为我们的思想能力这同一个意义上的“思想”能力），那么理性的真理“就是客观真理，而且它们是客观真理这个事实，就正如它们首先是真理这个事实一样，是确定无疑的。我们不能怀疑或否定前者，正如我们不能怀疑或否定后者一样”。
+
+# 康德与启蒙运动的终结
+原：正是在这种哲学境况中，康德首先构想出批判哲学的问题，并开始创作他的《纯粹理性批判》(Critique of Pure Reason)。康德自已的工作归功于洛克、休谟、里德、哈奇森和斯密这样的哲学家，一如归功于早先德国哲学家对这些哲学家的理论的讨论。实际上，在一种重要意义上，康德的最终理论与他同时代的德国人的反应并没有不同。他也力图提出一种关于思想和感觉的普遍理论。他也希望表明感官的单纯主观的必然性（对英国哲学家来说，它似乎足以谈得上确定性）能够被表明是客观的。此外，当他试图表明感官知觉以概念为前提时，他也遵从其他德国人的指引。尽管他对感官怎样以概念为前提的说明与他同时代的德国人给予的说明并不相同，然而他的说明在很大程度上归功于他们，他的说明单独并不能把他的立场与他们的立场彻底地区别开来。他的“知性的先天范畴和原则”与特腾斯的“知性的法则”具有更紧密的关系。然而，把他与他同时代的德国人区别开来的是，他乐于采取他们显然不能采取的一步，这就是，把休谟的意义原则，或我们不可能认识超出我们感官能够经验的东西之外的事物这个主张作为真的加以接受。感觉没有概念可能是盲目的，但是概念没有感觉就是空洞的。康德论证了传统意义上的形而上学是死胡同和幻象，而他们却全都试图修订它或修补它，以便使它能够以一种比传统沃尔夫派形而上学所允许的更好方式考虑感官知觉。
+注原：具有更紧密的关系：]比较[12.17]。
+原：人们可以说，康德完成了门德尔松早先设定的任务。（英国的）观察被纳人（德国的）理论。他的《纯粹理性批判》至少就意图而言正是门德尔松努力寻求的、那个时期大多数德国人力图提出的那种关于思想和感觉的普遍理论。但是当《纯粹理性批判》出版时，它却并没有被看作是对那个问题的解决，毋宁说被看作是一个问题本身。实际上，它被看作产生大量的问题。在18世纪90年代，德国人开始愈来愈集中于康德提出的问题。虽然英国哲学家仍然被提及，但是他们的观点几乎不被讨论。在这种语境中，我们看到一篇关于休谟《人性论》德文译本的评论这样的怪事：它既不对这部著作的内容发表任何意见，也不对译文的质量发表任何意见，而只是讨论康德对因果性作为一条先天原则的演绎。英国哲学已经变成与德国人现在正在讨论的问题不相关联的。对英国源泉的这种背离与德国启蒙运动的终结是同时出现的。
+注原：条先天原则的演绎：][12.7]，4(1791)：155-169. 费德尔唯一涉及本书的地方是：“对于大多数读者来说，这部著作的许多优点无疑已经明确。因此我认为没有必要来谈它。”
+注原：下面只能追溯德英：下面只能追溯德英关系的大致轮廓。完整的论述将会需要一些专题研究。归根结底，德国人发现，莎夫茨伯里、哈奇森、卡姆斯勋爵、休谟、里德和弗格森是极其重要的。对于莎夫茨伯里，参见[12.41]。对于卡姆斯勋爵亨利·霍姆，参见[12.42]、[12.32]和12.65]。对于霍姆在德国的影响的讨论状况的一般说明，参见[12.37]。对于弗格森，尚没有多少相关研究著作。不妨参阅[12.24]。亦见帕斯卡[12.65]。对于里德，参见[12.30]或[12.31]，对于休谟，参见[12.29]。
+
+# 参考文献
+原：(这不应当被看作是这个主题的完整的参考文献，而只不过是“征引著作”的补充参考文献。更完备的参考文献尤其参见[12.17]、[12.19]、[12.30]、[12.35]、[12.36]和[12.40]。文献尤其参见[12.17]、[12.19]、[12.30]、[12. 35]、[12. 36]和[12.40]。
+原：原始材料
+原：(1) 全集和选集
+原：12.1 Garve, Christian Gesammelte Werke, ed. K. Wölfel, Hildesheim, Olims, 1985—.
+原：12. 2 Mendelssohn, Moses Gesammelte Schriften, 7 vols, ed. G. B. Mendelssohn, Leipzig, 1843—1845.
+原：12.3 —Gesammelte Schriften. Jubiläumsausgabe, 20 vols, ed. I. Illbogen, J. Guttmann, E Mittwoch. Continued by Alexander Altmann et al, Berlin, 1929—. (Now Stuttgart, Frommann and Holzboog.)
+原：(2) 单篇著作和论文
+原：12. 4 Buhle, Johann Gottlieb Geschichte der neuern Philosophie seit der Epoche der Wiederherstellung der Wissenschaften, 6 vols, Gøttingen, 1800—1805.
+原：12.5 Crusius, Weg zur Gewissheit und Zuverlässigkeit der menschlichen Erkenntnis, Leipzig, 1747.
+原：12.6 Eberstein, Wilhelm L. G. von Versuch einer Geschichte der Logik und Metaphysik bey den Deutschen von Leibniz bis auf die gegemwärtige Zeit , 2 vols, Halle, 1794—1799.
+原：12.7 Feder, J. G. H. (ed.) Philosophische Bibliothek, 4 vols, Göttingen, 1788—1793.
+原：12.8 Merian, J. B. “Sur le principe des indiscernables", Histoire de l'Academie Royale des Sciences et Belles Lettres, Année 1754 , Berlin, 1756.
+原：12. 9 — “Réflexions Philosophiques sur la Ressemblance”, Histoire de l’Academie Royale des Sciences et Belles Lettres, Année 1751 , Berlin, 1752.
+原：12. 10 — “Sur le phénomisme de David Hume”, Histoire de l'Academie Royale des Sciences et Belles Lettres , Année 1793, Berlin, 1793.
+原：12. 11 Tetens, Johann Nicolaus Philosophische Versuche über die menschliche Natur und ihre Entwicklung, 2 vols, 1777 (repr. Hildesheim, Olms, 1979).
+原：12. 12 —Über die allgemeine speculativische Philosophie, 1775.
+原：译文
+原：12. 13 Wolff, Christian Preliminary Discourse on Philosophy in General, trans. R. J. Blackwell, Indianapolis, Bobbs-Merrill, 1963.
+原：12.14 Hume, David Philosophische Versuche über die Menschliche Erkenntnis, Hamburg and Leipzig, 1755.
+原：12. 15 —Oeuvres philosophiques, ed. J. B. Merian, 5 vols, Preface J. H. S. Formey, 1758—1760.
+原：综合研究和背景材料
+原：12. 16 Beck, L. W. Early German Philosophy, Kant and His Predecessors, Cambridge, The Belknap Press of Harvard University Press, 1969.
+原：12. 17 — “From Leibniz to Kant", The Routledge History of Philosophy , vol. VI , The Age of German Idealism, ed. Robert Soloman and Kathleen Higgins, London, 1993, ch.1.
+原：12.18 Brandt, R. and Klemme, H. David Hume in Deutschland. Literatur zur Hume-Rezeption in Marburger Bibliotheken, Marburg. Universitätsbibliothek, 1989.
+原：12. 19 Cassirer, F. The Philosophy of the Enlightenment, Princeton, NJ, Princeton University Press, 1951.
+原：12. 20—Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit , vol. 2, Berlin, 1907 (repr. Darmstadt, Wissenschaftliche Buchgesellschaft, 1974).
+原：12. 21 Crocker, L. G. “Introduction" in The Blackwell Companion to the Enlightenment, Oxford, Blackwell, 1991, pp. 1-10.
+原：12. 22 Dessoir, M. Geschichte der neueren Psychologie, 2nd edn, 1902.
+原：12. 23 Erämtsae, E. Adam Smith als Mittler englisch-deutscher Spracheinflüsse, Helsinki, 1961.
+原：12.24 Flajole, E. S. “Lessing's Retrieval of Lost Truths", Proceedings of the Modern Language Association 74 (1959): 52–66.
+原：12.25 Ganz, P.F. Der Einfluss des Englischen auf den deutschen Wortschatz, Berlin, 1957.
+原：12.26 Gay, P. The Enlightenment, 2 vols, London, 1967, 1971.
+原：12.27 Hazard, P. The European Mind, 1680—1715, trans. J.Lewis May, Clevel-and/ New York, The World Publishing Co. , 1963.
+原：12. 28 —European Thought in the Eighteenth Century, From Montesquieu to Lessing, trans. J. Lewis May, New Haven, Yale University Press, 1954.
+原：12.29 Kreimendahl, L. and Gawlick, G. Hume in der deutschen Aufklärung, Stuttgart, Frommann and Holzboog, 1987.
+原：12. 30 Kuehn, M. Scottish Common Sense in Germany, 1768—1800: A Contribution to the History of Critical Philosophy, with a Preface by Lewis White Beck, Kingston and Montreal, McGill-Queen's University Press, 1987.
+原：12. 31 — “The Early Reception of Reid, Oswald and Beattie in Germany", Journal of the History of Philosophy 21 (1983); 479-495.
+原：12. 32 Neumann, W. Die Bedeutung Homes für. die Aesthetik und sein Einfluss auf die deutschen Aesthetiker, Halle, 1894.
+原：12. 33 Oppel, H. Englisch-deutsche Literaturbeziehungen, 2 vols, Berlin, 1971.
+原：12.34 Popkin, R. H. “New Views on the Role of Skepticism in the Enlightenment", Modern Language Quarterly 53 (1992): 279-297.
+原：12. 35 Price, L. M. The Reception of English Literature in Germany, Berkeley, 1932.
+原：12. 36 Price, M. B. and Price, L. M. “The Publication of English Humanioria in Germany in the Eighteenth Century", University of California Publications in Modern Philology, xliv (1955).
+原：12. 37 Randall, H. W The Critical Theory of Lord Kames, Northampton, Mass. , Smith College Studies in Modern Languages, 1964.
+原：12. 38 Stäbler, E. Berkeley's Auf fassung and Wirkung in der deutschen Philosophie bis Hegel, Tübingen, 1935.
+原：12. 39 Walz, J. A. “English Influences on the German Vocabulary of the 18th Century", Monatshefte (Madison) 35 (1943): 156-164.
+原：12. 40 Waszek, N. The Scottish Enlightenment and Hegel's Account of Civil Society, Dordrecht/Boston/London, Kluwer Academic Publishers, 1988.
+原：12. 41 Weiser, C. F. Shaftesbury und das deutsche Geistesleben, Leipzig und Ber: lin,1916.
+原：12.42 Wohlgemuth, J. Henry Homes Ästhetik und ihr Einfluss auf deutscheÄsthetiker, Berlin, 1893.
+原：12. 43 Wundt, M. Die Schulphilosophie im Zeitalter der Aufklärung, Tübingen, 1945. (repr. Hildesheim, Olms, 1984).
+原：12. 44 Yolton, J. W. The Blackwell Companion to the Enlightenment, Oxford, Blackwell,1991.
+原：12.45 Zart, G. Einfluss der englischen Philosophie seit Bacon auf die deutsche Philosophie des 18, Jahrhunderts, Berlin, 1881.
+原：沃尔夫和托马修斯派
+原：12. 46 Becker, G. "Pietism's Confrontation with Enlightenment Rationalism: An Examination of Ascetic Protestantism and Science", Journal for the Scientific Study of Religion 30 (1991):139-158.
+原：12. 47 Biller, G. “Die Wolff-Diskussion von 1800 bis 1985. Eine Bibliographie", in Christian Wolff 1679—1754, 2nd edn, Werner Schneiders, Hamburg, Meiners, 1986, pp.321-346.
+原：柏林科学院
+原：12. 48 Buschmann, C. "Philosophische Preisfragen und Preisschriften der Berliner Akademie, 1747—1768. Ein Beitrag zur Leibniz-Rezeption im 18. Jahrhundert", Deutsche Zeitschrift für Philosophie 35 (1987): 779-789.
+原：12.49 Calinger, R.S. “The Newtonian-Wolffian Controversy (1740-1759)”, Journal of the History of Philosophy 30 (1969): 319-330.
+原：12.50 Gossman, L. “Berkeley, Hume and Maupertuis", French Studies 14 330(1960):304-324.
+原：12. 51 Harnack, A. von Geschichte der Königlich-Preußischen Akademie der Wissenschaften zu Berlin, 4 vols, Berlin, 1900.
+原：12. 52 Winter, E Die Registres der Berliner Akademie der Wissenschaften, 1746—1766; Dokumente für das Wirken Leonhard Eulers in Berlin, Berlin. Akademie Verlag, 1957.
+原：门德尔松
+原：12. 53 Altmann, A. Moses Mendelssohns Frühschriften zur Mataphysik, Tübingen, J. C. B. Mohr (Paul Siebeck), 1969.
+原：12. 54 —Moses Mendelssohn; A Biographical Study, Alabama, University of Alabama Press, 1973.
+原：12. 55 Pinkuss, F. Moses Mendelssohns Verhältnis zur englischen Philosophie, Würz-burg, 1929.
+原：12. 56 "Moses Mendelssohns Verhältnis zur englischen Philosophie", Philosophisches Jahrbuch der Görres Gesellschaft 42 (1929): 449-490.
+原：费德尔和迈勒斯
+原：12.57 Brandt, R. “Feder and Kant", Kant-Studien 80 (1989): 249-264.
+原：12. 58 Röttgers, K. “J. G. H. Feder-Beitrag zu einer Verhinderungsgeschichte eines deutschen Empirismus", Kant-Studien 75 (1984): 420-441.
+原：12, 59 Zimmerli, W. C. “ ‘Schwere Rüstung’ des Dogmatismus und ‘anwendbare Eklektik', J. G. H. Feder und die Göttinger Philosophie im ausgehenden 18. Jahrhundert", Studia Leibnitiana 15 (1983): 58-71.
+原：哈曼、赫尔德和雅可比
+原：12.60 Beck, H. “Introduction. To Friedrich Heinrich Jacobi", David Hume über den Glauben: über den Glauben oder Idealismus und Realismus, Breslau, 1787 (repr. New York and London, Garland, 1983).
+原：12.61 Merlan, P. “From Hume to Hamann", The Personalist 32 (1951): 11-18.
+原：12.62 — “Hamann et les Dialogues de Hume", Revue de Metaphysique 59(1954):285-289.
+原：12. 63 — “Kant, Hamann-Jacobi and Schelling on Hume", Rivista critica di storia filosofia 22 (1967): 343-351.
+原：12. 64 Pascal, R. "Herder and the Scottish Historical School", Publications of the English Goethe Society 14 (1939): 23–42.
+原：12. 65 Shaw, L. R. “Henry Home of Kames: Precursor of Herder", Germanic Review 35 (1960): 116-127.
+原：康德
+原：12.66 Beck, L. W, Essays on Kant and Hume, New Haven and London, Yale University Press, 1978.
+原：12. 67 Gracyk, T. “Kant's Shifting Debt to British Aesthetics", British Journal of Aesthetics 26 (1986): 204-217.
+原：12.68 Henrich, D. “Hutcheson und Kant", Kant-Studien 49 (1957—1958): 49-69.
+原：12. 69 Janitsch, J. Kants Urteile über Berkeley, Strassburg, 1879.
+原：12. 70 Justin, G. D. “Re-relating Kant and Berkeley", Kant-Studien 68 (1977): 77-79.
+原：12.71 Kreimendahl, L. Kant—Der Durchbruch von 1769, Köln, Jürgen Dinter, 1990.
+原：12. 72 Kuehn, M. “Kant's Conception of Hume's Problem", Journal of the History of Philosophy 21 (1983): 175-193.
+原：12. 73 — “Kant's Transcendental Deduction: A Limited Defense of Hume", in New Essays on Kant and Hume, ed. den Ouden, New York and Bern, Peter F. Lang Publishing Company, 1987, pp.47-72.
+原：12.74 — “Hume's Antinomies”, Hume Studies 9 (1983): 25–45.
+原：12. 75— “The Context of Kant's Refutation of Idealism’ in Eighteenth-Century Philosophy", in Man, God and Nature in the Enlightenment, ed. D. C. Mell, T. E D. Braun, and L. M. Palmer, East Lansing, Colleagues Press, Inc. , 1988, pp. 25-35.
+原：12. 76 — “Reid's Contribution to ‘Hume's Problem’”, in The Science of Man in the Scottish Enlightenment : Hume, Reid, and Their Contemporaries, ed. P. Jones, Edinburgh, Edinburgh University Press, 1989, pp. 124-148.
+原：12. 77 Lovejoy, A. “Kant and the English Platonists", Essays, Philosophical and Psychological in Honor of William James, London, 1908.
+原：12. 78 Oncken, A. Adam Smith and Immanuel Kant, Leipzig, 1877.
+原：12. 79 Piper, W. B. “Kant's Contact with British Empiricism”, Eighteenth-Century Studies 12 (1978—1979):174-189.
+原：12. 80 Smith, N. K. “Kant's Relation to Hume and Leibniz", Philosophical Review 24 (1915):288-296.
+原：12. 81 Swain, C. “Hamann and the Philosophy of David Hume", Journal of the History of Philosophy (1967): 343-351.
+原：12. 82 Walsh, W. H. “Kant and Empiricism", in 200 Jahre Kritik der reinen Vernunft, ed. J. Kopper and W. Marx, Hildesheim, Gerstenberg Verlag, 1981, pp. 385-442.
+原：12.83 Wentscher, E. Englische Wege zu Kant, Leipzig, 1931.
+原：12. 84 Werkmeister, W. H. “Notes to an Interpretation of Berkeley", in New Studies in Berkeley's Philosophy, ed. W. E. Steinkraus, New York, Holt, Reinhart and Winston, 1966.
+原：12.85 Winter, A. “Selbstdenken, Antinomien, Schranken. Zum Einfluss des späten Locke auf die Philosophie Kants", Eklektik, Selbstdenken, Mündigkeit, ed. N. Hinske [vol. 1 of Aufklärung].
+原：12. 86 Wolff, R. P. “Kant's Debt to Hume via Beattie", Journal of the History of Ideas 21 (1960): 117-123.

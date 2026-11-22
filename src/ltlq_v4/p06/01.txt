@@ -1,0 +1,363 @@
+# 第二章 文艺复兴时期意大利以外的哲学
+原：意大利可以被公正地描述为文艺复兴时期哲学的所在地。那个时期许多重要的文化发展都起源于意大利，而只是渐渐地向北部和西部扩展到其他国家。但是，西欧文化活动其他的每一个主要中心德国、法国、伊比
+注原：的每一个主要中心：这些国家和地区是文艺复兴时期大部分意大利以外的主要哲学家的所在地。还要提到的是瑞士，那是帕拉塞尔修斯的祖国。当然，文艺复兴时期哲学不只限于这些国家。但是欧洲其他地方都在很大程度上在文献中被忽视了。关于克罗地亚(Croatia)、匈牙利（Hungary）和捷克（Czech）的人文主义的讨论，参见拉比尔（Rabil）2.96]，part II.
+原：利亚半岛（the Iberian Peninsula）、英国和低地国都为哲学活动提供了一种独特的语境。它们那些极为不同的政治和宗教历史，对各个国家或地区繁荣起来的那种哲学产生了或多或少的直接影响。它们各自都以自己的方式添加到从意大利继承来的东西之上，并且发展了从欧洲其他地方接受来的东西。以不同的方式和在不同的程度上，它们准备或者预期了向现代哲学的过渡。在整个17世纪，文艺复兴时期哲学和种种哲学体系以这种或那种方式继续在欧洲的某个地方发展和繁荣。它们为现代哲学提供了经常被人们忽略的那一部分语境，在某些方面是它的延续，在另一些方面又塑造了对它的一些回应。确实，我们可以言之有物地将许多哲学家，如伽森狄(Gassendi)和莱布尼兹既称为早期现代哲学家，也称为文艺复兴时期哲学家。
+注原：和莱布尼兹：参见，如布朗（Brown）[2.171]；并参见海内卡普(Heinekamp)[2.176]。
+原：文艺复兴时期哲学家的一个独特标志就是他们对古人思想的敬重。他们所做的论证常常是为他们所想要提出的观点引证某种古代权威的支持或者许多古代权威的一致意见。与此相对照，现代哲学家的倾向则是依赖于求助理性和经验，而不是依赖于引证权威来提出他们的论证。当然，有些人这两类事情都做，我们可以根据他们的论证是否更多地转向一个方面而不是另一个方面，来决定是将他们称为现代哲学家还是文艺复兴时期哲学家。
+原：文艺复兴时期的哲学也需要与较早时期的经院哲学风格相区分。文艺复兴时期的哲学至少最初部分的是对学术界和基督教界哲学的一种反应。对权威的依赖也是经院哲学的一个特征，尽管这在某些方面比较难定位。经院哲学依赖于解释亚里士多德的传统，在这种传统中，对理性、传统以及“那个哲学家”的话的诉求是混淆在一起的。一些文艺复兴时期的哲学家离开了亚里士多德传统，而且，就像我们将要看到的那样，文艺复兴时期所有古代的哲学体系都在这个或者那个时候复活过。但是，相当独特的是，文艺复兴时期哲学家们对亚里士多德有很高的敬意，并且谴责经院哲学家们曲解了亚里士多德的意义。
+注原：亚里士多德的意义：参见79~81页。
+原：经院哲学在文艺复兴时期也并非保持不变。相反，来自于人文主义者方面的批评常常击中它的要害，而且外面的新发展也时常反映在经院哲学传统内部的变化当中。因此，文艺复兴并不只是带回了被忽视的哲学传统，它还使经院哲学传统自身具有了新的活力。
+原：对于哲学史家来说，根据在不同时期居于支配地位或者最有实质性新意的哲学的风格来称呼这些不同的时期是一个方便的办法。不过，哲学的任何一个时期都是转变时期，包含着难以定位的个人和运动。当描述两个世纪或更长时间欧洲哲学中有意义的运动时，这类做法就特别必要。虽然文艺复兴时期意大利之外的哲学主要发生在16世纪，我们需要承认更早时期享有盛名的一些人物。我们还需要认识它那持续的生命力，这种生命力直注人现代哲学甚至18世纪中。
+注原：学甚至18世纪中：参见下面的注释14。
+原：为了解释上的方便，我将把主要哲学人物归类于文艺复兴时期哲学的不同路线之下。然而，这些路线常常互相交织，一些个人直接归属于一条路线，而另外一些更复杂的哲学家则可能与两条或更多条路线相关。甚至有那样一些人，如库萨的尼古拉（Nicholas of Cusa），他们有争议地应当被归属于中世纪晚期；还有另外一些人，如阿格里帕（Agrippa），则被一些人当作是早期现代哲学家。这类争论的价值也许主要不是在于对他们做出确定的结论，而是在于由从完全不同的视角来了解这些哲学家的可能性而使这些被讨论的哲学家个人进一步得到了解。
+
+# 库萨努斯（库萨的尼古拉）和宗教新柏拉图主义
+原：尼古拉斯·克里夫茨（Nicholas Kryfts）或者克雷布斯（Krebs）（1401年）出生于德国城市库斯（Kues）或者库萨，因此他的拉丁文名字是库萨努斯（Cusanus）。他当了神父，并最终当上了主教，在关系到教皇和教会委员会（Church Councils）权威问题的争论中，在为了罗马和君士坦丁堡教派的重新联合而进行的谈判中，扮演了重要的角色。他写了许多神学著作，1464年在意大利去世时，他已经是一个红衣主教了。他的哲学著作反映出他对上帝的本性和知识的关注。他还是一个极为博学的人，写过关于科学和数学的论文。他受到意大利人文主义者的影响，学习希腊文，并收集了大量的手稿。与比他更年轻的同时代人费奇诺一起，对文艺复兴运动中柏拉图主义的复兴起了重要的作用。
+原：库萨努斯和他的同时代人没有在柏拉图和由普罗提诺（Plotinus）开始的新柏拉图主义学派之间做出现为人们所了解的区分。到了17世纪末，莱布尼兹开始将真实的柏拉图和柏拉图后继者作品中对柏拉图的曲解和添加区分开来。但是文艺复兴时期宗教新柏拉图主义者们没有做这样的区分。他们继承了以一种基督教化了的形式来表现柏拉图的传统。对于库萨努斯来说，一个重要的背景资源是伪狄奥尼修斯（Pseudo-Dionysius）作品——这些作品被错误地归属于圣保罗（StPaul）的第一个雅典皈依者、最高法院的法官狄奥尼修斯。这些作品曾经影响了迈斯特·埃克哈特（MeisterEckhart，约1260—1327）和中世纪莱茵兰神秘主义学派（Rhineland school of mysticism)，库萨努斯曾经得益于后者。他还得益于普罗克鲁斯，并且被授权翻译了他的《柏拉图神学》(Platonic Theology)。
+注原：解和添加区分开来：参见下面的注释26。
+原：库萨努斯认为上帝的创世意味着世界反映了上帝的无限本性，这是宗教新柏拉图主义者们的一种典型看法。对于他来说，世界是上帝的“缩影”，而每一个有限事物反过来又是更大宇宙的“缩影”。由此可以推出，所有事物（包括矛盾的对立面）都在一种和谐的统一中相一致。如果是这样，那么矛盾律就不是真理的必要条件，而且人类理性就不能胜任把握世界之真实本性的任务。库萨努斯因此讲授了他所说的“有学问的无知”，这与亚里士多德主义者和他们对矛盾律的坚持部分的是相对立的。他还讲授了伪狄奥尼修斯的“否定的神学”，即主张上帝超越于我们可以拥有的关于他的所有肯定的知识。
+原：库萨努斯在宗教问题上的神秘主义和怀疑主义的柏拉图倾向，并没有妨碍他对宇宙论持有明确的看法。例如，如果宇宙是上帝的镜子，那么，他认为，它就应当被设想为没有确定的边界。关于宇宙中的一切事物都是整体的一个微观宇宙的观点，也使他必须要拒绝亚里士多德的正统观点，即认为天体是由与地球不同的实体构成的。库萨努斯在这些方面以及许多其他方面都背离了已经得到认可的托勒密和亚里士多德的宇宙论。
+原：库萨努斯的例子表明新柏拉图主义如何帮助了一些人从亚里士多德科学的（如事实所表明的那样，错误的）假定中解放出来，并因此而对那样一种事后会被我们判断为对世界的更真实看法做出了贡献。然而，新柏拉图主义对人们如何思考世界的影响并不是一律如此有所助益的。关于人是宇宙（宏观宇宙）之微观宇宙的看法，在帕拉塞尔修斯的思想中以及在文艺复兴时期非常有影响的神秘哲学传统中，起着一种核心的作用。那种看法—我们还要回到这上面来——导致了一系列错误的信念，例如关于自然中的哪种东西可以被用来治疗人类的哪种疾病的信念。
+注原：还要回到这上面来：参见77~79页。
+原：库萨努斯自已就是德国哲学传统的一部分，这种哲学传统将在整个文艺复兴时期和其后的时间里持续下去。毫无疑问，这就是为什么他似乎确实对后来的德国哲学有所预期的原因所在。例如，库萨努斯持有一些独特的莱布尼兹学说，如世界上的每一个事物都不仅是对上帝的反映，而且是对所有其他事物的反映这样的观点。而且，他关于上帝那里对立面之统一的学说似乎很像谢林（Schelling）的绝对（theAbsolute）理论，在这个理论中，所有的差异和区别都在绝对那里消失了。但是，虽然库萨努斯也许是文艺复兴时期意大利之外的重要新柏拉图主义者，他在新柏拉图主义和宗教神秘主义的德国传统中，既不是第一个人，也不是最后一个。这些学说也并非为他所独有。关于上帝的本性反映在每一个被创造事物中的思想，是典型的新柏拉图主义流射（emanation）学说的一种自然结果，根据这种学说，世界产生于一种神性的溢出（overflowing）。库萨努斯也不是那个时期主张在上帝那里所有的差异和区别都消失了的唯一的德国哲学家。
+注原：的反映这样的观点：例如，在他的Discourse on Metaphysics 第九节中，莱布尼兹提出了大量自相矛盾的命题（由他的实体理论而变得更加可信的信念），包括没有完全相似的两个实体，以及每个实体都是上帝和整个宇宙的一面镜子。这些学说都在《论有学问的无知》(De docta ignorantia）中被预见到了，但是莱布尼兹这些学说中的任何一个都不大可能直接来自于库萨努斯。在他的笔下，这其中的第一个学说确实似乎就是他从阿奎那的一个学说中提炼出来的。
+原：在德国传统中有一个哲学家持有这两个观点，这就是雅各布·波墨(Jakob Boehme，1575—1624)，一个自学成材的工匠。波墨的观点是其大量阅读的结果，并且反映着神秘哲学家和医生帕拉塞尔修斯（见77~78页）以及神秘主义者瓦伦丁·魏格尔（ValentinWeigel，1493—1541）的思想。但是，他将自已那极为独特的成分也放了进去。例如，他将圣父同一于意志(Will)，将圣子同一于心（Heart)，而将圣灵同一于从这些里面发散出来、使精神世界得以发生的“运动的生命”(movinglife）。波墨和其他新柏拉图主义者一样，认为物质世界产生于一种衰退过程。他对宗教直观的强调把他放到了宗教正统观念之外，也把他放到了哲学之外。然而，不仅在他自己的时代（他的一些追随者自己组成了一个宗教教派），而且在很长时间以后，当他的著作为谢林这样的德国浪漫主义作家再次发现的时候，他都极具影响力。
+原：同化到德国传统之中的另一个宗教新柏拉图主义路线就是基督教神秘教义（Cabbala）的路线。“Cabbala”是一个希伯来词（有各种各样的音译），意思是“传统”，后被用来指称一种解释《圣经》的神秘传统，传说中认为，是摩西将它通过一系列犹太领袖而传了下来。一些早期意大利文艺复兴时期哲学家，如乔万尼·皮科·德拉·米兰多拉（GiovanniPico della Mirandola）和弗朗西斯科·乔治（FrancescoGiorgi），对这种神秘教义怀有一种类似基督教法的兴趣。在德国，这种兴趣在人文主义者约翰内斯·罗伊希林(Johannes Reuchlin，1455—1522)那里得到继续，并且在17世纪后期的一项方案中达到了它的最高峰。这项方案就是将被人们称之为《光明篇》(Zohar)的希伯来文献和其他解释性材料在拉丁文译本中放在一起。这项方案涉及莱布尼兹两位年长的同时代人和朋友的合作，他们就是克里斯蒂安·克诺尔·冯·罗森劳斯（Christian Knorr von Rosenroth，1636—1689）和弗朗西斯·默库里·范赫尔蒙特（Francis Mercury van Helmont，1618—1699)。克诺尔（Kabbala Denudata，1677—1684）负责编辑和管理《揭穿了的神秘教义》出版方面的主要事务。但是范赫尔蒙特所作的贡献还包括一篇短小的《神秘教义对话》(Cabbalistical Dialogue)，在其中他想要详细解释神秘教义，并保护它不受其先前的赞美者、剑桥著名的柏拉图主义者亨利·莫尔（HenryMore，1614—1687）对其批评的伤害。
+注原：似基督教法的兴趣：关于意大利文艺复兴时期对神秘教义的兴趣的更详细描述，参见第一章，45~ 46页。
+注原：那里得到继续：参见罗伊希林 [2. 56]，特别是G·劳埃德·琼斯(G. Lloyd Jones)的导言。
+注原：对其批评的伤害：第五卷的第一章讨论了亨利·莫尔，还讨论了另一个新柏拉图主义者安·康韦(Ann Conway)。关于F.M.范赫尔蒙特和莱布尼兹这两个哲学家关系的讨论，参见布朗[2.170]。
+原：在范赫尔蒙特对神秘教义的解释中占据中心位置的是一种可以识别出来的新柏拉图主义悖论：低级物质世界如何能够产生于作为纯粹精神的上帝？用新柏拉图主义者的另一种方式说就是，被动和无活动能力的东西如何能够由其本性不包含任何那类东西、其自身是一种“纯粹活动”的存在所引起？范赫尔蒙特提出一种理论来解决这个悖论。这个理论首先是一种发散理论，根据这一理论，上帝直接从他自身产生出具有纯精神本性的事物。然而，这些精神衰退着并变得不活跃了，它们粘在一起，形成了物质。在这一退化了的阶段，个体精神“现在是一个自然单子（Monade）或单一存在（single Being)，是一个真正的原子（Atome)”。与17世纪晚期其他新柏拉图主义者（莱布尼兹有争议地包括在其中）一样，范赫尔蒙特提出了一种单子论，试图将新柏拉图主义形而上学和当代关于物质性质的科学思考结合起来。
+注原：Atome：范赫尔蒙特2.62]，13。
+原：16世纪早期宗教新柏拉图主义在伊比利亚半岛产生了一些影响，例如对写过一篇关于爱的对话的葡萄牙犹太哲学家利昂·赫伯里奥LeonHe breo，或者阿巴伯内尔（Abarbanel)，约1460—约1523]思想的影响。在法国，新柏拉图主义将柏拉图的作品看作是古代的神学（prisca theologia）、是摩西和其他古代作家智慧的一部分，这种观点为16世纪中叶桑福里安·尚皮耶（Symphorien Champier）和德拉博戴里兄弟（the brothers de la Boderie）所接受。但是人们也没有忘记柏拉图主义拥有包含许多异端邪说种子的名声。在天主教改革期间重申正统观点的过程中，在特伦特公会议（the Council of Trent，1545—1563年）之后，亚里士多德学说得到了推进，而柏拉图主义则遭遇到强烈的阻力。尽管如此，宗教新柏拉图主义的影响，至少在德国和英国思想开通的新教圈子里，一直持续到了18世纪。
+注原：所接受：关于尚皮耶的影响，参见科彭哈弗(Copenhaver)[2.115]。关于16世纪法国的“古代神学”，参见沃克（Walker）[2.108]，第三章。
+注原：遭遇到强烈的阻力：关于对亚里士多德哲学的推进，参见下面的注释29。上一章结尾处谈到的布鲁诺的命运，是正统天主教对新柏拉图主义反应的征兆。关于对神秘哲学反应的论述，参见耶茨（Yates）[2.109]。
+注原：持续到了18世纪：因而贝克莱在他的晚期著作《西利斯》（Siris，1744年）中，试图论证“毕达哥拉斯派哲学家们（Pythagoreans）和柏拉图主义者拥有关于这个真实世界体系的观念”(sec.266)，并且对新柏拉图主义的关键人物如普罗提诺、普罗克鲁斯和杨布里柯(Iamblichus）给予了明确的承认。
+
+# 伊拉斯谟和基督教人文主义
+原：与其说基督教人文主义是一种哲学体系，还不如说它是一系列的态度，同情或者不同情古代社会的任何一种哲学的人，都可以持有这些态度。基督教人文主义者独特地以怀疑论观点反对形而上学教条，喜欢依赖信仰，而不喜欢用经院哲学的证明来捍卫基督教；而且他们强调的是简单的非教条的基督教，而不是学说的正确性。与禁欲主义美德相对立，他们肯定普通的人类快乐，并且为伊壁鸠鲁主义（Epicureanism）的复兴准备了道路。在文艺复兴时期，人文主义者在反对当时学术的（经院哲学的）哲学和神学方面很有影响。他们倾向于维护某些哲学立场，如关于自由意志的信念，但他们是以一种非理论的方式来维护这些立场的。就其特征而言，人文主义是一场世俗运动，这自然就促进了一种讨论更具有应用性和更涉及时事的问题的趋势。
+注原：不是学说的正确性：在85~87页作为怀疑论者得到讨论的一些人（如蒙台涅），也许同样可以被归类为基督教人文主义者。伊拉斯谟、维苇，也许还有阿格里帕，也都可以在两个头衔之下得到讨论。
+注原：的复兴准备了道路：参见83~84页。并参见艾伦(Allen)[2.75]和琼昆茨(Jungkuntz)[2.93]。
+原：基督教人文主义的前辈无疑是伟大的荷兰学者德西德留斯·伊拉斯谟(Desiderius Erasmus，1466—1536)。在将人文主义批判方法运用于《圣经》文本，以及倡导用民众的语言翻译《圣经》方面，他是一位先驱。伊拉斯谟写了一部怀疑论著作—《愚人颂》（In PraiseofFolly），这部著作（即使本身并非严格意义上的哲学著作）帮助确立了其他人在16世纪末和17世纪所采纳的基督教怀疑论的作用。和马丁·路德（Martin Luther，1483—1546）一样，伊拉斯谟也对经院哲学怀有敌意。他比路德更多宽容，更少独断，而且从不搞宗派，直到生命的最后都一直是一个温和、保守，却又自由而且好怀疑的天主教徒。这两个人进行了一场关于自由意志的争论。路德否认人能够自动获得拯救，伊拉斯谟则为神圣恩典的可得性和人类接受或者拒绝它的自由进行辩护。
+注原：它的自由进行辩护：有一个关于这一争论的版本，由E.W.温特（E. W.Winter）编辑和翻译，题目为 Erasmus-Luther: Discourse on Free Will, New York, 1961.
+原：英格兰基督教人文主义者有托马斯·莫尔（ThomasMore，1478—1535）和约翰·科利特（John Colet，约1467—1519)，他们也是伊拉斯谟的著名追随者。莫尔的《乌托邦》（Utopia）在一些方面（例如在其共产主义的而不是个人主义的人类生活理想方面）得益于柏拉图的《国家篇》。然而，他的乌托邦民众过的是一种快乐的生活，而且这部著作在关于至善的看法上，是伊壁鸠鲁式的，而不是斯多亚式或柏拉图式的。同时，阅读文学作品的较高级快乐对于他们来说很重要。莫尔的著作对英国文学，如培根的《新大西岛》，产生了极大的影响。科利特是一个教育改革家，意大利新柏拉图主义者费奇诺对他产生过很大影响。
+注原：他产生过很大影响：参见迈尔斯(Miles)[2.137]。
+原：伊拉斯谟在西班牙也有非常多的追随者，在那里，直到16世纪中叶，伊拉斯谟追随者（erasmitas）在法庭和大学里都很有影响。胡安·路易斯·维苇（Juan LuisVives，1492—1540）是最杰出的西班牙基督教人文主义者之一。维苇是亚里士多德主义的激烈反对者，而且对以亚里士多德术语获得理解的知识持怀疑态度。他的思想预期了许多早期现代哲学家的“温和怀疑论”。他提倡一种归纳方法，对在科学中我们能够获得什么持一种较为有限的看法。他的看法影响了另一个持怀疑论观点的西班牙哲学家桑切斯（Sanches）。维苇不仅是一个理论家，而且是一个社会改革家，他批评教会没有能够为穷人做足够多的事情，他还倡导过一种救济穷人的制度。
+注原：种较为有限的看法：参见林布里克（Limbrick）[2.162]，30页以后。
+原：在特伦特公会议以及正统信仰和虔敬行为在天主教的西班牙得到复兴之后，伊拉斯谟追随者就失去了其重要地位。但是我们可以在取而代之的新经院哲学家们的作品中强烈地感觉到他们的影响。与早期经院哲学相比，这些新经院哲学家的写作风格较少形式化，而且其哲学作品通常是对实际生活问题的反映。许多西班牙耶稣会士也对实际问题给予了人文主义的关注，尽管他们对正统教理有承诺，并且卷人到了教理争论之中。
+原：胡安·德·玛丽安娜（Juan deMariana，1536—1624）就表现出了这种关注。他冒着在其教团和西班牙当局那里惹起麻烦的危险，对贫困问题表达了自己的看法。玛丽安娜写的一部对国王的权利和责任提出指导的书也为他自己惹来了麻烦。这部书由于表现出对特定情况下的弑君者的认可而臭名远扬。它的作者竟称暗杀亨利三世（HenryIII）为“法兰西永远的光荣”，他的教团要求其在后面的版本中把这些词删去。这种不谨慎的言辞对于一部采纳了人文主义轻松的和个人化的风格，以及通过对特殊个案的讨论来进行自己论证的著作来说，也许是一种冒险。同时，玛丽安娜的写作还使用着由亚里士多德和阿奎那（Aquinas）所提供的讨论政治哲学时的知识框架。因此，他的书非常传统，同时也大量涉及时事，并且是激进的。当亨利四世（HenryIV）也被暗杀时，责难就部分地落到了玛丽安娜的书上，这些书在巴黎被当众烧毁。他自已也在监狱中度过了一段时间，但是在西班牙没有人对他提出指责。
+注原：他自己惹来了麻烦：参见玛丽安娜[2.54]。并参见塔尔梅奇(Talmadge)[2.148]。
+原：在多大程度上玛丽安娜会承认他对实际的关注和写作风格受到人文主义的影响，这一点我们还不能肯定。但是有一个人，他把自己表现为一个基督教人文主义者，并且寻求过伊拉斯谟的支持，这就是德国“神秘哲学家”海因里希·科尔内留斯·阿格里帕·冯·内特斯海姆（HeinrichCornelius Agrippa von Nettesheim，1486—1535)。阿格里帕写了一部强烈攻击传统观念的书，揭示出艺术和科学的“不确定性”和“无价值”。正像他在为读者所写的序言中解释的那样，他写这部书是“因为我看到这么多脑袋里充斥着人类知识和学问之人，不仅反对和蔑视神圣《圣经》所言，而且还用同样的轻视来责难和嘲笑它……”在鼓励对人类学识和制度（institutions）的怀疑主义态度以及向简单的与《圣经》相一致的基督教回归这个方面，阿格里帕与伊拉斯谟是一样的。但是他更加激进，虽然也许在怀疑论方面不如后者那么始终如一。他想要推翻已被普遍接受的智慧大厦，以清除发现真理的障碍，这些障碍通过遵从已经建立起来的权威而挡在人们的路上。因此他惊呼：“专制统治是多么的邪恶，用预先指定的作者来占据学生的心灵，剥夺他们寻求和遵从真理的自由……”这表明阿格里帕决不满足于接受伊拉斯谟信仰主义。相反，他似乎相信有一种获得真理的方法，这种方法能够经受得住怀疑论者的攻击。他一直是天主教徒，但却决不愿意接受教会的权威。与此相对照，伊拉斯谟虽然承认教会及其机构的可错性和不完美性，却教导说在信仰的问题上它们为我们提供了可以得到的最好指导。
+注原：和遵从真理的自由：阿格里帕[2.46]，来自于序言“致读者”。
+注原：住怀疑论者的攻击：阿格里帕（参见77、85～86页）也对神秘哲学（尤其是对自然巫术）做出了积极的承诺。那些研究其著作的人对他的整个立场是否前后一致感到困惑。参见鲍恩(Bowen)[2.127]，诺尔特(Nauert)[2.128]和赞伯里(Zambelli)[2.129]。
+
+# 帕拉塞尔修斯和神秘哲学传统
+原：将宗教新柏拉图主义与其在被称之为“神秘哲学”中的表现区分开来，也许是人为的。前者关注人类与上帝的关系，而只以一种形而上学的方式关注到物质世界。后者则更多地关注人类与世界的关系，关注为了人类的利益而驾驭世界的可能方式。没有理由认为这些关注不应当为同样的人所持有，在某种程度上，它们就是这样的。而且，它们可能会得到几乎同等程度的强调，在基督教徒神秘哲学家F.M.范赫尔蒙特那里也是这样。他在世时作为一个医生在欧洲的大部分地区普遍受到称赞，在其他医生失败的地方，他用不同的医药惊人地治愈了一些疾病。然而，人们还是有理由在宗教新柏拉图主义和神秘哲学之间做出区分。如果前者的理论主张引来了异端邪说的责难，神秘哲学家向实际的倾斜则使他们赋予经验重要的地位。
+原：西奥弗雷斯图斯·邦巴斯图斯·冯·霍恩海姆（Theophrastus Bombastus von Hohenheim，约 1493—1541）是神秘哲学的文艺复兴传统中最有影响的人物之一。他称自已为帕拉塞尔修斯（Paracelsus），通常人们知道的也是这个名字。帕拉塞尔修斯是一个自学成材的瑞士医生，和阿格里帕一样，而且可能部分受其影响，他坚决反对所有已经确立起来的科学权威。“我的证明，”他坚持说，“来自于经验和我自己的推理，而不是对权威的引用。”在某些方面，帕拉塞尔修斯和阿格里帕都属于现代。但是，他们的经验主义是不严密的，他们对过去的假定和传统权威的拒绝是不彻底的。他们两个人都接受新柏拉图主义将人类看作宇宙之微观宇宙的观点。帕拉塞尔修斯的医术以这个假定为基础。他认为，在我们从人身上发现的东西和我们从自然中发现的东西之间，存在各种各样的一致性。这些一致性是隐藏着的因果关系的根据，神秘哲学家能够学会引发这些因果关系并因而以一种神秘的方式操纵自然的进程。阿格里帕认为发现这些一致性是一个“长期经验”的问题。然而，神秘哲学家缺乏可靠辨认这些一致性的严格方法。菜豆(kidneybean）可能看上去像一个肾（kidney)，但是与帕拉塞尔修斯(Paracelsians)推测的相反，这些菜豆并没有治愈肾脏疾病的特殊效力。
+注原：不是对权威的引用：引自帕拉塞尔修斯[2.42]，55。
+原：和其他使用不同医术的从业人员一样，帕拉塞尔修斯的医生生涯也不稳定，但是由于他惊人地治愈了一些疾病而受到人们的称赞。他确实采用了一些特殊的有价值的治疗方法，例如将鸦片酊用作止痛剂。而且，他的一些想法如果得到采纳也会带来极大的益处。他认为所有疾病都是自然的，并因而.对将心理疾患归因于魔鬼栖居的观点持排斥态度。同时，他极为乐观地相信自然可以治愈所有的疾病。
+原：我们曾经将帕拉塞尔修斯追随者中的一些人（包括波墨和小范赫尔蒙特）归人宗教新柏拉图主义者一类。然而，这里应当提到约翰·巴普蒂斯特·范赫尔蒙特(John Baptiste van Helmont，1577—1644），虽然作为一个哲学家不如他的儿子，但是在化学史上他却是一个重要人物，而且被认为是那几种气体（gases）的发现者。帕拉塞尔修斯的追随者在17世纪的大部分时间里都具有影响力，那时他们在英国的代表人物是福博特·弗拉德(Fobert Fludd，1574—1637) 和其他一些人。但是他们以及许多宗教新柏拉图主义者都受到了机械论哲学的反对，而他们中的一些人后来自己也反对那种机械论哲学。伽森狄写了一本攻击弗拉德的书，而且现代人，特别是理性主义者们，一般都倾向于对神秘哲学家和新柏拉图主义者不加理睬，其原因正是在于他们在对现象的解释中拒绝这种“隐藏的”或不可理解的因素。
+注原：的发现者：参见雷德格罗夫和雷德格罗夫(Redgrove and Redgrove)[2.166]。
+注原：和其他一些人：参见德布斯(Debus)[2.111]。
+注原：或不可理解的因素：帕拉塞尔修斯将“Archeus”或“世界灵魂”当作一种普遍的原因，而新柏拉图主义者则通常为与机械论哲学相对立的活力论世界观寻求辩护。莱布尼兹经常对他们这样做提出批评，例如，L.E. 莱姆克(L. E. Loemker）(ed.）Gottfried Wilhelm Leibniz: Philosophical Papers and Letters (Dordrecht, Reidel, 2nd edn, 1969), 409 页; P.雷姆南特（P. Remnant）和J. 贝内特（J.Bennett）(eds）G. W.Leibniz:New Essays on Human Understanding (Cambridge，Cambridge University Press，1981)，72 页。那也是他把文艺复兴时期新柏拉图主义者与柏拉图区分开来，并把他们同柏拉图作对他们不利的比较的部分原因。因而他批评费奇诺热衷于过度思考，而放弃了更简单、更实在的东西。“费奇诺到处谈论观念、世界灵魂、神秘数字以及类似的东西，而不是致力于柏拉图尝试给出的观点的精确定义。”(C.I. 格哈特(C.I. Gerhardt)(ed.)Die Philosophisch~ en Schriften von G. W. Leibniz (Berlin, 1875—1890), vol. i, 380 页。)
+
+# 亚里士多德主义及其对手
+原：在中世纪，亚里士多德的权威无可争议，而且他通常就被人们简单地称为“那个哲学家”。但是，虽然亚里士多德在文艺复兴时期仍然无疑是独一无二的最重要的哲学家，这种垄断的局面已经到了尽头。一些像洛伦佐·瓦拉（参见第一章）这样的意大利文艺复兴人文主义者将亚里士多德与他们所反对的经院哲学联系在一起。然而，其他一些人，比如像伊尔莫劳·巴巴罗(ErmolaoBarbaro，1454—1493)，则针对被经院哲学家歪曲了的亚里士多德学说，想要复兴他们心目中真实的亚里士多德——用希腊语进行研究的亚里士多德。一些人，像费奇诺，转向了其他传统，特别是柏拉图传统。另一些人，像乔万尼·皮科·德拉·米兰多拉，则想将亚里士多德与那些其他传统相调和。这只是那些在意大利之外的人也能够接触到的反应的一部分。
+原：马丁·路德似乎接受了瓦拉的极端观点，并且在很大程度上使自已与所有的哲学相对立，他认为基督教已经为希腊的哲学影响所败坏了。由于哲学在清晰阐述神学学说和在教育课程这两个方面都扮演着核心角色，这样的观点很难得到长期坚持。因此，路德的一个最亲密的同事菲利普·梅兰克松(PhilippMelanchthon，1497—1560)又回到了折中的亚里士多德主义那里，这并非出人意料。梅兰克松对路德宗（Lutheranism）在德国的巩固起了关键的作用，这部分是通过他出版了诸如《公共场所》（Locicommunes）这类著作而实现的。虽然这基本上是一部神学著作，梅兰克松还是采纳了一种广义的亚里士多德框架。同时，他很愿意以一种现代的方式来解释亚里士多德(如将他解释为一个唯名论者)，而且，在可能会使宗教得到进一步辩护的时候，他不会拒绝吸纳完全不属于亚里士多德的观点，如关于天赋原则的学说。
+原：在德国大学的语境中，一种文艺复兴时期的亚里士多德主义具有了可能性，它赞成人文主义对经院哲学家们的批评，却坚持认为他们歪曲了亚里士多德的意思。这曾是众所周知的“德国人文主义之父”勒洛夫·许斯曼(Roelof Huysman，1444—1485) 的立场，他的拉丁文名字是罗多尔福斯·阿格里科拉（Rodolphus Agricola）。这将会成为一种普遍的人文主义立场例如，法国人文主义者雅克·勒菲福·德埃塔普斯（Jacques Lefèvred'Etaples，约1460—1536）就持有这个立场，他想要用更准确的文本来对亚里士多德主义进行改革。
+注原：多德主义进行改革：勒菲福·德埃塔普斯并不只对亚里士多德感兴趣。他也受到新柏拉图主义的影响，并且编辑出版了新柏拉图主义的著作。
+原：那种认为经院哲学家贬低了亚里士多德并且背离了其真实学说的思想，在新教的语境中，与宗教改革运动及其向《圣经》的正确文本和真实学说的回归形成了对比。在哲学方面也可以有改革者（reformatores），他们会提出向真实的亚里士多德回归的要求—这里的想法是，亚里士多德终归是正确的，他不能因为经院哲学家们的错误和费解而受到谴责。然而在现实中，这种纯粹的亚里士多德主义和经院哲学之间的区分实际上是不可能得到坚持的。至少在短时期内，对亚里士多德的传统解释（像对《圣经》的传统解释一样）所形成的那种潜移默化的影响，很可能会比以对希腊文本的人文主义处理为基础的新的解释要更大。而且，亚里士多德主义与合理性（rationality）实际上的等同，使得许多人倾向于将任何具有理性权威的观点都归于亚里士多德。亚里士多德哲学和经院哲学被不可避免地搞混乱了，将个人归于其中的一类而不是另一类，这常常是很成问题的。一些新经院哲学家（参见81～83页）似乎在确保亚里士多德文本继续受到关注方面起过重要作用。确实，在16世纪中叶，当天主教宗教改革运动达到其高峰时，亚里士多德文本的出版也达到了一个高峰，这是一个不同寻常的事实。在哲学上向亚里士多德的回归可能看上去就像是向智力生活之良好秩序的回归。至少罗耀拉的伊格纳修（Ignatius of Loyola）似乎就是这样想的，他的准军事教团一耶稣会（SocietyofJesus，成立于1534年）就是要恢复罗马天主教会的权威，在神学上是阿奎那，在哲学上是亚里士多德。
+注原：和费解而受到谴责：莱布尼兹在1669年致他以前的老师雅各布·托马修斯（JacobThomasius）的一封信中，将自已描述成这样一个哲学改革者，一个针对经院哲学家的歪曲而恢复真实亚里士多德之人。他将亚里士多德解释为一个唯名论者，并论证说现代哲学与亚里士多德的物理学是一致的。(参见莱姆克，前面引用的书，93页以后。)
+注原：个不同寻常的事实：C. B. 施米特（C.B. Schmitt）[2.100]曾引用了统计信息（也许并不完全，但仍然有重大意义），这些信息表明，亚里士多德著作版本的数目，从16世纪20年代的51种上升到了16世纪50年代的219种。前两届特伦特公会议分别于1545—1547年和1551—1553年举行。亚里士多德的这种复苏在很大程度上归功于天主教改革这一观点，是我自己的推测。
+原：如果说将经院哲学家和亚里士多德主义者作为不同类别来对待是困难的，那么，将反亚里士多德主义者与这两类中的任何一类相区分却都并不困难。亚里士多德最杰出和最具影响力的一个对手，就是法国加尔文主义(Calvinism）的皈依者皮埃尔·德·拉·拉梅（Pierre de la Ramée，1515—1572），人们通常知道的是其拉丁文名字拉莫斯（Ramus）。拉莫斯的批评抓住了亚里士多德逻辑学的人为性质，与其他人文主义者一样，他指出这种逻辑学对于发现新的真理毫无用处。人们需要的是反映人类思维过程的“自然逻辑学”。人们需要的是发现和判断的技能。拉莫斯作品的影响力远远大于其创造性。特别是，它们促使人们将特别的关注集中在体现诸如笛卡尔和莱布尼兹这类早期的现代哲学家特征的方法上。
+注原：学家特征的方法上：莱布尼兹不像笛卡尔那么轻视经院哲学的逻辑学。但是他将“真实逻辑学”与“我们先前用那个名字所称呼的东西”作了比较，并且对问题作了拉莫斯主义(Ramist)的重新定义，定义为“用知性不仅去判断提出的真理，并且去发现隐藏真理的艺术”(莱姆克，前面引用的书，463页)。
+
+# 苏阿雷斯和新经院哲学
+原：在讨论基督教人文主义（75~77页）时我提到过，16世纪末期新经院哲学之新，部分是源于它反映了人文主义的价值观。我们在多米尼克会士弗朗西斯科·德·维托利亚（Dominican Francisco deVitoria，约1492—1546）的作品中已经可以很清楚地看到这一点。在巴黎的日子里，他曾与伊拉斯谟、维苇和其他一些最重要的人文主义者相识。1526年，维托利亚得到了塞拉曼卡（Salamanca）最重要的神学教授职位，这一任命正是他对16世纪末在西班牙繁荣起来的新经院哲学的发展产生了如此影响的部分原因所在。
+原：人们对维托利亚记忆最深的是他在国际法方面所做的先驱工作。他在大学里做关于当前问题的演讲，其中一些演讲的笔记作为有关特殊主题的《反思录》(Relectiones）得到出版。在其《论印第安人》(De Indis）(1532年）中，他思考了美国印第安人反对西班牙殖民者的权利，并为这样的权利作了辩护。在同一年，他还进行了一项关于战争对错的研究，这就是他的《论战争法》(DeJure Belli)。在这里他论证了武力使用方面的成比例性和非战斗者的权利。虽然维托利亚承认可以有“正义战争”，但他拒绝将宗教理由作为“正义的原因”。因此，根据他的论证，西班牙人没有权利向美国印第安人发动战争，或者仅仅因为他们是非基督徒而夺去其财产。维托利亚是在源自于亚里士多德和阿奎那的自然法则框架中进行论证的。但是他对实用问题的关心——这曾使得查理五世（CharlesV）向他请教国家事务体现出了人文主义的影响。
+注原：面所做的先驱工作：参见斯科特(Scott)[2.167]。并参见汉密尔顿（Hamilton）[2.124]。
+原：维托利亚不仅就诸如正义战争之类的主题进行演讲，他还讲授神学。他通过讲授阿奎那的《神学大全》（Summa Theologica），而非彼得·隆巴德(Peter Lombard)的《箴言四书》（Sentences)，与有着悠久历史的传统决裂了。意大利的另一个多米尼加人托马斯·德·维奥（ThomasdeVio)，即凯奇坦（Cajetan，1468—1534），已经做过这件事情。然而，维托利亚是西班牙这一变化的先驱者。他为更加远离传统的表达风格做了准备。这些事情是由他的学生，也许是那个时期最重要的体系哲学家弗朗西斯科·苏阿雷斯(Francisco Suarez，1548—1617)开始的。传统的经院哲学表达方式是评注。苏阿雷斯最重要的著作《形而上学论辩集》（Disputationes metaphysicae，1597年）是第一部系统的和独立的形而上学论文。它涉及的问题很广泛，从形而上学的性质到上帝的存在，从一般概念到我们关于个别事物的知识，还有因果性、自由、个体性和许多其他问题。虽然作为一个耶稣会士，苏阿雷斯在神学方面不能离开阿奎那，但他却在主张哲学独立于神学这一点上背离了圣托马斯（StThomas）。与一般经院哲学作品相比，他的拉丁文很容易阅读。而且，他的一些思想，如唯名论，已经表现出了对传统经院主义的批判研究方法，以及对奥卡姆的威廉（William of Occam）及其追随者的“现代方法”的某种适应。这就是他之所以能够产生如此重大影响的部分原因。然而，苏阿雷斯对17世纪哲学所产生的广泛影响，并不能完全归因于他本人作品的优点虽然它们非常不同寻常。苏阿雷斯是耶稣会的重要哲学家，而耶稣会士们在欧洲天主教最好的教育机构里扮演着关键的角色。苏阿雷斯的形而上学也进入了课本，并且在新教大学里得到广泛讲授。他的《形而上学论辩集》以这些不同的方式为天主教语境之中的笛卡尔、德国新教语境之中的莱布尼兹提供了重要的背景材料。
+注原：开始的：参见莫拉(Mora)[2.164]。
+注原：语境之中的笛卡尔：笛卡尔在拉弗莱什(La Fleche)的耶稣会士学院(Jesuit College) 学习，人们说他总是随身携带着一本《论辩集》(Disputations)。关于笛卡尔受益于苏阿雷斯的情况，参见克罗宁(Cronin)[2.173]和韦尔斯（Wells）[2.186]。
+注原：了重要的背景材料：参见拉瓦尔特(Lewalter)[2.177]和冯特(Wundt)[2.187]。苏阿雷斯在德国的追随者包括莱布尼兹的老师雅各布·托马修斯。莱布尼兹自己声称，作为一个年轻人，他可以像读小说那样读苏阿雷斯的著作。苏阿雷斯式的唯名论直接影响了莱布尼兹早期关于区分原则(principle ofindividuation）的论文。虽然他的思想是沿着完全不同的路线发展的，莱布尼兹还是把苏阿雷斯包括在了“较深刻的经院哲学家”之中，而不是包括在经常受到他这个现代人谩骂的人当中。
+原：苏阿雷斯作为政治哲学家也很有影响。荷兰理论家休格·德·格鲁特(Huig de Groot，1583—1645)——被人熟知的拉丁文名字是格劳秀斯(Grotius)——就受益于苏阿雷斯和托马斯主义关于自然法则的传统。人们认为格劳秀斯是研究自然权利的第一个理论家，他在这个传统中找到了对蒙台涅（Montaigne）相对主义的一种回答。苏阿雷斯自己得出了相当保守的结论。虽然苏阿雷斯认为政府的权威来自于人民的认可，但他主张公众是以不能再收回的方式共同将其权威授予最高统治者的。与更激进的耶稣会士玛丽安娜不同，苏阿雷斯认为杀死专制君主几乎永远也不会是一件正确的事情，除非他威胁要毁坏整个社会。此外，苏阿雷斯还区分了万民法(ius gentium)和自然法则，指出前者依赖于政府的习惯做法而并不依赖对于所有政府来说都正确的东西。由于奴隶制度与万民法相符合，苏阿雷斯没有对它提出责难。
+注原：于自然法则的传统：参见格劳秀斯[2.52]。并参见塔克(Tuck)[2.144]。
+注原：会士玛丽安娜不同：参见76~77页关于玛丽安娜的简短说明。
+原：苏阿雷斯的著作在耶稣会士教团中产生了极大影响。一些人开始写体系化的哲学论文。西班牙人罗德里高·德·阿里加（Roderigode Arriaga，1592—1667）写了一部叫做《哲学教程》（Cursus philosophicus，1632年）的体系化的哲学导论，在那整个一个世纪里这部导论都得到人们广泛的阅读和引证。其他人从事着应用哲学的研究。苏阿雷斯的一个学生，佛兰德耶稣会士雷纳德·莱修斯（Leonard Lessius，1554—1623），写了一部书，该书大部分篇幅讨论的都是现今被称为“商务伦理学”（business ethics）的内容。在卢汶（Louvain）讲授神学的莱修斯定期到当时欧洲的主要金融中心之一安特卫普（Antwerp）去，学习关于商业实践的第一手知识。他的《论法与正义》(Dejure et justitia）运用了阿奎那的思想，却还寻求对当代道德问题的回答，这其中包括令人尴尬的高利贷问题。莱修斯认为为贷款收取利息本身并非错误，他是对该观点进行辩护的第一个天主教神学家。
+注原：的内容：莱修斯[2.27。参见张伯伦[2.146]。
+原：在整个文艺复兴晚期，耶稣会士哲学家们都活跃在学科的前沿。这并不是说他们不参与传统哲学问题的相关争论。文艺复兴时期哲学中一个经常被讨论的问题是自由意志，而自由意志如何能够与上帝的先知（foreknowledge）和先定（preordination）相和谐这个传统问题，就特别得到了路易斯·德·莫利纳（Luis de Molina，1535—1600）的关注。与苏阿雷斯一样，莫利纳也主张，上帝通过他称之为“中间科学”（middle science，scientiamedia）的东西，可以知道任何一个个体如果受到充分感召会（自由地）做什么。在扩展这种充分感召并因此预先规定正当行为的过程中，上帝并没有剥夺个体的自由。莫利纳论证道，这种自由与只有上帝知道将要发生并且预定将要发生的事情才会发生这个事实，是完全一致的。
+注原：的关注：参见莫利纳[2.33]。并参见佩吉斯(Pegis)[2.151]。
+原：耶稣会的其他成员研究了亚里士多德文本，并且为这些文本写了评注。一个影响了苏阿雷斯的人是“葡萄牙人亚里士多德”彼得·达·方塞卡(Peter da Fonseca，1528—1599)。方塞卡自已的书——其中一本于 1564 年到1625年间出了53版在恢复亚里士多德主义方面本身就非常有影响。而且，作为科英布拉大学的教师，他能够鼓动一些耶稣会士学者一起工作来编制一系列关于亚里士多德主要著作的文本和评注。科英布拉(Coimbra）评注（1592—1606年）经常被重印，并且在整个17世纪都得到广泛使用。
+注原：本身就非常有影响：参见费雷拉·戈梅斯(FerreiraGomez)[2.142]。
+
+# 贾斯特斯·利普修斯和斯多亚主义的复兴
+原：斯多亚主义（Stoicism）是古希腊哲学的伟大体系之一，它为罗马社会中的一些最伟大作家，如塞涅卡（Seneca）和西塞罗（Cicero）所采纳。斯多亚派学者相信，物质世界中的事件深刻而且必然地相互联系在一起。他们相信，这些事件有一个根本原因，但是他们没有将这第一原因等同于天意。智慧之人不会允许自己听凭命运的摆布，而是要通过认识事物之间的相互联系来获得安宁。
+原：文艺复兴时期斯多亚主义的复兴特别要归因于佛兰德人文主义者乔斯特·利普斯（Joest Lips，1547—1606），他被人熟知的拉丁文名字是贾斯特斯·利普修斯（JustusLipsius）。利普修斯的第一部新斯多亚主义著作是《论坚韧》（Deconstantia，1584 年)，这是低地国反对西班牙统治起义期间的一部对话集。这部著作称赞了坚韧（constantia）—不为外部环境的变化而变化——的美德。利普修斯对斯多亚主义的解释主要集中在其均发表于1604年的著作《斯多亚派生理学》（Physiologia Stoicorum）和《斯多亚主义哲学指南》(Manuductio ad stoicam philosophiam）中。他还编制了塞涅卡原著的一个版本。
+注原：年：这部著作在1595年被译成英文，并曾经再版。参见利普修斯[2.53]。
+原：斯多亚主义是由卡斯帕·肖普（Kaspar Schoppe，1576—1649）——人们知道的是他的拉丁文名字西奥普尤斯（Scioppius）——介绍到德国来的，而且似乎已经在低地国很好地确立了起来。斯多亚主义在法国也很有影响，这在一定的程度上得感谢纪尧姆·迪韦尔（Guillaume Du Vair，1556—1621)。迪韦尔写了几部法文著作，其中包括《论斯多亚学派的道德哲学》(De la philosophie morale des Stoiques)，这是他于1594 年为爱比克泰德（Epictetus）《手册》（Enchiridion）的法文译本而写的序言。和利普修斯一样，他也提倡一种基督教斯多亚主义。他们两个人的作品都在16世纪末期被译为英文——迪韦尔的《斯多亚学派的道德哲学》（Moral Philosophie of the Stoicks) 有两个译本。
+注原：很好地确立了起来：在第九章316~317页，与斯宾诺莎相联系，利普修斯得到了进一步的讨论。并参见克里斯泰勒（Kristeller)[2.178]。
+注原：在法国也很有影响：切斯尼奥(Chesneau)[2.114]解释了17世纪早期法国新斯多亚主义的历史。
+注原：有两个译本：新斯多亚主义似乎在英国很受欢迎。在16世纪末期，迪韦尔的论文有两个英译本，利普修斯的De constantia有一个英译本。
+原：斯多亚主义在17世纪初期非常有影响，那时人们认为它与基督教完全一致。但在这个世纪中间，这种一致性开始受到质疑，它的影响力降低了。另一方面，伊壁鸠鲁主义似乎更受人们欢迎了。它长久以来作为一种败坏了的哲学而被错误表达并受到排斥，此时皮埃尔·伽森狄以一种基督教化了的形式将它复活了。伽森狄在1647年至1649年间出版了三本关于伊壁鸠鲁的书。伽森狄能够做到这一点，是在于他将伊壁鸠鲁的原子论当作一个假说，并且在人类是否有能力达到关于世界之确定知识的问题上将这个假说与怀疑论结合了起来。
+注原：与基督教完全一致：关于它内在地是一种基督教哲学的设想，并不局限于世俗人士。斯多亚主义在英国的追随者之一是圣公会主教约瑟夫·霍尔(JosephHall)。
+注原：它的影响力降低了：斯多亚主义作为一种自然主义的和非基督的哲学，受到冉森主义者们(Jansenists)，特别是布莱斯·帕斯卡尔(BlaisePascal)的攻击。在一篇攻击“现今流行的两个自然主义流派”的文章中，莱布尼兹将霍布斯归于伊壁鸠鲁传统，将斯宾诺莎归于斯多亚主义传统。他批评斯宾诺莎和斯多亚主义者的宿命论，以及他们想要将强制的“忍耐”当成美德的做法。（参见G.W.Leibniz：Discourse on Metaphysics and Related Writings, ed. and trans. R. N. D. Martin and S. Brown (Manchester, Manchester University Press, 1988), pp. 104f.)
+注原：乎更受人们欢迎了：参见琼昆茨[2.93]。
+注原：怀疑论结合了起来：第七章有对伽森狄哲学的更充分的讨论。
+原：斯多亚主义和伊壁鸠鲁主义，与柏拉图主义和亚里士多德主义一起，构成了人们所知道的古代世界四个伟大的“独断论”哲学体系。正如我们已经看到的那样，在文艺复兴晚期，这每一个体系都得到了复兴并且受到了辩护。选择上的困惑无疑是使得怀疑论复兴更加持久的一个因素，这种怀疑论将自己与这类独断论体系的主张相对立。然而，一些人，如伽森狄发现，实际上有可能将怀疑论与对任何一种古代“学派”（亚里士多德主义除外）的恰当适中的认可结合起来。蒙台涅开始是一个斯多亚主义者，其后期的怀疑论使得他拒绝了斯多亚主义体系。但是他的朋友和弟子皮埃尔·夏隆（Pierre Charron，1541—1603）则将其怀疑论与斯多亚道德哲学结合了起来。
+注原：德哲学结合了起来：参见夏隆[2.16]。
+
+# 蒙台涅和古代怀疑论的复兴
+原：我们已经看到，基督教人文主义者在反对学术哲学和神学的过程中，趋向于用一种极具怀疑论色彩的看法来看待人类对启示之外知识的渴望。在阿格里帕那里，这种怀疑论是以一种全面和系统化的方式，通过对所有已知技艺和科学主张进行批判性的和高度反偶像崇拜的处理，而得到论证的。阿格里帕提到了古希腊的怀疑论者，但是几乎没有使用他们的论证。文艺复兴时期哲学家们通常通过确认古代权威的一致意见来进行论证。阿格里帕将这种论证方式倒转了过来，他想要论证（相反地），在每一个主要之点上，古代权威们都是相互矛盾的。
+原：在文艺复兴时期，古典怀疑论的一些重要资源被再次发现了，其中包括西塞罗的《学园派哲学》（Academica）、狄奥根尼·拉尔修（Diogenes Laertius）的《皮浪生平》（LifeofPyrrho）和塞克斯都·恩披里柯（Sextus Empiricus）的作品集。这些论证经常以基督教人文主义的方式展开：首先，使人们对亚里士多德和经院哲学的主张产生怀疑；然后，较为积极地强调“信仰主义”的主张，即人类不能通过自己的智力获得知识，他们应该依赖于信仰和神圣的启示。在基督教徒皮浪主义者（Pyrrhonist）弗朗索瓦·德·拉莫特·勒瓦耶（François de la Mothe le Vayer，1588—1672）的作品中，怀疑论的全部目的好像就是将人们降低到完全的判断悬置状态（被称之为Epoché)。在那样的心理状态之下，他们抛弃了经院哲学家（被蔑称为“空谈家”）的妄自尊大，代之以能够接受信仰果实之人的谦卑：“哦，珍贵的Epoché！哦，可靠和令人愉快的精神避难所！哦，空谈家们知识预设的无法逃避的解毒剂！”
+注原：的作品集：参见施米特[2.98]和施米特[2.101]。
+注原：无法逃避的解毒剂：引自波普金(Popkin）[2.95]，93。原作来自拉莫特·勒瓦耶的“Petit Traitté Sceptique sur cette façon de parler”(关于这种说话方式的怀疑论小议)，拉莫特·勒瓦耶2.5]，X，280。
+原：拉莫特·勒瓦耶在表明其宗教动机时几乎无疑是真诚的。然而，以这种动机为理由却是如此寻常，以至于它后来成了为许多像皮埃尔·培尔（Pierre Bayle）和大卫·休谟这样的现代最著名的怀疑论者所采用的某种常规方法。正因为这种方式可以使怀疑论为公众所接受，也可以使人们避免被指责为颠覆者，所以人们很容易就会并非真诚地表明这种动机，这种并非真诚或者是因为它根本就不是动机，或者是因为它并非像它所被表示出来的那样重要。由于这个原因，对诸如阿格里帕、米歇尔·德·蒙台涅（1533—1592）和皮埃尔·培尔（1647—1706）这样的文艺复兴时期怀疑论者作品的解释，就一直充满了困难和争论。
+注原：充满了困难和争论：很少有现代评注者，可能也很少有他的同时代人，会认为休谟的怀疑论文章“Of Miracles”的信仰主义结论除了嘲讽还有什么其他含义。但是很多文艺复兴时期的怀疑论者在他们的信仰主义方面似乎是完全真诚的，甚至像培尔那样晚的人也是这样，伊丽莎白·拉布鲁斯（Elizabeth Labrousse）[2.131]曾提出应该这样来解释他。
+原：正如我们已经看到的那样，阿格里帕想要将自己表现为一个伊拉斯谟式的怀疑论者，后者的目标是让人们返回到一种简单的与《圣经》相一致的基督教那里去。但是，作为《神秘哲学》（De occulta philosophia）的作者，他在16世纪末期被认为是为了获得关于魔术般技艺的知识而与魔鬼做交易的浮士德式的人物。我们也许应该认为这种坏名声几乎完全是一种捏造，是受到阿格里帕强烈反对的那些修道士们发动的一场宣传上的反击。同时，值得注意的是，有一种巫术形式——自然或经验的巫术——在阿格里帕的《论虚无》（Devanitate）那在其他方面十分完备的怀疑论那里得到了豁免。这使他在更积极的意义上看上去像是一个浮士德式的人物，一个将已经确立的知识作为对于人类毫无价值的东西而加以拒绝的人，以及想要揭示自然秘密以利用其力量造福人类的人。但是，期望对像阿格里帕这类人物的思想给出一种简单的和前后一贯的解释，也许是错误的。也许将他们思想中存在着的张力和不一致性看作是对已被确认为文艺复兴时期和早期现代哲学时期那不断加深的“怀疑论危机”之反映，要更好一些。
+注原：怀疑论危机：该短语是理查德·波普金的，他关于现代早期怀疑论历史的先驱著作[2.182]仍然是关于这一主题的最具独创性和洞察力的著作之一。
+原：蒙台涅在《为雷蒙德·塞邦辩护》(Apologie de Raimond Sebond，1580年）中使用了古代怀疑论者的论证，以对感官的可靠性提出质疑，表明人类的判断如何由于受到各种社会和文化因素的影响而容易犯错误。蒙台涅提倡皮浪式的判断悬置，并且要求人们依从自然和习惯而生活。他声称信奉基督教信仰主义，但至少他利用怀疑论论证的部分目的，似乎是反对偏执和倡导更大的宽容。他看起来曾经是一个保守主义者，建议已经充分认识到人的能力之局限性的人们，应当接受已确立权威的指导，而不管它是政府的，还是教会的。
+原：怀疑论还可以在另一个方向上被推进到这样的地步，即断定如果知识是在亚里士多德的意义上被理解为给出现象的必然理由（reasons）或者原因(causes)，那么严格地说，就只有上帝才有能力拥有知识。人类不能企求这样的知识。这就是（例如）由葡萄牙医生和哲学家弗朗西斯科·桑切斯（约1550—1623）在其《一无所知》（Quod Nihil Scitur）中所作论证的结论。桑切斯推演出来的一个结论是信仰主义的，即基督教不能通过哲学得到辩护，它完全依赖于信仰。但是，他还非常前后一贯地提出了一种可以使人们真实“理解自然现象”的实验方法。由此，桑切斯预期了现代哲学，如伽森狄和洛克（Locke）哲学，对怀疑论的一种回答，这就是承认知识的不可能性，但是通过至少可以给出具有高度可能性结果的方法，来寻求一种可靠的替代物。
+注原：中所作论证的结论：这部著作写于1576年，出版于1581年。它有一个现代英译本[2.57]，导言写得非常好。
+原：怀疑论者的论证构成了笛卡尔（参见第五章、第六章）哲学思想得以发展的智力语境的一个重要部分。笛卡尔想要在怀疑论者自己熟悉的问题上驳倒这些怀疑论者。然而，我们还不知道有任何怀疑论思想被笛卡尔的论证驳倒。相反，在其最激烈的批评者中就有怀疑论者，特别值得注意的是西蒙·富歇（Simon Foucher，1644—1697）。富歇以文艺复兴时期的风格将自已表现为古代柏拉图学院怀疑论者的辩护人。他的独特攻击方法，就是找出形而上学独断论者——尤其是笛卡尔和马勒伯朗士（Malebranche）——的基本假设，然后指责说这些假设还没有得到证明。他确实相信，某些真理（例如，上帝的存在）可以得到证明，但却否认笛卡尔对物质世界之存在的证明。富歇是较早对第一性质和第二性质之区分提出批评的人。他在表明笛卡尔主义（Cartesianism）如何带有唯心主义倾向方面扮演了重要角色。富歇的怀疑论间接地通过培尔和贝克莱（Berkeley）而与大卫·休谟的怀疑论相联系。
+注原：设还没有得到证明：关于富歇在其中占据某种突出地位的17世纪晚期哲学的描述，参见R.A. 沃森 (R. A. Watson), The Breakdown of Cartesian Metaphysics (Atlantic Highlands, N. J. , Humanities Press, 1987).
+注原：面扮演了重要角色：富歇似乎对莱布尼兹将笛卡尔理解为文艺复兴时期哲学家负有责任，他最重要的贡献是恢复了对柏拉图的研究，并在其中加进了对柏拉图学院的疑问（涉及感官）。(例如，参见前面引用的书，469页。)
+注原：谟的怀疑论相联系：这套丛书的下一卷（第五卷）的第六章讨论了休谟怀疑论。
+
+# 结语
+原：将文艺复兴时期哲学与早期现代哲学区分开来很方便。但是，在一些方面，现代哲学延续了之前已经存在的趋势。人文主义将哲学带到了教室和修道院之外，并且在基督教历史上前所未有地使它成为了非专业人士研究的问题。以前，用于哲学学术讨论的语言通常是拉丁文，然而，印刷术的发展和更广大的非专业读者群，使得用本国语言翻译哲学著作成为一项越来越普遍的实践活动。这反过来又引起了（特别是在法国）用本国语言进行哲学写作的实践。在16世纪末期的哲学家中，蒙台涅、迪韦尔和夏隆都用法文写作。
+原：另一个在16世纪末期已经明显起来的现代趋势，就是将哲学看作是独立于神学的学科。这种趋势甚至在新经院哲学（一场由神职人员发起的运动）中也得到了表现。天主教改革推进了对哲学的一种更加世俗化的看法，这是此项改革的一个令人难以理解的特征。格劳秀斯对此作了著名的（虽然是有争议的）表述，他暗示说，即使“我们承认上帝不存在”，自然法则的约束力也仍然有效。在这方面，他关于自然法则的看法与耶稣会士苏阿雷斯的看法没有什么区别，对后者他表示了极大的谢意。似乎很显然，苏阿雷斯和其他耶稣会士之所以将这么多的时间花费在政治理论上的一个理由就是，他们希望看到君主权威和教会权威之间的彻底分离。君主权威是世俗的，并且最终来自于人民的认可，而教会和教皇的权威则是直接由上帝安排的。
+原：文艺复兴时期哲学与现代哲学区别最明显的地方，就是它喜欢使用诉诸传统权威的论证。文艺复兴时期的哲学家们相信，或者倾向于相信，他们是在复兴古代人的思想。对于一些人来说，这意味着相信一种已经失去、但需要得到恢复的古代智慧。然而人们会发现，古代权威人士相互之间意见并不一致。这就为人们在成为一个特定古代“派别”的坚决支持者或怀疑论者之间进行选择留有了余地。
+原：当然，人们可以将一种适度的怀疑论和对某一个古代体系的适当采纳结合起来。然而，要一贯地这样做，就必须为接受古代作者所说的东西找到一个基础，这个基础并不就只是在于他们说了这些话这个事实。寻找这个基础就成为一个现代哲学家的开始。这正是伽森狄在为伊壁鸠鲁主义辩护时所做的事情，就这一点而言，我们可以恰当地把他看成是一个现代哲学家。
+注原：适当采纳结合起来：参见83~84页。
+原：一些早期现代哲学家（如伽森狄）有一副文艺复兴的面孔，而且确实，在整个17世纪，甚至在18世纪，哲学仍然能够以一种文艺复兴时期的风格得到表达。但是，如果说现代人的行为举止有时就像是文艺复兴时期哲学家的行为举止，我们也可以说，一些文艺复兴时期的哲学家在某些方面就是早期现代人。例如，许多最好怀疑、最反传统的人物（如阿格里帕、维苇、桑切斯和拉莫斯）都在寻找做出发现、并且对这些发现进行证实的独立方法。方法论已经成为文艺复兴末期哲学的一个首要关注之点，就像它在早期现代哲学家那里一样。这两个哲学时期在这个意义上是连续的。出于这个理由，我们可以恰当地将16世纪看作是一个过渡时期和一个复苏（revival）或者“复兴”（renaissance）时期。
+注原：期的风格得到表达：当莱布尼兹写作Specimen ofDynamics 时，他把它表现为对亚里士多德主义的重建：正如我们的时代已经使得德谟克利特的粒子、柏拉图的理念和来自事物之间最完美联系的斯多亚的安宁免受轻蔑，现在我们应该让亚里士多德学派关于形式或者圆满实现……的教诲能够为人们所理解。[G. W. Leibniz，Philosophical Essays，R. 阿里尤（R. Ariew） 和 D. 加伯(D. Garber)编辑与翻译（Indianapolis，Ind.，Hackett，1989)，118页]莱布尼兹自己在很多方面是一个文艺复兴晚期的哲学家。但是在17世纪90年代早期，他仍然希望把自已表现为一个后现代或者新文艺复兴时期的哲学家，他用现代的方法而不借助于古代权威来进行论证，但他还是宣称，恰当地说，他的结论并非真的是全新的，而是对为一种“在这么多个世纪得到公认的哲学”所阐明的真理所做的有意义的确证。贝克莱晚期对新柏拉图主义的辩护也许同样应该被理解为这样一种发展。参见注释14。
+
+# 参考书目
+原：原文版
+原：全集和选集
+原：2.1 Agrippa von Nettesheim, Henricus Cornelius, Opera, Lyons, 1600; reprinted, R. H. Popkin (ed. ), Hildesheim, Olms, 1976.
+原：2.2 Conimbricenses, Commentarii Collegii Conimbricensis .. in universam dialecticam Aristotelis, Cologne, 1607; reprinted, Hildesheim, Olms, 1976.
+原：2.3 Cusanus, Nicolaus, Opera omnia, Leipzig, Felix Meiner, 1932.
+原：2.4 Erasmus, Desiderius, Opera omnia, ed. J. Leclerc, 10 vols, Leiden, 1703—1706; reprinted, Hildesheim, Olms, 1961—1962.
+原：2.5 La Mothe le Vayer, Francois de, Oevres, 15 vols, Paris, 1669.
+原：2.6 Lipsius, Justus, Opera omnia, Basle, 1675.
+原：2.7 Montaigne, Michel de, Oevres complètes, ed. A. Thibaudet and M. Rat, Paris, Gallimard, 1976.
+原：2.8 Paracelsus, Theophrastus, Sämtliche Werke, ed. K. Sudhoff and E. Matthiessen, 14 vols, Munich, 1923—1933; reprinted, Hildesheim, Olms.
+原：2.9 Suarez, Francisco, Opera omnia, ed, M. Andre and C. Berton, 28 vols, Paris, 18561878.
+原：单本著作
+原：2.10 Agrippa, Henricus Cornelius, De incertitudine et vanitate scientiarum atque artium declamatio, Antwerp, 1530.
+原：2.11 Agrippa, Henricus Cornelius, De occulta philosophia libri tres, Cologne, 1533.
+原：2.12 Arriaga, Rodrigo de, Cursus philosophicus, Antwerp, 1632.
+原：2.13 Bayle, Pierre, Dictionaire historique et critique, 1692—1712, Amsterdam, 5th edn, 1740.
+原：2.14 Berkeley, George, Siris, first published as A Chain of Philosophical Reflexions and Inquiries concerning the Virtues of Tar-Water, and diverse other Subjects connected together and arising from one another, Dublin and London, 1744.
+原：2.15 Boehme, Jakob, Aurora, oder die Morgenrote im Aufgang, 1612.
+原：2.16 Charron, Pierre, De la sagesse, ed. A. Duval, 3 vols, Paris, 1824; reprinted, Geneva, Slatkine Reprints, 1968.
+原：2.17 Du Vair, Guillaume, De la sainte philosophie. Philosophie morale des Stoiques, ed. G. Michaut, Paris, Vrin, 1945.
+原：2.18 Ebreo, Leone, Dialoghi d'amore, Rome, 1535.
+原：2.19 Fludd, Robert, Philosophia Moysaica …, Gouda, 1638.
+原：2.20 Fonseca, Pedro da, Commentarii in libros metaphysicorum, Lisbon, 1577—1589; reprinted, Hildesheim, Olms, 1964.
+原：2.21 Foucher, Simon, Dissertation sur la recherche de la vérité, contenant l’apologie des academiciens .. , Paris, Estienne Michallet, 1687.
+原：2.22 Gassendi, Pierre, Exercitationes Paradoxicae Adversus Aristoteleos, Paris, 1624.
+原：2.23 Gassendi, Pierre, Epistolica exercitatio, in qua praecipua principia philosophiae Roberto Fluddi ... reteguntur, Paris, 1630.
+原：2.24 Grotius, Hugo, De iure belli ac pacis libri tres, Paris, 1625.
+原：2.25 Knorr von Rosenroth, Christian (ed.), Kabbala Denudata Seu Doctrina Hebraeorum Transcendentalis et Metaphysica, Sulzbach, vol. 1, 1677, vol.2, 1684; reprinted, Hildesheim, Olms, 1974.
+原：2.26 La Mothe le Vayer, Francois de (under pseudonym of Oratius Tubero), Cinque Dialogues, faits à l’imitation des anciens, Mons, 1671.
+原：2.27 Lessius, Leonard, De Jure et Justitia, Louvain, 1605.
+原：2.28 Lipsius, Justus, Manuductionis ad Stoicam philosophiam libri tres, Antwerp, 1604.
+原：2.29 Lipsius, Justus, Physiologia Stoicorum, Antwerp, 1604.
+原：2.30 Mariana, Juan de, De Rege et Regis Institutione, Toledo, 1599.
+原：2.31 Melanchthon, Philipp, Compendiaria dialectes ratio, Wittenberg, 1520.
+原：2.32 Montaigne, Michel de, “Apologie de Raymond Sebond" (1576), in Les Essays de Michel de Montaigne, ed. P. Villey, Paris, Alcan, 1922.
+原：2.33 Molina, Luis de, Liberi Arbitrii cum Gratiae Donis, Divina Praescientia, Providentia, Praedestinatione et Reprobatione Concordia , Lisbon, 1588.
+原：2.34 Ramus, Petrus, Dialecticae institutiones. Aristotelicae animadversiones, Paris, 1543; reprinted, Stuttgart-Bad Cannstatt, Friedrich Frommann, 1964.
+原：2.35 Sanches, Francisco, Quod Nihil Scitur, 1581.
+原：2.36 Suarez, Francisco, Metaphysicarum disputationum, in quibus et universa naturalis theologia ordinate traditur, et quaestiones ad omnes duodecim Aristotelis libros pertinentes, Maguntiae, 1697; reprint of Paris, 1866, edition by Olms, Hildesheim, 1965.
+原：2.37 Suarez, Franciseo, Tractatus de legibus ac Deo Legislatore, Conimbriae, D. Gomes de Loureyo, 1612.
+原：2.38 Vitoria, Francisco de, Relectiones de Indis et De Iure Bello, Salamanca, 1557.
+原：2.39 Vives, Juan Luis, Adversus Pseudodialecticos, Selestadii, 1520; critical edition by C. Fantazzi, Leiden, Brill, 1979.
+原：英文翻译本
+原：全集和选集
+原：2.40 Erasmus, Collected Works, Toronto, University of Toronto Press, 1974—.
+原：2.41 Montaigne, Michel, The Complete Essays of Montaigne, trans. D. M. Frame, Stanford, Calif. , Stanford University Press, 1958.
+原：2.42 Paracelsus, Selected Writings, ed. J. Jacobi, trans. N. Guterman, London, Routledge & Kegan Paul, 1951.
+原：2.43 Paracelsus, Hermetical and Alchemical Writings, trans. A. E. Waite, 2 vols, New Hyde Park, N. Y. , University Books, 1966.
+原：2.44 Suarez, Francisco, Selections from Three Works (incl. On the Laws), trans. G. L. Williams, Classics of International Law Series, Oxford, Oxford University Press, 1944.
+原：2.45 Vitoria, Francisco de, Political Writings, ed. A. Pagden, trans. L. Lawrance, Cambridge, Cambridge University Press, 1991.
+原：单本著作
+原：2.46 Agrippa von Nettesheim, Henricus Cornelius, Of the Vanitie and Uncertaintie of Artes and Sciences, trans. James Sandford, London, Henry Wykes, 1569; reprinted, C. M. Dunn (ed. ), Northridge, Calif. , California State University Press, 1974.
+原：2.47 Bayle, Pierre, Historical and Critical Dictionary (Selections), ed. and trans. R. H. Popkin, Indianapolis, 1965; reprinted, Indianapolis, Ind. , Hackett, 1991.
+原：2.48 Cusanus, Nicholas of Cusa on Learned Ignorance: A Translation and Appraisal of De Docta Ignorantia, ed. and trans. J. Hopkins, Minneapolis, Minn. , Arthur J. Banning Press, 1981.
+原：2.49 Du Vair, Guillaume, trans. T. James, London, 1598; in R. Kirk (ed.), The Moral Philosophie of the Stoicks, New Brunswick, N. J. , Rutgers University Press, 1951.
+原：2.50 Erasmus, Desiderius, In Praise of Folly and Letter to Dorp, trans. C. H. Miller, Princeton, N. J. , Princeton University Press, 1979.
+原：2.51 Fludd, Robert, Mosaicall Philosophy, grounded upon the essentiall truth or eternal sapience. Written first in Latin , and afterwards thus rendred into English, London,1659.
+原：2.52 Grotius, Hugo, De iure belli ac pacis libri tres, trans. F. W. Kelsey and others, Oxford, Clarendon, 1925.
+原：2.53 Lipsius, Justus, Two Books of Constancie, trans. J. Stradling, London, 1595; reprinted, R. Kirk (ed. ), New Brunswick, N.J., Rutgers University Press, 1939.
+原：2.54 Mariana, Juan de, The King and the Education of the King, trans. G. A. Moore, Maryland, The Country Dollar Press, 1948.
+原：2.55 Melanchthon, The Loci Communes of Philipp Melanchthon, trans. C. L. Hill, Boston, Meador, 1944.
+原：2.56 Reuchlin, Johann, De arte cabalistica. On the Art of the Kabbalah, trans. M. and S. Goodman, New York, Abaris Books, 1983.
+原：2.57 Sanches, Francisco, That Nothing is Known (Quod Nihil Scitur), ed. E. Limbrick and D. F. S. Thomson, Cambridge, Cambridge University Press 1988.
+原：2.58 Suarez, Francisco, Francis Suarez: On the Various Kinds of Distinction, Disputationes metaphysicae, disputatio VII, ed. and trans. C. Vollet, Milwaukee, Wisc. , Marquette University Press, 1947.
+原：2.59 Suarez, Francisco, Suarez on Individuation. Metaphysical Disputation V: Individual Unity and Its Principle, ed. and trans. J.J. E. Gracia, Milwaukee, Wisc., Marquette University Press, 1982.
+原：2.60 Suarez, Francisco, Francis Suarez: On Formal and Universal Unity, ed. and trans. J. F. Ross, Milwaukee, Wisc. , Marquette University Press, 1964.
+原：2.61 Suarez, Francisco, The Metaphysics of Good and Evil according to Suarez: Metaphysical Disputations X & XI, ed. and trans. J. Gracia, Munich, Philosophia, 1989.
+原：2.62 van Helmont, Francis Mercury, A Cabbalistic Dialogue in Answer to the Opinion of a Learned Doctor in Philosophy and Theology that the World was made out of Nothing, as it is contained in the second part of the Cabbala Denudata ε appears in the Lib. Sohar, London, 1682.
+原：2.63 Vitoria, Francisco de, De Indis et de iure belli relectiones, trans. J. Pawley, Classics of International Law Series, Washington, D. C. , Carnegie Institution, 1917.
+原：2.64 Vives, Juan Luis, Against the Pseudodialecticians. A Humanist Attack on Medieval Logic, ed. and trans. R. Guerlac, Dordrecht, Reidel, 1979.
+原：参考书目和语词索引
+原：参考书目
+原：2.65 Cranz, F. E. and Schmitt, C. B. A Bibliography of Aristotle Editions, 1501—1600, Baden-Baden, V. Koerner, 1971; 2nd edn, 1984.
+原：2.66 Kleinen, H. and Danzer, R. “Cusanus-Bibliographie, 1920—1961”, Mitteilungen und Forschungenbeiträge der Cusanus-Gesellschaft 1 (1961) 95-126.
+原：2.67 McCormick, J. F. A Suarezian Bibliography, Chicago, Ill. , Loyola University Press, 1937.
+原：2.68 Margolin, Jean Claude, Douze années de bibliographie érasmienne, 1950—1961, Paris, Vrin, 1963.
+原：2.69 Norenà, C. G. A Vives Bibliography, Studies in Renaissance Literature, vol. 5, Lewiston, Edwin Mellon Press, 1990.
+原：2.70 Schmitt, C. B. A Critical Survey and Bibliography of Studies on Renaissance Aristotelianism, 1958—1969, Padua, Antenore, 1971.
+原：2.71 Smith, G. “A Suarez Bibliography", in G. Smith (ed.) Jesuit Thinkers of the Renaissance, Milwaukee, Wisc., Marquette University Press, 1939, 227-238.
+原：语词索引
+原：2.72 Bolchazy, L. J. (ed.) A Concordance to the Utopia of St. Thomas More and A Frequency, Word List, Hildesheim, Olms, 1978.
+原：2.73 Wedick,. H. E. and Schweitzer, F. (eds) Dictionary of the Renaissance, New York, Philosophical Library, 1967.
+原：2.74 Zellinger, E. Cusanus-Konkordanz, Munich, Huber, 1960.
+原：文艺复兴时期意大利以外的哲学背景和影响
+原：2.75 Allen, D. C. “The Rehabilitation of Epicurus and his Theory of Pleasure in the Early Renaissance", Studies in Philology 41 (1944) 1–15.
+原：2.76 Burnyeat, M. (ed.) The Sceptical Tradition, Berkeley, Calif., University of California Press, 1983.
+原：2.77 Gibson, M. (ed.) Boethius: His Life, Thought and Influence, Oxford, Blackwell, 1981.
+原：2.78 Gandillac, M. de, “Neoplatonism and Christian Thought in the Fifteenth Century (Nicholas of Cusa and Marsilio Ficino)", in D. J. O'Meara (ed. ) Neoplatonism and Christian Thought, Norfolk, Va. , International Society for Neoplatonic Studies, 143–168.
+原：2.79 Hillgarth, J. N. Ramon Lull and Lullism in Fourteenth-Century France, Oxford, Clarendon, 1971.
+原：2.80 Klibansky, R. The Continuity of the Platonic Tradition during the Middle Ages. Plato's Parmenides in the Middle Ages and the Renaissance, Munich, Kraus International Publications, 1981.
+原：2.81 Kristeller, P.O. Renaissance Thought and its Sources, ed. M. Mooney, New York, Columbia University Press, 1979.
+原：2.82 Lovejoy, A. O. The Great Chain of Being, Cambridge, Mass. , Harvard University Press, 1936.
+原：2.83 Schmitt, C. Aristotle and the Renaissance, The Martin Classical Lectures 27, Cambridge, Mass. , Harvard University Press, 1983.
+原：2.84 Wallis, R. T. Neoplatonism, London, Duckworth, 1972.
+原：文艺复兴哲学运动的一般考察和文艺复兴哲学的各方面
+原：2.85 Blau, J.L. The Christian Interpretation of the Cabala in the Renaissance, New York, Columbia University Press, 1944.
+原：2.86 Cassirer, E. The Individual and the Cosmos in Renaissance Philosophy, trans. M. Domandi, New York, Harper & Row, and Oxford, Blackwell, 1963.
+原：2.87 Conger, G. P. Theories of Macrocosms and Microcosms in the History of Philosophy, New York, Russell &. Russell, 1922.
+原：2.88 Copleston, F. A History of Philosophy, vol. 3, Late Medieval and Renaissance Philosophy, Part II, The Revival of Platonism to Suarez, Maryland, The Newman Press, 1953.
+原：2.89 Coudert, A. “Some Theories of a Natural Language from the Renaissance to the Seventeenth Century", Studia Leibnitiana (Sonderheft) 7 (1978) 56-114.
+原：2.90 Giacon, C. La Seconda Scolastica, Milan, Fratelli Bocca, 3 vols, 1944—1950.
+原：2.91 Gilbert, N. W. Renaissance Concepts of Method, New York, Columbia University Press, 1960.
+原：2.92 Henry, J. and Hutton, S. (eds) New Perspectives on Renaissance Thought, London, Duckworth, 1990.
+原：2.93 Jungkuntz, R. P. “Christian Approval of Epicureanism", Church History 31 (1962)279-293.
+原：2.94 Oestreich, G. Neostoicism and the Early Modern State, Cambridge, Cambridge University Press, 1982.
+原：2.95 Popkin, R. H. The History of Scepticism from Erasmus to Spinoza , Berkeley and Los Angeles, Calif. , University of California Press, 1979.
+原：2.96 Rabil, A. , Jr (ed.) Renaissance Humanism. Foundations, Forms and Legacy, vol. 2, Humanism Beyond Italy, Philadelphia, Penn. , University of Pennsylvania Press, 1988.
+原：2.97 Rice, E. F. The Renaissance Idea of Wisdom, Cambridge, Mass. , Harvard University Press, 1958.
+原：2.98 Schmitt, C. B. “Towards a Reassessment of Renaissance Aristotelianism”, History of Science 11 (1973) 159– 193; reprinted in Schmitt, C. B. Studies in Renaissance Philosophy and Science, London, Variorum Reprints, 1981,
+原：2.99 Schmitt, C. B. Cicero Scepticus : A Study of the Influence of the “Academica" in the Renaissance, The Hague, Nijhoff, 1972.
+原：2.100 Schmitt, C. B. Studies in Renaissance Philosophy and Science, London, Variorum Reprints, 1981.
+原：2.101 Schmitt, C. B. “The Rediscovery of Ancient Skepticism in Modern Times”, in M. F. Burnyeat (ed. ) The Skeptical Tradition, Berkeley and Los Angeles, Calif. , University of California Press, 1983, 225-231.
+原：2.102 Schmitt, C. B. and Skinner, Q. (eds) The Cambridge History of Renaissance Philosophy, Cambridge, Cambridge University Press, 1988.
+原：2.103 Secret, F. Les Kabbalistes chrétiens de la Renaissance, Paris, Dunod, 1964.
+原：2.104 Skinner, Q. The Foundations of Modern Political Thought , 2 vols, Cambridge, Cambridge University Press, 1978.
+原：2.105 Smith, G. (ed. Jesuit Thinkers of the Renaissance, Milwaukee, Wisc., Marquette University Press, 1939.
+原：2.106 Sommervogel, C. (ed.) Bibliothèque de la Companie de Jesus, Brussels, Schepens, and Paris, Picard, 11 vols, 1890—1932.
+原：2.107 Vedrine, H. Les philosophies de la Renaissance, Paris, Presses Universitaires de France, 1967.
+原：2.108 Walker, D. P. The Ancient Theology: Studies in Christian Platonism from the Fifteenth to the Eighteenth Century, London, Duckworth, 1972.
+原：2.109 Yates, F. A. The Occult Philosophy in the Elizabethan Age, London, Routledge, 1979.
+原：关于文艺复兴时期不同国家的哲学著作
+原：英格兰
+原：2.110 Cassirer, E. The Platonic Renaissance in England , trans. J. P. Pettegrove, London, Nelson, 1953.
+原：2.111 Debus, A. G. The English Paracelsians, London, Oldbourne, 1965.
+原：2.112 Schmitt, C. B. John Case and Aristotelianism in Renaissance England, Kingston and Montreal, McGill-Queen's University Press, 1983.
+原：2.113 Schoeck, R. J. “Humanism in England", in A. Rabil, Jr (ed. ) Renaissance Humanism. Foundations, Forms and Legacy, vol. 2, Humanism Beyond Italy, Philadelphia, Penn. , University of Pennsylvania Press, 1988, 5-38.
+原：法国
+原：2.114 Chesneau, C. “Le stoicisme en France dans la première moitié du XVII siècle: les origines 1575—1616”, Etudes franciscaines 2 (1951) 389–410.
+原：2.115 Copenhaver, B. P. Symphorien Champier and the Reception of the Occultist Tradition in Renaissance France, The Hague, Nijhoff, 1977.
+原：2.116 Rice, E. F. “Humanism in France", in A. Rabil, Jr (ed.) Renaissance Humanism. Foundations, Forms and Legacy, vol. 2, Humanism Beyond Italy, Philadelphia, Penn., University of Pennsylvania Press, 1988, 109-122.
+原：德国
+原：2.117 Beck, L. W. Early German Philosophy. Kant and His Predecessors, Cambridge, Mass. , Harvard University Press, 1969.
+原：2.118 Brann, N. L. “Humanism in Germany", in A. Rabil, Jr (ed.) Renaissance Humanism. Foundations, Forms and Legacy, vol. 2, Humanism Beyond Italy, Philadelphia, Penn., University of Pennsylvania Press, 1988, 123-155.
+原：2.119 Petersen, P. Geschichte der Aristotelischen Philosophie im Protestantischen Deutschland, Leipzig, Meiner, 1921.
+原：2.120 Spitz, L. W. The Religious Renaissance of the German Humanists, Cambridge, Mass. , Haryard University Press, 1963.
+原：低地国
+原：2.121 Dibon, P. La Philosophie néerlandaise au siècle d'or, Amsterdam, Elsevier, 1954.
+原：2.122 Ijsewijn, J. “Humanism in the Low Countries", in A. Rabil, Jr (ed.) Renaissance Humanism. Foundations, Forms and Legacy, vol. 2, Humanism Beyond Italy, Philadelphia, Penn., University of Pennsylvania Press, 1988, 156-215.
+原：西班牙
+原：2.123 Di Camillo, O. “Humanism in Spain", in A: Rabil, Jr (ed.) Renaissance Humanism. Foundations, Forms and Legacy, vol. 2, Humanism Beyond Italy, Philadelphia, Penn., University of Pennsylvania Press, 1988, 55-108.
+原：2.124 Hamilton, B. Political Thought in Sixteenth-Century Spain : A Study of the Political Ideas of Vitoria, De Soto, Suarez and Molina, Oxford, Clarendon, 1963.
+原：2.125 Norena, C. G. Studies in Spanish Renaissance Thought, The Hague, Nijhoff, 1975.
+原：2.126 Pagden, A. R. D. “The Diffusion of Aristotle's Moral Philosophy in Spain", Traditio 31 (1975) 287-313.
+原：个别哲学家的著作
+原：阿格里帕(Agrippa)
+原：2.127 Bowen, B. C. "Cornelius Agrippa's De vanitate: Polemic or Paradox?", Bibliothèque d’humanisme et Renaissance 34 (1972) 249–265.
+原：2.128 Nauert, C. G. Agrippa and the Crisis of Renaissance Thought, Urbana, Ill. , University of Illinois Press, 1979.
+原：2.129 Zambelli, P. “Magic and Radical Reformation in Agrippa of Nettesheim”, Journal of the Warburg and Courtauld Institutes 39 (1976) 69-103.
+原：培尔(Bayle)
+原：2.130 Brush, C. B. Montaigne and Bayle, Variations on the Theme of Skepticism, International Archives of the History of Ideas, vol. 14, The Hague, Nijhoff, 1966.
+原：2.131 Labrousse, E. Pierre Bayle, Past Masters Series, Oxford, Oxford University Press, 1991.
+原：波墨(Boehme)
+原：2.132 Koyré, A. La Philosophie de Jacob Boehme, Paris, Vrin, 1929.
+原：2.133 Penny, H. E. Introduction to the Study of Jacob Böhme's Writings, New York, 1901.
+原：夏隆（Charron）
+原：2.134 Horowitz. M. C. “Pierre Charron's View of the Source of Wisdom", Journal of the History of Philosophy 9 (1971) 443-457.
+原：2.135 Soman, A. “Pierre Charron: a Revaluation", Bibliothèque d'humanisme et Renaissance 32 (1970).57–79.
+原：2.136 Soman, A. "Methodology in the History of Ideas: the Case of Pierre Charron", Journal of the History of Philosophy 12 (1974) 495-501.
+原：科利特（Colet）
+原：2.137 Miles, L. John Colet and the Platonic Tradition, La Salle, Ill., Open Court, 1961.
+原：库萨努斯(Cusanus)
+原：2.138 Bett, H. Nicholas of Cusa, London, Methuen, 1932; reprinted, Cambridge, Mass. , Harvard University Press, 1969.
+原：2.139 Watts, P. M. Nicolaus Cusanus: A Fifteenth Century Vision of Man, Leiden, Brill, 1982.
+原：伊拉斯谟（Erasmus）
+原：2.140 DeMolen, R. (ed.) Essays on the Works of Erasmus, New Haven, Conn., Yale University Press, 1978.
+原：2.141 McConica, J. Erasmus, Past Masters Series, Oxford, Oxford University, Press, 1991.
+原：方塞卡（Fonseca）
+原：2.142 Ferreira Gomes, J. “Pedro da Fonseca, Sixteenth Century Portuguese Philosopher", International Philosophical Quarterly 6 (1966) 632-644.
+原：格劳秀斯(Grotius)
+原：2.143 Knight, W. S. M. The Life and Works of Hugo Grotius, London, Sweet & Maxwell, 1931.
+原：2.144 Tuck, R. Natural Rights Theories, Cambridge, Cambridge University Press, 1979.拉莫特·勒瓦耶（La Mothe le Vayer)
+原：2.145 Grenier, J. “Le Sceptique masqué: La Mothe le Vayer", Table Ronde 22 (1949)1504-1513.
+原：莱修斯（Lessius)
+原：2.146 Chamberlain, C. H. “Leonard Lessius", in G. Smith (ed.) Jesuit Thinkers of the Renaissance, Milwaukee, Wisc. , Marquette University Press, 1939, 133-156.
+原：利普修斯（Lipsius）
+原：2.147 Saunders, J. L. Justus Lipsius : The Philosophy of Renaissance Stoicism, New York, Liberal Arts Press, 1955.
+原：玛丽安娜(Mariana)
+原：2.148 Talmadge, G. K. “Juan de Mariana", in G. Smith (ed.) Jesuit Thinkers of the Renaissance, Milwaukee, Wisc. , Marquette University Press, 1939, 157-192.
+原：梅兰克松（Melanchthon)
+原：2.149 Hildebrandt, F. Melanchthon, Alien or Ally?, Cambridge, Cambridge U-niversity Press, 1946.
+原：2.150 Stern, L. Philipp Melanchthon: Humanist, Reformer, Praeceptor Germaniae, Halle, Festgabe des Melanchthon-Komitees der Deutschen Demokratischen Republic, 1960.
+原：莫利纳（Molina）
+原：2.151 Pegis, A. C. “Molina and Human Liberty", in G. Smith (ed.) Jesuit Thinkers of the Renaissance, Milwaukee, Wisc. , Marquette University Press, 1939, 75-132.
+原：蒙台涅（Montaigne)
+原：2.152 Burke, P. Montaigne, Past Masters Series, Oxford, Oxford University Press, 1981.
+原：2.153 Frame, D. M. Montaigne: A Biography, New York, Harcourt, Brace & World, 1965; reprinted, San Francisco, Calif., North Point Press, 1984.
+原：2.154 Limbrick, E. “ Was Montaigne really a Pyrrhonian?", Bibliothèque d’humanisme et Renaissance 39 (1977) 67–80.
+原：2.155 Schiffman, Z. S. “Montaigne and the Rise of Skepticism in Early Modern Europe: a Reappraisal", Journal of the History of Ideas 45 (1984) 499-516.
+原：托马斯·莫尔(More Thomas)
+原：2.156 Kenny, A. Thomas More, Past Masters Series, Oxford, Oxford University, Press, 1983.
+原：2.157 Skinner, Q. “More's Utopia”, Past and Present 38 (1967) 153-168.帕拉塞尔修斯(Paracelsus)
+原：2.158 Pachter, H. M. Paracelsus, New York, Schumann, 1951.
+原：2.159 Stillman, J.M. Paracelsus, Chicago, Ill. , Open Court, 1920.拉莫斯（Ramus）
+原：2.160 Ong, W.J. Ramus, Method, and the Decay of Dialogue, Cambridge, Mass. , Harvard University Press, 1958.
+原：罗伊希林（Reuchlin)
+原：2.161 Spitz, L.W. "Reuchlin's Philosophy: Pythagoras and Cabala for Chrißt", Archiv für Reformationsgeschichte 47 (1956) 1–20; revised as “Reuchlin: Pythagbras Reborn", in L. W. Spitz, The Religious Renaissance of the German Humanists, Cambridge, Mass. , Harvard University Press, 1963, ch. IV.
+原：桑切斯（Sanches）
+原：2.162 Limbrick, E. “Introduction" to Francisco Sanches : That Nothing is Known (Quod Nihil Scitur), Cambridge, Cambridge University Press, 1988.
+原：苏阿雷斯(Suarez)
+原：2.163 Fichter, J. H. Man of Spain: Francis Suarez, New York, Macmillan, 1940.
+原：2.164 Mora, J. F. "Suarez and Modern Philosophy", Journal of the History of Ideas14 (1953) 528-547.
+原：范赫尔蒙特(Van Helmont(F.M.))
+原：2.165 Brown, S. “F. M. van Helmont: his Philosophical Connections and the Reception of his later Cabbalistic Philosophy (1677—1699)", in M. A. Stewart (ed. ) Studies in Seventeenth Century. Philosophy, Oxford, Oxford University Press, forthcoming.
+原：范赫尔蒙特（Van Helmont(J.B.)）
+原：2.166 Redgrove, H. S. and Redgrove, J. M. L. J. B. Van Helmont, Alchemist, Physician, Philosopher, London, W. Rider, 1922.
+原：维托利亚(Vitoria)
+原：2.167 Scott, J. B. The Spanish Origin of International Law, vol.1, Francisco de Vitoria and His Law of Nations, Washington, D. C. , Carnegie Endowment for International Peace, and Oxford, Clarendon, 1934.
+原：维苇(Vives)
+原：2.168 Norena, C. G. Juan Luis Vives, The Hague, Nijhoff, 1970.
+原：文艺复兴成为近代哲学的背景
+原：2.169 Berre, Henri, Du Scepticisme de Gassendi, trans. B. Rochot, Paris, Michel, 1960.
+原：2.170 Brown, S. “Leibniz and More's Cabbalistic Circle", in Sarah Hutton and R. Crocker (eds) Henry More (1614—1687): Tercentenary Studies, Dordrecht, Kluwer,1989, 77-95.
+原：2.171 Brown, S. “Leibniz: Modern, Scholastic or Renaissance Philosopher?", in T. Sorell (ed. ) The Rise of Modern Philosophy, Oxford, Oxford University Press, 1993,213-230.
+原：2.172 Brush, C. B. Montaigne and Bayle: Variations on the Theme of Skepticism, The Hague, Nijhoff, 1966.
+原：2.173 Cronin, T. J. “Objective Being in Descartes and in Suarez", Analecta Gregoriana, Rome, Gregorian University Press, 1966.
+原：2.174 Dear, P. R. “Marin Mersenne and the Probabilistic Roots of ‘Mitigated Scepticism", Journal of the History of Philosophy 22 (1984) 173-205.
+原：2.175 Gouhier, H. Les Premières pensées de Descartes. Contribution à l'histoire de l'anti-Renaissance, Paris, Vrin, 1958.
+原：2.176 Heinekamp, A. (ed. ) Leibniz et la Renaissance, Wiesbaden, Steiner, 1983.
+原：2.177 Lewalter, E. Spanische-jesuitische und deutsčhe-lutherische Metaphysik des 17. Jahrhunderts, Hamburg, 1935; reprinted, Darmstadt, Wissenschaftliehe Buchgesellschaft, 1967.
+原：2.178 Kristeller, P. O. “Stoic and Neostoic Sources of Spinoza's Ethics”, History of European Ideas 5 (1984) 1-15.
+原：2.179 Meier, M. Descartes und die Renaissance, Munster, 1914.
+原：2.180 Mesnard, P. “Comment Leibniz se trouve place dans le sillage de Suarez”, Archives de philosophie 18 (1949) 7-32.
+原：2.181 Politella, J. “Platonism, Aristotelianism, and Cabalism in the Philosophy of Leibniz", PhD dissertation, University of Philadelphia, 1938.
+原：2.182 Popkin, R. H. The History of Scepticism from Erasmus to Spinoza, Berkeley and Los Angeles, Calif. , University of California Press, 1979.
+原：2.183 Popkin, R. H. and Schmitt, C. B. (eds) Scepticism from the Renaissance to the Enlightenment, Wiesbaden, Harrassowitz, 1987.
+原：2.184 Ross, G. M. “Leibniz and Renaissance Neoplatonism”, in A. Heinekamp (ed.) Leibniz et la Renaissance, Wiesbaden, Steiner, 1983.
+原：2.185 Schmitt, C. B. “Perennial Philosophy: From Agostino Steuco to Leibniz”, Journal of the History of Ideas 27 (1966) 505-532.
+原：2.186 Wells, N. J. “Objective Being. Descartes and His Sources”, Modern Schoolman 45 (1967) 49-61.
+原：2.187 Wundt, M. Die deutsche Schulmetaphysik des 17. Jahrhunderts, Tubingen, Mohr, 1939.

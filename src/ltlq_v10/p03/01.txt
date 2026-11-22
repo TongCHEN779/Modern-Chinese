@@ -1,0 +1,424 @@
+# 历史年表
+原：著作或论文所提供的时间都是出版时间。非英语标题都已经翻译过来了，除非原标题更为人所熟知。
+
+# 逻辑学
+原：1879　弗雷格，《概念文字》(Frege，Begriffschrift)
+原：1883　布拉德雷，《逻辑学原理》(Bradley，Principles of Logic)
+原：　弗雷格，《算术基础》(The Foundations of Arithmetic)
+原：　弗雷格，《函项和概念》(“Function and Concept”)
+原：1892　弗雷格，《论概念和对象》(“Concept andObject”)
+原：1893　弗雷格，《算术的基本规律》(The BasicLaws of Arithmetic，卷2出版于1903年）
+原：1899　希尔伯特，《几何学基础》(Hilbert，FoundationsofGeometry)
+原：1900　希尔伯特在国际数学家大会上演讲：《数学的问题》("Mathematical Problems")
+原：1902　发现罗素悖论
+原：1903　罗素，《数学原理》(Russell,The Principles of Mathematics)
+原：　弗雷格，《算术的基本规律》
+原：1905　迈农，《对象论》(Meinong，“Theory of Objects”)
+原：1910　罗素、怀特海，《数学原理》(Russelland Whitehead，PrincipiaMathematica,1910—1913)
+原：1912　布劳威尔，《直觉主义和形式主义》(Brouwer，Intuitionism and Formalism)
+原：1918　刘易斯，《符号逻辑概论》(Lewis，Survey of SymbolicLogic)
+原：1919　罗素，《数学哲学导论》(Introduction toMathematicalPhilosophy)
+原：1921　《概率论》(Keynes，A Treatise on Probability)
+原：1923　斯科伦，《关于公理集合论的几点说明》(Skolem，"SomeRemarks on Axiomatic Set Theory")
+原：1928　希尔伯特，《数理逻辑基础》(Principles of Mathematical Logic)
+原：　米塞斯，《概率、统计和真理》(von Mises，Probability,Statistics and Truth)
+原：1930　哥德尔(Gödel)证明了一阶谓词演算的完备性
+原：1931　哥德尔不完备性定理被提出
+原：　拉姆齐，《数学基础》(Ramsey，TheFoundations ofLanguaMathematics)
+原：　卡尔纳普，《数学的逻辑主义基础》(“TheLogicistFoundations of Mathematics")
+原：　海廷，《数学的直觉主义基础》(Heyting，“TheIntuitionist Foundations of Mathematics")
+原：　冯·诺依曼，《数学的形式主义基础》(VonNeumann,"The Formalist Foundations of Mathematics")
+原：1934　《语言的逻辑句法》(TheLogical
+原：　希尔伯特，《数学基础》(Foundations ofMathematics)(卷2出于1939年)
+原：　赖欣巴哈，《概率论》(The Theory of Probability)
+原：1936　《欧洲科学的危机和先验现象学》(Thecenden-
+原：　《语言、真理和逻辑》(Ayer，Language，
+原：　“Meaning and Verification”)
+原：1937　图灵，《论可计算数字》(Turing，“OnComputableNumbers”)(“图灵机”)
+原：1938　哥德尔证明了连续统假设与公理集合论的一致性
+原：　杜威，《逻辑：探究理论》(Logic:The Theory of Inquiry)
+原：1939　内格尔，《概率论原理》(Nagel，Principles ofthe Theory of Probability)
+原：　卡尔纳普，《逻辑和数学基础》(Foundations ofLogicand Mathematics)
+原：1941　塔斯基，《逻辑导论及演绎科学方法论》(Introductionto Logic and to the Methodology of Deductive Sciences)
+原：1943　卡尔纳普，《逻辑的形式化》(Formalization of Logic)
+原：1945　魏斯曼，《还有其他的逻辑吗？》(Waismann，“Arethere Alternative Logics?")
+原：　卡尔纳普，《概率的两个概念》(“The TwoConceptsofProbability")
+原：1949　赖欣巴哈，《概率论》(The Theory of Probability)
+原：　涅尔，《概率与归纳》(Kneale，Probability and Induction)
+原：1950　奎因，《逻辑方法》(Quine,Methods ofLogic)
+原：　卡尔纳普，《概率的逻辑基础》(The LogicalFounda《经验主义意义标准的问题和转换》tions ofProbability）
+原：1951　冯·怀特，《模态逻辑的一篇论文》(von Wright，AnEssay in Model Logic)
+原：1952　斯特劳森，《逻辑理论导论》(Introduction toLogicalTheory)
+原：　卡尔纳普，《归纳方法的连续统》(Continuumof Inductive Methods)
+原：1954　古德曼，《事实、虚构和预测》(Fact，Fiction andForecast)
+原：　萨维奇，《统计学基础》(Savage，TheFoundations ofStatistics)
+原：1957　冯·怀特，《归纳中的逻辑问题》(The Logical Problem《句法结构》(Chomsky，SyntacticofInduction)
+原：1963　科恩(Cohen)证明了连续统假设与公理集合论之间的独立性
+原：　冯·怀特，《优先逻辑》(TheLogic of Preference)
+原：　奎因，《集合论及其逻辑》(Set Theory and Its Logic)
+原：1965　哈金，《统计推断的逻辑》(Hacking，Logic ofStatistical Inference)
+原：1967　普特南，《没有基础的数学》(Putnam，“Mathematicswithout Foundations")
+原：1969　刘易斯，《约定论》(Convention)
+原：1970　奎因，《逻辑哲学》(Philosophyof Logic)
+原：　科恩，《归纳的暗示》(The Implications of Induction)
+原：　萨尔蒙，《统计说明和统计相关性》(Salman，Statistical Explanation and Statistical Relevance)
+原：1972　克里普克，《命名与必然性》(Kripke，Naming andNecessity)
+原：1973　刘易斯，《反事实条件句》(Counterfactuals)
+原：　辛蒂卡，《逻辑、语言游戏和信息》(Hintikka，Logic，Language Games and Information)
+原：1974　哈金，《概率的突现》(The Emergence of Probability)
+原：　哈克，《变异逻辑》(Haack，Deviant Logic)
+
+# 哲学(总论)
+原：1877　皮尔士，《信念的确定》(Peirce，“TheFixationof Belief")
+原：1892　弗雷格，《论涵义和指称》(“On Sense and Reference")
+原：1893　布拉德雷，《表象与实在》(Appearance and Reality)
+原：1900　胡塞尔，《逻辑研究》(Husserl,Logical Investigations)
+原：1903　摩尔，《对唯心主义的驳斥》(Moore，“The Refutation of Idealism")
+原：　摩尔，《伦理学原理》(Principia Ethica)
+原：1905　罗素，《论指谓》(“On Denoting”)
+原：　马赫，《知识与谬误》(Mach，Knowledge andError)
+原：1907　詹姆斯，《实用主义》(James，Pragmatism)
+原：　柏格森，《创造进化论》(Bergson，Creative Evolution)
+原：1913　胡塞尔，《观念》(Ideas)
+原：1914　罗素，《我们关于外部世界的知识》(OurKnowledge of the External World)
+原：　布拉德雷，《真理与实在论文集》(EssaysonTruth and Reality)
+原：1918　罗素，《逻辑原子主义哲学》(The Philosophy of Logical Atomism)
+原：　石里克，《广义知识论》(Schlick，GeneralTheory of Knowledge)
+原：1920　怀特海，《自然的概念》(The Concept of Nature)
+原：1921　维特根斯坦，《逻辑哲学论》(Wittgenstein，凯恩斯，Tractatus Logico-Philosophicus)
+原：1922　摩尔，《哲学文集》(Philosophical Papers)
+原：1925　布洛德，《心灵及其在自然界的地位》(TheMind and Its Place in Nature)
+原：1927　海德格尔，《存在与时间》(Heidegger,Being andTime)
+原：　麦克塔格特，《存在的本质》(McTaggart，TheNature of Existence)
+原：1928　卡尔纳普，《世界的逻辑构造》(Carnap，The Logical Structure of the World)
+原：1929　卡尔纳普、哈恩和纽拉特，《科学的世界观：维也纳学派》(Carnap,Hahn and Neurath,The ScientificWorldView: The Vienna Circle)
+原：　杜威，《经验与自然》(Dewey，Experience andNature)
+原：　刘易斯，《心灵与世界秩序》(MindandtheWorld Order)
+原：1931　塔斯基，《形式化语言中的真理概念》(Tarski，“The Conceptof Truth in Formalizedges")
+原：1932　普莱斯，《知觉》(Price，Perception)
+原：1934　卡尔纳普，Syntax of Language)
+原：1936　胡塞尔，Crisis of European Sciences and Transtal Phenomenology)
+原：　艾耶尔，Truth and Logic)
+原：　石里克，《意义与证实》(
+原：1939　布兰夏德，《思想的性质》(Blanshard，The Nature of Thought)
+原：1940　罗素，《意义与真理的探究》(An Inquiry intoMeaning and Truth)
+原：　柯林伍德，《形而上学论》(Collingwood，An Essay on Metaphysics)
+原：1943　萨特，《存在与虚无》(Sartre，Being and Nothingness)
+原：1944　斯蒂文森，《伦理学与语言》(Stevenson，Ethicsand Language)
+原：1947　卡尔纳普，《意义与必然性》(Meaning and Necessity)
+原：1949　石里克，《自然哲学》(Philosophyof Nature)
+原：　赖尔，《心的概念》（Ryle，The Concept ofMind)
+原：1950　斯特劳森，《论指称》(Strawson，“On Referring”)
+原：　亨佩尔，(Hempel,"Problems and Changes in theEmpiricist Criterion of Meaning")
+原：1951　奎因，《经验主义的两个教条》(Quine，“TwoDogmas of Empiricism")
+原：　古德曼，《表象的结构》(Goodman，TheStructure of Appearance)
+原：1952　黑尔，《道德语言》(Hare，The Language ofMorals)
+原：　维斯道姆，《他心》(Wisdom，OtherMinds)
+原：1953　维特根斯坦，《哲学研究》(Philosophical Investigations)
+原：　奎因，《从逻辑的观点看》(Froma Logical Pointof View)
+原：1954　赖尔，《两难论法》(Ryle，Dilemmas)
+原：1956　赖欣巴哈，《时间的方向》(The Direction of Time)
+原：　维特根斯坦，《数学哲学评论》(Remarks on thePhilosophy of Mathematics)
+原：1957　齐硕姆，《感知》(Chisholm，Perceiving)
+原：　乔姆斯基，Structures)
+原：1958　波兰尼，《个人知识》(Polanyi,Personal Knoudedge)
+原：　贝尔，《道德的观点》(Baier，The Moral Pointof View)
+原：　吉奇，《精神行为》(Geach，Mental Acts)
+原：1959　斯特劳森，《个体》(Individuals)
+原：　哈特、奥诺尔，《法律中的因果关系》(Hart andHonoré, Causation in the Law)
+原：1960　奎因，《语词和对象》(Word and Object)
+原：　马尔康姆，《安瑟尔谟的本体论证明》(Malcolm，"Anselm's Ontological Arguments")
+原：1961　奥斯汀，《哲学文集》(Austin，Philosophical Papers)
+原：　格赖斯，《知觉的因果理论》(Grice，“The Causal Theory of Perception")
+原：　马尔康姆，《梦》(Dreaming)
+原：1962　布莱克，《模型与隐喻》（Black，Models andMetaphors)
+原：　哈特，《法的概念》(The Concept of Law)
+原：1963　戴维森，《行动、理由与原因》(Davidson，“Actions, Reasons, and Causes")
+原：　哈特，《法律、自由及道德》(Law，Liberty andMorality)
+原：　卡茨、福多，《语义理论的结构》(Katz and Fodor,"The Structure of a Semantic Theory")
+原：　波普尔，《猜想与反驳》(Conjectures and Refutations)
+原：　休梅克，《自我知识和自我认同》(Shoemaker，Self-knowledge and Self-identity)
+原：1964　谢弗勒，《研究过程剖析》(Scheffler，The Anatomy of Inquiry)
+原：1965　乔姆斯基，《句法理论的若干问题》(Aspects ofthe Theory of Syntax)
+原：　德弗林，《道德的强制》(Devlin，The Enforcement of Morals)
+原：1967　戴维森，《真理与意义》(“Truth and Meaning”)
+原：　弗兰克纳，《道德的概念》(Frankena，The Concept of Morality)
+原：　普兰丁格，《上帝与他心》(Plantinga，God andOther Minds)
+原：1968　阿姆斯特朗，《唯物主义的心灵理论》(Armstrong, A Materialist Theory of the Mind)
+原：　福多，《心理学的解释》(Psychological Explanation)
+原：1969　奎因，《本体论的相对性》(Ontological Relativity)
+原：　塞尔，《言语行为》(Searle，Speech Acts)
+原：1970　戴维森，《自然语言的语义学》(“Semantics for Natural Languages")
+原：1971　罗尔斯，《正义论》(Rawls，A Theory of Justice)
+原：　朱迪丝·贾维斯·汤普森，《为堕胎辩护》(JudithJarvis Thompson, "A Defense of Abortion")
+原：1972　波普尔，《客观性知识》(Objective Knowledge)
+原：1974　诺齐克，《无政府、国家与乌托邦》(Nozick，An- archy, State and Utopia)
+原：1975　辛格，《动物解放》(Singer，Animal Liberation)
+原：1977　德沃金，《认真对待权利》(Dworkin，TakingRights Seriously)
+原：　马尔康姆，《记忆和心灵》(Memory and Mind)
+原：1978　古德曼，《构造世界的多种方式》(WaysofWorldmaking)
+原：　达米特，《真与其他难解之谜》(Dummett，Truthand Other Enigmas)
+原：1980　克里普克，《命名与必然性》(NamingandNecessity)
+原：　罗蒂，《哲学与自然之镜》(Rorty，Philosophyand the Mirror of Nature)
+原：1981　普特南，《理性、真理与历史》(Reason，Truthand History)
+原：　麦金太尔，《德性之后》(MacIntyre，AfterVirtue)
+原：1984　范伯格，《刑法的道德界限》(Feinberg，TheMoral Limits of the Criminal Law)
+原：　阿姆斯特朗、马尔康姆，《意识与因果性》(Consciousness and Causality)
+原：1985　德沃金，《原则问题》(A Matter of Principle)
+原：1986　马尔康姆，《没有任何隐藏》(NothingIs Hidden)
+原：1987　费耶阿本德，《告别理性》(Farewell to Reason)
+原：　莱科夫，《女人、火和危险的事物》(Lakoff，Women, Fire and Dangerous Things)
+原：1989　格赖斯，《言辞用法研究》(Studies in the Wayof Words)
+
+# 科学哲学
+原：1873　杰文斯，《科学原理》(Jevons，The Principles ofScience)
+原：1881　亥姆霍兹，《通俗演讲》(Helmholtz，PopularLectures)
+原：1883　马赫，《力学史评》(The Science of Mechanics)
+原：1892　皮尔逊，《科学的规范》(Pearson，The Grammarof Science)
+原：1893　马赫，《通俗科学演讲》(Popular Scientific Lectures)
+原：　赫兹，《力学原理》(Hertz,The Principles ofMechanics)
+原：1902　彭加勒，《科学与假设》(Poincaré，Science andHypothesis)
+原：1904　迪昂，《物理学理论的目的和结构》(Duhem，The Aim and Structure of Physical Theory)
+原：1905　玻耳兹曼，《通俗著作集》(Boltzmann，Popular Writings)
+原：1908　杜里舒，《有机体的科学和哲学》(Driesch，TheScience and Philosophy of the Organism)
+原：1912　摩尔根，《直觉和经验》(C.L.Morgan，Instinctand Experience)
+原：1914　布洛德，《知觉、物理和实在》(Broad，Perception, Physics, and Reality)
+原：　杜里舒，《生机论的历史和理论》(TheHistoryand Theory of Vitalism)
+原：1917　石里克，《当代物理学中的空间和时间》(Spaceand Time in Contemporary Physics)
+原：1920　坎贝尔，《物理学原理》(Campbell，PhysicsThe Elements)
+原：1923　布洛德，《科学思想》(Scientific Thought)
+原：　摩尔根，《突生进化论》(Emergent Evolution)
+原：1925　怀特海，《科学与现代世界》(Science andtheModern World)
+原：1926　摩尔根，《生命、心灵和精神》(Life，Mind，andSpirit)
+原：1927　罗素，《物的分析》(The Analysis of Matter)
+原：　外尔，《数学和自然科学哲学》(Weyl，Philosophy of Mathematics and Natural Science)
+原：　布里奇曼，《现代物理学的逻辑》(Bridgman，TheLogic ofModern Physics)
+原：1928　爱丁顿，《物理世界的性质》(Eddington，TheNature of the Physical World)
+原：　赖欣巴哈，《时间和空间的哲学》(Reichenbach，The Philosophy of Time and Space)
+原：　坎贝尔，《测量与计算》(Measurement and Calculation)
+原：1929　伍杰，《生物学原理》(Woodger，BiologicalPrinciples)
+原：1930　海森堡，《量子论的物理学基础》(The PhysicalPrinciple of Quantum Theory)
+原：1931　霍尔丹，《生物学的哲学基础》(Haldane，ThePhilosophical Basis of Biology)
+原：　纽拉特，《物理主义》(“Physicalism”)
+原：　石里克，《现代物理学中的因果性》(“Causalityin Contemporary Physics")
+原：　卡尔纳普，《作为科学的普遍语言的物理语言》(“Die Physikalische Sprache als Universalsprache der Wissenschaft”),英译为《科学的统—》(The Unity of Science,1934)
+原：1932　乔德，《现代科学的哲学方面》(Joad，Philosophical Aspects of Modern Science)
+原：1934　巴什拉，《新科学精神》（Bachelard，TheNewScientific Spirit)
+原：1935　波普尔，《科学发现的逻辑》(Popper，The LogicofScientific Discovery)
+原：　爱丁顿，《科学的新道路》(NewPathwaysinScience)
+原：1936　布里奇曼，《物理理论的本质》(TheNatureofPhysical Theory)
+原：　国际统一科学百科全书(The International Encyclopedia of Unified Sciences)开始出版(纽拉特、卡尔纳普、莫里斯[Morris])
+原：1937　斯泰宾，《哲学和物理学家》(Stebbing,Philosophy and the Physicists)
+原：　伍杰，《生物学的公理方法》(Woodger，The Axiomatic Method in Biology)
+原：1938　奥巴林，《生命起源》(Oparin, The Origin of Life)
+原：　赖欣巴哈，《经验和预测》(Experience and Prediction)
+原：　卡尔纳普，《科学统一的逻辑基础》(“LogicalFoundations of the Unity of Science")
+原：1939　爱丁顿，《物理科学哲学》(The Philosophy ofPhysical Science)
+原：1944　赖欣巴哈，《量子力学的哲学基础》(Philosophical Foundations of Quantum Mechanics)
+原：1945　里尔，《有机体的一般生物学和哲学》(Lillie，General Biology and Philosophy of Organism)
+原：1946　弗兰克，《物理学基础》(Frank，Foundations ofPhysics)
+原：1948　伍杰，《生物学原理》(Biological Principles)
+原：1950　萨默霍夫，《分析的生物学》(Sommerhoff，Analytical Biology)
+原：1951　贝纳尔，《生命的物质基础》(Bernal，ThePhysical Basis of Life)
+原：1952　维斯道姆，《自然科学的推理基础》(Foundations of Inference in Natural Science)
+原：　亨佩尔，《经验科学中概念形成的基本原理》(Fundamentals of Concept Formation in Empirical Science)
+原：　伍杰，《生物学和语言》(Biology and Language)
+原：1953　图尔明，《科学哲学》(Toulmin，The Philosophyof Science)
+原：　布雷思韦特，《科学解释》(Braithwaite，Scientific Explanation)
+原：1954　赖欣巴哈，《法则陈述和容许操作》(Nomological Statements and Admissible Operations)
+原：1957　玻姆，《现代物理学中的因果性和机遇》(Bohm，Causality and Chance in Modern Physics)
+原：1958　汉森，《发现的模式》(Hanson，Patterns of Discovery)
+原：　玻尔，《原子物理和人类知识》(Atomic Physicsand Human Knowledge)
+原：1959　邦格，《因果性》(Bunge，Causality)
+原：1961　内格尔，《科学的结构》(The Structure of Science)
+原：　哈瑞，《理与事》(Harre，Theories and Things)
+原：　恰佩克，《当代物理学的哲学影响》(Capek，Philosophical Impact of Contemporary Physics)
+原：1962　库恩，《科学革命的结构》(Kuhn，The Structureof Scientific Revolutions)
+原：　塞拉斯，《科学、感知和实在》(Sellars，Science，Perception and Reality)
+原：　格鲁夫尔·麦克斯韦，《理论实体的本体论地位》(Grover Maxwell,“The Ontological Statusof Theoretical Entities")
+原：　海西，《科学中的模型和类比》(Hesse，Modelsand Analogies in Science)
+原：1963　斯马特，《哲学与科学实在论》(Smart，Philosophy and Scientific Realism)
+原：　格林鲍姆，《空间和时间的哲学问题》(Grunbaum, Philosophical Problems of Space andTime)
+原：1965　亨佩尔，《科学说明的各个方面》(AspectsofScientific Explanation)
+原：1966　亨佩尔，《自然科学的哲学》(PhilosophyofNatural Science)
+原：1967　谢弗勒，《科学和主观性》(Science andSubjectivity)
+原：1968　贝克尔，《思想的生物学路径》(Becker，The BiologicalWay of Thought)
+原：1970　莫诺，《偶然与必然》(Monod，Chance and Necessity)
+原：1974　斯卡拉，《空间、时间及时空》(Sklar，Space，Time and Spacetime)
+原：　巴恩斯，《科学知识和社会学理论》(Barnes，Scientific Knowledge and Sociological Theory)
+原：1975　费耶阿本德，《反对方法》(Feyerabend，AgainstMethod)
+原：1976　布鲁尔，《知识与社会想象》(Bloor，Knowledgeand Social Imagery)
+原：1977　劳丹，《进步及其问题》(Lauden，Progess andIts Problems)
+原：1978　费耶阿本德，《自由社会的科学》(Science in a Free Society)
+原：1979　拉图尔、伍尔加，《实验室生活》(Latour and Woolger, Laboratory Life)
+原：　拉卡托斯，《科学研究方法论》(Lakatos，TheMethodology of Scientific ResearchPrograms)
+原：　范·弗拉森，《科学的形象》(van Fraassen，TheScientific Image)
+原：1980　玻姆，《整体性与隐缠序》(Wholenessandthe Implicate Order)
+原：1983　卡特赖特，《物理规律如何说谎》(Cartwright，How the Laws of Physics Lie)
+原：　哈金，《表象与介人》(Representing and Intervening)
+原：1985　福克斯-凯勒，《关于性别与科学的思考》(FoxKeller, Reflections on Gender and Science)
+原：1986　哈丁，《科学中的女性问题》(Harding，TheFeminist Question in Science)
+原：1987　拉图尔，《行动中的科学》(Science in Action)
+原：　普特南，《实在论的多副面孔》(The ManyFacesof Realism)
+原：1988　霍金，《时间简史》(Hawking,ABriefHistoryof Time)
+
+# 科学技术
+原：1881　麦克尔逊一莫雷实验(Michelson-Morley experiment,发现光速在垂直方向上保持不变）
+原：1891　埃利希(Ehrlich)白喉抗毒素的发现建立免疫学领域洛伦兹一菲茨杰拉德收缩(Lorentz-Fitzgerald contraction，物体在高速状态下会发生长度收缩）
+原：1895　伦琴(Röntgen)发现X射线
+原：　汤姆逊(Thomson)发明云室(Cloud Chamber)
+原：1897　发现电子(汤姆逊)
+原：　测量电子的电荷(汤姆逊)
+原：1898　居里夫人(M. Curie)提出“放射性”这一术语
+原：　卢瑟福(Rutherford)发现α和β射线
+原：1900　普朗克(Planck)提出量子理论：物质只有在特定的能量下才能放射出光
+原：　孟德尔(Mendel)1860年代的遗传学著作被重新发现电报传输首次跨越大西洋(马可尼[Marconi])
+原：1902　卢瑟福、索迪，《放射性的原因和本质》(RutherfordandSoddy,“TheCause and Nature of Radioactivity")
+原：1903　首次成功完成飞机飞行(怀特[Wright]兄弟)
+原：1904　汤姆逊的原子模型：电子分布在正电荷周围
+原：1905　爱因斯坦(Einstein)解释布朗运动(悬浮在液体中的微粒的运动)，这被视为原子存在的第一个证据
+原：　爱因斯坦发表狭义相对论的论文
+原：　爱因斯坦为光像粒子一样的行为提出光量子的假设(1926年提出“光子”)
+原：1906　霍普金斯(Hopkins)推测“维生素”的存在(1912年被命名，1928年被发现）
+原：1908　闵可夫斯基，《空间和时间》(Minkowski，Space andTime，提出四维宇宙）
+原：1909　提出基因概念(约翰逊[Johannsen])
+原：1910　居里夫人，《放射性专论》(Treatise on Radioactivity)
+原：1911　卢瑟福提出原子理论：带正电的核被带负电的电子所环绕
+原：1912　提出大陆漂移说(魏格纳[Wegener])
+原：1913　玻尔(Bohr)的原子模型:电子围绕原子核在固定的轨道上运转，通过轨道的跃迁释放出固定的能量。
+原：　亨利·福特(Henry Ford)的装配线投入使用
+原：1914　卢瑟福发现质子
+原：1915　爱因斯坦提出广义相对论
+原：1917　史瓦兹旭尔德(Schwarzschild)预言黑洞的存在
+原：1920　：哈金斯(Harkins)提出中子(无电荷粒子);1932年被发现
+原：　斯莱弗(Slipher)报道发现了星系光谱红移现象
+原：　玻尔成立哥本哈根理论物理学研究所
+原：1921　发现胰岛素(班廷[Banting]、贝斯特[Best]、麦克劳德[Mcleod]和科利普[Collip])
+原：1923　德布罗意(de Broglie)提出物质的波粒二象性，1927年由戴维孙(Davisson)证实
+原：1924　玻色(Bose)提出光量子的玻色统计
+原：　哈勃(Hubble)提出星系是独立系统
+原：　杀虫剂开始使用
+原：1925　古德斯密特(Goudsmit)和乌伦贝克(Uhlenbeck)提出电子自旋的假设
+原：　泡利(Pauli)发现不相容原理(不能有两个或两个以上的电子具有相同的量子数）
+原：　玻恩(Born)、海森堡(Heisenberg)和约尔当(Jordan)首次给出量子力学的简明数学公式
+原：　“斯科普斯猴子案件”(高中教师因讲授进化论而被公诉）
+原：　布什(Bush)设计出第一台模拟计算机
+原：1926　玻恩发表量子力学的概率论诠释
+原：　费米—狄拉克(Fermi-Dirac)统计
+原：　狄拉克证明了普朗克定律
+原：　薛定谔(Schrödinger)发表波动力学的第一篇论文
+原：　发表薛定谔方程
+原：　摩尔根，《基因论》(The Theory of Gene)
+原：1927　海森堡提出测不准原理(不能同时确定电子的位置和动量）
+原：　勒梅特(Lemaitre)提出宇宙起源的“大爆炸”理论的最初版本
+原：1928　狄拉克方程建立起量子力学与狭义相对论的联系
+原：　弗莱明(Fleming)发现青霉素，但直到1940年代才开始生产和临床使用
+原：1929　海森堡和泡利提出量子场论
+原：　发现哈勃定律(星球离地球越远，视向速度越大)
+原：　发现脱氧核糖核酸(DNA)
+原：1930　狄拉克，《量子力学原理》(Principles of Quantum Mechanics)
+原：　泡利假设中微子的存在，费米创造了这个概念，1955年发现中微子
+原：　汤博根(Tombaugh)发现冥王星
+原：　汉斯·津瑟(Hans Zinsser)发现斑疹伤寒免疫
+原：1931　狄拉克提出“正电子”的假设，1932年由安德森(Anderson)发现
+原：　发现第一种反物质形式
+原：1932　粒子加速器首次用于锂的核裂变(考克饶夫特[Cockroft]和沃尔顿[Walton])
+原：　海森堡提出原子核模型：中子和质子通过交换电子结合在一起
+原：　查德威克(Chadwick)发现中子
+原：　摩尔根，《进化的科学基础》(TheScientificBasisofEvolution)
+原：1933　费米提出β衰变理论(首次提出弱相互作用)
+原：　合成维生素C
+原：1935　汤川秀树(Yukawa)提出原子核内粒子间交换粒子会引起相互吸引(强相互作用)，1939年称为“meson”，现在称为“pion”(介子)
+原：　里克特(Richter)提出里克特震级
+原：　沃森-瓦特(Watson-Watt)发明第一台雷达
+原：1936　贝勒泽斯基(Belozersky)首次分离了纯DNA
+原：　楚泽(Zuse)发明原始数字计算机
+原：　阿塔纳索夫—贝瑞计算机（Atanasoff-BerryComputer)即首台电子计算机开始研制，1939年完成；1942年研制出可实际运算的型号
+原：1937　安德森发现“μ子”，最初宣称是汤川秀树的介子，1945年康弗西(Conversi)、潘西尼(Pancini)及皮西奥尼克(Piccionic)发现了这个错误
+原：　克拉莫斯(Kramers)引入“电荷共轭”的概念说明粒子的相互作用，1958年被证明对某些相互作用是无效的哈恩发现铀的核裂变
+原：1939　爱因斯坦致信罗斯福：美国开始制造原子弹
+原：　赫令(Herring)发展了用量子原理计算物质对象性质的方法
+原：　米勒(Muller)合成出 DDT杀虫剂
+原：1940　从青霉素研制出抗生素(该术语于1941年提出)
+原：1941　楚泽研发出Z2计算机，采用电磁继电器和穿孔带数字输入
+原：1942　坂田昌一(Sakata)和井上健(Inoue)提出双介子理论费米首次提出可控的链式反应
+原：　绘制出首幅宇宙射电地图
+原：1943　朝永振一郎(Tomonaga)提出量子电动力学
+原：　橡树岭国家实验室成功研制出首台连续运转的核反应堆
+原：　首台全电子计算机“巨人”(Colossus)问世，用以破解密码(图灵)
+原：1944　埃弗里(Avery)确定DNA是几乎所有生命体的遗传物质
+原：　喷气发动机和火箭发动机迅速发展
+原：1945　广岛和长崎被投掷原子弹
+原：　ENIAC研制成功：第一台多功能存储程序的电子计算机
+原：1946　派斯(Pais)和莫勒(Moller)引入“轻子”来说明不受强相互作用影响的轻粒子
+原：　罗彻斯特(Rochester)和巴特勒(Butler)发现“V粒子”利比(Libby)用放射性碳14方法进行年代测定
+原：1947　鲍威尔(Powell)的团队发现“介子”(汤川介子)
+原：　发现“兰姆移位”(Lamb Shift)，是朝永振一郎提出相近理论四年后，量子电动力学的独立进展
+原：　坂田昌一和井上健提出相近理论五年后，马沙克(Marshak)和贝特(Bethe)独立提出双介子理论
+原：1948　相互对立的两种宇宙论被提出：邦迪(Bondi)、霍伊耳(Hoyle)和歌耳德(Gold)提出的稳恒态宇宙论以及伽莫夫(Gamow)、阿尔菲(Alpher)和赫尔曼(Harmon)提出的大爆炸宇宙论
+原：　肖克利(Shockley)、布拉顿(Brattain)和巴丁(Bardeen)发明晶体管，将取代真空管
+原：1949　雷恩瓦特(Rainwater)提出原子核不一定是球形的
+原：1951　吉普森(Gibson)研制首台心肺机
+原：　UNIVACⅠ研发成功，首台商用计算机
+原：1952　莱德伯格(Lederberg)发现质粒(即通过细菌交换基因物质的分子构形）
+原：　格拉塞(Glaser)发明气泡室用于亚原子粒子的研究特勒(Teller)研发出氢弹
+原：　首例核事故发生(加拿大乔克河)
+原：　沙克(Salk)研制出脊髓灰质炎疫苗;1954年开始大量接种，直到1957年被沙宾(Sabine)研制的新疫苗超越“皮尔当人”(Piltdown Man)被发现为伪造
+原：1953　盖尔曼(Gell-Mann)、中野董夫(Nakano)和西岛和彦(Nishijina)各自独立提出新的量子数，“奇异数”
+原：　克里克(Crick)和沃森(Watson)确定了DNA的双螺旋结构
+原：1954　欧洲核子研究组织(CERN)成立
+原：1955　柯万(Cowen)和莱因斯(Reines)观测到中微子
+原：　IBM公司的巴科斯(Backus)研发出第一个计算机编程语言FORTRAN
+原：　麦卡锡(McCarthy）研发出人工智能的计算机语言LISP
+原：1956　柯克(Cork)、兰伯特孙（Lambertson）、皮西奥尼克(Piccionic)和文采尔(Wentzel)发现反中子
+原：1957　杨振宁、李政道和吴健雄用奇偶校验法证明在弱相互作用中宇称不守恒
+原：　施温格(Schwinger)提出“W玻色子”为弱相互作用的传递媒介
+原：　苏联发射第一颗人造卫星 SpuntnikI
+原：1960　发现穆斯堡尔(Mossbauer)效应;庞德(Pound)和雷布卡(Rebka)用其论证爱因斯坦的广义相对论
+原：　阿尔瓦雷斯(Alvarez)发现共振态(短寿命粒子)
+原：　梅曼(Maiman）首次制造出激光；其前驱是汤斯(Townes)的“脉泽”(1954)，以及卡斯勒(Kastler)的“光泵”(1950)
+原：1961　人类首次进入地球轨道(加加林[Gagarin])
+原：1963　施密特(Schmidt)首次发现类星体
+原：1964　盖尔曼提出“夸克”的概念
+原：　由于大米紧张而开始的“绿色革命”通过大量使用化肥获得了双倍的产量
+原：1965　大爆炸残余辐射的偶然发现证实了大爆炸理论(彭齐亚斯[Penzias]和威尔逊[Wilson])
+原：1967　洛巴绍夫(Lobashov)提出强核力破坏宇称守恒
+原：　温伯格(Weinberg)、萨拉姆(Salam)和格拉肖(Glashow)提出“电弱理论”，统一了弱作用和电磁作用
+原：　首次发现脉冲星
+原：　键盘被用于计算机数据输入
+原：1968　发现限制性的酶(能在特定的点切断病毒DNA);成为基因工程的基本工具
+原：1969　阿姆斯特朗(Armstrong)和奥尔德林(Aldrin)首次登上月球
+原：　首个人造心脏被用于人类身上
+原：　贝克维斯(Beckwith)首次分离出单个基因
+原：1971　微处理器(芯片)被研制
+原：1972　盖尔曼提出量子色动力学
+原：　加州教育委员会提出，创造物的圣经解释应该和进化论获得同等程度的关注
+原：1973　物理学家泰龙(Tyron)提出，宇宙从绝对的无到有的创造服从量子力学提出的概率定律
+原：　发射首个天空实验室
+原：　科恩和伯耶(Boyer)开始基因工程
+原：1974　大统一理论首次统一了强、弱相互作用和电磁相互作用(乔吉[Georgi]、格拉肖)
+原：　里克特和丁肇中(Ting)发现J/psi粒子；粲夸克理论得到证实
+原：1975　第一台个人计算机发明(Altair 8800)
+原：1976　科拉纳(Khorana)合成了能发挥作用的基因
+原：1977　莱德曼(Lederman)发现Upsilon粒子;证实了重子的夸克理论
+原：　设计个人电脑AppleⅡ
+原：　艾滋病病例首次为人所知；直到1981年才被确诊
+原：1978　首例试管婴儿诞生
+原：1979　三英里岛核反应堆部分熔毁
+原：1980　中微子质量很小，作为“隐形物”存在于星系中
+原：　古斯(Guth)提出“暴涨宇宙”模型：宇宙在大爆炸前短时间内迅速膨胀
+原：1980　W.阿尔瓦雷斯(W.Alvarez)和L.阿尔瓦雷斯(L. Alvarez)复兴了灾变论：地球和巨大陨星碰撞导致包括恐龙在内的大规模生物灭绝
+原：1981　首次实现一种动物基因向其他物种基因的转移
+原：　林德(Linde)、亚布勒希特(Albrecht)和斯坦哈特(Steinhardt)发表了宇宙起源新暴涨理论
+原：　哥伦比亚号航天飞机首次发射
+原：1982　基因工程首个商业产品人胰岛素问世
+原：1983　发现W、Z粒子；进一步证实了弱电理论(CERN)
+原：1984　克隆羊成功(魏尔金森[Wilkinson])
+原：1985　南极上空发现臭氧层空洞
+原：1986　单个原子中的单个量子跃迁被观察到
+原：　费希巴克(Fishbach)发现第五种基本力——超电荷力，但没有被普遍接受
+原：　发现“巨引力源”，大量星系(包括我们的)正在向其运动
+原：　挑战者号航天飞机爆炸
+原：　首次进行转基因生物领域实验(烟草)
+原：　切尔诺贝利核电站爆炸
+原：1987　美国最高法院否决了用同等时间讲授神创论的提案

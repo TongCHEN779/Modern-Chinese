@@ -1,0 +1,161 @@
+# 第一章 切尔伯里的赫伯特勋爵与剑桥柏拉图主义者
+原：萨拉·赫顿（Sarah Hutton)
+原：切尔伯里的赫伯特勋爵（1582/1583—1648）和剑桥柏拉图主义者的哲学表现了17世纪思想与文艺复兴哲学的连续性。同时他们又尽心尽力，推动了17世纪哲学的新发展。他们合力书写了超越亚里士多德传统的哲学发展的新篇章。每个人都体现了下述17世纪哲学相互联系的诸特征的某一方面：它的平民特征以及运用本国语言作为哲学对话的语言。即使赫伯特勋爵用拉丁文写作，而当时理智交流用的仍是法国语言，但他无疑是哲学的平民实践者。剑桥柏拉图主义者尽管用英文写作，但都是大学中人。
+
+# 切尔伯里的赫伯特勋爵
+原：赫伯特勋爵一般被看作是一个哲学家，尽管他不属于17世纪的各哲学团体。他既不是某个学派的继承人，又不是它的创始人。他被尊称为一个哲学家，主要得益于他的认识论专著《论真理》（Deveritate，1624，1617年开始写作）以及他的宗教哲学著作《论世俗宗教》（De religione laici, 1645，与《论真理》第3版一同出版）。他写这些著作的动机既出自于宗教和解主义（irenicism），又根源于想解决怀疑主义问题的愿望。在1619—1624年间，他曾到欧洲游历，还在法国担任过英国大使，因此有机会与欧洲知识分子如格劳秀斯（Grotius）、蒂勒留斯（Tilenus）、卡索本（Casaubon）尤其是“麦尔塞纳圈”建立联系。毫无疑问，他从中获益良多。一般认为，把《论真理》译成法文的是麦尔塞纳。赫伯特与伽森狄很熟悉，似乎也单独接触过笛卡尔（笛卡尔曾把《沉思集》的抄写本赠送给他[1.60，而赫伯特也在着手将《方法谈》theDiscours翻译成英文）。笛卡尔和伽森狄两人应他的请求或麦尔塞纳的请求都为《论真理》第2版(1633)写了评论。
+注原：法文的是麦尔塞纳：参见[1.11]。关于麦尔塞纳所作的翻译，参见[1.65]，529-535。
+注原：写了评论：笛卡尔致麦尔塞纳的信，1639年10月16日，见Correspondence duP.Marin Mersenne, ed. C. de Waard, Paris, 1963, vol. 8, pp. 549–552. P. Gassendi, Ad librum D. Edoardi Herberti angli de veritate epistola, in Gassendi Opera, Lyon, 1658, vol. 3, pp.411-419.
+原：《论真理》是斯多亚派、新柏拉图主义与亚里士多德主义的混合物，同时也借鉴了文艺复兴时期关于人与自然关系的微观宇宙/宏观宇宙类比：世界上一切可知的东西在心灵中都有其对应的官能。如果不通过这些官能，什么东西都不可能被知道。真实的知识就在于心灵的官能与可知对象的一致：“真理就是对象与它们的官能之间的一致。”(1.34]，148）赫伯特一方面坚持认为，知识的确实性是可能的，但另一方面他又承认，人类知识有其限度，并非每一事物都是可知的。他区分了四类真理：实在的真理（veritas rei)，表象的真理(veritas apparentiae)，概念的真理(veritas conceptus or subjective truth）和理智的真理（veritas intellectus）。其中，每一种真理都能按照它自己的本质把握真理。心灵的主要官能是：自然的直觉，内知觉(等于意志或良心），外知觉（等于感觉），推论性思维（理性）。除这些之外，他还假定：心灵中存在着共有的意念（common notions），它们“由于自然的命令而印在灵魂之中”（1.34]，160）。这些共有的意念（Koinai ennoiai，赫伯特这里采用的是斯多亚派的术语）“是原则，没有它们，我们就不可能有任何经验”(1.34]，132)。它们是由神圣的天意印在心灵之中的。不仅如此，它们还是人类关于上帝的印象的重要组成部分。它们的真理性是由普遍同意来检验的。
+原：在心灵的诸官能中，自然的直觉是最高级的。它能直观式地把握真理，并具有绝对的可信性。理性或推论性思维（discursus）是最低级的官能。如果不正确地使用，那么便最有可能导致谬误，但是如果严格地加以运用，使之与共有的意念相一致，那么便有巨大的价值。理性是由一组规则或探究方法(“zetetica”)的应用而引导的，这些规则不同于亚里士多德的范畴，因为它们有助于让理性分辨共有的意念，并使理性发挥抽象、分析和反思的作用。由于与内知觉和外知觉结合在一起，理性就成了这样一些难以驾驭的设置的组成部分，它们对主观类型的真理作出加工，以便根据共有的意念确定事物自身的确定性。从整体上来说，赫伯特的认识论与他的宗教观是密切相关的。除了五种符合宗教信仰的共有意念之外，他并未为这种意念提供一个广泛的一览表。在《论真理》和《论异教》（Dereligione gentilium）中以及在《论世俗宗教》一书对宗教宽容的论证中，他提出了一些基本的信念，认为，只要考察宗教中的共同因素，就可以得到这些信念。宗教的共有意念主要有：存在着神，神应予崇拜，美德和仁慈是崇拜的主要组成部分，我们应该忏悔自己的罪孽，末世将受惩罚或报偿。可见，宗教的根本要素可由理性来把握，而无须启示。
+原：赫伯特同时代最有影响的批评者（笛卡尔和伽森狄)尖锐地指出：赫伯特所说的到达真理的方法之可靠性有赖于普遍的同意，因此作为对怀疑论的答复是远远不够的。在洛克对天赋论者的认识论的批评中，赫伯特实际上成了洛克所要批判的那样一个哲学家。但是正如R.H. 波普金所指出的(1.42]，155)，赫伯特预见到了洛克针对他所提出的许多批评，而且洛克似乎主张：知识来自于对外在于心灵的世界的经验观察。
+注原：笛卡尔和伽森狄：参见前面的注释。
+原：赫伯特作为一个哲学家在17世纪后期的地位可为他死后出版的与自然神论和非宗教有联系的著作所说明。他被尊奉为自然神论之父主要是根据他死后出版的《论异教》（阿姆斯特丹，1663），该书用非基督教的语言讨论了宗教问题，与布鲁诺和坎帕内拉（Campanella）的宗教观有血缘关系。赫伯特的自然神论后来明显对立于17世纪末的哲学发展，尤其是对立于霍布斯的著作和斯宾诺莎的《神学政治论》（Tractatus theologico-politicus)。一方面，基督教徒科索尔特（Kortholt）在他的《论三个伪君子》（Detribus impostoribus；科隆，1680）一书和迈克尔·博恩斯（Michael Berns)在他的《无神论者的圣坛》（Altarder Atheisten；Hamburg，1692)一书中把赫伯特与霍布斯一道，解释成斯宾诺莎泛神论的先驱。另一方面，自然神论者查尔斯·布朗特（CharlesBlount）自称是赫伯特的弟子，并在他的同名著作（1683）中，抄袭了赫伯特的《论世俗宗教》。对自然神论的非难使人们把《论真理》看作是对自然宗教之基础的理论上的摧毁，进而把赫伯特当作是启蒙运动的先驱。他逝世后被看作是一个前启蒙哲学家，这与下述事实并不矛盾，即由于他把古代哲学的各种思想（斯多亚学派、新柏拉图主义、亚里士多德主义）结合起来了，同时又强调自由意志和普遍同意论证，因此他的哲学堪称文艺复兴哲学的人文主义传统的产物。他对怀疑论问题的关注使他的思想打上了17世纪的新哲学的印记。文艺复兴精神与17世纪哲学兴奋点的这种结合以及对自由的论证，根据普遍同意所作的论证，所有这些都是以剑桥柏拉图主义者著称的英国思想家的混合团体的重要特征，尽管他们没有一个人真的是赫伯特的追随者。
+注原：一书：这是来自于德国的对赫伯特的几个攻击之一。参见Bedford，[1.59]，249。
+
+# 剑桥柏拉图主义者
+原：“剑桥柏拉图主义者”一词是一个常见的标签，指的是这样一群哲学神学家，他们在神学上有自由倾向，于17世纪上半叶在剑桥大学接受教育。该派最主要的成员是亨利·摩尔（HenryMore，1614—1687）和拉尔夫·卡德沃思（Ralph Cudworth，1617—1688）。其他与该派有联系的同时代的人也是剑桥的一些教师，如拉撒尼尔·卡尔弗韦尔（Nathaniel Culverwell，1619—1651）、约翰·史密斯（John Smith，1618—1652）、彼得·斯特里（Peter Sterry，1613—1672）以及在传统上被看作是其先驱的本杰明·惠奇科特（BenjaminWhichcote，1609—1683）。他们的年轻追随者主要有乔治·拉斯特(George Rust，死于1670年)、约翰·诺里斯(John Norris，1657—1711)、安妮·康韦（AnneConway，1630—1679）以及以宗教自由主义者著称的自由国教派，其主要代表是西蒙·帕特里克（Simon Patrick，1626—1707）和爱德华·福勒(Edward Fowler，1632—1714)。在这个家族中，也许值得一提的两个有血缘关系的人物是约瑟夫·格兰维尔（Joseph Glanvill，1636—1680）和杰里米·泰勒（JeremyTaylor，1613—1667）。剑桥柏拉图主义者之间的差异太大了，简直不能当作一个学派看待，因为他们思想中的共同因素是自由神学观而不是一系列的哲学学说。而且只有把他们哲学上的观点与他们对宗教护教学的优先关注加以对比，才能理解他们的哲学观点。在神学中，他们对理性在宗教中的作用的强调以及对意志自由的强调，与这个世纪前半叶占主导地位的加尔文主义者的得救预定论传统形成了鲜明对比，这也表明：他们的神学渊源于伊拉斯谟的（Erasmian）人文主义。理性被看作是这样的武器，它可以抵制自吹自擂的预言家或在那个时候以“独往独来精神”而著称的“宗教狂热者”的过激的狂热。这就是剑桥柏拉图主义者在当时宗教争斗和信仰危机这样的形势之下所留下的独特印记。作为他们名称的柏拉图主义是新柏拉图主义的折中物，它使人想到佛罗伦萨的新柏拉图主义。很显然，它又受到了17世纪与他们的理性神学一致的哲学和科学的某些方面的影响，当然它与唯物主义是不一致的，是格格不人的。摩尔、卡德沃思和史密斯都钟情于笛卡尔主义（尽管各有程度不同的保留意见）。摩尔、卡德沃思与霍布斯、斯宾诺莎势不两立。因此他们反对意志主义（voluntarism）和预定得救论者的加尔文主义的立场与他们在哲学上反对霍布斯和斯宾诺莎的唯物主义是一脉相承的。除了他们的宗教和哲学态度之外，对怀疑主义的挑战也是显而易见的。斐奇诺的（Ficinian）新柏拉图主义与反决定论同样混合在他们的牛津前辈托马斯·杰克逊(ThomasJackson，1579—1640) 身上。在杰克逊的著作中，像在后来的剑桥柏拉图主义者的著作中一样，折中主义的柏拉图主义是取代风行一时、但已过时的亚里士多德主义的东西。而另一方面，彼得·斯特里则把他的视觉（visionary) 新柏拉图主义与他的《论自由意志》(Discourse of the Freedom of the Will，1675）中对自由意志的否定结合起来了。拉撒尼尔·卡尔弗韦尔的《关于自然之光的精确睿智的对话》(An Elegant and Learned Discourse of the Light of Nature；剑桥，1652）批评的是柏拉图主义的某些方面，尤其是关于灵魂先在的学说，他试图追踪的是经院哲学的足迹，尤其是托马斯·阿奎那和冈萨雷斯（Suarez)。他对阿奎那思想的利用与他将神学理性化完全吻合。(在他之前，斐奇诺在《柏拉图的神学》[Theologicaplatonica一书中已开始利用阿奎那的思想。)
+注原：身上：S. Hutton, “Thomas Jackson, Oxford Platonist and William Twisse, Aristotelianism," Journal of the History of Ideas 34 (1978): 635-652.
+原：在他们对理性的强调中，剑桥柏拉图主义者谨慎地承认了理性在衰落的人性中的局限性。即使他们肯定理性与信仰具有和谐性，但他们从未把理性凌驾于信仰之上。理性不过是信仰的前提条件（信仰无理性则盲），但它又受到信仰的照耀。真正的理性是有效的理性，它得到了对上帝的爱的指引。再者，剑桥柏拉图主义者在说到理性时，其意思指的不是纯粹的抽象思辨(也不是逻辑，在史密斯看来，逻辑也是盲目的)，而是比推论的理性更高贵的心灵能力。理性与心智(mens ornous）是一致的，其力量不是来自于对神的反思，就是来自于对神性的分享。而且，他们关于理性的概念强调的是实践理性，因为心智在它自身之内包含着道德行动的原则。因此道德的纯洁化是获得真实知识的最好方法。在阐发关于宗教中的理性的主张时，惠奇科特、卡尔弗韦尔和史密斯讲到了这样一些同时代的信仰者，他们否认理性在宗教问题上的作用。相比较而言，卡德沃思和摩尔试图为宗教信仰作辩护，反击不信教者，他们觉得在“哲学的时代”（Seculum Philosophicum）有必要为信仰辩护。但他们又小心翼翼地限定它的作用，以防它与信仰发生冲突。《亨利·摩尔的辩解》（The ApologyofHenryMore，1664)对在宗教中运用理性提出了一系列的规则，坚持认为：辩惑学者应选择“本身可靠、合理、又不与上帝的话语相矛盾的”“哲学原理”。
+注原：哲学原理：More, Apology appended to A Modest Enquiry into the Mystery of Iniquity, London,1664.
+原：每一位剑桥柏拉图主义者对天赋论都有某种阐释，这是他们反对把亚里士多德主义作为神学之哲学基础的一个重要标志。同时，这也许还能在一定程度上解释他们为什么迷恋笛卡尔主义。在卡尔弗韦尔看来，心灵本身具有“清晰的、不可抹去的原则”，正是由于它们，心灵才能认识自然的规律或写在人心中的“完美的法则”(nomosgraphos）。这些原则包括道德原则。但当他承认它们是天赋的时，他无异于否定了它们是“先天的”（即是说在灵魂被创造之时所赐予的）。他认为，这种观点与柏拉图关于灵魂先在的学说是密不可分的。这些天赋观念或原则常被等同于共有的意念。例如，约翰·史密斯把共有的意念称为事先知道的“前提”（praecognita）或刻在灵魂中的“绝对的知识原则”(1.27]，13)。这些“精确的逻各斯”(logoispermatikoi）主要是关于上帝和美德的观念以及数学证明的原则。关于共有的意念的学说本身不能归之于赫伯特的影响，因为它根源于西塞罗，正是由于他，它才成了文艺复兴时期人文主义的一个常识。在《论灵魂的不朽性》(The Immortality of the Soul；伦敦，1657)一书中，沃尔特·查尔顿(Walter Charleton)反对亚里士多德把灵魂当作蜡块的思想，认为“预期的、共有的意念”天赋在心灵之中，这实际上是重复了剑桥柏拉图主义者的说法。查尔顿所说的共有意念主要有关于“运动和形体”以及手段的观念，正是通过它们，心灵在受到外部对象刺激时才能形成关于事物的观念。稍后，在同一本书中，他把这种关于预期的、天赋的观念的学说与笛卡尔的名字联系起来，因为笛卡尔根据心中的上帝观念去证明上帝之存在。尽管如此，剑桥柏拉图主义者确实知道赫伯特关于真理的理论，因为惠奇科特和拉斯特两人引用过他关于真理的理论，而卡德沃思和卡尔弗韦尔是赫伯特的批评者([1.25]，31-36；1.26]，193；[1.10]，160)。
+注原：文主义的一个常识：据信，美兰希顿（Melancthon）在改造神学时，将“共有原则”或“先知”的观念加进了对上帝存在的证明之中。参见J.Platt，Reformed Thought and Scholasticism: Arguments for the Existence of God, 1575—1650, Leiden, 1982.
+注原：成关于事物的观念：Walter Charleton, The Immortality of the Soul, London, 1657, pp. 92-96.
+原：在《获得神的知识的真实的途径或方法》一文中，约翰·史密斯论证说：关于上帝的知识是由于内在的默想而不是外在的默想才成为可能的(1.27])。心灵的天赋知识由于身体而变得模糊不清，因此应该通过关闭感官的眼睛，打开理智的眼睛去获取。当史密斯以这种方式让感官知觉从属于理智时，他坚持的不过是：关于外部世界的知识是来自于宗教信仰的。剑桥柏拉图主义者与当时科学的发展不但不相矛盾，反倒是承认了它们。卡尔弗韦尔在他的《自然之光》（TheLightofNature）一书中，表露了他对弗朗西斯·培根的崇敬之情，而卡德沃思和摩尔在构造一种把文艺复兴关于“古老的神学”(prisca theologia）的观念与随之而来的关于“古老的科学”(prisca scientia) 的观念结合起来的“永恒哲学”(philosophica perennis)的过程中就利用了同时代的自然哲学。从哲学的观点看，剑桥柏拉图主义者中最重要的代表当推拉尔夫·卡德沃思和亨利·摩尔。
+
+# 拉尔夫·卡德沃思
+原：卡德沃思生前所出版的唯一而重要的哲学著作是《宇宙的真实的理智系统》（True Intellectual System of the Universe，1678)。按原计划，该书应是一本更为广泛的著作，但可惜未能如愿，已发表的那一部分只是其中的第一卷。尽管如此，该书第一卷作为独立自足的单元仍有其自己的地位。在卡德沃思逝世后遗留下来的论著中，有两篇论文后来发表了，一是《论永恒不变的德性》（1731），一是《论自由意志》（1838）。对于那些爱好收藏他的作品的人文主义好古者来说，卡德沃思在自然哲学中是很现代的，因为他接受了机械论哲学，当然做了重大修改，他的目的是要保护二元论，并保持与基督教教条的一致。他坚持认为，物质是迟钝的，这一原则赋予物质的“延展的体积”以下述特性，如“可以分解成部分，有形状和位置，与运动或静止结合在一起，但是物体的任何部分不能推动它自己，而总是由别的某物所推动”(1.9，7)。这些属性都可从物质的观念中演绎出来，因此即使不求助于有意向物种的惰性的、非理智的设置以及经院哲学的实体形式，也是可以理解的。既然物质的属性根据定义排除了心灵的作用，因此可以假设：物质的存在中充满着这些属性，而且别的任何东西都不含有非物质实体的存在：“生命和认知，感觉和意识，理性和理智，欲望和意志都不可能来自于大小、形体、位置和运动，因此它们都不能按物质的方式产生和毁灭。”(1.9]，36）正是“这同一个理性原则，曾使古代的自然哲学家变成了原子论者，而且一定还使他们演变成非实体主义者”([1.9]，40)。更有甚者，既然真正的原子论必然承认有能判断事物之是否出现的理智机能，因此这种原子论一定是清除怀疑主义危害的利器（1.91845]，3：544-545）。
+原：《宇宙的真实的理智系统》(True Intellectual System of the Universe,简称《真实的理智系统》）是一部凝聚着渊博古典学识的著作。它用的主要是普遍一致同意（Consensus gentium）这样的论证方式，而这些论证常用来说明古代哲学家中占主导地位的对最高神的信念。就卡德沃思所阐释的古代原子论者的哲学构架而言，该书堪称是一部哲学史。这种古文物研究的目的在很大程度上是要对微粒论者的自然哲学作出辩护，使其免遭无神论的侵害。哲学的根本构想是关于一种永恒哲学（philosophia perennis）的构想，从根本上说，它来自于摩西，并传播到了世界各个民族，在这些地方，它几乎以部分的或不完全的形式重新显露出来。因此《真实的理智系统》预设了哲学的同质性、系统的统一性以及真理的唯一性。真正的哲学把原子论的、机械论的自然哲学与假定精神、上帝存在的形而上学结合起来了。就其纯粹的总体性而言，它曾为毕达哥拉斯所传授，在不完全的意义上又为恩培多克勒（Empedocles）、阿那克萨哥拉（Anaxagoras）、柏拉图和亚里士多德所提倡。衰落开始于形而上学方面、伦理学方面（“神学或圣灵论”）与自然哲学（“原子的或机械的自然哲学”）之间的分裂，根源于柏拉图这样的哲学家对前者的宠爱（可以谅解）。而留基伯、德谟克利特和伊壁鸠鲁都拒绝形而上学的方面，由此又促进了对原始原子机械论的危险的无神论阐释。卡德沃思把镶嵌式原子论的四种歪曲的形式称为四种无神论：原子论的无神论（据此，一切事物都是偶然地发生的），物活论的无神论（源于南普萨科斯的斯特拉托，这一理论把生命赋予物质），物源论的（hylopathian）无神论(根源于阿那克西曼德Anaximander]，根据这一理论，所有事物都来自于作为最高的内在力量存在的物质），宇宙可塑无神论（它蕴涵着世界灵魂这一概念，但又没有假定起主宰作用的心灵）。这些原子论形式在当时都有其支持者：斯宾诺莎把精神的属性授之于物质，从而成了一个物活论者；而霍布斯完全否认精神的存在，当然不否认上帝的存在，因而是一个具有物源论特点的唯物的无神论者。在卡德沃思的评价中，笛卡尔主义的立场似乎有点暖昧不明。在许多方面，卡德沃思似乎明确地赞成笛卡尔主义，但又认为它可与真正的、精神化的机械论相谐并进。他承认，这种机械论包含着自相矛盾，需要他努力加以克服，以确保其权威性。从大的方面来说，卡德沃思对笛卡尔主义的批评是建立在对笛卡尔的意志主义的神学责难和对最终原因的拒斥以及随之而来的哲学结论之上的。笛卡尔在某些方面比古代的异教徒错得更远，因为他不知道设计论证，而且对神在他所描述的有序的宇宙中的作用置若罔闻。
+原：《真实的理智系统》对古代原子论的辩护，主要是诉诸普遍同意以证明对上帝存在的信仰。因此异教徒的多神主义根据和异教徒的哲学根据一样，被认为证明了这样的道理：信仰一个神对于人类来说是再自然也不过的了，即使它是以多神主义这样邪恶的形式表现出来的。卡德沃思关心的不仅是证明上帝之存在，而且要论证关于上帝的真观念。就此而言，他要做的事情不仅涉及了无神论者和哲学家，而且还涉及了基督教的神学家。在卡德沃思的思想中，上帝的观念与宇宙的理性秩序有机地联系在一起了，因而与宇宙的可理解性密切相关。正如关于因果性的决定论思想成了无神论的特征一样，异教徒和基督徒在错误解释神的时候所表现的特征主要在于：错误强调神的意志，拔高神优于其他属性的全能特征。在卡德沃思看来，关于上帝的意志主义概念意味着：神是以任意的方式行动的。结果，就无真理标准可言了，也没有道德的可靠基础，更无对宇宙的天佑治理，因为善、对与错、真与假都取决于上帝的随心所欲的、倏忽即逝的念头。因此意志主义打开了通向怀疑主义的便捷之途。在这里，卡德沃思要强调的是：上帝的善和知识高于它的全能，因为他认为：这根源于上帝是“绝对完善的存在”这一观念。根据这一关于上帝的观念，自然可得出结论说：神的正义和道德的原则不是任意的，而是基于上帝的善和合理性。道德的法则和上帝的天意设计具有显而易见的合理性，由此可以说：人类对其行为一定负有责任。不仅如此，卡德沃思还殚精竭虑地突出神圣的天意，强调上帝在他创造世界时的可见的技艺足以证明他的智慧和善。正是基于这一点，他提出了他关于“塑性自然”(PlasticNature）这一别具一格的学说。从渊源上说，“塑性自然”源于柏拉图的宇宙灵魂，是上帝的一种精神性的动原，亦即上帝管理物理宇宙的主要工具。它是“一种低级的、从属性的工具，任劳任怨地履行神意的下述职责，即让物质有规则……并有序地运动”(1.9]，150)。它的存在意味着：自然不是最高的力量，而是从属于完善心灵的东西。它是这样的中介，上帝借助它把他的恩泽赐予他的造物，同时又让它们体现他的智慧和善，进而使造物成为可理解的。“塑性自然”可与人的技艺相媲美，尽管前者高于后者。卡德沃思在假定“塑性自然”是上帝和世界之间的中介时，为了辩护神圣的天意，他设法在把所有物理现象解释为或然性之结果的机械决定论与承认即使是在日常自然现象的最微妙的细节中也离不开上帝的干预的偶因论之间找到一条出路。决定论是不合理的，同时也是渎神的，因为它的有神论观点尽管承认了神的存在，但它又把神的作用归结为“懒惰的旁观者”的那种作用，从而使神的智慧变成了无用的、无关紧要的东西。事实上，机械论者认作运动规律的东西实际上就是塑性自然使神的目的变成现实的那种作用。而偶因论摒弃了神圣的天意，使之成为“令人厌烦、不安、困惑的东西”，从而为无神论开了方便之门。偶因论的上帝是一种有失尊严的上帝，他必须事无巨细，过问宇宙万物的一切事务。卡德沃思的塑性自然理论作为反击无神论的一个武器，并不能使皮埃尔·培尔满意。培尔认为，它是逍遥派的实体形式学说的死灰复燃，与由神意决定的宇宙观念水火不相容，因为它的意思不过是说：上帝对他所做的事情一无所知。培尔的批评根据的是让·勒克莱尔（Jean Leclerc）译为法文的、发表在“精选图书”（the Bibliothèque choisie，1703—1706) 中的一些论著。
+注原：中的一些论著：Bayle, Oeuvres diverses, 1, pp.216 - 217, 368; 2, pp. 168 - 169. 参 见R. Colie, 1. 45, Chapter 7 and E. Labrousse, Pierre Bayle, 1964, vol. 2, pp. 214-216, 243-245 and footnotes.
+原：如果说卡德沃思的基督教柏拉图主义鲜明地体现在他让善成为神的主要属性这一观点之中，那么他受惠于新柏拉图主义这一点在他的认识论基本原则中也是一目了然的。他的知识论贯穿于他的《真实的理智系统》之中，但系统的阐述却是在《论永恒不变的道德》(A Treatise ConcerningEternal andImmutable Morality）之中。该书的根本目的是驳斥唯物主义的心灵概念和霍布斯的伦理学相对主义。这与他的上帝观念也是紧密相关的。作为其基础的新柏拉图主义主要体现在他关于灵魂（进而心灵）与上帝以及上帝与世界之关系的概念之中。人类心灵不仅反映了神性，而且它的知识能力也是由于它分有神性才得以产生出来的：“最根本的知识就是关于完善存在的知识，这种存在无限地善，威力无比，能自己理解自己。”“神的话语是所有真理的原始模型”，正是“通过分有神的心灵，被造的心灵才能实在地认知”。因此知识是心灵先天就有的，而心灵则像世界的缩影：“心灵和理智似乎是一个清澈透明的球体，或者说是一种意念的世界，它有一些反射的映像，而且其内还有相应的射线或表象，不管怎么说，这个意念世界就存在于真正的、实在的存在世界。”（1.9]，638；试比较1.9]，1845，3：581）因此作出理解在某种意义上就是把所有像观念一样的可知的东西包容进来。共有的意念是心灵之内的事物的“可理解性”或意向经验内的内容（noemata），即某种知识的“种子”，由于被造的理智是上帝心灵的复制性摹本或派生性的概要，因而来自于上帝（1.9]1845]，3：581）。我们可用这种方式得到的真理就是一，就是永恒不变的东西。
+原：作为一切事物的原型，上帝的心灵既先于人类心灵，又先于世界。因此心灵先于事物，而智力先于智力活动（[1.9]，733）。共有的意念是知识的发端（prolepses）或“预兆”。而且，心灵并不是知识的被动的接受器，不管知识是来自于上帝还是来自于外部世界。卡德沃思设想：心灵在获取知识的过程中是能动的，因为灵魂的“认知”能力是“一种从其自身内部提取可理解的观念和概念的力量”（1.918453：572)。因此知识是心灵自身的一种内在的、能动的能量。卡德沃思拒绝把灵魂看作一种被填充的容器(纯粹的心理能力）这样的看法，而赞成把它看作一种心理能动性这样的看法。这也意味着，知识是潜在地呈现于心灵之中的，因为知识“不是像液体那样注入灵魂之中的，而是从灵魂中请出来的或恭敬地抽取出来的；心灵根本不像瓶子那样，总是由外面的东西来填满，也不是被激起或唤醒的”([1.9]1845]，3:582)。
+原：另外，自然世界的摹本特征意味着：它打上了它由之而出的神的观念的印记，就像一座建筑物，其各部分的结构和排列符合于设计师的计划一样。建筑物的设计与一堆砖瓦不可同日而语，它表现的是设计者的心智。
+原：……有智慧的人绝不会说：国家和皇家的宫殿在真实性、实在性、基础性上还不如一堆胡乱堆放在一起的材料；因为毋庸置疑的是，关于它的观念部分是由逻辑的意念构成的，而意念被认为是纯粹意象性的东西；事物的整体、“全体”则完全是固体的物质，而没有这种意念的形式。因为这种逻辑的形式是内在于它之中的智性的潜在印记或标记，因此第一原型就包含于设计师的观念或技艺之中，它们是被带进这样的事物之中的……它与纯粹的污物、垃圾存在着天壤之别，而且正是它，使一幢房屋或宫殿获得其本质。因为它有技艺或智慧，因此它有更多的、内在的实在性。
+原：(1.91845,2:594)
+原：同样，宇宙打上了造物主的印记，因为自然界的秩序与和谐成了这样的图式，正是它们让自然界成为观察性的心灵的可理解的东西。机械论哲学只能“使可感的事物成为可理解的”，因为物质的属性如“大小、形体和运动”都是可理解的原则（[1.91845]，3：545)。
+原：世界上的这种“智性的印记”是感官无法把握的。卡德沃思认为，感知不可能得到知识，因为感官是被动的、不可靠的。他以数学为模型，论证说：知识愈是抽象，就愈逼近真理，“获取科学知识的最好方法是：首先灵魂对外感官的对象进行抽象，然后再返回到自身，这也就是说，它最好是注意它自己的意念和观念”（[1.91845]，3：581)。原子论根本有别于经验哲学，因为原子论是理性战胜感觉的凯歌（1.91845]，3：555）。尽管如此，卡德沃思并不否认感觉一知觉的作用。事实上，感觉一知觉对我们了解外部世界的存在是有用的，离开了它，我们就无法肯定除上帝之外的任何事物是否存在（1.91845]，3：564）。经验主义在卡德沃思的认识论中是有其地位的，但心灵对澄清感觉输人是必不可缺的，因为“心灵的能动的力量将它自己的可理解的观念加之于被动地知觉到的东西之中”。意向经验内的内容对感知所产生的幻觉和感觉（aisthemata）发挥着自已的作用。
+
+# 亨利·摩尔
+原：亨利·摩尔是剑桥柏拉图主义者中最多产的、在卡德沃思的时代也是最著名的人物：他的国际性声誉很大程度上得益于他与笛卡尔的通信联系（即使在今天也是如此）以及用拉丁文出版的《杰作》（Opera omnia，1679)和《神的对话》（DivineDialogues，1668)。这些作品以对话的形式使他的哲学观点得到了广泛的认可，也使他能在他的国家征服同时代的读者。亨利·摩尔的柏拉图主义像拉尔夫·卡德沃思的柏拉图主义一样，是文艺复兴时期折中的、调和性的新柏拉图主义的翻版。他也赞成说：永恒哲学的概念源于摩西/莫斯科斯（Moses/Moschus），不过他把这种哲学称为奥秘教义（cabala)。在后来的岁月里，他对之表现出了浓厚的兴趣（1.69，katz，1.72)。这种哲学观以及他的哲学观点的转换，在《神秘哲学臆解》(Conjectura cabbalistica，1653)一书中得到了最充分的体现。该书对《创世记》第一卷从文字、道德和哲学三个方面做了阐释。这里所说的永恒哲学，就其主要的哲学原则来说，接受了17世纪哲学的某些内容，最明显的是笛卡尔主义，同时它又反对其他人的哲学，尤其是霍布斯主义和斯宾诺莎主义。
+原：在摩尔的早期作品中，他的许多诗歌（1642与1647）是关于灵魂的新柏拉图主义的寓意画卷。在这里，灵魂据说有不朽性、神圣的源泉、先在性，同时还有宇宙的无限性。这些诗不仅表达了他对经院哲学的抗议以及把新柏拉图主义当作他的思想的哲学图式，而且足以表明他了解新的天文学和笛卡尔主义，因为他对《论精神永生》（Psychathanasia）、《德谟克利特的柏拉图主义》（Democritus platonissans）和《哲学家的奉献》（The Philosopher's Devotion） 的评注为在诗歌中利用天文学成果洒下了超前的技术之光。摩尔的第一部散文体哲学论著《驳无神论》（Antidote against A-theism，1653）提出了这样一些在他的思想中居主导地位的论点：精神存在和灵魂不朽。他反对哲学唯物主义的形而上学圣战与他在哲学中反对宗教狂热的圣战是如出一辙的。在后一战斗中，他强调：理性在宗教中具有反对偏执的幻想主义的作用。在这本书中，他主张：在批驳无神论时，要运用这样的论证，它们“是由那些仅仅根据自然之光才有可能的意念组成的”。《论灵魂的不朽性》在阐述各种观点时，模仿了笛卡尔的公理方法，而且还提出了32个公理，据说它们要么是一个一个地推论出来的，要么据设想具有自明的合理性。在《伦理学手册》（Enchiridion ethicum，1667）中，这种方法再一次得到了运用。《形而上学手册》（Enchiridion metaphysicum，1671)一书按计划是要成为一本更大的但从未完成的形而上学著作的导言，它与其说发展了倒不如说重复了下述论点，即在《解构》(Antidote)、《论灵魂的不朽性》以及在致笛卡尔和“V.C.”的书信中所提出的论点。
+原：从他的诗歌开始，直至他的成熟的形而上学作品，摩尔提出和阐述了他用以作为批判机械哲学之基础的圣灵论。他一以贯之地认为，非物质的实体是存在的，而且强调对因果性的精神论解释。在他致笛卡尔的书信和致V.C.（1664）的道歉性书信中，他论证说：非物质的广延性与物质的广延性一样是存在的。他设法劝说笛卡尔接受他在物质广延和非物质广延之间所作的区分：前者是可分的、不可透人的，后者是不可分的、可透人的。在《论灵魂的不朽性》中，摩尔辩护了他的这样的论点：关于精神实体的观念是容易定义的，因为它蕴涵着“自我透入、自动、自我吸引、扩张和不可分”之类的属性。在把精神概念定义为具有广延这样的属性时，他把它们与物质的那些属性对立起来，认为，物质具有可分性（可分解）、不可透人性，而精神是不可分（不可分解）但可透人的。在《论灵魂的不朽性》中，他对自然的精神（principiumhylarchicum）这一最初在他的哲学诗篇中提出的概念作出了最成熟的说明。自然界的精神是摩尔“针对纯机械论关于物质中所有可感变化”的解释所作的一种回应。他认为，它是“一种非物质的实体，但是即令没有感觉和意见，也渗透在宇宙的全部物质之中，在那里，它根据它在各个部分发生作用的各种意向和立场而行使可塑性的作用，进而引起世界上的现象的发生，指导物质的部分及其运动，但是它不能被化解为纯粹的机械力量”（[1.18]，第3卷，第2章，第1节）。作为上帝在物理世界的一种非物质的动因，摩尔哲学中所说的自然的精神与卡德沃思哲学中所说的塑性自然是完全相同的，因为它们都根源于柏拉图所说的世界灵魂，它们都提供了这样一种手段，即使不用近代的机械论或经院学者的实体的形式和隐秘的质，也能据以对自然现象作出解释。在《论灵魂的不朽性》中，摩尔就曾利用这一手段的作用来弥补机械理论解释上的不足，进而说明有光丝带交互感应这样的现象，认为，“它不能分解成任何机械论原则”。在他的《形而上学手册》中，他把自然精神的作用扩展到那些此前被归之于机械原因的一切现象。在非机械原因中，他列举了大量的物理和形而上学现象，如从潮汐运动、磁的吸引力到灵魂的作用以及幽灵现象，最后还有波义耳在《流体静力学教程》(An Hydrostatical Discourse）中所描述的种种实验。摩尔批评了笛卡尔完全根据上帝的观念对上帝之存在所作的论证，认为他未能说明上帝的意志。他批评说：抛弃了终极原因的天赋论就是导致误解上帝甚至不信仰上帝的根源，神被归结为单纯的哲学抽象，充其量是发动运动的初始推力。摩尔还把笛卡尔主义者称为“虚无主义者”，好像也可叫“乌有主义者”，因为他们想证明上帝的存在，但又没有认识到精神实体（包括上帝）是可以延展的，在整个被造世界中都有作用。
+原：摩尔最终走向了《形而上学手册》中所批评的机械论的对立面。这一点不应与下述事实相混淆，这一事实就是：即使摩尔最终反对伊壁鸠鲁之类的无神论原子论者所提倡的各种形式的唯物主义，但为了保持与形而上学的前提条件的一致性，他仍承认：笛卡尔机械论原则是最有用的自然哲学。他视之为当时最糟糕的无神论唯物主义形态就是霍布斯哲学（摩尔对此一贯猛烈抨击，尤其是在《论灵魂的不朽性》中）和斯宾诺莎哲学（在两篇书信体的短论中给予了批判：致V.C.的另一封信包含有对《神学政治论》的短篇批驳文章和对两个命题……驳难的论证AdV.C.Epistola altera，quae brevem Tractatus Theologico Politici confutationem complectitur and Demonstrationum duarum propositionum ... confutatio]；见1.32)。摩尔是在英国倡导笛卡尔主义的第一人（1.41；1.70）；据信，他也是第一个将《方法谈》翻译为英文的英国人，即使这种贡献尚未得到确证。在《驳无神论》一书的前言中，他呼吁应在大学中讲授笛卡尔主义。因为在反对无神论的战斗中，笛卡尔主义最初似乎可看作是一种同盟军。它似乎提出了一种自然哲学的体系，以取代信誉扫地的亚里士多德主义，同时它对上帝之存在也提供了一种极有说服力的天赋论论证。在《驳无神论》一书的序言中，摩尔承认他得益于笛卡尔，但是除了接受本体论论证之外，他又拒绝笛卡尔关于上帝之存在的所有论证，因为本体论论证断言：其他的论证都不可能令无神论者心服口服。在《论灵魂的不朽性》中，摩尔重申他对笛卡尔的敬佩之情，明确指出：霍布斯的唯物主义是他的主要进攻目标。不过，摩尔的笛卡尔主义不是纯粹的笛卡尔主义。尽管他极力推崇笛卡尔主义，但他又始终如一地在那里探索怎样推广笛卡尔主义的形而上学维度（请参阅《论灵魂的不朽性》）。他指出，如果运动作为存在方式仅是物体的一种样式的话，那么主张从一个物体到另一个物体的运动过渡就存在着难题。他论证说：运动只能是由神的影响力而加之于物质的，即是说，“只有当神确实与它接触过，它才会运动（该怎样解释运动呢？只能是……有谁直接地推动了它，或至少曾推动过它；“Quo modo enim motum imprimeret materiae ... nisi proxime quasi attingeret marteriam universi aut saltem aliquando attigisset?")"他对笛卡尔否认真空之存在提出了质疑，并创立了他自己的关于神化空间的概念：一个密封的真空罐子的各个边不会倒塌，不是因为该罐子充满了微细的物质，就像笛卡尔所说明的那样，而是因为它充满了神的延展性（“divinam contendo interiacere extensionem”)。他不赞成笛卡尔关于动物的机械论概念，主张：动物有灵魂。摩尔提出的一切观点绝不是建立在承认自然精神之存在的先验的教条之上的。他探讨过许多领域，而笛卡尔在这些领域要么是完全自相矛盾的，要么似乎没有信心、勇气去清楚地陈述自己的观点，例如摩尔批评笛卡尔片面理解了哥白尼主义，而且未能承认宇宙的无限性。根据笛卡尔自己的论证，旋涡在形状上属圆柱形，天体是长方形的，而非圆形。摩尔对笛卡尔的批评是有启发性的，因为它们使他自己的体系所包含的重要观点更加清楚明白。他的“笛卡尔主义”几乎不是对法国哲学的归附，而是一种使笛卡尔主义同化于摩尔主义的尝试，其鲜明的表现是：他试图把他的永恒哲学中的笛卡尔与《神秘哲学臆解》中的新毕达哥拉斯主义的原子论结合起来。正是在对笛卡尔主义的这种起伏不定的理解的基础上，摩尔建立起了这样一种一以贯之的哲学，它蕴涵着一种有利于他的宗教辩惑学的自然哲学。
+注原：译为英文的英国人：Discourse of a Method for the Well-guiding of Reason, London, 1649. Crocker,[1.72],235.
+注原：tigisset：Oeuvres de Descartes (Publiées par Charles Adam et P. Tannery, nouvelle presentation par B. Rochot, Paris, 1964-1976), vol. 5, p. 236.
+原：摩尔因之而名留史册的学说，就是关于无限空间的思想。它最先是在与笛卡尔的通信中得到讨论的。他不赞成笛卡尔关于广延的观点，反对他对真空的否定和把宇宙的范围看作不确定的看法，他论证说：空间是一种不同于物质的有广延性的实在(res extensa）。物质可在空间中运动。即使所有的物质都消灭了，空间仍会存在。另外，空间不像物质，它是无限的。作为一种非物质的、有广延的实在，空间类似于精神和上帝本身。摩尔认为：上帝就是一种可无限延展的精神。空间的神圣化在《形而上学手册》中达到了极致，在这里，摩尔把空间描述成神的广延性的“一种模糊的影子”，因为空间的属性（不可运动性、无限性、非物质性等）与上帝的大多数特性是不谋而合的。作为非物质广延的空间概念对于摩尔证明精神性实体的存在是至关重要的。因此他的空间概念首先是为了神学的目的而阐发的。尽管如此，摩尔将空间无限化，对17世纪新哲学的概念构架，尤其是对新的科学还是作出了重大的贡献的。在某些重要方面，摩尔开了牛顿的绝对空间概念的先河，即使摩尔对牛顿有无直接影响这一问题仍是悬而未决的（参见霍尔[Hal1]，1.72])。还有论者主张：伴随摩尔的空间概念所出现的圣灵论也许会有科学上的转世，因为摩尔的精神概念对牛顿的力的概念也许是有影响的。
+注原：念也许是有影响的：J. E. McGuire, “Neoplatonism and Active Principles”, in R. S. Westman and J. E. McGuire, Hermeticism and the Scientific Revolution, Los Angeles, 1977.
+原：摩尔本人在经验科学中的远足不完全是幸运的。即使他的诗歌体现了当时科学发展的知识，但他致塞缪尔·哈特利伯（Samuel Hartlib）的信（参见霍尔，1.72以及韦伯斯特Webster]，1.72）则表明：他对当时的经验研究是厌恶的，而倾心于笛卡尔的形而上学数学方法。在《驳无神论》一书的1662年版中以及在《形而上学手册》中，摩尔援引了波义耳在《物理—力学的新实验》(New Experiments Physico-Mechanical；伦敦，1660)中所描述的某些实验，以之证明自然精神的作用。他坚持对这些实验作出精神主义的解释，对此，波义耳在《流体静力学教程》（伦敦，1672）中给予了公开的斥责（亨利Henry]，[1.72]；格林[Greene]，1.72])。为在形而上学研究中利用经验研究方法，摩尔还作出了同样天真的尝试，就是计划搜集关于精灵现象的各种例证。这一计划在今天最容易受到人们的嘲讽。《驳无神论》和《论灵魂的不朽性》两本书都记载了幽灵、鬼魂作祟的种种表现以及巫术的实例。在从事这项工作时，他在约瑟夫·格兰维尔那里找到了支持，后者的《胜利的撒都该主义》（Sadducismus triumphatus，1681）一书正好是精神现象的这样一种汇聚。即使摩尔的经验主义实验受到了广泛批评，但他的这项工程却成了以哲学为基础的宗教圣灵学的组成部分，而宗教圣灵学则可以用摩尔本人所创造的一个格言加以概括：“没有精神就没有上帝。”对于20世纪的思想来说，严肃地主张巫术、鬼怪、幽灵之存在表现出的恰好是一种不可实现的、非理性的神秘学倾向。而在17世纪，这种信念成了逻辑上连贯的思想体系的组成部分。相信邪恶的精神之存在与相信善良的精神之存在不仅是没有矛盾的，而且对于根据精神存在证明上帝存在来说也是必不可少的。更为重要的是，一般承认：地狱的恐怖对于道德的和守法的行为也是必不可少的。从信仰上说，摩尔也不例外。弗朗西斯·培根爵士甚至主张：巫师的种种表现应看作是对奇迹的自然史的一项贡献，而布里尔顿（Brereton）勋爵则认为：皇家学会应研究超自然的现象(库代尔[Coudert]，[1.72])。
+注原：有精神就没有上帝：An Antidote against Atheism , [1. 3], 142.
+
+# 安妮·康韦与约翰·诺里斯
+原：剑桥柏拉图主义者的最重要的遗产是神学方面的，尤其是在那些以宗教自由主义者著称的更为杰出的圣公会信徒中更是如此。即使这些人放弃了剑桥柏拉图主义的新柏拉图主义的理论基础，但是他们的理性辩惑学在约翰·雷（John Ray）那里却可以找到知音。后者的《被造物所体现的神智》(Wisdom of God manifested in the Works of Creation, 1691) —书承认:他本人受惠于卡德沃思和摩尔，而且该书也是以设计论证明为基础的英国式的宗教辩惑学的摹本。从哲学上说，剑桥柏拉图主义在乔治·贝克莱和理查德·普赖斯身上产生了回应。在剑桥柏拉图主义者的哲学上的嫡系弟子之中，特别值得一提的是约翰·诺里斯和安妮·康韦，因为他们两人对新柏拉图主义的各种原则作出了新的阐发。
+原：安妮·康韦（1630？一1679）是亨利·摩尔的学生。她走上哲学道路得益于摩尔的自成一体的笛卡尔主义的引导。在后来的人生征途上，她又受到了哲学一物理学家弗朗西斯·默丘里斯·范·赫尔蒙特（FrancisMercurius van Helmont）的影响。在她逝世后出版的著作《古代和近代哲学原理》(Principia Philosophiae antiquissimae et recentissimae, 1690) 中,她提倡一种一元论的本体论。在这种本体论中，物质和精神都被当作是发源于神的一个实体。她把这种实体的粒子称为单子（monads）。她否认物质和精神的二元对立，断言：我们当作物理对象的东西是由这同一个实体的凝固了的粒子所构成的。这种实体离上帝的完善性越远，它就越粗糙或越有形体性。尽管如此，每一个粒子都能重新获得它的原始的精神纯洁性：“即使是最卑劣、最不值一顾的造物，如灰尘和沙子，也能获得各种完善性，如经过各种各样的、替换性的、从一个向另一个的形变就能如此。”(1.5]，225）她把广延分成两类，即“物质的和虚拟的（virtual）”，后者是物体的“内在的运动”或活生生的力量，这种力量可以借助她比作繁殖过程的东西而生机勃勃地、非机械地从一种物体转变为另一种物体。在她的论证过程中，她批判了笛卡尔和摩尔的二元论以及霍布斯、斯宾诺莎的唯物主义，主张应对因果关系作出比摩尔的自然精神解释更加广泛的生机论解释。
+注原：的影响：See vol. IV, ch.1.
+原：约翰·诺里斯体现了剑桥柏拉图主义的另一种发展方向。他是摩尔的崇拜者。他们之间的简短的通信即《哲学和道德书信集》附在他的《爱的理论与规则》（The Theory and Regulation of Love，1688）之后发表了。他的剑桥柏拉图主义倾向决定了他容易接受马勒伯朗士哲学的影响，事实上，他最终成了马勒伯朗士在英国的最著名倡导者（1.76]，1.77]，[1.78])。诺里斯本人并不认为，他在哲学观点上发生重大变化乃是因为他接触到了马勒伯朗士的哲学。应该肯定，在他的早期作品中，他论证了理想世界的存在，认为只有上帝才是知识的严格的对象。马勒伯朗士的影响在《爱的理论与规则》一书中表现得十分明显。在书中，他把爱定义为“灵魂之向善的运动”，而且把上帝理解为普遍的善。他区分了两类爱，即对上帝的爱和对事物的爱。前者不可抗拒地控制着我们的意志的方向。对被造物的爱是从对上帝的爱中派生出来的，但又能受意志支配而指向它的对象。《理性与宗教》(Reason and Religion，1689)一书阐释了马勒伯朗士所主张的在上帝中感知一切事物的理论。《人类生活指导方式之反思》(Reflections on the Conduct of Human Life，1689) 采用了马勒伯朗士的指导心灵、寻求真理的规则。正是在这样的柏拉图主义一马勒伯朗士式的唯心主义基础之上，诺里斯对洛克的《人类理解论》进行了批判，完成了他的著作《对被称之为〈人类理解论〉的著作的初步反思》（Cursory Reflections upon a Book Call'd an Essay Concerning Human Understanding)。作为《基督天恩》(Christian Blessedness，1690)一书的增补，这本书认为：“洛克的任务在于说明关于上帝的观念是通过我们的感觉而得到的，而且由可感对象派生出来。”（同上，p.30）马勒伯朗士对诺里斯的影响在《论理想或可理解世界的理论》(An Essay towards the Theory of the Ideal or Intelligible World, 1701）中得到了充分的发展，该书的本意是写成一部阐述柏拉图的形而上学的著作。在这里，他试图证明理想世界的存在，认为这个世界由必然存在的实在构成，这些实在可看作是自然世界的可理解的原型。它是“真理的世界，是外部世界的榜样和模型”([1.22]，p.9)。物质的自然是根据理想世界的原型计划复制出来的，但又是偶然的、可运动的。而理想的世界是“必然的、永恒的、不能运动的，不仅先于这个世界]而存在，而且是它的样板和典范，因为它显然包含于其中，经过一种合理的方式，一切都存在于这个自然界之中。这个自然界根据理想世界而被创造出来，而且这个理想世界的自然的一切真理、实在、秩序、美和完善性都是按照它而形成的，同时还应按照它而加以评估”([1.22]，8)。物质世界是神的一种不完善的反映，不能直接地或确切地被认知。只有作为“上帝的齐一的本质”的理想世界才能真正被知道。我们关于物理自然的概念来自于我们在上帝之中对一切的观看（seeing），而不是来自于对自然物体的感性知觉。因此经过诺里斯的变换，剑桥柏拉图主义可以说是以英国式的马勒伯朗士主义的形式在18世纪安享余生。
+注原：伯朗士哲学的影响：See vol. IV, ch. 10.
+
+# 参考文献
+原：原文版本
+原：(i)全集和选集
+原：1. 1 The Cambridge Platonists , ed. C. A. Patrides, London, Arnold, 1969.
+原：1.2 Cudworth, Ralph, Collected Works of Ralph Cudworth, ed. B. Fabian, Hildesheim and New York, Olms, 1977.
+原：1.3 More, Henry, A Collection of Several Philosophical Writings, London, 1662.
+原：1. 4 Philosophical Writings of Henry More, ed. F. L. MacKinnon, New York, Oxford University Press, 1925 (repr. 1969).
+原：(ii)单行本
+原：1. 5 Conway, Anne, Principia philosophiae antiquissimae et recentissimae , Amsterdam,1690.
+原：1.6 The Conway Letters Correspondence of Anne Viscountess Conway, Henry More, and their friends, 1642—1684, ed. M. H. Nicolson, rev. S. Hutton, Oxford, Oxford University Press, 1992.
+原：1.7 Cudworth, Ralph, A Treatise of Freewill, ed. J. Allen, London, 1838.
+原：1.8 —A Treatise Concerning Eternal and Immutable Morality, London, 1731.
+原：1.9 -The True Intellectual System of the Universe, London, 1678 (facsimile reprint, Stuttgart-Bad Cannstatt, 1964); edition with notes from J. L. Mosheim's 1733 Latin edition, London 1845; trans. (abbreviated version) Thomas Wise, London, 1706).
+原：1. 10 Culverwell, Nathaniel, An Elegant and Learned Discourse of the Light of Nature, London, 1652 (modern edition ed. R. A. Greene and H. McCallum, Toronto, University of Toronto Press, 1971).
+原：1. 11 Herbert of Cherbuy, Edward, De veritate prout distinguitur a revelatione, a verismili, a possibili, et a falso, Paris, 1624 (2nd edn, London, 1633).
+原：1.12 —De veritate... cui operi additi sunt duo alii tractatus : primus de causis errorum : alter, de religione laici, London, 1645.
+原：1. 13 More, Henry, An Antidote against Atheism, London, 1652.
+原：1.14 -Divine Dialogues , London, 1668.
+原：1.15 Enchiridion ethicum, London, 1667.
+原：1.16 —Enchiridion Metaphysicum, London, 1671.
+原：1.17 -Epistola H. Mori ad V.C. quo complectitur apologia pro Cartesio, quaeque introductionis loco esse poterit ad universam philosophiam cartesianam, Cambridge, 1664.
+原：1.18 —The Immortality of the Soul , London, 1659.
+原：1.19 [Letters]: A. Gabbey, Anne Conway et Henry More. Lettres sur Descartes (1650—1651), Archives de Philosophie 40 (1977): 379-404.
+原：1.20 [Letters]: C. Clerselier, Lettres de Mr. Descartes, Paris 1657—1659.(Vol. 1 contains the More Descartes correspondence reprinted in Oeuvres de Descartes , ed. C. Adam and P. Tannery, nouvelle présentation by B. Rochot, Paris, Vrin, 1957—1958, vol.5.)
+原：1.21 Philosophical Poems, Cambridge, 1647. Collected edition of poems previously published as follows: Psychodia platonica (Cambridge, 1642); Democritus Platonissans (Cambridge, 1645).
+原：1.22 Norris, John, An Essay towards the Theory of the Ideal or Intelligible World, London, 1701—1704 (repr., Hildesheim, 1974; New York, Olms, 1978).
+原：1.23 —The Theory and Regulation of Love, a Moral Essay, Oxford, 1688.
+原：1.24 ——A Philosophical Discourse concerning the Natural Immortality of the Soul, London, 1708.
+原：1. 25 Rust, George, A Discourse of Truth, London, 1677.
+原：1.26 A Discourse of the Use of Reason in Matters of Religion , London, 1683.
+原：1. 27 Smith, John, Select Discourses, ed. R. Worthington, London, 1660.
+原：1. 28 Sterry, Peter, A Discourse of the Freedom of the Will, London, 1675.
+原：1. 29 Whichcote, Benjamin, Moral and Religious Aphorisms, London, 1703.
+原：1.30 —Select Notions, London, 1685.
+原：1.31 Select Sermons , London, 1694.
+原：翻译作品
+原：(i)全集和选集
+原：1. 32 More, Henry, H. Mori Cantabrigiensis opera omnia, London, 1675—1679.
+原：(ii)单行本
+原：1. 33 Conway, Anne, The Principles of the Most Ancient and Modern philosophy, London, 1692 (modern edition by P. Loptson, The Hague, Nijhoff, 1982).
+原：1. 34 Herbert of Cherbury, Edward De veritate, trans. M. H. Carré, Bristol, J. W. Arrowsmith, 1937.
+原：1.35 —De religione laici, ed. and trans. H. R. Hutcheson, New Haven, Conn, Yale University Press, 1944.
+原：书目索引
+原：1. 36 Crocker, R. “A Bibliography of Henry More", in 1. 72.
+原：1. 37 Pailin, D. S. “Herbert von Cherbury", Ueberwegs Grundriss der Geschichte der Philosophie: die Philosophie des 17. Jahrhunderts, Basle, Schwabe &. Co. , 1988, vol.3,pp.223-224, 284-285.
+原：1. 38 Rogers, G. A. J. “Die Cambridge Platoniker", Ueberwegs Grundriss der Geschichte der Philosophie : die Philosophie des 17. Jahrhunderts, Basle, Schwabe & Co. , 1988,vol.3,pp.240-248,285-290.
+原：关于剑桥柏拉图主义者和赫伯特勋爵的背景与影响
+原：1. 39 Mintz, S. The Hunting of Leviathan: Seventeenth-century Reactions to the Materialism and Moral Philosophy of Thomas Hobbes, Cambridge, Cambridge University Press,1962.
+原：1. 40 Nicolson, M. H. “The Early Stages of Cartesianism in England" Studies in Philology 26 (1929): 35-53.
+原：1. 41 Pacchi, A. Cartesio in Inghilterra, da more a Boyle, Bari, Laterza, 1973.
+原：1. 42 Popkin, R. H. The History of Scepticism from Erasmus to Spinoza, Berkeley, University of California Press, 1979.
+原：1. 43 Rossi, M. M. Alle fonti del deismo e del materialismo moderno, Florence, 1942.
+原：对剑桥柏拉图主义者的一般性考察
+原：1. 44 Cassirer, E. The Platonic Renaissance in England , trans. J. P. Pettigrove, Edinburgh, Nelson, 1953.
+原：1. 45 Colie, R., Light and Enlightenment, Cambridge, Cambridge University Press, 1957.
+原：1. 46 Lamprecht, S. P. “Innate Ideas in the Cambridge Platonists", The Philosophical Review 35 (1926): 553-573.
+原：1. 47 Rogers, G. A. J. “Die Cambridge Platoniker” Ueberwegs Grundriss der Geschichte der Philosophie: die Philosophie des 17. Jahrhunderts, Basle, Schwabe &. Co. , 1988, vol.3, pp.240-282.
+原：1. 48 Saveson, J. E. "Differing Reactions to Descartes among the Cambridge Platonists", Journal of the History of Ideas 21 (1960): 560-567.
+原：1. 49 Stewart, J. A. “The Cambridge Platonists," The Encyclopaedia of Religion and Ethics 3 (1911): 167-173.
+原：对赫伯特和剑桥柏拉图主义者的研究
+原：Conway
+原：1. 50 Brown. S. “Leibniz and More's Cabbalistic Circle”, in 1. 72.
+原：1. 51 Merchant, C. The Death of Nature, San Francisco, Harper Row, 1980.
+原：1. 52 Popkin, R. H. “The Spiritualistic World of Anne Conway and Henry More”, in Hutton, [1. 72].
+原：1. 53 Walker, D. P. The Decline of Hell, London, Routledge, 1964.
+原：Cudworth
+原：1. 54 Aspelin, G. "Ralph Cudworth's Interpretation of Greek Philosophy. A Study in the History of English Philosophical Ideas", Gôtborgs Hôgskolas Arsskrift, 49 (1943).
+原：1. 55 Carré, M H. “Ralph Cudworth", Philosophical Quarterly 3 (1953): 342-351.
+原：1. 56 Gregory, T. “Studi sull'atomismo del seicento, IⅢ Cudworth e l'atomismo", Giornale critico della filosofia italiana 46 (1967): 528-541.
+原：1. 57 Hunter, W. B. “The Seventeenth-century Doctrine of Plastic Nature" Harvard Theological Review, 43 (1950): 197-213.
+原：1. 58 Sailor, D. B. “Cudworth and Descartes", Journal of the History of Ideas 23(1962):133-140.
+原：Herbert
+原：1. 59 Bedford, R. D. Herbert of Cherbury and The Seventeenth Century, Manchester University Press, 1979.
+原：1. 60 Fordyce, C. J. and T. M. Knox “The Books Bequeathed to Jesus College Library, Oxford, by Lord Herbert of Cherbury", Proceedings and Papers of the Oxford Bibliographical Society 5 (1936—1939).
+原：1. 61 Hutcheson, H. R. “Lord Herbert and the Deists", Journal of Philosophy 43(1946):219-221.
+原：1. 62 Lagrée, J. Introduction to Le salut du laic. sur Herbert de Cherbury. Étude et traduction du De religione laici, Paris, Vrin, 1989.
+原：1. 63 Pailin, D. A. "Herbert of Cherbury and the Deists", The Expository Times 94(1983):196-200.
+原：1.64 “Herbert von Cherbury”, Ueberwegs Grundriss der Geschichte der Philosophie: die Pbilosophie des 17. Jahrhunderts, Basle, Schwabe & Co. , 1988, vol. 3, pp.223-229.
+原：1. 65 Rossi, M. M. La vita, le opere, i tempi di Edoardo Herbert di Cherbury, Florence, Sansoni, 1947.
+原：1. 66 Sorley, W. R. “The Philosophy of Lord Herbert of Cherbury" Mind n. s. 3(1894):491-508.
+原：1. 67 Walker, D. P “Edward Lord Herbert of Cherbury and Christian Apologetics”, in The Ancient Theology, London, Duckworth, 1972.
+原：More
+原：1. 68 Copenhaver, B. P. “Jewish Theologies of Space in the Scientific Revolution: Henry More, Joseph Raphson, Isaac Newton and their Predecessors", Annals of Science 37(1980)489-548.
+原：1. 69 Coudert, A. “A Cambridge Platonist's Kabbalist Nightmare", Journal of the History of Ideas 36 (1975): 633-652.
+原：1. 70 Gabbey, A. “Philosophia cartesiana triumphata: Henry More, 1646—1671”, in T. M. Lennon et al. (eds) Problems in Cartesianism, Kingston and Montreal, Queens McGill, 1982.
+原：1. 71 Greene, R. A. “Henry More and Robert Boyle on the Spirit of Nature", Journal of the History of Ideas 23 (1962): 451-474.
+原：1.72 Hutton, S. (ed.) Henry More, 1614—1687. Tercentenary Studies, Dordrecht, Kluwer, 1990.
+原：1. 73 Koyré, A. From the Closed World to the Infinite Universe, Baltimore, Johns Hopkins University Press, 1957.
+原：1. 74 Power, J. E. “Henry More and Isaac Newton on Absolute Space", Journal of the History of Ideas 31 (1970): 289-296.
+原：1. 75 Webster, C. “Henry More and Descartes, some New Sources", British Journal for the History of Science 4 (1969): 359-377.
+原：Norris
+原：1. 76 Acworth, R. "Malebranche and his Heirs", Journal of the History of Ideas 38(1977):673-676.
+原：1.77 ——The Philosophy of John Norris of Bemerton (1657—1712), Hildesheim, Olms, 1979.
+原：1. 78 McCracken, C. J. Malebranche and British Philosophy, Oxford, Clarendon Press, 1983.
+原：Smith
+原：1. 79 Micheletti, M. Il pensiero religioso di John Smith, platonico di Cambridge, Padua, La Garangola, 1976.
+原：1. 80 Saveson, J. E. “Descartes' Influence on John Smith", Journal of the History of Ideas 20 (1959): 258-263.
+原：Sty
+原：1.81 de Sola Pinto, V. Peter Sterry, Platonist and Puritan 1613—1672, Cambridge, Cambridge University Press, 1934.
+原：Whichcote
+原：1. 82 Green, R. A. “Whichcote, the Candle of the lord and Synderesis". Journal of the History of Ideas 52 (1991). 617-644.
+原：投
+原：心
+原：兴
