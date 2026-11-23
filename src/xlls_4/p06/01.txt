@@ -1,0 +1,19 @@
+# 符号说明
+原：() indicate an explanatory addition to the text.
+原：[] enclose letters or words that no longer stand in the text as it survives, but have been restored by modern scholars.
+原：<> enclose letters or words thought to have been accidentally omitted on the original document.
+原：[[ ]] enclose letters or words that were deliberately erased in ancient times.
+原：{} enclose apparently superfluous letters or words.
+原：indicates the end of a line in an inscription.
+原：一=* indicate the beginning of every fifth line in an inscription.
+原：indicates the end of a line of verse.
+原：indicate the beginning of every fifth line of verse.
+原：indicates the text on which the translation of an inscription or papyrus here given is based.
+原：v indicates a vacant letterspace on the original document.
+原：vv indicate that there is more than one letterspace vacant on the original document.
+原：vacat indicates that an entire line or a space between entire lines was left vacant.
+原：LACUNA indicates that a portion of the document is missing.
+原：Italics indicate that only a part of the original word is extant on the document.
+
+# Spelling
+原：Most of the personal and place names are transliterated directly. However, the names of Greek and Roman authors as wellas individuals are given in their familiar English or Latin spelling, and certain place names, more familiar to readers in a Latin spelling, are retained in that spelling, regardless of the language of the document. Latin names will regularly appear in their Latin spelling for the same reason, but the more unusual Greek names will be transliterated. To manyAetolia' is more familiar than 'Aitolia', while'Cibyra' would be no more enlighteningthan 'Kibyra'. Still, I have not followed a rigid set of rules.

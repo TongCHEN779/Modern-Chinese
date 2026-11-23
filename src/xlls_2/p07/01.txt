@@ -1,0 +1,18 @@
+# 符号说明
+原：()　indicatean explanatory addition to the text
+原：j　enclose letters or words that no longer stand in the text as it survives, but have been restored by modern scholars
+原：encloseletters or words thought to have been accidentally omitted on the original document
+原：[11]　enclose letters or words that were deliberately erased in ancient times
+原：indicate that part of a line of the text is missing
+原：indicate that a whole line of the textis missing
+原：indicates the endof a lineon an inscription
+原：indicate the beginning of every fifth line on an inscription
+原：indicates the end of a line of verse
+原：indicate the beginning of every fifth line of verse
+原：indicates the text on which the translation of an inscription here given is based
+原：v　indicates a vacant letter space on the original document
+原：vu　indicate that there is more than one letterspace vacant on the original document
+原：vacat　indicates that an entire line or a space between entire lines was left vacant
+原：(lacuna)　indicates that a portion of the document is missing
+原：Italics　indicate that only a part of the original word is extant on the document
+原：In the transliteration of numerals, the practice followed has been to use Arabic numerals when Greek numerals were used and to use words when the Greek numerals were written out. Deme names (demotics) customarily appear in the Greek in adjectival form (e.g. Aristophon Azenieus), but I give instead the place name with of (of Azenia). For the identification of the demes and the tribes to which they belong the student should consult J.S. Traill, The Political Organization of Attica (Princeton 1975)109–12.

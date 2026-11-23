@@ -1,0 +1,7 @@
+(function(){var D=[["l","p01.html","份外附言"],["g","诗"],["l","p02.html","诗"],["g","散文"],["l","p03.html","译阿左林小品之夜"],["l","p04.html","尺八夜"],["l","p05.html","「不如归去」谈"],["l","p06.html","成长"],["l","p07.html","煤窑探胜"],["l","p08.html","惊弦记：论乐"],["l","p09.html","窗子内外：忆林徽因"],["l","p10.html","漏室鸣"],["l","p11.html","洗星海纪念附骥小识"],["l","p12.html","题王奉梅演唱《题曲》"],["g","小说"],["l","p13.html","夜正深"],["l","p14.html","海与泡沫"],["l","p15.html","野猪田"],["g","评论"],["l","p16.html","谈诗歌的格律问题"],["l","p17.html","《高加索灰阑记》的中心思想和艺术风格"],["l","p18.html","徐志摩诗重读志感"],["l","p19.html","《戴望舒诗集》序"],["l","p20.html","答《文学报》黎焕颐约谈新诗信"],["l","p21.html","了与不了：莎士比亚悲剧研究纪程"],["l","p22.html","翻译对于中国现代诗的功过"],["l","p23.html","何其芳与诗派"],["g","资料部份"],["l","p24.html","卞之琳论"],["l","p25.html","诗的艺术（选段）"],["l","p26.html","圆宝盒的神话"],["l","p27.html","精微与冷隽的闪光"],["l","p28.html","卞之琳《断章》诗的联想"],["l","p29.html","卞之琳的《断章》为何耐读"],["l","p30.html","诗与哲学"],["l","p31.html","卞之琳年表简编"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();

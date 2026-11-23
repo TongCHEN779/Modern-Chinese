@@ -1,0 +1,7 @@
+(function(){var D=[["l","p01.html","序"],["g","小说"],["l","p02.html","卖饼人"],["l","p03.html","雪后"],["l","p04.html","湖中的夜月"],["l","p05.html","沉思"],["l","p06.html","春雨之夜"],["l","p07.html","警钟守"],["l","p08.html","湖畔儿语"],["l","p09.html","生与死的一行列"],["l","p10.html","沉船"],["l","p11.html","记忆的秘密"],["l","p12.html","五十元"],["l","p13.html","父子"],["l","p14.html","“华亭鹤”"],["l","p15.html","打醮的故事"],["l","p16.html","“小天分人”的生与死"],["l","p17.html","灰脊大衣"],["g","散文"],["l","p18.html","“血梯”"],["l","p19.html","烈风雷雨"],["l","p20.html","老人"],["l","p21.html","风的诅咒"],["l","p22.html","青岛素描"],["l","p23.html","林语"],["l","p24.html","悼志摩"],["l","p25.html","噩耗"],["l","p26.html","乡人一夕话"],["l","p27.html","听潮梦语（选四章）"],["l","p28.html","芦沟晓月"],["l","p29.html","繁辞集（选七章）"],["l","p30.html","荆棘与荆冠"],["l","p31.html","“水就变成血了”"],["g","资料部分"],["l","p32.html","我读小说与写小说的经过"],["l","p33.html","《春雨之夜》序"],["l","p34.html","淳朴的性格 凝炼的风格"],["l","p35.html","王统照简论"],["l","p36.html","王统照年表"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();

@@ -1,0 +1,7 @@
+(function(){var D=[["l","p01.html","前言"],["l","p02.html","我怎样与文学发生关系"],["l","p03.html","好消息"],["l","p04.html","殇儿记"],["l","p05.html","玉衣"],["l","p06.html","夜雨飘流的回忆"],["l","p07.html","鬼"],["l","p08.html","病中日记"],["l","p09.html","行军掉队记"],["l","p10.html","行军散记"],["l","p11.html","流亡"],["l","p12.html","夜的行进曲"],["l","p13.html","感想·意见·回忆"],["l","p14.html","还乡杂记"],["l","p15.html","岳阳楼"],["l","p16.html","古渡头"],["l","p17.html","南行杂记"],["l","p18.html","插田"],["l","p19.html","长江轮上"],["l","p20.html","致张天翼书"],["l","p21.html","我为什么不多写"],["l","p22.html","我们需要小品文和漫画"],["l","p23.html","爱伦凯与柯仑泰"],["l","p24.html","忆家煌"],["l","p25.html","关于《天下太平》"],["l","p26.html","“手续费”与“刀手费”"],["l","p27.html","从这庞杂的文坛说到我们这刊物"],["l","p28.html","国防文学的随感二则"],["l","p29.html","《星》后记"],["l","p30.html","痛苦的感想"],["l","p31.html","致许广平信"],["l","p32.html","回到乡村"],["l","p33.html","读《丰饶的城塔什干》"],["l","p34.html","《丰收》自序"],["l","p35.html","《丰收》后记"],["l","p36.html","《丰收》四版的话"],["l","p37.html","悼高尔基"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();

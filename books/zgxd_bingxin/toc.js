@@ -1,0 +1,7 @@
+(function(){var D=[["l","p01.html","自序"],["g","小说"],["l","p02.html","两个家庭"],["l","p03.html","斯人独憔悴"],["l","p04.html","超人"],["l","p05.html","寂寞"],["l","p06.html","六一姊"],["l","p07.html","姑姑"],["l","p08.html","我们太太的客厅"],["l","p09.html","分"],["l","p10.html","西风"],["l","p11.html","相片"],["l","p12.html","我的同班"],["l","p13.html","张嫂"],["g","诗歌"],["l","p14.html","诗的女神"],["l","p15.html","繁星"],["l","p16.html","春水"],["l","p17.html","假如我是个作家"],["l","p18.html","玫瑰的荫下"],["l","p19.html","不忘"],["l","p20.html","乡愁"],["l","p21.html","我爱，归来罢，我爱！"],["l","p22.html","一句话"],["l","p23.html","别踩了这朵花"],["l","p24.html","雨后"],["g","散文"],["l","p25.html","晨报……学生……劳动者"],["l","p26.html","笑"],["l","p27.html","往事"],["l","p28.html","往事（二）"],["l","p29.html","梦"],["l","p30.html","寄小读者"],["l","p31.html","南归"],["l","p32.html","新年试笔（一九三四年）"],["l","p33.html","默庐试笔"],["l","p34.html","我的童年"],["l","p35.html","樱花赞"],["g","资料部分"],["l","p36.html","冰心论"],["l","p37.html","漫谈冰心的创作"],["l","p38.html","冰心年表简编"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();

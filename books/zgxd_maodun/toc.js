@@ -1,0 +1,7 @@
+(function(){var D=[["l","p01.html","略谈雁冰兄的文学工作（代序）"],["g","作品部分"],["l","p02.html","创造"],["l","p03.html","小巫"],["l","p04.html","林家铺子"],["l","p05.html","春蚕"],["l","p06.html","神的灭亡"],["l","p07.html","大泽乡"],["l","p08.html","豹子头林冲"],["l","p09.html","儿子开会去了"],["l","p10.html","委屈"],["l","p11.html","卖豆腐的哨子"],["l","p12.html","香市"],["l","p13.html","桑树"],["l","p14.html","雷雨前"],["l","p15.html","黄昏"],["l","p16.html","沙滩上的脚迹"],["l","p17.html","阿四的故事"],["l","p18.html","交易所速写"],["l","p19.html","炮火的洗礼"],["l","p20.html","白杨礼赞"],["l","p21.html","雨天杂写之二"],["l","p22.html","秦岭之夜"],["l","p23.html","“雾重庆”拾零"],["l","p24.html","为《亲人们》"],["l","p25.html","时间，换取了什么？"],["l","p26.html","不能忘记的一面之识"],["l","p27.html","忆冼星海"],["l","p28.html","萧红的小说——《呼兰河传》"],["l","p29.html","回忆之一页"],["l","p30.html","海南杂忆"],["l","p31.html","可爱的故乡"],["l","p32.html","我怎样写《春蚕》"],["l","p33.html","外文版《茅盾选集》序"],["l","p34.html","创作生涯的开始"],["g","资料部分"],["l","p35.html","茅盾——中国新文学的巨匠"],["l","p36.html","茅盾著译简表"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();

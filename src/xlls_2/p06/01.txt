@@ -1,0 +1,88 @@
+# 缩写说明
+原：AA　Archäologischer Anzeiger
+原：ABSA　Annual of the British School at Athens
+原：AC　L’Antiquité Classique
+原：AClass　Acta Classica
+原：AHR　American Historical Review
+原：AJA　American Journal of Archoeology
+原：AJAH　American Journalof Ancient History
+原：AJP　American Journal of Philology
+原：Anc Soc　Ancient Society
+原：Accame, Lega　S. Accame, La lega ateniese (Rome 1941)
+原：BCH　Bulletin de Correspondance Hellénique
+原：Bruce, Commentary　I.A.F. Bruce, An Historical Commentary on the Hellenica Oxyrhynchia (Cambridge1967)
+原：Buck　Carl D. Buck, The Greek Dialects (Chicago1955)
+原：Buckler, Hegemony　J. Buckler, The Theban Hegemony (Harvard1980)
+原：Bury-Meiggs　J.B. Bury, A History of Greece, 4th ed. by R. Meiggs (London 1975)
+原：C&M　Classica et Mediaevalia
+原：CAH　The Cambridge Ancient History (Cambridge1923–9)
+原：CP　Classical Philology
+原：CQ　Classical Quarterly
+原：CR　Classical Review
+原：CSCA　California Studiesin Classical Antiquity
+原：Cargill, League　J.Cargill, The Second Athenian League (Berkeley, Los Angeles and London1981)
+原：Cawkwell, Philip　G.L. Cawkwell, Philip of Macedon (London and Boston 1978)
+原：Cloché, Dislocation　P. Cloché, La dislocation d’un empire (Paris1959)
+原：Davies, Families　J.K. Davies, Athenian Propertied Families 600–300 B.C. (Oxford 1971)
+原：Didymus, Demosthenes　Didymi de Demosthene commenta, ed. H. Diels and W. Schubart (Leipzig1904)
+原：Ehrenberg Studies　Ancient Society and Institutions: Studies Presented to Victor Ehrenberg (Oxford1966)
+原：Ellis, Philip II　J.R.Ellis, Philip IIand Macedonian Imperialism (London 1976)
+原：Ferguson, Athens　W.S.Ferguson, Hellenistic Athens (London1911)
+原：FGrHist　F. Jacoby, Die Fragmente der griechischen Historiker (Berlin and Leiden 1923–)
+原：Fornara　C.W. Fornara, Archaic Times to the End of the Peloponnesian War (Cambridge 1982)
+原：GHI　R. Meiggs and D.M. Lewis, A Selection of Greek Historical Inscriptions to the End of the Fifth Century B.C. (Oxford 1969)
+原：GRBS　Greek, Roman and Byzantine Studies
+原：Hamilton, Alexander　J.R.Hamilton, Alexander the Great (London 1973)
+原：Hamilton, Sparta　C.D. Hamilton, Sparta'sBitter Victories (Cornell 1979)
+原：Hammond-Griffith　N.G.L. Hammond and G.T.Griffith, A History of Macedonia, vol. 2 (Oxford 1979)
+原：Heisserer, Alexander　A.J. Heisserer, Alexander the Great and the Greeks (Norman 1980)
+原：Hell. Oxy.　Hellenica Oxyrhynchia, ed.V.Bartoletti (Teubner edn, 1959)
+原：Henry, Prescripts　A.S. Henry, The Prescripts of Athenian Decrees (Leiden1977)
+原：IG　Inscriptiones Graecae (Berlin1873–)
+原：IOSPE　Inscriptiones Antiquae Orae Septentrionalis Ponti Euxini Graecae et Latinae, ed.B. Latyschev (StPetersburg1885–1916)
+原：ISE　L.Moretti, Iscrizioni storiche ellenistiche, vol. 1 (Florence 1967)
+原：JHS　Journal of Hellenic Studies
+原：Larsen, Government　J.A.O. Larsen, Representative Government in Greek and Roman History (Berkeley and Los Angeles 1966)
+原：Larsen, States　J.A.O. Larsen, Greek Federal States (Oxford 1968)
+原：MDAI(A)　Mitteilungen des Deutschen Archäologischen Instituts (Athenische Abteilung)
+原：MH　Museum Helveticum
+原：MacDowell, Law　D.M. MacDowell, The Law in Classical Athens (London 1978)
+原：Maier, Mauerbauinschriften　F.G. Maier, Griechische Mauerbauinschriften (Heidelberg1959)
+原：Marshall, Confederacy　F.H. Marshall, The Second Athenian Confederacy (Cambridge 1905)
+原：Mitchel, Athens’　F.W.Mitchel, Lykourgan Athens:338–322’, in Lectures in Memory of Louise Taft Semple, 2nd series (Cincinnati 1973)
+原：NC　Numismatic Chronicle
+原：OCD　The Oxford Classical Dictionary2 (Oxford 1970)
+原：PCPS　Proceedings of the Cambridge Philological Society
+原：PP　La Parola del Passato
+原：Parke, Soldiers　H.W.Parke, Greek Mercenary Soldiers (Oxford1933)
+原：Parke-Wormell　H.W. Parke and D.E.W. Wormell, The Delphic Oracle, 2 vols. (Oxford 1956)
+原：Pečiřka, Enktesis　J. Pečiíka, The Formula for the Grant of Enktesis in Attic Inscriptions (Prague1966)
+原：Pouilloux, Choix　J. Pouilloux, Choix d’inscriptions grecques (Paris 1960)
+原：P.Oxy.　Oxyrhynchus Papyri: Memoirs of the Egypt Exploration Fund, Graeco-Roman Branch, vol. 1-(London1898–)
+原：Pritchett, State 2　W.K. Pritchett, The Greek State at War, vol. 2(Berkeley and Los Angeles1974)
+原：RA　Revue Archéologique
+原：RCHP　C.B. Welles, Royal Correspondence in the Hellenistic Period (New Haven 1934)
+原：REA　Revue des Études Anciennes
+原：REG　Revue des Études Grecques
+原：RFIC　Rivista di Filologia et di Istruzione Classica
+原：RhM　Rheinisches Museum
+原：RPh　Revue de Philologie
+原：Rhodes, Boule　P.J. Rhodes, The Athenian Boule (Oxford 1972)
+原：Rhodes, Commentary　P.J. Rhodes, A Commentary on the Aristotelian Athenaion Politeia (Oxford1981)
+原：Roesch, Thespies　P.Roesch, Thespies et laconfédération béotienne (Paris1965)
+原：RSA　Rivista storica dell'Antichità
+原：RSI　Rivista storica italiana
+原：Ryder, Eirene　T.T.B. Ryder, Koine Eirene (Oxford1965)
+原：SEG　Supplementum Epigraphicum Graecum
+原：SIG　W. Dittenberger, Sylloge Inscriptionum Graecarum (Leipzig 1915-24)
+原：SV2　H. Bengtson, Die Staatsverträge des Altertums, vol.2 (Munich 1962)
+原：SV3　H.H. Schmitt, Die Staatsverträge des Altertums, vol. 3 (Munich 1969)
+原：Sealey, History　R. Sealey, A History of the Greek City States700–338 B.C. (Berkeley, Los Angeles and London1976)
+原：TAPA　Transactions of the American Philological Association
+原：Tarn-Griffith　W.W. Tarn, Hellenistic Civilization,3 rev. G.T. Griffith (Cleveland and New York 1961)
+原：Tod　M.N. Tod, A Selection of Greek Historical Inscriptions, vol. 2 (Oxford 1948)
+原：Wehrli, Antigone　C. Wehrli, Antigone et Démétrios (Geneva 1968)
+原：Westlake, Thessaly　H.D. Westlake, Thessaly in the Fourth Century B.C. (London 1935)
+原：Will, Histoire　E.Will, Histoire politique du monde hellénistique (Nancy1966)
+原：YCS　Yale Classical Studies
+原：ZPE　Zeitschrift für Papyrologie und Epigraphik

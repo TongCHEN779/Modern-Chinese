@@ -1,0 +1,16 @@
+# Symbols
+原：indicates the edition on which a translation is based.
+原：1　indicates an explanatory addition to the text.
+原：[门　enclose letters or words no longer extant but restored by modern schola
+原：[-]　indicate an unknown number of letters missing.
+原：}　indicate probably superfluous ancient letters.
+原：<>　indicate letters or words thought to have been accidentally omitted at the the original document was prepared.
+原：[[]]　enclose letters or words deliberately erased in antiquity.
+原：indicates the end of a line in an inscription or papyrus.
+原：indicates the beginning of every fifth line in an inscription or papyrus.
+原：indicates the end of a line of verse.
+原：11　indicate the beginning of every fifth line of verse.
+原：a　indicates a blank space in an inscription.
+原：0　indicate more than one blank space in an inscription.
+原：vacat　indicates that a line or space between lines was left blank.
+原：Italics indicate that part of the original word is extant on the document.

@@ -1,0 +1,118 @@
+# Appendix I King lists
+原：All dates are BC
+原：EGYPT
+原：Ptolemaios I Soter　305-282
+原：Ptolemaios II Philadelphos　282-246
+原：Ptolemaios III Euergetes　246-222
+原：Ptolemaios IV Philopator　222-205
+原：Ptolemaios V Epiphanes　204-180
+原：Ptolemaios VI Philometor　180-145
+原：Ptolemaios VII Neos Philopator　145-144
+原：Ptolemaios VIII Euergetes II　145-116
+原：Kleopatra III and Ptolemaios IX Soter II　116-107
+原：Kleopatra III and Ptolemaios X Alexander I　107-101
+原：Ptolemaios X Alexander I and Kleopatra Berenike　101-88
+原：Ptolemaios IX Soter II　88-81
+原：Kleopatra Berenike and Ptolemaios XI Alexander II　80
+原：Ptolemaios XII Theos Philopator Philadelphos Neos Dionysos (Auletes)　80-58
+原：Berenike IV　58-55
+原：Ptolemaios XII　55-51
+原：Kleopatra VII and Ptolemaios XIII　51-47
+原：Kleopatra VII and Ptolemaios XIV　47-44
+原：Kleopatra VII and Ptolemaios XV (Kaisarion)　44-30
+原：SYRIA
+原：Seleukos I Nikator　311-281
+原：Antiochos I Soter　281-261
+原：Antiochos II Theos　261-246
+原：Seleukos II Kallinikos　246-225
+原：Seleukos III Soter　225-223
+原：Antiochos III the Great　223-187
+原：Seleukos IV Philopator　187-175
+原：Antiochos IV Epiphanes　175-164
+原：Antiochos V Eupator　163-162
+原：Demetrios I Soter　162-150
+原：Alexander Balas　150-145
+原：Demetrios II Nikator　145-140
+原：Antiochos VI Epiphanes　145-142
+原：Antiochos VII Sidetes　138-129
+原：Demetrios II Nikator　129-125
+原：Kleopatra Thea　126
+原：Kleopatra Thea and Antiochos VIII Grypos　125-121
+原：Seleukos V　125
+原：Antiochos VIII　125-96
+原：Antiochos IX Kyzikenos　115-95
+原：Seleukos VI Epiphanes Nikator　96-95
+原：Demetrios III Philopator　95-88
+原：Antiochos X Eusebes　95-83
+原：Antiochos XI Philadelphos　94
+原：Philippos I Philadelphos　94-83
+原：Antiochos XII Dionysos　87-84
+原：Tigranes I of Armenia　83-69
+原：Antiochos XIII Asiatikos　69-64
+原：Philippos II　65-64
+原：MACEDON
+原：Kassandros　305-297
+原：Antigonos I　306-301
+原：Philippos IV　297
+原：Antipatros　296-294
+原：Alexander V　296-294
+原：Demetrios I Poliorketes　306-2832
+原：Antigonos II Gonatas　283-239
+原：Demetrios II　239-229
+原：Antigonos III Doson　229-221
+原：Philippos V　221-179
+原：Perseus　179-168
+原：Andriskos　149-148
+原：PERGAMON
+原：Philetairos　283-263
+原：Eumenes I　263-241
+原：Attalos I Soter　241-197
+原：Eumenes II Soter　197-160
+原：Attalos II　160-139
+原：Attalos III　139–133
+原：Aristonikos = Eumenes III　133-129
+原：1. Antigonos I never ruled in Macedon.
+原：2. Demetrios I only ruled in Macedon from 294 to 287.
+
+# Appendix II Chronology
+原：The lack of a comprehensive narrative source for the Hellenistic period has resulted in the problem of accurately dating documentsbecoming one of the central concerns of Hellenistic historiography. For the major kingdoms of the Near East the problems are relatively minor, although in the case of any particular text there may be considerable difficulty in determining its exact date. Ptolemaic documents normally are dated by reference to three items: the year of a particular king's reign, and the month and day of theMacedonian and Egyptian calendars. Since the 365-day Egyptian calendar did not correct for the one-fourth of a day remaining at the end of a year, it and the Macedonian calendar diverged steadily duringthe third century until thetwo were synchronized during the fourthyear of PtolemaiosV(205–180) asfollows:
+原：Dystros = Thoth
+原：Xandikos = Phaophi
+原：Artemisios = Hathyr
+原：Daisios = Choiach
+原：Panemos = Tybi
+原：Loios = Mecheir
+原：Gorpaios = Phamenoth
+原：Hyperberetaios = Pharmouthi
+原：Dios = Pachon
+原：Apellaios = Payni
+原：Audnaios = Epeiph
+原：Peritios = Mesore
+原：In 119/18 these equations were changed to:
+原：Dios = Thoth
+原：Apellaios = Phaophi
+原：Audnaios = Hathyr
+原：Peritios = Choiach
+原：Dystros = Tybi
+原：Xandikos = Mecheir
+原：Artemisios = Phamenoth
+原：Daisios = Pharmouthi
+原：Panemos = Pachon
+原：Loios = Payni
+原：Gorpaios = Epeiph
+原：Hyperberetaios = Mesore
+原：Cf. E. J. Bickerman, Chronology of the AncientWorld²(Ithaca, N.Y. 1980)38–40; andfor tables for the conversionof Egyptian to Julian datessee T. C.Skeat, TheReigns of the Ptolemies (Munich1954). Unlike the Ptolemies, theSeleucids did notdate byregnal years, but rather by reference to an era beginning at a fixed point in time, the return of Seleukos I to Babylon in late summer312/11 (between1 Loios and1 Dios), from which all dates were calculated.
+原：Unfortunately the situationislessstraightforward withregard to theGreek mainland. Individual cities continued to use their independent calendrical and chronological systems,but of these theAthenian archon list isby far the most important, both because ofthe significance of Athenian sources in the reconstruction of Hellenistic history and because later chronographers used it in conjunction with the system of Olympiad dating toform a standard chronological framework for all of Greek history. It is, therefore, particularly unfortunate that no complete list of archons survives for the years after 292. Reconstruction of the archon list has understandably been a prime concern of scholars, and the dates used in this volume are based on the latest complete list, that of B. D. Meritt, Historia 26 (1977)161–91. As is true of the lists hitherto proposed, the dates given by Meritt cannot claim absolute certainty in any individual case, especially since Ferguson’s Law’, the rule that during the Athenian civil year the secretaryof the Boule was drawn successively from each Athenian tribe in accordance with the official order of the tribes, does not hold true for the third century as a whole, since it has been shown that on at least two occasions after 270 the secretary cycle was interrupted for unknown periods of time and then re-started again. The dates of individual archons, therefore, have been modified from those proposed by Meritt whenever later studies have shown this to be necessary. For most ofthe third century the official order of tribes on which the secretary cycle was based was as follows:
+原：I Antigonis
+原：II Demetrias
+原：III Erechtheis
+原：IV Aigeis
+原：V Pandionis
+原：VI Leontis
+原：VII Akamantis
+原：VIII Oineis
+原：IX Kekropis
+原：X Hippothontis
+原：XI Aiantis
+原：XII Antiochis
+原：In 224/3 a thirteenth tribe was added, Ptolemaios, between Leontis and Akamantis; and in 201/0, probably because of hostilities between Athens and Philippos V of Macedon, Antigonis and Demetrias, which had been created to commemorate the liberation of Athens in 307/6, were abolished. Almost at the same time, however, a new tribe, Attalis, was established in honor of Athens' ally, Attalos I of Pergamon, and placed at the end of the list, and this remained the official order of the tribes until the second century AD. For details see A. G. Woodhead, The Study of Greek Inscriptions²(Cambridge 1981)112–16, andHabicht, Untersuchungen116-21.

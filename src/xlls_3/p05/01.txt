@@ -1,0 +1,106 @@
+# Abbreviations
+原：AJA　American Journal of Archaeology
+原：AJAH　American Journal of Ancient History
+原：AJP　American Journal of Philology
+原：Allen, Attalid Kingdom　R. E. Allen, The Attalid Kingdom: A Constitutional History (Oxford 1983)
+原：ANRW　Aufstieg und Niedergang der römischen Welt (Berlin1972–)
+原：ANS-MN　American Numismatic SocietyMuseum Notes
+原：Ath. Mitt.　Mitteilungen des deutschen Archäologischen Instituts, Athenische Abteilung
+原：Bagnall, Administration　R.S.Bagnall, The Administration of the Ptolemaic Possessions Outside Egypt (Leiden1976)
+原：BCH　Bulletin de Correspondance Hellénique
+原：Bengtson, Strategie　H. Bengtson, Die Strategie in der hellenistischen Zeit, 3 vols. (Munich1937–52)
+原：Bevan, Ptolemy　E. R. Bevan, The House of Ptolemy (London 1927)
+原：Bevan, Seleucus　E. R. Bevan, The House of Seleucus,2 vols. (London 1902)
+原：Burstein, ‘Arsinoe II'　S. M. Burstein, Arsinoe II Philadelphos: A Revisionist View', in Philip II, Alexander the Great and the Macedonian Heritage (Washington, D.C.1982)
+原：Busolt-Swoboda, Staatskunde　G. Busolt and H.Swoboda, Griechische Staatskunde, 2 vols. (Munich 1920–6)
+原：CAH　The Cambridge Ancient History, vols. 7 and 8 (Cambridge 1928,1930)
+原：CAH²　The Cambridge Ancient History, vol.7.1²(Cambridge 1984)
+原：Cerfaux and Tondriau, Culte des Souverains　L.Cerfaux andJ. Tondriau,Le culte des souverains dansla civilisation gréco-romaine (Paris1957)
+原：Choix　J. Pouilloux, Choix d’inscriptions grecques (Paris1960)
+原：C. Ord. Ptol.²　Marie-ThérèseLenger, Corpus des Ordonnances des Ptolémées²(Brussels1980)
+原：CP　Classical Philology
+原：CRAI　Comptes Rendus de l’Académie des Inscriptions et Belles-Lettres
+原：CSCA　California Studies in Classical Antiquity
+原：Das ptolemäische Aegypten　Das ptolemäische Aegypten: Akten des internationalen Symposions, 27–29 September 1976 in Berlin, ed. H.Maehler and V. M. Strocka (Mainz 1976)
+原：Daux, Delphes　G. Daux, Delphes au lle et au Ier siècle (Paris1936)
+原：Epigraphica 2　H. W. Pleket, Epigraphica, vol. 2 (Leiden 1969)
+原：Ehrenberg, Greek State　V. Ehrenberg, The Greek State (NewYork 1960)
+原：Errington,Philopoemen　R. M.Errington, Philopoemen (Oxford1969)
+原：Ferguson, Athens　W.S.Ferguson, Hellenistic Athens (London 1911)
+原：Flacelière, Aitoliens　R. Flacelière, Les Aitoliens à Delphes(Paris1937)
+原：FGrHist　F. Jacoby, Die Fragmente der griechischen Historiker (Berlin and Leiden1923–)
+原：Fraser, Ptolemaic Alexandria　P.M. Fraser, Ptolemaic Alexandria,3 vols. (Oxford 1972)
+原：Geagan, Athenian Constitution　D.J. Geagan, The Athenian Constitution after Sulla, Hesperia Supp.12 (1967)
+原：GGA　Göttingische gelehrte Anzeigen
+原：M.Guarducci, Epigrafia greca　M. Guarducci, Epigrafia greca, 4 vols. (Rome1967–74)
+原：Günther, Orakel　W. Günther, Das Orakel von Didyma in hellenistischer Zeit, IstanbulerMitteilungen 4(Tübingen1971)
+原：Habicht, Gottmenschentum　C. Habicht, Gottmenschentum und griechische Städte², Zetemata14 (Munich1970)
+原：Habicht, Studien　C. Habicht, Studien zur Geschichte Athens in hellenistischer Zeit, Hypomnemata73 (Göttingen1982)
+原：Habicht, Untersuchungen　C. Habicht, Untersuchungen zur politischen Geschichte Athens im 3. Jahrhundert v. Chr., Vestigia30 (Munich1979)
+原：Hansen, Attalids²　E. V. Hansen,The Attalids of Pergamon²(Ithaca, N.Y. 1971)
+原：Hauben,Callicrates　H. Hauben, Callicrates of Samos: A Contribution to the Study of the Ptolemaic Admiralty, Studia Hellenistica 18 (Louvain 1970)
+原：Haussoulier, Études　B. C. L. M. Haussoulier, Études sur l’histoire de Milet et du Didymeion (Paris 1902)
+原：Heinen, Untersuchungen　H. Heinen, Untersuchungen zur hellenistischen Geschichte des 3. Jahrhunderts v. Chr., HistoriaEinzelschriften 20(Wiesbaden 1972)
+原：Historia　Historia: Zeitschrift für Alte Geschichte
+原：Holleaux, Études　Maurice Holleaux, Études d’épigraphie et d’histoire grecques, 6 vols., ed. L. Robert (Paris 1938–68)
+原：Hopp, Untersuchungen　J. Hopp, Untersuchungen zur Geschichte der letzten Attaliden, Vestigia 25(Munich 1977)
+原：HSCP　Harvard Studies in Classical Philology
+原：HTR　Harvard Theological Review
+原：Hutmacher, Ehrendekret　R. Hutmacher,Das Ehrendekret für den Strategen Kallimachos, Beiträge zur klassischen Philologie 17 (Meisenheim am Glan 1965)
+原：1. Delphi　Fouilles de Delphes, vol. 3, Épigraphie (Paris 1910–)
+原：1. Didyma　A. Rehm, Die Inschriften, Milet, vol. 3 (Berlin 1914)
+原：I. Ephesos　H. Wankel et al., Die Inschriften von Ephesos, 7 vols., Inschriften griechischer Städte aus Kleinasien(=1GSK)11–17 (Bonn1979-81)
+原：I. Erythrae　H. Engelmann and R.Merkelbach, Die Inschriften von Erythrai und Klazomenai, 2 vols.,IGSK 1–2 (Bonn 1972–3)
+原：IG　InscriptionesGraecae(Berlin1873-)
+原：I. Kyme　H. Engelmann, Die Inschriften von Kyme,IGSK 5(Bonn 1976)
+原：I. Ilion　R. Frisch, Die Inschriften von Ilion, IGSK 3(Bonn1975)
+原：I. Labraunda　J. Crampa, Labraunda, vol. 3.1, The Greek Inscriptions (Lund1969)
+原：I. Magnesia　O. Kern, Die Inschriften von Magnesia am Maeander (Berlin 1900)
+原：I. Olympia　W. Dittenberger and K. Purgold, Die Inschriften von Olympia (Berlin 1896)
+原：I. Pergamum　M. Frankel et al., Die Inschriften von Pergamon, Die Altertümer von PergamonVIII(Berlin1890–1969)
+原：1. Philae　E. Bernard, Les inscriptions grecques de Philae, 2 vols. (Paris 1969)
+原：I. Priene　F.Hiller vonGaertringen, Inschriften von Priene (Berlin 1906)
+原：1. Samothrace　P. M. Fraser, Samothrace, vol. 2.1, The Inscriptions on Stone (Princeton1960)
+原：ISE　L.Moretti,Iscrizioni Storiche Ellenistiche (Florence1967– 75)
+原：JEA　Journal of Egyptian Archaeology
+原：JHS　Journal of HellenicStudies
+原：JOAI　Jahreshefte des Oesterreichischen Archäologischen Instituts
+原：MacDowell and Taddei, Afghanistan　D. W. MacDowell and M. Taddei, The Archaeology of Afghanistan, ed. F. R. Allchin and N. Hammond (London 1978), 233–99
+原：McShane, Foreign Policy　R. B. McShane, The Foreign Policy of the Attalids of Pergamum (Urbana1964)
+原：Magie, RRAM　D. Magie, Roman Rule in Asia Minor, 2 vols. (Princeton 1950)
+原：Mastrocinque, Caria　A.Mastrocinque, La Caria e la Ionia meridionale in epoca ellenistica (Rome1979)
+原：Mørkholm, Antiochus IV　O. Mørkholm, Antiochus IVof Syria (Copenhagen1966)
+原：Narain, Indo-Greeks　A.K. Narain, The Indo-Greeks (Oxford1957)
+原：NouveauChoix　Nouveau choix d’inscriptions grecques (Paris1971)
+原：OGIS　W. Dittenberger,Orientis Graeci Inscriptiones Selectae (Leipzig1903)
+原：Orth, Machtanspruch　W. Orth, KöniglicherMachtanspruch und städtische Freiheit, Münchener Beiträge zur Papyrusforschung und antiken Rechtsgeschichte71(Munich1977)
+原：Parke, Festivals　H. W. Parke, Festivals of the Athenians (Ithaca, NY 1977)
+原：Pomeroy, Goddesses　S. B. Pomeroy, Goddesses, Whores, Wives, and Slaves (New York1975)
+原：P. Oxy.　The Oxyrhynchus Papyri(London 1898–)
+原：P. Tebt.　TheTebtunis Papyri, ed. B. P.Grenfell et al., 3 vols. (London1902-38)
+原：RA　Revue Archéologique
+原：REA　Revue des Études Anciennes
+原：REG　Revue des Études Grecques
+原：REJ　Revue des Études Juives
+原：RFIC　Rivista di Filologia e di Istruzione Classica
+原：Rhodes, Boule　P.J. Rhodes, The AthenianBoule (Oxford 1972)
+原：Rhodes, Commentary　P.J.Rhodes, Commentary on the Aristotelian Athenaion Politeia (Oxford 1981)
+原：RHR　Revue de l’Histoire des Religions
+原：Rostovtzeff, SEHHW　M. Rostovtzeff, The Social and Economic History of the Hellenistic World, 3 vols. (Oxford 1941)
+原：RPhil.　Revue de Philologie, de Littérature et d’Histoire Anciennes
+原：Schmitt, Antiochos　H.Schmitt,Untersuchungen zur Geschichte Antiochos des Grossen und seiner Zeit, Historia Einzelschriften 6 (Wiesbaden 1964)
+原：Schmitt, Staatsverträge　H. Schmitt, Die Staatsverträge des Altertums, vol. 3 (Munich 1969)
+原：SEG　Supplementum Epigraphicum Graecum
+原：Sherk, RDGE　R. K. Sherk, Roman Documents from the Greek East (Baltimore1969)
+原：Sherk, TDGR　R. K. Sherk, Translated Documents of Greece and Rome, vol. 4, Rome and the Greek East to the Death of Augustus (Cambridge 1984)
+原：SIG³　W. Dittenberger, Sylloge Inscriptionum Graecarum3 (Leipzig1915-24)
+原：TAM　Tituli Asiae Minoris (Vienna1901–)
+原：TAPA　Transactions of the American Philological Association
+原：Tarn, Bactria　W.W. Tarn, The Greeks in Bactria and India²(Cambridge 1951)
+原：Tarn, Gonatas　W. W. Tarn, Antigonos Gonatas (Oxford 1913)
+原：Tscherikower, Städtegründungen V.Tscherikower, Die hellenistischen Städtegründungen von　Alexander dem Grossen bis auf die Römerzeit, Philologus Supp. 19.1 (Leipzig1927)
+原：Walbank, Commentary　F.W.Walbank, A Historical Commentary on Polybius, 3 vols. (Oxford1957-79)
+原：Walbank, Philip V　F. W. Walbank, Philip V of Macedon (Cambridge 1939)
+原：Welles, RC　C. Bradford Welles, Royal Correspondence in the Hellenistic Period (London 1934)
+原：Will, Histoire　Édouard Will, Histoire politique du monde hellénistique (323–30 av. J.-C.), 2 vols., vol. 1²(Nancy1979); vol. 2 (Nancy1967)
+原：ZPE　Zeitschrift für Papyrologie und Epigraphik
