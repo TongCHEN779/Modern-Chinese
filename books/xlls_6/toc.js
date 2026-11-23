@@ -1,7 +1,0 @@
-(function(){var D=[["l","p01.html","“西方古典学研究”总序"],["l","p02.html","导读"],["l","p03.html","Series Editor&#x27;s Introduction"],["l","p04.html","Volume Editor&#x27;s Introduction"],["l","p05.html","Abbreviations"],["l","p06.html","Symbols"],["g","第一部　战争与和平时期的帝国政府"],["l","p07.html","奥古斯都 Augustus (27 BC-AD 14)"],["l","p08.html","提比略 Tiberius (AD 14-37)"],["l","p09.html","盖约（卡里古拉） Gaius (Caligula) (AD 37-41)"],["l","p10.html","克劳狄 Claudius (AD 41-54)"],["l","p11.html","尼禄 Nero (AD 54-68)"],["l","p12.html","加尔巴、奥索、维特里乌斯、维斯帕芗 Galba, Otho, Vitellius, Vespasian"],["l","p13.html","提图斯和图密善 Titus, Domitian"],["l","p14.html","涅尔瓦和图拉真 Nerva, Trajan"],["l","p15.html","哈德良 Hadrian (AD 117-138)"],["g","第二部　罗马社会"],["l","p16.html","罗马社会 Society in the Roman World"],["l","p17.html","Glossary"],["l","p18.html","Appendix I. Roman names"],["l","p19.html","Appendix II. Roman imperial chronology"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
-D.forEach(function(d){var li=document.createElement('li');
-if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
-else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
-else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
-if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
-ul.appendChild(li);});})();
