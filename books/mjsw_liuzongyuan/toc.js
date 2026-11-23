@@ -1,0 +1,7 @@
+(function(){var D=[["l","p001.html","总序"],["l","p002.html","雅诗歌曲"],["l","p003.html","赋"],["l","p004.html","论"],["l","p005.html","议辩"],["l","p006.html","碑"],["l","p007.html","释教碑铭"],["l","p008.html","行状"],["l","p009.html","表铭碣诔"],["l","p010.html","志"],["l","p011.html","志碣诔"],["l","p012.html","墓表志"],["l","p013.html","墓志"],["l","p014.html","对"],["l","p015.html","问答"],["l","p016.html","说"],["l","p017.html","传"],["l","p018.html","骚"],["l","p019.html","吊赞箴戒"],["l","p020.html","铭杂题"],["l","p021.html","题序"],["l","p022.html","序"],["l","p023.html","记"],["l","p024.html","书"],["l","p025.html","启"],["l","p026.html","表"],["l","p027.html","奏状"],["l","p028.html","祭文"],["l","p029.html","古今诗"],["l","p030.html","非国语序"],["l","p031.html","非国语上"],["l","p032.html","非国语下"],["l","p033.html","赋文志"],["l","p034.html","补遗"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();

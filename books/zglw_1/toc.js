@@ -1,0 +1,7 @@
+(function(){var D=[["l","p01.html","前言"],["l","p02.html","例言"],["g","先秦"],["l","p03.html","尚书·尧典"],["l","p04.html","诗经"],["l","p05.html","论语"],["l","p06.html","墨子"],["l","p07.html","孟子"],["l","p08.html","商君书"],["l","p09.html","庄子"],["l","p10.html","荀子"],["g","两汉"],["l","p11.html","毛诗序"],["l","p12.html","史记·太史公自序"],["l","p13.html","史记·屈原传"],["l","p14.html","法言·吾子"],["l","p15.html","论衡·艺增"],["l","p16.html","论衡·超奇"],["l","p17.html","论衡·自纪"],["l","p18.html","汉书·艺文志"],["l","p19.html","楚辞章句序"],["g","魏晋南北朝"],["l","p20.html","典论·论文"],["l","p21.html","文赋"],["l","p22.html","文章流别论"],["l","p23.html","抱朴子·钧世"],["l","p24.html","宋书·谢灵运传论"],["l","p25.html","文心雕龙·神思"],["l","p26.html","文心雕龙·体性"],["l","p27.html","文心雕龙·风骨"],["l","p28.html","文心雕龙·通变"],["l","p29.html","文心雕龙·情采"],["l","p30.html","文心雕龙·时序"],["l","p31.html","文心雕龙·知音"],["l","p32.html","诗品序"],["l","p33.html","雕虫论"],["l","p34.html","文选序"],["l","p35.html","金楼子·立言"],["l","p36.html","颜氏家训·文章篇"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();

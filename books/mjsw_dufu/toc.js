@@ -1,0 +1,7 @@
+(function(){var D=[["l","p001.html","总序"],["g","古诗"],["l","p002.html","卷一·古诗五十五首（天宝未乱时并陷贼中作）"],["l","p003.html","卷二·古诗四十二首（避贼至凤翔行在及归鄜州、还京师、出华州作）"],["l","p004.html","卷三·古诗七十八首（寓秦州及同谷县行赴蜀中作）"],["l","p005.html","卷四·古诗三十七首（初寓成都及至阆州作）"],["l","p006.html","卷五·古诗五十六首（居东川，再至阆州，复还成都作）"],["l","p007.html","卷六·古诗五十三首（居云安及至夔州作）"],["l","p008.html","卷七·古诗四十九首（居夔州作）"],["l","p009.html","卷八·古诗四十五首（居松陵公安及至湖南作）"],["g","近体诗"],["l","p010.html","卷九·近体诗八十二首（天宝未乱及陷贼中作）"],["l","p011.html","卷十·近体诗一百二十四首（避贼至凤翔，及收复京师，在谏省，出华州，转至秦州作）"],["l","p012.html","卷十一·近体诗一百四首（此下在成都作）"],["l","p013.html","卷十二·近体诗一百二十八首（在成都及绵汉荆汉梓州作）"],["l","p014.html","卷十三·近体诗九十六首（居阆州及再至成都作）"],["l","p015.html","卷十四·近体诗一百十九首行（过戎、渝州，居云安、夔州作）"],["l","p016.html","卷十五·近体诗一百四十三首（居夔州作）"],["l","p017.html","卷十六·近体诗九十七首（居夔州作）"],["l","p018.html","卷十七·近体诗五十五首（大历三年正月，起峡中，至江陵，及湖南作）"],["l","p019.html","卷十八·近体诗六十一首（自公安发，次岳州及湖南作）"],["g","附录"],["l","p020.html","附录"],["g","文"],["l","p021.html","卷十九·表赋记说赞述十五首"],["l","p022.html","卷二十·策问文状表碑志十七首"]];var t=document.querySelector('.toc.side');if(!t)return;var ul=t.querySelector('ul'),cur=t.getAttribute('data-cur'),tp=t.querySelector('template');
+D.forEach(function(d){var li=document.createElement('li');
+if(d[0]==='g'){li.className='grp';li.textContent=d[1];}
+else if(d[0]==='x'){var s=document.createElement('span');s.textContent=d[1];li.appendChild(s);}
+else{var a=document.createElement('a');a.href=d[1];a.innerHTML=d[2];li.appendChild(a);
+if(d[1]===cur){li.className='cur';a.setAttribute('aria-current','page');if(tp)li.appendChild(tp.content.cloneNode(true));}}
+ul.appendChild(li);});})();
