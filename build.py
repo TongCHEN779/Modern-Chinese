@@ -699,7 +699,7 @@ POETRY = {
     "zzp_changtu": _scan_spec("zzp_changtu", "长途（张资平情爱作品系列）", "张资平 著"),
     "zzp_qingchun": _scan_spec("zzp_qingchun", "青春的悲哀（张资平情爱作品系列）", "张资平 著"),
     "zzp_heilian": _scan_spec("zzp_heilian", "黑恋（张资平情爱作品系列）", "张资平 著"),
-    "xdmj_bian": _scan_spec("xdmj_bian", "现代名家名作全集·许地山小说全集", "许地山 著"),
+    "xdmj_bian": {**_scan_spec("xdmj_bian", "现代名家名作全集·许地山小说全集", "许地山 著"), "sub_vertical": True},
     "xdmj_xiaohong": _scan_spec("xdmj_xiaohong", "现代名家名作全集·萧红小说全集", "萧红 著"),
     "xdmj_xiaopin": _scan_spec("xdmj_xiaopin", "现代名家名作全集·徐志摩绝妙小品文", "徐志摩 著，中国作家协会创作研究部 选编"),
     "mjsw_libai": _scan_spec("mjsw_libai", "中国古代名家诗文集·李白集", "李白 著"),
@@ -1724,7 +1724,7 @@ def build_poetry(bslug, spec):
                     if spec.get("sub_toc", True):
                         labels = spec.get("sub_labels", {}).get(slug)
                         subs = [(k, s_) for k, s_ in enumerate(secs, 1) if not (s_["title"] == title and (not s_["chunks"] or spec.get("skip_lead_toc"))) and not (bslug == "gujintangai" and s_["title"] == "正文") and not (spec.get("sub_single") and s_["title"] == title)]
-                        numeric = sum(1 for _k, s_ in subs if s_["title"].isdigit()) * 2 > len(subs)
+                        numeric = sum(1 for _k, s_ in subs if s_["title"].isdigit()) * 2 > len(subs) and not spec.get("sub_vertical")
                         if len(subs) >= (1 if spec.get("sub_single") else 2):
                             sub = (f'<ul class="sub{" num" if numeric else ""}">' + "".join(
                                 f'<li><a href="#e{k}">{ed_plain(esc(labels[k - 1] if labels and k - 1 < len(labels) else s_["title"]))}</a></li>'
